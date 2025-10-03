@@ -360,10 +360,8 @@ We don’t allow advertising for:
 
 *   The election or defeat of political candidates running for public office, including fundraising for political candidates or parties
 *   Political parties or action committees
-*   Political issues with the intent to influence an election
-    *   Including ads designed or likely to influence voting behavior
-*   Legislation, including referendums or ballot initiatives
-    *   Including ads designed or likely to influence the outcome of a referendum or a /legislative or regulatory process
+*   Political issues with the intent to influence an election, including ads designed or likely to influence voting behavior within the EU
+*   Legislation, including referendums or ballot initiatives, including ads designed or likely to influence the outcome of a referendum or a legislative or regulatory process
 *   Merchandise related to political candidates, parties, or elections
 
 ### Sensitive content
