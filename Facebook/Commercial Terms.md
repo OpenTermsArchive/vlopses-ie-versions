@@ -108,7 +108,7 @@ Effective Date: March 6, 2024
 
 Community Payments Terms
 
-Last updated: April 18, 2025
+Last updated: September 15, 2025
 
 **If you are under the age of eighteen (18), or age of majority in the state or country of your residence, you may use payments features through the Meta Products only with the involvement of your parent or guardian. Make sure you review the Payments Terms with your parent or guardian so that you both understand all of your rights and responsibilities.**
 
