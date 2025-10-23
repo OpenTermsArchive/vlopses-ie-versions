@@ -50,7 +50,7 @@ Privacy Policy
 *   [9\. General](#chapter9)
 *   [10\. How To Contact X](#chapter10)
 
-Privacy Policy 
+1\. Information We Collect
 
 *   [1\. Information We Collect](#chapter1)
 *   [2\. How We Use Information](#chapter2)
@@ -278,8 +278,6 @@ X is a [participant](https://www.dataprivacyframework.gov/list) in the EU-US Dat
 7\. X's Audience
 ----------------
 
-Our services are not directed to children, and you may not use our services if you are under the age of 13. You must also be old enough to consent to the processing of your personal data in your country (in some countries we may allow your [parent or guardian to do so on your behalf](https://help.x.com/using-x/parental-consent)). We do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information without your consent, please contact us [here](https://help.x.com/forms/privacy). If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child’s account. You can find additional resources for parents and teens [here](https://help.x.com/rules-and-policies/uk-information-for-parents-and-minor-users).  
-
 Our services are not directed to children, and you may not use our services if you are under the age of 13. You must also be old enough to consent to the processing of your personal data in your country (in some countries we may allow your [parent or guardian to do so on your behalf](https://help.x.com/using-x/parental-consent)). We do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information without your consent, please contact us [here](https://help.x.com/forms/privacy). If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child’s account. You can find additional resources for parents and teens [here](https://help.x.com/rules-and-policies/information-for-parents-and-minor-users).  
 
 8\. Changes To This Privacy Policy
@@ -328,3 +326,17 @@ If you wish to raise a concern about our [data processing practices](https://hel
 **Effective:** July 28, 2025
 
 [View previous policies](https://x.com/privacy/previous)
+
+- - -
+
+X, our services, and corporate affiliates
+=========================================
+
+We offer X and other services in order to give everyone the power to create and share ideas and information instantly, without barriers.
+
+Some of our services, like [X Pro](https://tweetdeck.twitter.com/), provide you with tools to customize and curate your X experience. Other services may enable experiences outside of X. These services link to and are covered by our [Privacy Policy](https://twitter.com/privacy), which describes how and when they collect, use and share your information. When these services that are covered by our [Privacy Policy](https://twitter.com/privacy) have additional privacy terms specific to them, we tell you that through the service. 
+
+We also operate companies that provide services under their own separate terms and privacy policies. For more on our corporate affiliates and their privacy practices, please see the links below to their privacy policies:
+
+*   [Vine Archive](https://vine.co/privacy)
+*   [Twitpic Archive](https://twitpic.com/static/privacy)
