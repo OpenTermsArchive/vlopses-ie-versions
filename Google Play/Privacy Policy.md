@@ -141,7 +141,8 @@ Request permissions and APIs that access sensitive information to access data in
 
 * * *
 
-### SMS and call log permissions
+Restricted Permissions
+----------------------
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
