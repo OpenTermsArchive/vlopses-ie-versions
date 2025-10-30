@@ -1627,7 +1627,7 @@ Apps may only use the permission (and any data derived from the permission) to p
 
 [Device location](https://developer.android.com/training/location) is regarded as personal and sensitive user data subject to the [Personal and sensitive information](https://support.google.com/googleplay/android-developer/answer/9888076#personal_sensitive) policy and the [Background location policy](https://support.google.com/googleplay/android-developer/answer/9799150?hl=en-GB#zippy=), and the following requirements:
 
-*   Apps may not access data protected by location permissions (for example, ACCESS\_FINE\_LOCATION, ACCESS\_COARSE\_LOCATION, ACCESS\_BACKGROUND\_LOCATION) after it is no longer necessary to deliver current features or services in your app.
+*   Apps may not access data protected by location permissions (for example, `ACCESS_FINE_LOCATION`, `ACCESS_COARSE_LOCATION`, `ACCESS_BACKGROUND_LOCATION`) after it is no longer necessary to deliver current features or services in your app.
 *   You should never request location permissions from users for the sole purpose of advertising or analytics. Apps that extend permitted usage of this data for serving advertising must be in compliance with our [ads policy](https://support.google.com/googleplay/android-developer/answer/9857753).
 *   Apps should request the minimum scope necessary (for example, coarse instead of fine, and foreground instead of background) to provide the current feature or service requiring location, and users should reasonably expect that the feature or service needs the level of location requested. For example, we may reject apps that request or access background location without compelling justification.
 *   Background location may only be used to provide features beneficial to the user and relevant to the core functionality of the app.
@@ -1646,7 +1646,7 @@ For more information on the policy requirements, please see [this help article](
 Files and directory attributes on a user’s device are regarded as personal and sensitive user data subject to the [personal and sensitive information](https://support.google.com/googleplay/android-developer/answer/9888076/) policy and the following requirements:
 
 *   Apps should only request access to device storage that is critical for the app to function, and may not request access to device storage on behalf of any third-party for any purpose that is unrelated to critical user-facing app functionality.
-*   Android devices running R or later will require the [MANAGE\_EXTERNAL\_STORAGE](https://developer.android.com/reference/android/Manifest.permission#MANAGE_EXTERNAL_STORAGE) permission in order to manage access in shared storage. All apps that target R and request broad access to shared storage ('all files access') must successfully pass an appropriate access review prior to publishing. Apps allowed to use this permission must clearly prompt users to enable 'All files access' for their app under 'Special app access' settings. For more information on the R requirements, please see this [help article](https://support.google.com/googleplay/android-developer/answer/9956427).
+*   Android devices running R or later will require the [`MANAGE_EXTERNAL_STORAGE`](https://developer.android.com/reference/android/Manifest.permission#%3Ccode%3EMANAGE_EXTERNAL_STORAGE%3C/code%3E) permission in order to manage access in shared storage. All apps that target R and request broad access to shared storage ('all files access') must successfully pass an appropriate access review prior to publishing. Apps allowed to use this permission must clearly prompt users to enable 'All files access' for their app under 'Special app access' settings. For more information on the R requirements, please see this [help article](https://support.google.com/googleplay/android-developer/answer/9956427).
 
 ### Package (app) visibility permission
 
@@ -1655,10 +1655,10 @@ The inventory of installed apps queried from a device are regarded as personal a
 Apps that have a core purpose to launch, search or interoperate with other apps on the device, may obtain scope-appropriate visibility to other installed apps on the device as outlined below:
 
 *   **Broad app visibility:** Broad visibility is the capability of an app to have extensive (or 'broad') visibility of the installed apps ('packages') on a device.
-    *   For apps targeting [API level 30 or later](https://developer.android.com/studio/releases/platforms), broad visibility to installed apps via the [QUERY\_ALL\_PACKAGES](https://developer.android.com/reference/kotlin/android/Manifest.permission#query_all_packages) permission is restricted to specific use cases where awareness of and/or interoperability with any and all apps on the device are required for the app to function.
-        *   You may not use QUERY\_ALL\_PACKAGES if your app can operate with a more [targeted scoped package visibility declaration](https://developer.android.com/training/basics/intents/package-visibility#declare-other-apps)(for example, querying and interacting with specific packages instead of requesting broad visibility).
-    *   Use of alternative methods to approximate the broad visibility level associated with QUERY\_ALL\_PACKAGES permission are also restricted to user-facing core app functionality and interoperability with any apps discovered via this method.
-    *   Please see this [Help Centre article](https://support.google.com/googleplay/android-developer/answer/10158779) for allowable use cases for the QUERY\_ALL\_PACKAGES permission.
+    *   For apps targeting [API level 30 or later](https://developer.android.com/studio/releases/platforms), broad visibility to installed apps via the [`QUERY_ALL_PACKAGES`](https://developer.android.com/reference/kotlin/android/Manifest.permission#query_all_packages) permission is restricted to specific use cases where awareness of and/or interoperability with any and all apps on the device are required for the app to function.
+        *   You may not use `QUERY_ALL_PACKAGES` if your app can operate with a more [targeted scoped package visibility declaration](https://developer.android.com/training/basics/intents/package-visibility#declare-other-apps)(for example, querying and interacting with specific packages instead of requesting broad visibility).
+    *   Use of alternative methods to approximate the broad visibility level associated with `QUERY_ALL_PACKAGES` permission are also restricted to user-facing core app functionality and interoperability with any apps discovered via this method.
+    *   Please see this [Help Centre article](https://support.google.com/googleplay/android-developer/answer/10158779) for allowable use cases for the `QUERY_ALL_PACKAGES` permission.
 *   **Limited app visibility**: Limited visibility is when an app minimises access to data by querying for specific apps using more targeted (instead of 'broad') methods (for example, querying for specific apps that satisfy your app's manifest declaration). You may use this method to query for apps in cases where your app has policy-compliant interoperability, or management of these apps.
 *   Visibility to the inventory of installed apps on a device must be directly related to the core purpose or core functionality that users access within your app.
 
@@ -1686,7 +1686,7 @@ Apps must use more narrowly scoped [APIs and permissions](https://developer.and
 
 #### **Request install packages permission**
 
-The [REQUEST\_INSTALL\_PACKAGES](https://developer.android.com/reference/android/Manifest.permission#REQUEST_INSTALL_PACKAGES) permission allows an application to request the installation of app packages.​​ To use this permission, your app’s core functionality must include:
+The [`REQUEST_INSTALL_PACKAGES`](https://developer.android.com/reference/android/Manifest.permission#%3Ccode%3EREQUEST_INSTALL_PACKAGES%3C/code%3E) permission allows an application to request the installation of app packages.​​ To use this permission, your app’s core functionality must include:
 
 *   Sending or receiving app packages; and
 *   Enabling user-initiated installation of app packages.
@@ -1703,7 +1703,7 @@ Permitted functionalities include:
 
 Core functionality is defined as the main purpose of the app. The core functionality, as well as any core features that comprise this core functionality, must all be prominently documented and promoted in the app's description.
 
-The REQUEST\_INSTALL\_PACKAGES permission may not be used to perform self updates, modifications or the bundling of other APKs in the asset file unless for device management purposes. All updates or installing of packages must abide by Google Play’s [device and network abuse policy](https://support.google.com/googleplay/android-developer/answer/9888379?hl=en-GB&ref_topic=9877467) and must be initiated and driven by the user.
+The `REQUEST_INSTALL_PACKAGES` permission may not be used to perform self updates, modifications or the bundling of other APKs in the asset file unless for device management purposes. All updates or installing of packages must abide by Google Play’s [device and network abuse policy](https://support.google.com/googleplay/android-developer/answer/9888379?hl=en-GB&ref_topic=9877467) and must be initiated and driven by the user.
 
 Body sensor permissions
 -----------------------
@@ -1808,33 +1808,33 @@ Apps that use the VpnService must:
 
 #### **Exact alarm permission**
 
-A new permission, USE\_EXACT\_ALARM, will be introduced that will grant access to [exact alarm functionality](https://developer.android.com/about/versions/13/features#use-exact-alarm-permission) in apps starting with Android 13 (API target level 33). 
+A new permission, `USE_EXACT_ALARM`, will be introduced that will grant access to [exact alarm functionality](https://developer.android.com/about/versions/13/features#use-exact-alarm-permission) in apps starting with Android 13 (API target level 33). 
 
-USE\_EXACT\_ALARM is a restricted permission and apps must only declare this permission if their core functionality supports the need for an exact alarm. Apps that request this restricted permission are subject to review, and those that do not meet the acceptable use case criteria will be disallowed from publishing on Google Play.
+`USE_EXACT_ALARM` is a restricted permission and apps must only declare this permission if their core functionality supports the need for an exact alarm. Apps that request this restricted permission are subject to review, and those that do not meet the acceptable use case criteria will be disallowed from publishing on Google Play.
 
 **Acceptable use cases for using the exact alarm permission**
 
-Your app must use the USE\_EXACT\_ALARM functionality only when your app’s core, user-facing functionality requires precisely timed actions, such as:
+Your app must use the `USE_EXACT_ALARM` functionality only when your app’s core, user-facing functionality requires precisely timed actions, such as:
 
 *   The app is an alarm or timer app.
 *   The app is a calendar app that shows event notifications.
 
-If you have a use case for exact alarm functionality that’s not covered above, you should evaluate if using SCHEDULE\_EXACT\_ALARM as an alternative is an option.
+If you have a use case for exact alarm functionality that’s not covered above, you should evaluate if using `SCHEDULE_EXACT_ALARM` as an alternative is an option.
 
 For more information on exact alarm functionality, please see this [developer guidance](https://developer.android.com/about/versions/13/features#use-exact-alarm-permission).
 
 #### Full-screen intent permission
 
-For apps targeting Android 14 (API target level 34) and above, [USE\_FULL\_SCREEN\_INTENT](https://developer.android.com/reference/android/app/Notification.Builder#setFullScreenIntent\(android.app.PendingIntent,%20boolean) is a [special apps access permission](https://developer.android.com/training/permissions/requesting-special). Apps will only be automatically granted to use the USE\_FULL\_SCREEN\_INTENT permission if the core functionality of their app falls under one of the below categories that require high-priority notifications:
+For apps targeting Android 14 (API target level 34) and above, [`USE_FULL_SCREEN_INTENT`](https://developer.android.com/reference/android/app/Notification.Builder#setFullScreenIntent\(android.app.PendingIntent,%20boolean) is a [special apps access permission](https://developer.android.com/training/permissions/requesting-special). Apps will only be automatically granted to use the `USE_FULL_SCREEN_INTENT` permission if the core functionality of their app falls under one of the below categories that require high-priority notifications:
 
 *   Setting an alarm
 *   Receiving phone or video calls
 
-Apps that request this permission are subject to review, and those that do not meet the above criteria will not be automatically granted this permission. In that case, apps must request permission from the user to use USE\_FULL\_SCREEN\_INTENT.
+Apps that request this permission are subject to review, and those that do not meet the above criteria will not be automatically granted this permission. In that case, apps must request permission from the user to use `USE_FULL_SCREEN_INTENT`.
 
-As a reminder**,** any usage of the USE\_FULL\_SCREEN\_INTENT permission must comply with all [Google Play developer policies,](https://play.google.com/about/developer-content-policy/?authuser=0#!?modal_active=none) including our [mobile unwanted software](https://support.google.com/googleplay/android-developer/answer/9970222), [device and network abuse](https://support.google.com/googleplay/android-developer/answer/9888379?hl=en) and [ads](https://support.google.com/googleplay/android-developer/answer/9857753?hl=en-gb&sjid=11744761627827448774-NA) policies. Full-screen intent notifications cannot interfere with, disrupt, damage or access the user’s device in an unauthorised manner. Additionally, apps should not interfere with other apps or the usability of the device.
+As a reminder**,** any usage of the `USE_FULL_SCREEN_INTENT` permission must comply with all [Google Play developer policies,](https://play.google.com/about/developer-content-policy/?authuser=0#!?modal_active=none) including our [mobile unwanted software](https://support.google.com/googleplay/android-developer/answer/9970222), [device and network abuse](https://support.google.com/googleplay/android-developer/answer/9888379?hl=en) and [ads](https://support.google.com/googleplay/android-developer/answer/9857753?hl=en-gb&sjid=11744761627827448774-NA) policies. Full-screen intent notifications cannot interfere with, disrupt, damage or access the user’s device in an unauthorised manner. Additionally, apps should not interfere with other apps or the usability of the device.
 
-Learn more about the USE\_FULL\_SCREEN\_INTENT permission in our [Help Centre](https://support.google.com/googleplay/android-developer/answer/13392821#full_screen_intent).
+Learn more about the `USE_FULL_SCREEN_INTENT` permission in our [Help Centre](https://support.google.com/googleplay/android-developer/answer/13392821#full_screen_intent).
 
 * * *
 
