@@ -995,13 +995,13 @@ If you believe we made a mistake, you can [submit an appeal](https://help.twitte
 X Shopping Policy
 =================
 
-Updated: September 6, 2024
+Updated: October 30, 2025
 
 X Shopping enables professionals and organizations to showcase their merchandise to their customers — and potential customers — on X. While X isn't involved in facilitating the purchase, sale or delivery of goods, we want people to have a positive experience in connection with the merchandise they interact with on the platform. Merchants are responsible for making sure they follow all relevant laws, regulations and industry codes when they use our service. Merchants are also responsible for handling and responding to all purchases, deliveries, customer service questions, complaints, problems and disputes.
 
 All merchants who list their merchandise on X’s Shopping products must also comply with X’s Shopping Policy detailed on this page. Please note that X may modify this policy at any time.
 
-In addition, all people who use X must adhere to [X’s User Agreement](https://x.com/en/tos.html), which includes the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html). Advertisers must also follow [X’s Ads Policies](https://business.x.com/en/help/ads-policies.html), and publishers participating in X’s Amplify Program must also comply with [X’s Brand Safety Policies](https://business.x.com/en/help/troubleshooting/amplify-publisher-faqs.html).
+In addition, all people who use X must adhere to [X’s User Agreement](https://x.com/en/tos.html), which includes the [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html). Advertisers must also follow [X’s Ads Policies](https://business.x.com/en/help/ads-policies.html), and publishers participating in [X’s Amplify Program](https://business.x.com/en/help/troubleshooting/amplify-publisher-faqs) must also comply with [X’s Content Monetization Policy](https://help.x.com/en/rules-and-policies/content-monetization-policy).
 
 _X’s Shopping products are currently available to select merchants and managed partners._
 
@@ -1026,8 +1026,6 @@ Merchant Business Qualifications
 
 Your business meets the following requirements:
 
-*   Your business is located in the US (for clarity this requirement does not apply to X's advertising products).
-*   Your business is not a [state affiliated media](https://help.x.com/en/rules-and-policies/government-media-labels.html) entity.
 *   You or your business are not an individual or entity subject to US trade sanctions.
 *   You do not exclusively sell merchandise that falls within our [Prohibited Merchandise Categories](#categories).
 *   You are 18 years of age or older. 
@@ -1037,7 +1035,7 @@ Account and Website Requirements
 
 Your X account meets the following requirements:
 
-*   You must have a [Professional Account](https://help.x.com/en/rules-and-policies/professional-account-policy.html).
+*   You must have a [X Premium](https://help.x.com/en/using-x/x-premium), [X Premium Business](https://help.x.com/en/using-x/premium-business) or [Professional Account](https://help.x.com/en/rules-and-policies/professional-account-policy.html).
 *   Your X account is [public](https://help.x.com/en/safety-and-security/how-to-make-twitter-private-and-public.html).  
     
 
@@ -1059,7 +1057,8 @@ Merchants participating in X’s Shopping products are prohibited from engaging 
 *   Listing merchandise from another business’ website domain without their permission.
 *   Encouraging [abuse](https://help.x.com/en/rules-and-policies/abusive-behavior.html), [hate](https://help.x.com/en/rules-and-policies/hateful-conduct-policy.html), [self harm](https://help.x.com/en/rules-and-policies/glorifying-self-harm.html), [violence](https://help.x.com/en/rules-and-policies/glorification-of-violence.html) or [violent threats](https://help.x.com/en/rules-and-policies/violent-speech.html). Examples include depictions of hateful symbols, threats of harm against an identifiable individual or protected group, and goods marketed to facilitate purging. Books, video games and other media that depict content in a fictional or educational context are permitted.
 *   Publishing inappropriate content. Examples include goods containing profanity, vulgarity, personal attacks and inflammatory language or media.
-*   Engaging in potentially deceptive, misleading or harmful business propositions. Examples include posting misleading content like deceptive ‘before and after’ text or images, omitting vital information on pricing or payment terms the customer will incur, and impersonating another person or organization.
+*   Engaging in potentially deceptive, misleading or harmful business propositions. Examples include posting misleading content like deceptive ‘before and after’ text or images, deceptive pricing practices, omitting vital information on pricing or payment terms the customer will incur, and impersonating another person or organization.
+*   Engage in or imply any form of discrimination or preference based on personal characteristics, such as race, ethnicity, origin, religion, sexual orientation, gender identity, financial situation or genetic condition.
 
 Merchandise Standards
 ---------------------
@@ -1074,12 +1073,10 @@ You are required to comply with the following technical requirements for merchan
 
 *   Meet all required [product data specifications](https://business.x.com/en/help/shopping-specs.html).
 
-*   List merchandise in a [language supported](https://business.x.com/en/help/ads-policies/campaign-considerations/about-eligibility-for-twitter-ads.html) by our self-serve ads platform.
-
-*   Price merchandise in US dollars.
+*   List merchandise to comply with the applicable country specific [language restrictions](https://business.x.com/en/help/ads-policies/campaign-considerations/about-eligibility-for-twitter-ads).
+*   Accurately price merchandise in USD or local currency, as applicable.
 *   Direct customers to the correct product page for that exact item on your website.
 *   Ensure that merchandise listed in your Product Catalog is up to date and available for shoppers to purchase.
-    
 
 Quality Standards  
 
@@ -1088,43 +1085,37 @@ Quality Standards
 To ensure that Shoppers have a positive experience on X, you must adhere to the following editorial guidelines:
 
 *   Do not link to disruptive landing pages. Examples include automatic downloads, multiple pop ups that cannot be closed, interstitials or other content that interferes with a Shopper’s access.
+    
 *   Do not use excessive capitalization, punctuation, and symbols in merchandise descriptors.
+    
 *   Do not provide indecipherable, inaccurate or deceptive merchandise information. Examples include clickbait and misleading calls to action.
+    
 
 Prohibited Merchandise Categories
 ---------------------------------
 
 Your merchandise and its descriptors must not include the following:
 
-*   _Adult or Sexually Suggestive Content_. Examples include sex toys, pornography and items displaying nudity or implied sexual acts.
+*   _Adult or Sexually Explicit Content_. Examples include sexual merchandise, pornography, sexual services, and items displaying nudity or implied sexual acts.
 *   _Alcohol_. Examples include alcoholic beverages, alcohol-infused foods, and alcohol-branded merchandise.
-*   _Body Branding and Ultraviolet Tanning Devices_. Examples include tanning beds, permanent cosmetics and goods used for tattooing and body piercing.
-*   _Cause-based Content_. Examples include goods marketed to educate or raise awareness or take action in connection with civic engagement, economic growth, environmental stewardship, or social equity cause.
-*   _Documents, Currency and Financial Instruments_. Examples include NFTs, cryptocurrency, gift cards, mortgages, and replicas of official documents like passports.
-*   _Gambling_. Examples include lotto scratchers, fantasy sports, and bingo games. Gambling-related items like playing cards, dice, etc. that can be used for purposes other than for games that result in the payment of money or prizes of value are permitted.
-*   _Goods Derived from [Threatened or Endangered Animal Species](https://help.x.com/en/rules-and-policies/illegal-regulated-behaviors.html)_. Examples include objects made from ivory and medicinal goods made from tiger skins.
-*   _Hazardous Goods and Materials_. Examples include asbestos, chemical pesticides, and highly flammable substances like propane and fireworks.
-*   _Health and Wellness Supplements and Substances_. Examples include vitamins, weight loss supplements, and substances that contain anabolic steroids.
-*   _Human Body Parts and Byproducts_. Examples include human teeth, nail clippings, and urine.
-*   _Illegal and Recreational Drugs, Prescription and OTC Drugs and Drug Paraphernalia_. Examples include goods containing THC or CBD, and items used to pass drug tests, drug test cleaners and synthetic urine.
-*   _Live Animals_. Examples include pets and livestock.
-*   _Malicious Hardware_. Examples include wiretapping devices and goods used for jamming or descrambling devices, including devices claiming protection from WiFi signals.
-*   _Political Content_. Examples include goods referencing a candidate, political party, elected or appointed government official, election, referendum, ballot measure, legislation, regulation, directive, or judicial outcome.
-*   _Used Motor Vehicles_. Examples include used cars, motorcycles, and boats. New vehicles listed by authorized retailers or by the manufacturer are permitted.
-*   _Real Estate_. Examples include non-portable homes, apartments for rent, and plots of land.
-*   _Recalled Goods_.
-*   _Regulated Medical Devices_. Examples include contact lenses, glucose monitors and breast pumps.
-*   _[Stolen Goods](https://help.x.com/en/rules-and-policies/illegal-regulated-behaviors.html)_.
-*   _Services, Subscriptions and Non-Physical Goods_. Examples include job postings, solicitations for donations, subscriptions to streaming services, and digital goods like pdf, app downloads, music and movie downloads. Digital devices like smartphones and video game consoles are permitted.
-*   _Tobacco Goods and Related Paraphernalia_. Examples include chewing tobacco, e-cigarettes, tobacco pipes, hookahs, rolling paper and filters.
-*   _Unauthorized Ticket Sales_. Examples include the sale or resale of tickets without prior authorization.
-*   _[Weapons and Weapon Accessories](https://help.x.com/en/rules-and-policies/illegal-regulated-behaviors.html)_. Examples include knives, ammunition, explosives, and instructions on assembling weapons.
+*   _Illegal and Regulated Goods and Services_. Examples include body branding devices, UV tanning devices, drugs, live animals, endangered animals, human remains, counterfeit luxury, replica, surveillance products, unauthorized ticket resale, used motor vehicles, airbags, catalytic converters, stolen, pirated digital, or unauthorized goods.
+*   _Employment, Business and Income Opportunities_. Examples include job postings, recruitment offers, multi-level marketing, affiliate schemes, paid surveys, casting calls.
+*   _Financial Instruments and Documents_. Examples include NFTs, cryptocurrency, gift cards, mortgages, and replicas of official documents like passports.
+*   _Fundraising and Donations_. Examples include crowdfunding campaigns, soliciting, or collecting donations.
+*   _Gambling_. Examples include lotto scratchers, fantasy sports, lotteries, raffles, casinos, poker and bingo games. Gambling-related items like playing cards, dice, etc. that can be used for purposes other than for games that result in the payment of money or prizes of value are permitted.
+*   _Health, Medical, and Therapeutic Products_. Examples include regulated medical devices, glucose monitors, surgical tools, contact lenses, breast pumps, vitamins, treatments, medical & cosmetic procedures and services, clinical trials, telemedicine, weight loss supplements, and unapproved health claims.
+*   _Malicious Hardware_. Examples include hacking tools, malware USBs, and goods used for jamming or descrambling devices, including devices claiming protection from WiFi signals.
+*   _Misleading or Inauthentic Behavior_. Examples include offering likes, followers, selling or buying fake accounts or metrics.
+*   _Political Content_. Examples include election-related merchandise goods, advocacy, fundraising.
+*   _Tobacco Goods and Related Paraphernalia_. Examples include chewing tobacco, cigarettes, e-cigarettes, tobacco pipes, hookahs, rolling paper, filters and smoking alternatives such as vape, oral/topical nicotine solutions.
+*   _Unsafe or Harmful Products_. Examples include hazardous materials, explosives, recalled items, asbestos, chemical pesticides, and highly flammable substances like propane and fireworks.
+*   _Weapons and Weapon Accessories_. Examples include knives, guns, ammunition, explosives, and instructions on assembling weapons.
 
 ### Country Specific Policies
 
 **United States**
 
-Gambling: Online gambling, sports betting, lotto scratchers, fantasy sports, and bingo games may be permitted with restrictions.
+Gambling: Online gambling, sports betting, lotto scratchers, fantasy sports, and bingo games may be permitted with restrictions. Please contact your X Sales representative.
 
 Enforcement Philosophy
 ----------------------
@@ -3243,6 +3234,191 @@ Public impact of the content: A topic of legitimate public interest is different
 Source of the content: Some people, groups, organizations and the content they post on X may be considered a topic of legitimate public interest by virtue of their being in the public consciousness. This does not mean that their posts will always remain on the service. Rather, we will consider if there is a legitimate public interest for a particular post to remain up so it can be openly discussed.
 
 Availability of coverage: Everyday people play a crucial role in providing firsthand accounts of what’s happening in the world, counterpoints to establishment views, and, in some cases, exposing the abuse of power by someone in a position of authority. As a situation unfolds, removing access to certain information could inadvertently hide context and/or prevent people from seeing every side of the issue. Thus, before actioning a potentially violating post, we will take into account the role it plays in showing the larger story and whether that content can be found elsewhere.
+
+#### Share this article
+
+Post
+
+- - -
+
+X Media Literacy Action Plan
+============================
+
+X is a real-time global information service with the mission to serve the public conversation and help ensure the freedom of expression and access to information of its users. X employs a multi-faceted approach to support media literacy. Our approach includes refining rules and policies, offering tools and functionalities that support media literacy, and providing resources to help users develop media literacy skills. 
+
+This plan is published in accordance with Section 17.1 under Ireland’s Online Safety Code.
+
+X Measures To Promote Media Literacy
+------------------------------------
+
+A. The X Help Center
+--------------------
+
+The [X Help Center](https://help.x.com/) is a comprehensive online resource designed to empower users with the tools, information, educational resources, and guidance needed to help navigate the X platform effectively and responsibly.
+
+B. X's Rules and Policies
+-------------------------
+
+General
+-------
+
+X’s [Rules and Policies](https://help.x.com/rules-and-policies/x-rules) are designed to promote a safe and healthy environment for public conversation. The policies cover various areas, including but not limited to safety, privacy, authenticity, and platform integrity.
+
+Advertising Policies
+--------------------
+
+X developed the [X Ads policies](https://business.x.com/help/ads-policies), which promote transparency, restrict misleading content, and encourage critical evaluation of ads. Users are also provided with an in-app tool directly accessible from the relevant ad, providing information on why they are seeing the ad. More information can be found on the [How X Ads work](https://business.x.com/help/troubleshooting/how-x-ads-work) help page.
+
+Inauthentic Activities and Misleading Content
+---------------------------------------------
+
+X’s [Authenticity policy](https://help.x.com/rules-and-policies/authenticity) aims to foster genuine interactions, safeguard the integrity of public conversation, and maintain user trust. This policy provides clear guidance and tools to enhance media literacy. 
+
+X further addresses misleading content through [Community Notes](https://communitynotes.x.com/guide/about/introduction), a crowdsourced fact-checking feature that allows contributors to add contextual notes to posts, providing additional information or corrections. More information can be found on the [About Community Notes on X](https://help.x.com/using-x/community-notes#:~:text=Community%20Notes%20aim%20to%20create,publicly%20shown%20on%20a%20post.) help page.
+
+X's Enforcement Philosophy
+--------------------------
+
+Our enforcement principles are grounded in human rights, taking a holistic approach towards freedom of expression by developing a broad range of remediations, with a particular focus on education, rehabilitation, and deterrence. More information can be found on [Our approach to policy development and enforcement philosophy](https://help.x.com/rules-and-policies/enforcement-philosophy) and [Our range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options) help pages. Our [Global Transparency Report](https://transparency.x.com/) covers a broad array of content moderation efforts in line with our enforcement philosophy. 
+
+C. User Empowerment Tools and Features
+--------------------------------------
+
+Algorithm Transparency and User Control
+---------------------------------------
+
+X is committed to providing greater transparency and increasing users’ awareness about the content users see on our Platform. More information can be found on the [Recommender Systems](https://help.x.com/resources/recommender-systems) help page. In addition, X provides users with a variety of tools to manage and control their online experience on our Platform. More information can be found on [Our approach to recommendations](https://help.x.com/rules-and-policies/recommendations) help page.
+
+Reporting and Flagging Mechanisms
+---------------------------------
+
+X makes available easy-to-use and easily accessible reporting channels to report both content and accounts that violate X’s Rules and Policies, as well as potentially illegal content. Several education resources available on the Help Center clearly explain how to report and flag content, including the [Report violations](https://help.x.com/rules-and-policies/x-report-violation) and [Reporting content in the EU](https://help.x.com/forms/dsa/report) help pages.
+
+Content Labels
+--------------
+
+Content labels are valuable tools to allow for informed decision-making by users on whether to engage with content. 
+
+*   **Sensitive content labels**: X applies warning labels for sensitive content, which require users who have chosen in their settings to not see sensitive content to click through an interstitial to view it. 
+    
+*   **Restricted reach labels:** Where appropriate, X will restrict the reach of posts by making the post less discoverable on X. Users will see a visible label on these posts. 
+    
+
+Checkmarks and Profile Labels
+-----------------------------
+
+At X, checkmarks and labels distinguish different types of accounts, like the grey checkmark denoting government or multilateral organizations or officials. These labels support our core value of transparency. Detailed information can be found on the [About profile labels and checkmarks](https://help.x.com/rules-and-policies/profile-labels) help page.
+
+#### Share this article
+
+Post
+
+- - -
+
+European Union
+==============
+
+**Information from X**
+======================
+
+X's purpose is to serve the public conversation. Violence, harassment and other similar types of behaviour discourage people from expressing themselves, and ultimately diminish the value of global public conversation. 
+
+Our [Rules](https://help.x.com/en/rules-and-policies/x-rules) are to ensure all people can participate in the public conversation freely and safely. We have a [range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options), which we take to reduce the risk of harm to our users, in a proportionate manner. Users can also appeal account suspensions if they believe we made an error. They can do this through the platform interface or by [filing a report](https://help.x.com/en/forms/account-access/appeals.html).
+
+X is a place to share ideas and information, connect with your communities, and see the world around you. In order to protect the very best parts of that experience, we provide tools designed to help you control what you see and what others can see about you, so that you can express yourself on X with confidence and to make sure your experience using the X platform is safe and secure. Please refer to: [https://help.x.com/en/safety-and-security/control-your-x-experience](https://help.x.com/en/safety-and-security/control-your-x-experience) for further information.
+
+We suggest staying informed about [account safety and security](https://help.x.com/en/safety-and-security), safeguarding your privacy, avoiding spam and scams, and consider [controlling what you see](https://help.x.com/en/safety-and-security/control-your-x-experience). Our Help Center provides answers to the most [common questions](https://help.twitter.com/en); but if you need account support, submitting a [support form](http://support.x.com/forms) ensures your request is routed to the appropriate team.
+
+**Information for Parents and Children**
+========================================
+
+X, as a service, is not primarily for children, but anyone above the age of 13 can sign up for the service. We recognise that minors are a more vulnerable group by virtue of their age. The [X Rules](https://help.x.com/en/rules-and-policies/x-rules) enable minors to participate in the public conversation freely and safely, and minors should rely on the X Rules (and report to X) in order to protect themselves. For minors under the age of 18, who sign up for X in the EU, we have measures in place to make sure their experience using the platform is safe and secure. 
+
+You can find the following resources to keep your child’s account and experience on X safe, secure and welcoming:
+
+*   [Information for Parents and Minor Users](https://help.x.com/en/rules-and-policies/information-for-parents-and-minor-users)
+    
+*   [Staying safe on X](https://help.x.com/en/forms/safety-and-sensitive-content/underage-user/x) 
+    
+*   [How to protect your personal information](https://help.x.com/safety-and-security/x-privacy-settings)
+    
+
+*   [General information on safety and security related to your X account](https://help.x.com/en/safety-and-security) 
+    
+*   [Information on what content is permitted, prohibited and/or restricted under our Rules](https://help.x.com/en/rules-and-policies)
+    
+*   [How to report violation of X’s Rules](https://help.x.com/en/rules-and-policies/x-report-violation)
+    
+*   [About parental consent on X](https://help.x.com/en/using-x/parental-consent)
+    
+*   [X account restoration](https://help.x.com/en/managing-your-account/account-restoration)
+    
+
+**Online Safety in the European Union (EU)**
+============================================
+
+The European legal framework, including national laws, requires X to restrict certain categories of content within the EU. This framework includes, for example, Ireland's Online Safety Code and the EU Digital Services Act (DSA). The European legal framework requires platforms to address not only illegal content but also certain types of content considered harmful or unsafe, such as bullying and humiliating content, content that promotes or encourages feeding or eating disorders, as well as content that encourages or makes available knowledge of methods of self-harm and suicide. Consistent with Section 3 of our [Terms](https://x.com/en/tos), users are responsible for sharing only content that complies with applicable laws and that they are comfortable sharing publicly. As a result of these legal requirements, EU based users may find restrictions on content that is permissible and available elsewhere.
+
+Below, we provide information on how EU based users can report illegal or otherwise restricted content under the applicable EU legal framework, as well as details regarding the appeal process. We also provide information on how EU based users can submit complaints about the implementation of certain measures under the Online Safety Code, published by Coimisiún na Meán (Ireland's Media Commission).
+
+**Reporting Restricted and Illegal Content in the EU**
+
+You can make a report about content that is illegal and/or that X is legally required to restrict under the law by making a report to X through this [form](https://help.x.com/forms/dsa/report). 
+
+**Complaints Under the Online Safety Code**
+
+You can make a complaint about the implementation of measures relating to age assurance, content rating, parental controls and reporting and flagging under the Online Safety Code, published by Coimisiún na Meán (Ireland's Media Commission), by making a complaint to X through this [form](https://help.x.com/forms/dsa/complaints). 
+
+**Reporting a Post, List or Direct Message**
+
+Learn more [here](https://help.x.com/en/rules-and-policies/x-report-violation#directly) about how you can submit a report about illegal content on a post, list or direct message.
+
+**Reporting Flow Process**
+
+Please complete all necessary information in the applicable forms, following the instructions, in order to submit the report or complaint. Upon submission, you will receive confirmation that your report or complaint was submitted. Your report or complaint will then be routed to the appropriate team, processed expeditiously, and you will be notified of the outcome of your report or complaint as soon as our team has all available information to make a final decision. 
+
+In the case of a report about content that is illegal and/or that X is legally required to restrict under the law, if a violation is identified, X will notify the violating account about the enforcement action and their right to appeal. X does not disclose information about the person who submitted the complaint.
+
+**Appeal Process**
+
+Users can appeal an Illegal Content Decision if they believe we made an error. They can do this through this form.
+
+To learn more about other redress options in the European Union, please visit [https://help.x.com/en/rules-and-policies/digital-services-act](https://help.x.com/en/rules-and-policies/digital-services-act). 
+
+**Withholding a post or account in a country**
+
+We may withhold access to certain content in a particular country if we receive a valid and properly scoped request from an authorized entity in that country. Read more about [country withheld content](https://help.x.com/en/rules-and-policies/tweet-withheld-by-country.html).
+
+Note: If you are a member of law enforcement or government, please note that the most expeditious way to submit your request is through our Legal Request Submissions site (https://t.co/lr or [https://legalrequests.x.com](https://legalrequests.twitter.com/forms/landing_disclaimer)). Find more information in our [Guidelines for Law Enforcement](https://help.x.com/rules-and-policies/x-law-enforcement-support).
+
+In compliance with the European Digital Services Act (DSA), X provides the following contact point through which users covered by the DSA can communicate with X directly through this [form](https://help.x.com/en/forms/dsa/question).
+
+#### Share this article
+
+Post
+
+- - -
+
+Digital Services Act
+====================
+
+Information about European Union Digital Services Act Out-of-Court Dispute Resolution Option and Judicial Redress 
+
+If you are a recipient of the X Service in the EU and you think we’ve made a mistake in deciding:
+
+(i) whether or not to remove or disable access to or restrict visibility of information on the X Service;
+
+(ii) whether or not to suspend or terminate the provision of the X Service, in whole or in part, to a recipient(s) and/or their account(s); or
+
+(iii) whether or not to suspend, terminate or otherwise restrict the ability to monetise information provided by a recipient(s);
+
+on the ground that information provided to the X Service is illegal or violates our Terms of Service, you can appeal our decision through our internal appeals process described [here](https://help.x.com/en/forms/dsa/appeal.html). Alternatively or in addition, you are entitled to select any out-of-court dispute settlement body certified by the Digital Services Coordinator in the relevant Member State of the EU to resolve a dispute relating to any such decision.
+
+X will engage with the selected certified out-of-court dispute settlement body with a view to resolving the dispute in accordance with the Digital Services Act. You should be aware that X is not bound by any decision made by a certified out-of-court dispute settlement body.
+
+You also have the option of judicial redress by pursuing your claim with a competent court in a European Member State and you may also have other legal options. 
+
+If you wish to consider any out-of-court or judicial redress options, you may want to consult a legal advisor.
 
 #### Share this article
 
