@@ -414,7 +414,7 @@ Code that charges users by making calls to premium numbers without user consent.
 _Toll fraud_  
 Code that tricks users into subscribing to or purchasing content via their mobile phone bill.
 
-Toll fraud includes any type of billing except premium SMS and premium calls. Examples of this include direct operator billing, wireless access point (WAP) and mobile airtime transfer. WAP fraud is one of the most prevalent types of toll fraud. WAP fraud can include tricking users into clicking a button on a silently loaded, transparent WebView. Upon performing the action, a recurring subscription is initiated, and the confirmation SMS or email is often hijacked to prevent users from noticing the financial transaction.
+Toll fraud includes any type of billing except premium SMS and premium calls. Examples of this include direct operator billing, wireless application protocol (WAP) and mobile airtime transfer. WAP fraud is one of the most prevalent types of toll fraud. WAP fraud can include tricking users into clicking a button on a silently loaded, transparent WebView. Upon performing the action, a recurring subscription is initiated, and the confirmation SMS or email is often hijacked to prevent users from noticing the financial transaction.
 
 ### Stalkerware
 
@@ -535,11 +535,11 @@ The backdoor malware category classification relies on how the code acts. A nece
 
 However, if an app allows arbitrary code execution and we don’t have any reason to believe that this code execution was added to perform a malicious behaviour, the app will be treated as having a vulnerability, rather than being backdoor malware, and the developer will be asked to patch it.
 
-#### Maskware
+#### Riskware
 
-An application that utilises a variety of evasion techniques in order to serve the user different or fake application functionality. These apps mask themselves as legitimate applications or games to appear innocuous to app stores and use techniques such as obfuscation, dynamic code loading or cloaking to reveal malicious content.
+An application that utilises a variety of evasion techniques in order to serve the user different or fake application functionality. These apps mask themselves as legitimate applications or games to appear innocuous to app stores and users and use techniques such as obfuscation, dynamic code loading or cloaking to reveal potentially harmful content.
 
-Maskware is similar to other PHA categories, specifically Trojan, with the main difference being the techniques used to obfuscate the malicious activity.
+Riskware is similar to other PHA categories, specifically Trojan, with the main difference being the techniques used to obfuscate the malicious activity.
 
 - - -
 
@@ -555,6 +555,15 @@ To provide users with a safe and secure experience, Google Play requires the fo
 For technical advice on how to meet the target API level requirement, please consult the [migration guide](https://developer.android.com/distribute/best-practices/develop/target-sdk.html). 
 
 For exact timelines and exceptions, please refer to this [Help Centre article](https://support.google.com/googleplay/android-developer/answer/11926878).
+
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Target an Android API level within one year of the latest major Android release if you are submitting a new app or app update to Google Play. | Don't ignore target API level requirements; non-compliance blocks new apps and app updates submission to Google Play and discoverability for new users with devices targeting newer Android versions, if the app is existing on Google Play. |
+| Ensure that your existing app targets an Android API level within two years of the latest major Android release to stay discoverable to users on newer Android OS versions. | Don't delay updating your app's target API level; Start the migration process at least three months before the deadline to give yourself enough time to test for and address any compatibility issues. |
+| Request target API level extensions through Play Console. |     |
 
 - - -
 
@@ -1263,7 +1272,8 @@ We don't allow apps that expose users to harmful health content and services. 
 
 If your app contains or promotes health content and services, you must ensure that your app is compliant with any applicable laws and regulations.
 
-#### **Health and medical apps**
+Health and medical apps
+-----------------------
 
 If your app offers health-related features or information as part of its functionality, or accesses health data to support non-health features, it must comply with the existing Google Play Developer Policies, including [privacy, deception and device abuse](https://support.google.com/googleplay/android-developer/topic/9877467?sjid=4099002138806266388-AP), in addition to the below requirements:
 
@@ -1288,15 +1298,18 @@ If your app offers health-related features or information as part of its functio
 
 For more information about health and medical apps, please see [this Help Centre article](https://support.google.com/googleplay/android-developer/answer/13996367).
 
-#### Health Connect data
+Health Connect data
+-------------------
 
 Data accessed through Health Connect permissions is regarded as personal and sensitive user data subject to the [User data](https://support.google.com/googleplay/android-developer/answer/10144311#personal-sensitive) policy, and is subjected to [additional requirements](https://support.google.com/googleplay/android-developer/answer/9888170#ahp).
 
-#### Prescription drugs
+Prescription drugs
+------------------
 
 We do not allow apps that facilitate the sale or purchase of prescription drugs without a prescription.
 
-#### Unapproved substances
+Unapproved substances
+---------------------
 
 Google Play doesn't allow apps that promote or sell unapproved substances, irrespective of any claims of legality. 
 
@@ -1321,7 +1334,8 @@ Google Play doesn't allow apps that promote or sell unapproved substances, irres
 
 For additional information on the unapproved or misleading pharmaceuticals and supplements that we monitor, please visit [www.legitscript.com](http://www.legitscript.com/).
 
-#### Health misinformation
+Health misinformation
+---------------------
 
 We don’t allow apps containing misleading health claims that contradict existing medical consensus or can cause harm to users.
 
@@ -1339,7 +1353,8 @@ We don’t allow apps containing misleading health claims that contradict existi
 
 We don’t allow apps that feature medical or health-related functionalities that are misleading or potentially harmful. For example, we do not allow apps that claim to have oximetry functionality that is solely app-based. Oximeter apps must be supported by external hardware, wearable or dedicated smartphone sensors designed to support oximetry functionality. These supported apps must also contain disclaimers in the metadata stating that they are not intended for medical use, are only designed for general fitness and wellness purposes, are not a medical device, and must properly disclose the compatible hardware model/device model.
 
-#### Payments – clinical services
+Payments – clinical services
+----------------------------
 
 Transactions involving regulated clinical services should not use Google Play’s billing system. For more information, see [Understanding Google Play’s payments policy](https://support.google.com/googleplay/android-developer/answer/10281818#zippy=%2Cmy-app-provides-clinical-services-should-i-use-google-plays-billing-system-for-those-transactions).
 
@@ -1948,7 +1963,8 @@ We don’t allow apps that contain false or misleading information or claims, in
 
 (1) Apps that claim functionalities that are not possible to implement (using your phone) as a breathalyzer.
 
-### Deceptive device settings changes
+Deceptive device settings changes
+---------------------------------
 
 We don’t allow apps that make changes to the user’s device settings or features outside of the app without the user’s knowledge and consent. Device settings and features include system and browser settings, bookmarks, shortcuts, icons, widgets and the presentation of apps on the Home screen.
 
@@ -1959,7 +1975,8 @@ Additionally, we do not allow:
 *   Apps that mislead users into removing or disabling third-party apps or modifying device settings or features.
 *   Apps that encourage or incentivise users into removing or disabling third-party apps or modifying device settings or features unless it is part of a verifiable security service.
 
-### Enabling dishonest behaviour
+Enabling dishonest behaviour
+----------------------------
 
 We don't allow apps that help users to mislead others or are functionally deceptive in any way, including, but not limited to: apps that generate or facilitate the generation of ID cards, social security numbers, passports, diplomas, credit cards, bank accounts and driving licences. Apps must provide accurate disclosures, titles, descriptions and images/video regarding the app's functionality and/or content and should perform as reasonably and accurately expected by the user.
 
@@ -1976,7 +1993,8 @@ Any claim that an app is a 'prank' or 'for entertainment purposes' (or other syn
 *   Apps that attempt to modify or obfuscate behaviour during review.
 *   Apps with Content Delivery Network (CDN) facilitated downloads that fail to prompt the user and disclose the download size prior to downloading.
 
-### Manipulated media
+Manipulated media
+-----------------
 
 We don't allow apps that promote or help create false or misleading information or claims conveyed through imagery, audio videos and/or text. We disallow apps determined to promote or perpetuate demonstrably misleading or deceptive imagery, videos and/or text, which may cause harm pertaining to a sensitive event, politics, social issues or other matters of public concern.
 
@@ -1995,7 +2013,8 @@ Manipulated media must comply with existing Google Play Developer Policies, incl
     (1) This app provides functionality to alter media clips to mimic a news broadcast, and add famous or public figures to the clip without a watermark.
     
 
-#### Behaviour transparency
+Behaviour transparency
+----------------------
 
 Your app’s functionality should be reasonably clear to users; don't include any hidden, dormant or undocumented features within your app. Techniques to evade app reviews are not allowed. Apps may be required to provide additional details to ensure user safety, system integrity and policy compliance.
 
