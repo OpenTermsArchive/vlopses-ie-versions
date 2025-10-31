@@ -651,7 +651,8 @@ We don't allow apps that attempt to deceive users or enable dishonest behaviour,
 
 #### [COLLAPSE ALL](https://support.google.com/googleplay/android-developer/answer/9888077) [EXPAND ALL](#1&2&3&4&5&6&7&87&9)
 
-### Misleading claims
+Misleading claims
+-----------------
 
 We don’t allow apps that contain false or misleading information or claims, including in the description, title, icon and screenshots.
 
