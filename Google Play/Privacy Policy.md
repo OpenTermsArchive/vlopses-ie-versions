@@ -647,12 +647,35 @@ Learn more about the `USE_FULL_SCREEN_INTENT` permission in our [Help Centre](ht
 Deceptive behaviour
 ===================
 
+_**Disclaimer:** Policy summaries are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict_
+
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+
+To uphold user trust, Google Play strictly prohibits all forms of deception. Your app, including any third-party SDKs, ads or services, must always maintain honesty and transparency, and must never mislead users or enable dishonest behaviour. All metadata, including the store listing, screenshots and title, must precisely reflect the app's functionality. Apps are prohibited from mimicking other apps or OS warnings. Any modifications to device settings require explicit user consent and must be easily reversible. Should your app require the download of additional assets, you must prompt the user and explicitly disclose the download size first. Please review the full policy to ensure compliance.
+
+![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+
 We don't allow apps that attempt to deceive users or enable dishonest behaviour, including but not limited to apps which are determined to be functionally impossible. Apps must provide an accurate disclosure, description and images/video of their functionality in all parts of the metadata. Apps must not attempt to mimic functionality or warnings from the operating system or other apps. Any changes to device settings must be made with the user's knowledge and consent and be reversible by the user.
 
-#### [COLLAPSE ALL](https://support.google.com/googleplay/android-developer/answer/9888077) [EXPAND ALL](#1&2&3&4&5&6&7&87&9)
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Ensure that your app's title, icon and description accurately reflect its actual functionality. | Don't mislead users about your app's functionality or claim features that are functionally impossible. |
+| Provide clear, in-app disclosures and get explicit user consent before making any changes to device settings. | Don't impersonate other apps, brands or government entities. |
+| Test your app to ensure that it performs as users would reasonably expect. | Don't display ads that mimic system notifications or warnings, making them appear as a part of the device's OS. |
+
+* * *
 
 Misleading claims
 -----------------
+
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+
+To maintain our commitment to a transparent and trustworthy user experience, Google Play prohibits misleading claims or information in apps. This includes misleading information in the description, title, icon and screenshots. Apps must not misrepresent their functionality, or claim impossible features, even if labelled as a joke. You must also avoid improper categorisation, false content about elections and false claims of affiliation with governments or other established entities. For example, you cannot use 'Official' in a title without the necessary rights. Please review the full policy to ensure compliance.
+
+![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
 We don’t allow apps that contain false or misleading information or claims, including in the description, title, icon and screenshots.
 
@@ -671,8 +694,27 @@ Examples of common violations
 
 (1) Apps that claim functionalities that are not possible to implement (using your phone) as a breathalyzer.
 
+ 
+
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Accurately describe your app's functionality in your store listing, including in the description, title, icon and screenshots. | Don't misrepresent your app's core purpose or functionality. |
+| Ensure that your app's category and rating are correct. | Don't make false claims about functionalities that are not possible to implement. |
+| Get all necessary permissions and rights before claiming to be an 'official' app. | Don't falsely claim affiliation with a government or an established entity when not properly authorised to do so. |
+
+* * *
+
 Deceptive device settings changes
 ---------------------------------
+
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+
+Google Play prohibits apps from making changes to a user's device settings or features outside the app without explicit user consent. Even with consent, any changes that your app makes must be easily reversible. Modifying settings as a service for third parties or for advertising is also prohibited. Finally, apps must not encourage or incentivise users to remove/disable third-party apps or modify device settings or features with an exception for verifiable security services. Please review the full policy to ensure compliance.
+
+![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
 We don’t allow apps that make changes to the user’s device settings or features outside of the app without the user’s knowledge and consent. Device settings and features include system and browser settings, bookmarks, shortcuts, icons, widgets and the presentation of apps on the Home screen.
 
@@ -683,8 +725,25 @@ Additionally, we do not allow:
 *   Apps that mislead users into removing or disabling third-party apps or modifying device settings or features.
 *   Apps that encourage or incentivise users into removing or disabling third-party apps or modifying device settings or features unless it is part of a verifiable security service.
 
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Obtain explicit user consent before changing any device settings or features. | Don't modify device settings or features without the user's clear knowledge and consent. |
+| Clearly explain what your app will change and why. | Don't mislead or incentivise users to disable or remove other apps. |
+| Ensure that all user consented changes are easily reversible by the user. | Don't modify device settings or features as a service to third parties or for advertising purposes. |
+
+* * *
+
 Enabling dishonest behaviour
 ----------------------------
+
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+
+Google Play prohibits apps from deceiving or enabling users to deceive or mislead others, such as by generating fake IDs, passports, diplomas, social security numbers or credit cards. Your app itself must provide accurate disclosures, titles and descriptions about its functionality and must perform as reasonably and accurately expected by the user. Claiming an app is a 'prank' or 'for entertainment purposes' does not exempt it from these policies. Please review the full policy to ensure compliance.
+
+![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
 We don't allow apps that help users to mislead others or are functionally deceptive in any way, including, but not limited to: apps that generate or facilitate the generation of ID cards, social security numbers, passports, diplomas, credit cards, bank accounts and driving licences. Apps must provide accurate disclosures, titles, descriptions and images/video regarding the app's functionality and/or content and should perform as reasonably and accurately expected by the user.
 
@@ -701,8 +760,26 @@ Examples of common violations
 *   Apps that attempt to modify or obfuscate behaviour during review.
 *   Apps with Content Delivery Network (CDN) facilitated downloads that fail to prompt the user and disclose the download size prior to downloading.
 
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Provide an honest and accurate app description, title and images about its functionality. | Don't generate or facilitate the generation of fake documents. |
+| Ensure that the app performs as reasonably and accurately expected by the user. | Don't mimic other apps to trick users into disclosing personal and sensitive information. |
+| Alert users and update your store listing when the app functionality changes. | Don't have different core functionality based on user data or geography without disclosure. |
+| Prompt users and explicitly disclose the download size first, if the app requires the download of additional assets. | Don't show different functionality based on user geography or device parameters, or other user-dependent data without prominently advertising it. |
+
+* * *
+
 Manipulated media
 -----------------
+
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+
+To protect users, Google Play prohibits apps from creating, facilitating or promoting false or misleading media, such as images, videos or audio. This includes apps that perpetuate misleading media that could cause harm regarding sensitive events, politics or other matters of public concern. Exceptions may be made for obvious satire, parody or content with clear watermarks or disclaimers, and must comply with existing Google Play Developer Policies, including prohibiting disallowed content under the [**restricted content**](https://support.google.com/googleplay/android-developer/topic/9877466?sjid=4697247637550754979-NC) policies. Please review the full policy to ensure compliance.
+
+![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
 We don't allow apps that promote or help create false or misleading information or claims conveyed through imagery, audio videos and/or text. We disallow apps determined to promote or perpetuate demonstrably misleading or deceptive imagery, videos and/or text, which may cause harm pertaining to a sensitive event, politics, social issues or other matters of public concern.
 
@@ -721,7 +798,35 @@ Examples of common violations
     (1) This app provides functionality to alter media clips to mimic a news broadcast, and add famous or public figures to the clip without a watermark.
     
 
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Review and comply with all other Google Play policies, especially the [**restricted content**](https://support.google.com/googleplay/android-developer/topic/9877466?sjid=4697247637550754979-NC) policy, for any media that your app creates or promotes. | Don't create, promote or help users create demonstrably false or misleading media that could cause harm. |
+| Apply clear, visible and user-facing watermarks or disclaimers to all media (imagery, audio, video, text) that your app manipulates. | Don't manipulate media related to sensitive events, politics or social issues in a way that is deceptive or harmful. |
+| Ensure that any content intended as satire or parody is obvious to the user. | Don't alter media clips to impersonate or mimic real news broadcasts (e.g. by using their logos, names or branding) unless you include a clear watermark or disclaimer stating that it is not. |
+| Make sure that your app has a clear, legitimate purpose beyond simply creating manipulated media (e.g. creative tools, artistic filters). | Don't use a sensitive event or public figures to advertise media alteration capabilities in your app. |
+
+* * *
+
 Behaviour transparency
 ----------------------
 
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+
+To help ensure user safety and system integrity, Google Play prohibits apps from containing any hidden, dormant or undocumented features. Your app's functionality should be reasonably clear to your users. This policy also prohibits any techniques used to evade Google Play's app reviews. Please review the full policy to ensure compliance.
+
+![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+
 Your app’s functionality should be reasonably clear to users; don't include any hidden, dormant or undocumented features within your app. Techniques to evade app reviews are not allowed. Apps may be required to provide additional details to ensure user safety, system integrity and policy compliance.
+
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Ensure that your app's functionality is 'what you see is what you get'. All features available to the user should be clear and documented in your store listing. | Don't include undocumented or hidden features that are designed to be activated remotely or after a certain amount of time. |
+| Make sure that your app behaves identically for a regular user and for a Google Play reviewer. | Don't dynamically download and execute code from a remote source that introduces features or functionality not present during the app review. |
+| Be prepared to provide Google with a detailed explanation of your app's features and code if they request it for a review. | Don't use techniques to detect the app review environment and change your app's behaviour to hide non-compliant features. |
+| Ensure that all code in your app, including third-party SDKs, is directly related to the app's stated purpose. | Don't intentionally obfuscate code specifically to conceal policy-violating behaviour from reviewers. |
