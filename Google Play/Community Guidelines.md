@@ -304,6 +304,16 @@ For exact timelines and exceptions, please refer to this [Help Centre article](h
 Financial services
 ==================
 
+**Changes are coming to this article**
+
+This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
+
+For [personal loan apps in India](https://support.google.com/googleplay/android-developer/answer/9876821#india), we're updating the [country requirements](https://support.google.com/googleplay/android-developer/answer/16604194#zippy=%2Cwhat-if-my-app-does-not-directly-provide-personal-loans-but-facilitates-money-lending) to align with a newly published government list of approved digital lending apps. Apps must be on this list and meet Play policy requirements in order to be available on Google Play in India. All new personal loan apps on Google Play in India must be in compliance as of 30 October 2025.
+
+(effective from 28 January 2026)
+
+To preview the updated 'Financial services' article, visit [this page](https://support.google.com/googleplay/android-developer/answer/16597822).
+
 We don't allow apps that expose users to deceptive or harmful financial products and services.
 
 For the purposes of this policy, we consider financial products and services to be those related to the management or investment of money and cryptocurrencies, including personalised advice.
@@ -732,7 +742,8 @@ We don’t allow code that introduces or exploits security vulnerabilities. Revi
 
 * * *
 
-#### Foreground service use
+Foreground service use
+----------------------
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy summary**  
 The foreground service permission policy ensures user transparency, privacy and optimal device performance.  For apps targeting Android 14+, you must declare valid foreground service (FGS) types in the manifest and Play Console, providing descriptions, user impact and a demo video justifying their use based on user-initiated, perceptible actions. Please review the full policy to ensure compliance.
@@ -795,7 +806,8 @@ The usage of user-initiated data transfer APIs is further explained [here](https
 
 * * *
 
-#### Flag secure requirements
+Flag secure requirements
+------------------------
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
