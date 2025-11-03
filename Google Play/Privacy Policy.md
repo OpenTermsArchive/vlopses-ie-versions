@@ -149,6 +149,8 @@ Requests for permission and APIs that access sensitive information should make s
 
 Request permissions and APIs that access sensitive information to access data in context (via incremental requests), so that users understand why your app is requesting the permission. Use the data only for purposes that the user has consented to. If you later wish to use the data for other purposes, you must ask users and make sure that they affirmatively agree to the additional uses.
 
+* * *
+
 Restricted permissions
 ----------------------
 
@@ -383,7 +385,8 @@ Apps must use more narrowly scoped [APIs and permissions](https://developer.and
 
 * * *
 
-#### **Request install packages permission**
+**Request install packages permission**
+---------------------------------------
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
