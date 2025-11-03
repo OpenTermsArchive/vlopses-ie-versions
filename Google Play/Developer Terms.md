@@ -1891,7 +1891,8 @@ We don’t allow code that introduces or exploits security vulnerabilities. Revi
 *   Apps that use the [full-screen intent permission](https://developer.android.com/about/versions/14/behavior-changes-14?hl=en-gb#secure-fsi) to force user interaction with disruptive ads or notifications.
 *   Apps that circumvent [Android sandbox protections](https://source.android.com/docs/security/app-sandbox) in order to derive user activity or user identity from other apps.
 
-#### Foreground service use
+Foreground service use
+----------------------
 
 The foreground service permission ensures the appropriate use of user-facing foreground services. For apps targeting Android 14 and above, you must specify a valid foreground service type for each foreground service used in your app and declare the [foreground service permission](https://support.google.com/googleplay/android-developer/answer/13392821) that is appropriate for that type. For example, if your app's use case requires map geolocation, you must declare the [FOREGROUND\_SERVICE\_LOCATION](https://developer.android.com/reference/android/Manifest.permission#FOREGROUND_SERVICE_LOCATION) permission in your app's manifest.
 
@@ -1921,7 +1922,8 @@ Apps are only allowed to use the [user-initiated data transfer jobs](https://dev
 
 The usage of user-initiated data transfer APIs is further explained [here](https://developer.android.com/partners/android-14/changes/user-initiated-data-transfers).
 
-#### Flag secure requirements
+Flag secure requirements
+------------------------
 
 [FLAG\_SECURE](https://developer.android.com/reference/android/view/WindowManager.LayoutParams#FLAG_SECURE) is a display flag declared in an app’s code to indicate that its UI contains sensitive data intended to be limited to a secure surface while using the app. This flag is designed to prevent the data from appearing in screenshots or from being viewed on non-secure displays. Developers declare this flag when the app’s content should not be broadcast, viewed or otherwise transmitted outside of the app or users’ device.
 
