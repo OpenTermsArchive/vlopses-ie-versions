@@ -1707,7 +1707,8 @@ Apps not eligible for **IsAccessibilityTool** may not use the flag and must me
 
 Apps must use more narrowly scoped [APIs and permissions](https://developer.android.com/privacy/best-practices#permissions) in lieu of the Accessibility API when possible to achieve the desired functionality. 
 
-#### **Request install packages permission**
+Request install packages permission
+-----------------------------------
 
 The [`REQUEST_INSTALL_PACKAGES`](https://developer.android.com/reference/android/Manifest.permission#%3Ccode%3EREQUEST_INSTALL_PACKAGES%3C/code%3E) permission allows an application to request the installation of app packages.​​ To use this permission, your app’s core functionality must include:
 
@@ -1741,7 +1742,8 @@ All requests for body sensor permissions (both legacy and new granular permissio
 
 For comprehensive policy guidance, including prohibited uses, acceptable use cases and detailed requirements, see the [Android health permissions: Guidance and FAQs](https://support.google.com/googleplay/android-developer/answer/12991134?sjid=16523468427823376810-EU).
 
-#### **Health Connect by Android Permissions**
+Health Connect by Android Permissions
+-------------------------------------
 
 [Health Connect](https://developer.android.com/guide/health-and-fitness/health-connect) is an Android platform that allows health and fitness apps to store and share the same on-device data, within a unified ecosystem. It also offers a single place for users to control which apps can read and write health and fitness data, including health records. Health records may include medical history, diagnoses, treatments, medications, lab results and other clinical data, obtained from healthcare providers or institutions, or through supported third-party health platforms.
 
@@ -1807,7 +1809,8 @@ Health Connect handles health and fitness data that includes personal and sensit
 
 For more information on requirements for apps connecting to Health Connect, please see this [Help Centre](https://support.google.com/googleplay/android-developer/answer/12991134) article.
 
-#### VPN service
+VPN service
+-----------
 
 The [VpnService](https://developer.android.com/reference/android/net/VpnService) is a base class for applications to extend and build their own VPN solutions. Only apps that use the VpnService and have VPN as their core functionality can create a secure device-level tunnel to a remote server. Exceptions include apps that require a remote server for core functionality, such as:
 
@@ -1829,7 +1832,8 @@ Apps that use the VpnService must:
 *   Must encrypt the data from the device to VPN tunnel end point, and
 *   Abide by all [Developer Programme Policies](https://support.google.com/googleplay/android-developer/topic/9858052?hl=en-GB) , including the [Ad fraud](https://support.google.com/googleplay/android-developer/answer/9969955?hl=en-GB&ref_topic=9969691#zippy=%2Cexamples-of-common-violations), [Permissions](https://support.google.com/googleplay/android-developer/answer/9888170?hl=en-GB&ref_topic=9877467) and [Malware](https://support.google.com/googleplay/android-developer/answer/9888380?hl=en-GB&ref_topic=9975838) policies.
 
-#### **Exact alarm permission**
+Exact alarm permission
+----------------------
 
 A new permission, `USE_EXACT_ALARM`, will be introduced that will grant access to [exact alarm functionality](https://developer.android.com/about/versions/13/features#use-exact-alarm-permission) in apps starting with Android 13 (API target level 33). 
 
@@ -1846,7 +1850,8 @@ If you have a use case for exact alarm functionality that’s not covered above,
 
 For more information on exact alarm functionality, please see this [developer guidance](https://developer.android.com/about/versions/13/features#use-exact-alarm-permission).
 
-#### Full-screen intent permission
+Full-screen intent permission
+-----------------------------
 
 For apps targeting Android 14 (API target level 34) and above, [`USE_FULL_SCREEN_INTENT`](https://developer.android.com/reference/android/app/Notification.Builder#setFullScreenIntent\(android.app.PendingIntent,%20boolean) is a [special apps access permission](https://developer.android.com/training/permissions/requesting-special). Apps will only be automatically granted to use the `USE_FULL_SCREEN_INTENT` permission if the core functionality of their app falls under one of the below categories that require high-priority notifications:
 
