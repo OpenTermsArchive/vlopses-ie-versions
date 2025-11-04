@@ -1477,9 +1477,7 @@ If you don't see an email from us regarding the removal, please make sure that y
 Related Articles
 ----------------
 
-[There’s a video of you on Facebook that you want taken down](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
-
-[Delete a video you posted on Facebook](https://www.facebook.com/help/725107141317608/?helpref=related_articles)
+[Get a video of you taken down from Facebook](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
 
 [How Facebook determines which videos are For You](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
@@ -1489,9 +1487,7 @@ Related Articles
 
 Related Articles
 
-[There’s a video of you on Facebook that you want taken down](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
-
-[Delete a video you posted on Facebook](https://www.facebook.com/help/725107141317608/?helpref=related_articles)
+[Get a video of you taken down from Facebook](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
 
 [How Facebook determines which videos are For You](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
@@ -1873,7 +1869,7 @@ Related Articles
 
 [How Facebook determines which videos are For You](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
-[There’s a video of you on Facebook that you want taken down](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
+[Get a video of you taken down from Facebook](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
 
 [A video I posted on Facebook was removed immediately. What happened, and what are my options?](https://www.facebook.com/help/444933372561104/?helpref=related_articles)
 
@@ -1885,7 +1881,7 @@ Related Articles
 
 [How Facebook determines which videos are For You](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
-[There’s a video of you on Facebook that you want taken down](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
+[Get a video of you taken down from Facebook](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
 
 [A video I posted on Facebook was removed immediately. What happened, and what are my options?](https://www.facebook.com/help/444933372561104/?helpref=related_articles)
 
