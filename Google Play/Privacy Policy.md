@@ -275,7 +275,8 @@ Files and directory attributes on a user’s device are regarded as personal and
 
 * * *
 
-#### Photo and video permissions
+Photo and video permissions
+---------------------------
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
@@ -385,8 +386,8 @@ Apps must use more narrowly scoped [APIs and permissions](https://developer.and
 
 * * *
 
-**Request install packages permission**
----------------------------------------
+Request install packages permission
+-----------------------------------
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
@@ -456,7 +457,8 @@ For comprehensive policy guidance, including prohibited uses, acceptable use ca
 
 * * *
 
-#### **Health Connect by Android Permissions**
+Health Connect by Android Permissions
+-------------------------------------
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
@@ -541,7 +543,8 @@ For more information on requirements for apps connecting to Health Connect, plea
 
 * * *
 
-#### VPN service
+VPN service
+-----------
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
@@ -579,7 +582,8 @@ Apps that use the VpnService must:
 
 * * *
 
-#### **Exact alarm permission**
+Exact alarm permission
+----------------------
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
@@ -614,7 +618,8 @@ For more information on exact alarm functionality, please see this [developer gu
 
 * * *
 
-#### Full-screen intent permission
+Full-screen intent permission
+-----------------------------
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
