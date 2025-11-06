@@ -106,6 +106,203 @@ Effective Date: March 6, 2024
 
 - - -
 
+Meta Pay Merchant Terms and Conditions
+======================================
+
+UPDATED SEP 29, 2022
+
+The following Meta Pay Terms and Conditions constitute a legal agreement between you (if your business is a sole proprietorship) or your business (if you are signing up on behalf of a company, corporation, organization, educational institutional, agency, or other legal entity as its authorized legal representative) (“you”, or “your”) and Facebook, Inc. (“Meta”, “we”, or “our”).
+
+**1\. Acceptance**
+
+a. These Meta Pay Merchant Terms and Conditions, together with the other terms and policies set forth in Section 1.d (these “Terms and Conditions”) apply when you use the Meta Pay APIs, integrate Meta Pay on your Websites, or use Meta Pay to facilitate Transactions.
+
+b. You accept and agree to these Terms and Conditions by integrating, using, or continuing to use, Meta Pay or the Meta Pay APIs on your Website and agree to these Terms and Conditions. You may not use any Meta Pay or the Meta Pay APIs if you do not agree to these Terms and Conditions.
+
+c. These Terms and Conditions may be modified by Meta from time to time, and your continued use of Meta Pay or the Meta Pay APIs will be deemed acceptance of such updated Terms and Conditions.
+
+d. In addition to the terms expressly set forth in these Terms and Conditions, the following other terms and policies published by Meta will also apply to your use of the Meta Pay APIs:
+
+*   Our use of your data will be subject to our [Data Policy](https://www.facebook.com/about/privacy/update).
+*   Meta Pay and the Meta Pay APIs will constitute a part of our “Platform” as defined in the [Meta Platform Terms](https://developers.facebook.com/terms/) and such [Meta Platform Terms](https://developers.facebook.com/terms/) will govern your use and integration of Meta Pay and the Meta Pay APIs accordingly.
+
+Any reference to these other terms and policies includes any supplements, amendments and replacements thereto. Any reference to these Terms and Conditions incorporates by reference the various terms and policies set forth in this Section 1.d. If there is any conflict between these Terms and Conditions and any of our other applicable online terms, the terms that are more restrictive on you and your Website or more protective of us apply. Capitalized terms not otherwise defined herein (including in Section 13 (Glossary) have the meaning given in our other terms and policies, including our [Terms of Service](https://www.facebook.com/terms.php) and [Meta Platform Terms](https://developers.facebook.com/terms/). As used in these Terms and Conditions, the terms “include” and “including” are not limiting.
+
+**2\. Software Integration, Updates, and Maintenance**
+
+a. Meta may (a) modify, update, suspend, or discontinue any aspect of the access to or use of the Meta Technology, at any time, including the availability of Meta Pay; or (b) impose limits on certain features and services or restrict your access to parts of or all of Meta Pay, in each case without liability or other obligation, including notice, to you.
+
+b. If Meta makes available new versions of Meta Pay, then you will update all of your Websites to incorporate such new version within a commercially reasonable time period, but no later than ten (10) business days from when such new version of Meta Pay is available.
+
+c. Meta makes no guarantees to you in relation to the availability or uptime of Meta Pay or the Meta Pay APIs, and is not obligated to provide any maintenance, technical support, root cause analysis, repairs, or other support for Meta Pay, the Meta Pay APIs, or your Website if it does not operate in accordance with specifications or your expectations.
+
+**3\. Platform Providers**
+
+a. Unless otherwise prohibited by Meta, you may utilize a Platform Provider to assist you in using and incorporating Meta Pay into your Websites, subject to these Terms and Conditions; provided, however, any such Platform Provider’s use of Meta Pay is done solely on your behalf and only in accordance with a separate written agreement between Meta and such Platform Provider.
+
+b. In the event of any actions or inactions by your Platform Provider that would constitute a violation of these Terms and Conditions, Meta reserves the right to revoke or withhold any further permissions to provide the Platform Provider with access to any Meta Technology.
+
+c. You are responsible for ensuring that any third party that you engage to exercise your rights or perform obligations under these Terms and Conditions, including Service Providers, comply with these Terms and Conditions. You are responsible for any breach of these Terms and Conditions or violation of applicable law by any such third party, and no third party who is not a party to these Terms and Conditions will have rights as a beneficiary.
+
+**4\. Use Requirements and Restrictions**
+
+a. Meta Pay Interface. You will display the certain graphic interface specified in the Documentation for customers to initiate a Transaction at each point of sale on your Websites.
+
+b. Your Customers
+
+*   You agree and understand that you will (a) enter into a direct contractual relationship with your customer to provide goods or services in exchange for payment or other value to you from the customer, and (b) be responsible for providing such goods or services to the reasonable satisfaction of such customer, including accepting all Transaction liability.
+*   Prior to any initiation of any Transaction, you will provide all disclosures to, and obtain all consents from, each such customer for all actions you take that are necessary, related to, or resulting from your Websites, and all such information that you provide will be accurate, current, complete, supportable, and not misleading.
+
+c. Treatment of Meta Pay. You will not disadvantage or discriminate against Meta relative to other Comparable Platforms with respect to the display and availability of Meta Pay on your Websites. “Comparable Platform” means any software that enables the use of personal electronic devices to make contactless, mobile, or online transactions, including transactions involving or accessing loyalty, rewards, and stored value features.
+
+*   You will display at least equal or substantially similar logo placement, position within any point of sale, and treatment in terms of payment flow, terms, conditions, restrictions, or fees, in each case as compared to other Comparable Platforms at each point of sale on your Websites;
+*   You will not process or decline Transactions, establish transaction, authentication, or other limits applicable to your Websites, or implement, suspend, or discontinue your Websites in a manner that discriminates against Transactions on the basis of their use of Meta Pay; and
+*   You will not add any service use surcharge that is specific to your customer’s use of Meta Pay.
+
+d. Your Websites and Your Content
+
+*   Your Websites do not contain, and will not cause to be installed or introduced on Meta’s computer, telecommunication, or other information systems or any Meta Technology, any viruses, malware, worms, time bombs, Trojan horses, or other harmful, malicious, or destructive code;
+*   If your Websites include or are subject to any open source or other license, you will comply with all applicable licensing terms. No portion of your Websites is or will be subject to any open source or other license that requires any Meta Technology to be disclosed or distributed in source code form, licensed for the making of derivative works, or freely redistributable; and
+*   Your Content (as defined in the [Meta Platform Terms](https://developers.facebook.com/terms/)) (a) does not and will not infringe, misappropriate, or violate any Intellectual Property Rights of Meta or any other third party and (b) is not and will not be subject to any restrictions, liens, security interests, encumbrances or encroachments.
+
+e. Your Use of Meta Pay. You may only use Meta Pay in accordance with these Terms and Conditions and the [Meta Platform Terms](https://developers.facebook.com/terms/) and only in connection with a Transaction. In addition, your use of Meta Pay is expressly conditioned upon your and your Affiliates’ compliance with all of the following requirements:
+
+*   You must not use Meta Pay for activities that violate any applicable law, and you must adhere to the terms of the [Meta Pay Acceptable Use Policy](https://transparency.fb.com/policies/other-policies/meta-pay-acceptable-use-policy).
+*   In connection with Meta Pay, except as otherwise expressly permitted in these Terms and Conditions or otherwise agreed upon with Meta in writing, you and your Affiliates will not, and will not enable or permit others to:
+    *   use, access, integrate with, modify, translate, create derivative works of, reverse engineer, or otherwise exploit any Meta Technology or any aspect thereof;
+    *   sell, sublicense, rent, lease, or otherwise transfer the Meta Technology to any third party;
+    *   create or attempt to create any application or system that is designed to circumvent Meta’s rules and policies;
+    *   create or attempt to create a substitute or similar service of Meta Pay through use of or access to Meta Pay;
+    *   engage in fraud;
+    *   provide false or misleading information;
+    *   refuse to cooperate with Meta’s investigations;
+    *   interfere with security, user interface, user experience, features, or functionality of any Meta Technology; or
+    *   collect donations or otherwise raise funds other than in exchange for goods or services without obtaining Meta’s express written approval.
+
+*   Your Content (as defined in the [Meta Platform Terms](https://developers.facebook.com/terms/)) (a) does not and will not infringe, misappropriate, or violate any Intellectual Property Rights of Meta or any other third party and (b) is not and will not be subject to any restrictions, liens, security interests, encumbrances or encroachments.
+
+f. Taxes. You are solely responsible for all determinations, calculations, collections, withholdings, reporting, and remittance of applicable taxes, including but not limited to sales and use tax, goods and services tax, value-added tax, and other similar taxes (“Applicable Taxes”), duties, fees, surcharges, and additional charges for sales (“Other Fees”) on your products or services. You are solely liable for all liabilities, including but without limitation, any penalties or interest, that may be assessed by taxing jurisdictions as a result of the under remittance or non-remittance of any Taxes and Fees levied on the sales of your products or services.
+
+g. Tax Indemnification. To the extent permitted under applicable law, you agree to defend, indemnify, and hold Meta harmless from any and all claims, liabilities, losses, fines, costs and expenses, including reasonable attorneys’ fees, arising out of or related to Applicable Taxes and Other Fees, including penalties and interest (collectively referred to as “Tax Liabilities”) from the sale of your products or services. You agree that (a) Meta shall have no liability to you or any taxing jurisdiction for such Tax Liabilities; (b) you are solely responsible and liable for payment of any such Tax Liabilities; and (c) you shall not seek any reimbursement from Meta for any Tax Liabilities.
+
+**5\. Marketing; Publicity**
+
+a. No party will issue any press release or otherwise make any public statements or communications with respect to the existence or subject matter of this Agreement or of the parties’ relationship with each other, in each case, without the other party’s prior written consent.
+
+**6\. Intellectual Property**
+
+a. The parties acknowledge that these Terms and Conditions do not give Meta any ownership interest in your Websites; provided, however, Meta retains sole ownership and control over the Meta Technology, including any user-facing components of Meta Pay integrated into your Websites. You will not make any modifications that could change such components without Meta’s approval, which Meta may grant or withhold in Meta’s sole and absolute discretion. If you or your Affiliates become aware of any Claims relating to the Meta Technology, you agree to use reasonable efforts to promptly provide notice of any such Claims to Meta.
+
+b. While Meta may have (a) integrated certain third party materials and technology into Meta Pay, and/or (b) accessed and used certain third party materials and technology to facilitate making Meta Pay available to you, you acknowledge and agree that you have not been granted and do not otherwise retain any rights in or to any such third party materials.
+
+c. There are no implied licenses under these Terms and Conditions. Meta’s license to you in connection with the Meta Pay APIs and your license to Meta in connection with your Marks and your Content will be governed by the [Meta Platform Terms](https://developers.facebook.com/terms/). In addition, Meta hereby grants you a personal, non-exclusive, non-transferable, non-sublicensable, royalty-free, revocable right and license, during the Term, to display and use Meta’s Marks only for the purposes of and in direct connection with your use of Meta Pay as expressly specified in the Documentation. You will only use Meta’s Marks in accordance with Meta’s current trademark usage guidelines (currently available at: [Meta Brand Guidelines](https://www.facebook.com/brand/resources#brand-guidelines-assets)). Meta has the sole discretion to determine whether your attribution and use of Meta’s Marks are in accordance with such guidelines. You acknowledge and agree that any and all goodwill accruing from the use of Meta’s Marks will inure solely to Meta’s and its Affiliates’ benefit.
+
+d. Any rights not expressly granted by Meta under these Terms and Conditions or the Meta Platform Terms are reserved by Meta.
+
+**7\. Information**
+
+a. All information provided by you to Meta in connection with these Terms and Conditions or your Websites will be current, true, accurate, supportable, complete and not misleading. You will promptly notify Meta of any changes to such information. Further, you agree that Meta may share such information (including email address and mailing address) with third parties who have a need to know for purposes related thereto (e.g., Intellectual Property Rights questions, customer service inquiries, etc.).
+
+b. Except as otherwise permitted in writing by Meta, you will not (a) use any Confidential Information of Meta except for exercising your rights and performing your obligations under these Terms and Conditions or (b) disclose any Confidential Information of Meta to any person or entity, other than your employees or Service Providers who have a need to know in connection with these Terms and Conditions and have signed a non-disclosure agreement with terms no less restrictive than in these Terms and Conditions. “Confidential Information” means all technical and non-technical information provided by Meta to you that is either (a) designated as confidential by Meta at the time of disclosure, or (b) should reasonably be considered confidential, given the nature of the information or the circumstances surrounding its disclosure. Notwithstanding the above, all Meta Data and all technical and non-technical information concerning or related to the Meta Technology (including the discovery, invention, research, improvement, development, marketing, or sale thereof) constitute the Confidential Information and property of Meta.
+
+c. The confidentiality restrictions in this Section 7 will not apply to any information that: (a) is rightfully known by you prior to disclosure by Meta; (b) is rightfully obtained by you from a third party without restrictions on disclosure; (c) is disclosed by you with the prior written approval of Meta; or (d) is required by law or court order to be disclosed so long as you provide advance notice to Meta as promptly as possible and cooperate with Meta’s efforts to obtain a protective order regarding such disclosure. Notwithstanding the foregoing, the above exceptions do not apply to the use and disclosure of Meta Data or Meta Technology, all of which may only be used and disclosed as expressly set forth elsewhere in these Terms and Conditions (e.g., the applicable data license and restriction provisions).
+
+d. Subject to Section 8 (Data Privacy), upon termination of these Terms and Conditions, you will promptly destroy or, upon Meta’s request, return the Confidential Information of Meta and all copies thereof, provided that you may retain a single archival copy of Confidential Information if required to do so under applicable law.
+
+e. You agree that monetary damages may not be a sufficient remedy for unauthorized use or disclosure of any Confidential Information of Meta and that Meta will be entitled to equitable relief, without obligation to post any bond.
+
+**8\. Data Privacy**
+
+a. You will (a) provide and maintain clear and complete information to your customers regarding your collection, use, and disclosure of their data (including, at a minimum, a link to your privacy policy from your Websites); (b) protect such data from unauthorized access, use, or disclosure; and (c) comply with all applicable laws, including with respect to any collection, use, or disclosure of such data.
+
+b. Meta and its Affiliates and agents may collect and use technical and usage information from Meta Pay. By accessing or using Meta Pay, you agree that Meta and its Affiliates and agents have your permission to collect and use such information. Further, Meta may collect and use information that would personally identify you, but only if Meta has a good faith belief that such collection and use is reasonably necessary to: (a) provide Meta Pay; (b) comply with legal processes or requests; (c) verify compliance with the terms of the Terms and Conditions; (d) prevent fraud; or (e) protect the rights and safety of Meta, its developers, customers, or the public as required or permitted by law.
+
+c. You will use Meta Data only as required to process the then-current Transaction and perform post-Transaction activities related to processing that Transaction. Except as set forth in the foregoing or with respect to mandatory disclosures to governmental authorities, you will not use, sell, or otherwise disclose Meta Data. Notwithstanding anything to the contrary, you will not aggregate Meta Data.
+
+d. You will encrypt all Meta Data transmitted in connection with your Websites in accordance with industry standards for secure key and protocol negotiation and key management prior to transmission. Meta reserves the right to inspect all encryption methods upon request.
+
+e. You will maintain a comprehensive written information security program that includes technical, physical, and administrative/organizational safeguards designed to (a) ensure the security and confidentiality of Meta Data, (b) protect against any anticipated threats or hazards to the security and integrity of Meta Data, (c) protect against any actual or suspected unauthorized processing, loss, or acquisition of any Meta Data, and (iv) ensure the proper disposal of Meta Data.
+
+f. If you become aware of a Data Breach or any breach of your systems or facilities, or have reason to believe that you might have experienced a Data Breach or any breach of your systems or facilities, you will: (a) immediately notify Meta of such Data Breach, but not more than within forty-eight (48) hours after becoming aware that such Data Breach may have occurred, and (b) will work with Meta security staff to contain, mitigate, and resolve the Data Breach. Such notice will describe when and where the Data Breach occurred, the effect on Meta, its Affiliates, your customers and Meta Data, as applicable, and your corrective action in response to the Data Breach.
+
+g. You will destroy all Meta Data within your possession or control upon the sooner of the time that (a) these Terms and Conditions terminate, or (b) that such Meta Data is no longer required for you to process a Transaction or to perform your obligations under these Terms and Conditions, and you will (x) destroy such data, and any derivative works thereof, within a reasonable period not to exceed ninety (90) days from such time, (y) use industry best practices to ensure that the data cannot be recovered, and (z) upon Meta’s request, certify in writing to Meta that you have met the foregoing obligations.
+
+h. You will cause each of your Service Providers to comply with the obligations set forth in these Terms and Conditions as if each such Service Provider was you under these Terms and Conditions, including with respect to such Service Provider’s personnel, systems, and networks, and the Meta Data it possesses, controls, or can otherwise access in connection with Meta Pay. Upon request, you will provide Meta with a list of all Service Providers to whom any Meta Data has been transmitted. For clarity, such Service Provider must destroy Meta Data within its possession or control in accordance with Section 8.8. Notwithstanding the foregoing, you and your Service Providers may retain such data to the extent required by applicable law and only for so long as required by applicable law. All such retained data will be subject to the confidentiality, data security, and other restrictions and obligations set forth in these Terms and Conditions with respect to such data.
+
+**9\. Term; Termination; Survival**
+
+a. These Terms and Conditions will commence on the date that you accept these Terms and Conditions and will remain in effect until terminated by either party in accordance with this Section 9 (the “Term”).
+
+b. You may stop using Meta Pay at any time with or without such notice to Meta. After you have stopped using Meta Pay and the Meta Pay APIs, you may terminate these Terms and Conditions for your convenience, for any reason or no reason, effective thirty (30) days after providing Meta with written notice of your intent to terminate.
+
+c. Meta may terminate these Terms and Conditions for any reason and at any time without liability or other obligation to you.
+
+d. Except as expressly permitted by Meta, upon termination of these Terms and Conditions, you will immediately (a) cease all use of Meta Pay and erase and destroy all copies, full or partial, of Meta Pay in your or your Affiliates’ possession or control; and (b) cease all use of Meta’s Marks in connection with your performance under these Terms and Conditions.
+
+e. The following Sections will survive any termination of these Terms and Conditions: Sections 3.c, 5, 6.a, 6.d, 7, 8, 9, 10, 11, 12, and 13 and any other terms and provisions which by their nature are intended to survive any termination of these Terms and Conditions.
+
+**10\. Indemnification**
+
+a. You agree that you will notify Meta immediately if you become aware of any actual or potential Claims that could affect your ability to fully comply with these Terms and Conditions.
+
+b. In addition to the indemnification obligations set forth in the other terms and policies referenced in Section 1.d, you agree to indemnify and hold harmless Meta, its Affiliates, and their respective employees, officers, directors, and other representatives (collectively, the “Meta Indemnified Parties”), and where requested defend, from and against any Losses suffered or incurred by any of them in connection with any Claim, where such Claim is based on any of the following: (a) any misuse of Meta Pay or violation of these Terms and Conditions by you or any of your customers, Affiliates, or Service Providers; (b) any Claims regarding any information, goods, or services offered through your Websites; (c) any actual or alleged infringement of any Intellectual Property Rights by your Websites or your Content or images on your Websites (whether alone or as an essential part of a combination); (d) Meta’s permitted use of your Marks and your Content; (e) any violation of applicable law or the rights of any third party by you or any of your Affiliates, customers, and Service Providers; (f) any Data Breach; (g) any actions or omissions by you or any of your Affiliates, customers, and Service Providers resulting in transaction liability to Meta; or (h) any negligent, willful, or reckless acts or omissions, dishonesty, or fraud of or by you or any of your Affiliates, customers, Service Providers, and Platform Providers.
+
+c. The remedies in this Section 10 are not exclusive and do not limit the remedies provided elsewhere in these Terms and Conditions or under applicable law.
+
+**11\. Limitation of Liability; Disclaimers**
+
+a. In addition to the limitations on liability and disclaimers of warranty set forth in the other terms and policies referenced in Section 1.d, you agree and acknowledge that (a) Meta and its Affiliates are not a party to Transactions or disputes between you and your customers; (b) you, or if applicable, your Platform Provider, will be solely responsible for investigating and resolving disputes (including returns and refunds of any goods or services purchased) with your customers; (c) Meta and its Affiliates are not and will not be responsible for any aspect of the products or services you sell; (d) Meta and its Affiliates are not and will not be responsible for the acts of your customers; and (e) Meta’s enablement of a Transaction does not mean that your customer has sufficient funds, that the Transaction will be authorized or processed, or that the Transaction will not later result in a chargeback or other reversal. For clarity, Meta and its Affiliates will not be liable in any event for any unauthorized or failed Transactions.
+
+b. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW AND EXCEPT AS EXPRESSLY SET FORTH IN THESE TERMS AND CONDITIONS, (A) META PAY IS PROVIDED “AS-IS”; (B) META AND ITS AFFILIATES MAKE NO REPRESENTATIONS OR WARRANTIES; AND (C) META AND ITS AFFILIATES HEREBY EXPRESSLY DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, WRITTEN OR ORAL, STATUTORY OR OTHERWISE, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND IMPLIED WARRANTIES OF NON-INFRINGEMENT AND THOSE ARISING FROM THE COURSE OF DEALING OR PERFORMANCE.
+
+c. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, META AND ITS AFFILIATES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES, OR LOST PROFITS OF ANY KIND IN CONNECTION WITH THE TERMS OR THE BREACH OF THE TERMS OR SUBJECT MATTER OF THESE TERMS AND CONDITIONS, REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, EVEN IF INFORMED OF THE POSSIBILITY OF SUCH DAMAGES IN ADVANCE.
+
+d. THE TOTAL LIABILITY OF META AND ITS AFFILIATES, SUPPLIERS, AND DISTRIBUTORS IN CONNECTION WITH OR ARISING OUT OF THESE TERMS AND CONDITIONS WILL NOT EXCEED, CUMULATIVELY AND IN THE AGGREGATE, $50.
+
+**12\. General Legal Terms**
+
+a. Nothing in these Terms and Conditions will impair Meta’s or its Affiliates’ right to develop, acquire, license, market, promote, or distribute products or technologies that perform the same or similar functions as, or otherwise compete with your Websites, products, services, or technologies.
+
+b. The parties will make a good faith effort to settle between themselves any dispute in connection with these Terms and Conditions, but in the event we are unable to do so, such disputes will be resolved in accordance with the Meta Terms of Service.
+
+c. After you agree to these Terms and Conditions, any written notice, request, or communications from Meta to you may be provided via email or mail or via notifications within the Meta Technology (for example, in your account with us). You will keep your contact information current, including name, business name, and email.
+
+d. You may not assign any rights or delegate any obligations under these Terms and Conditions (or any part thereof) without the prior written consent of Meta. Meta may assign its rights or delegate its duties under these Terms and Conditions to any of its Affiliates, or may undergo a change of control resulting in any of its Affiliates obtaining control of it. These Terms and Conditions will bind and inure to the benefit of each party’s permitted successors and assigns.
+
+e. If any portion of these Terms and Conditions is found to be unenforceable, the remaining portion will remain in full force and effect. If we fail to enforce any provision of these Terms and Conditions, it will not be considered a waiver. Any amendment to or waiver of these Terms and Conditions must be made in writing and signed by us.
+
+**13\. Definitions**
+
+Whenever capitalized in these Terms and Conditions:
+
+a. “Affiliates” means an entity which, directly or indirectly, owns or controls, is owned or is controlled by, or is under common ownership or control with a Person. As used herein, “control” means the power to direct the management or affairs of an entity, and “ownership” means the beneficial ownership of 50% or more of the voting equity securities or other equivalent voting interests of the entity;
+
+b. “Claim” means any claim, cause of action, or other legal assertion, brought or threatened to be brought by a third party, or any investigation, examination, or proceeding of a governmental authority, or any request by a third party for reimbursement or compensation;
+
+c. “Data Breach” means any (a) unauthorized access to or use of Meta Data resulting from your or your Service Provider’s breach of the data security obligations set forth in the these Terms and Conditions, or (ii) your or your Service Provider’s misuse of or unauthorized access to Meta Data, including as a result of a breach of any data use obligations or restrictions;
+
+d. “Documentation” means any technical or other specifications or documentation that Meta may provide to you for use in connection with the Meta Pay APIs;
+
+e. “Meta Data” means (a) all data or information about a customer or Transaction, including personally identifiable information or personal financial information, collected, generated, derived, accessed, used, or processed in connection with Meta Pay; and (b) data and information provided by or on behalf of Meta to you through use of your technology, including your Websites, or Meta Technology;
+
+f. “Meta Pay” means the payment platform that utilizes Meta Technology to enable end-users to make payments using credit, debit, and prepaid cards and other physical, digital, or virtual payment cards, credentials, or account access devices and access other related services using Meta Technology designated by Meta or its Affiliates, as the same may be modified, rebranded, or substituted from time;
+
+g. “Meta Pay APIs” means the application programming interface(s) published by Meta or its Affiliates (including any updates to or subsequent versions thereof) that enable end-users to initiate payment transactions using Meta Pay from a Website, and include other payment-related functionality as described in the Documentation;
+
+h. “Meta Technology” means the features, services and products, including mobile versions and mobile applications thereof, that Meta or its Affiliates make available through: (a) their respective websites, including the website currently available at [www.meta.com](https://about.facebook.com/), and any branded or co-branded website (including any and all sub-domains, international versions, applications, widgets, mobile versions, mobile apps and successors thereof); and (b) any or all of Meta’s or its Affiliates’ hardware, software, websites, services, or other products of any type, whether presently existing or later developed, that are developed or marketed, in whole or in part, by or for Meta or any of its Affiliates. For clarity, Meta Technology includes Meta Pay, the Meta Pay APIs, and any Updates Meta may make available to you under these Terms and Conditions;
+
+i. “Intellectual Property Rights” means any and all right, title, and interest in and to any and all trade secrets, patents, copyrights, service marks, trademarks, know-how, trade names, rights in trade dress and packaging, moral rights, rights of privacy, publicity and similar rights of any type, including any applications, continuations or other registrations with respect to any of the foregoing, under the laws or regulations of any foreign or domestic governmental, regulatory, or judicial authority;
+
+j. “Marks” means, with respect to a specified Person, the trade names, trademarks, service marks, logos, domain names, and other distinctive brand features, graphic images and icons owned, licensable, or used by the Person;
+
+k. “Platform Provider” means any e-commerce platform provider engaged to develop and test Websites on behalf of you or your Affiliates;
+
+l. “Transaction” means any payment transaction initiated using Meta Pay from or through your Websites;
+
+m. “Websites” means an e-commerce website or mobile application owned, operated, or developed by you or on your behalf that integrates with Meta Pay.
+
+- - -
+
 Community Payments Terms
 
 Last updated: September 15, 2025
@@ -280,3 +477,38 @@ If you are an Alaska resident with questions regarding formal complaints, please
     
     8.  Meta Platforms, Inc. may designate other legal entity(s) to collect funds from and provide certain related services in its (their) own name to certain users on behalf of Meta Platforms, Inc. Meta Platforms, Inc. may also designate Meta Platforms Ireland Limited or other legal entity(s) as an intermediary / platform operator for VAT/GST purposes (and other similar taxes as determined) to the extent legally permissible under applicable tax regulations, to authorize the charge to users, issue invoices to users, and collect payment from certain users relating to the delivery of certain products/services. Meta Platforms, Inc. may also designate Meta Platforms Ireland Limited or other legal entity(s) as the responsible party(s) to charge, collect, report and remit applicable VAT/GST (and other similar taxes as determined) on the supplies of certain products/services to users to tax authorities in the relevant jurisdictions.
 6.  "Meta-Processed Payments". As used in these Payments Terms, "Meta-Processed Payments" refers to payment transactions initiated through the Meta Products and processed by Meta Payments Inc. or Facebook Payments International Ltd. Meta-Processed Payments includes, P2P in the US, and certain payments to developers for digital goods through the Meta Products.
+
+- - -
+
+Terms and Policies
+
+BUSINESS
+--------
+
+Commerce
+========
+
+### Overview
+
+Commerce content refers to any attempt to buy, sell, or trade products - even for free - on Facebook, Instagram, WhatsApp, or Messenger services designed for commerce – including, but not limited to, , , and . Products sold or offered for sale, or traded or offered for trade, on these services or features must comply with our Commerce Policies. Additionally, commerce content on Facebook and Messenger, and commerce content on Instagram must comply respectively with Facebook's and Instagram's . Commerce content on WhatsApp must comply with the . Buyers, sellers, and traders are also responsible for complying with that apply to the use of our products, and all applicable laws and regulations. Failure to comply with our policies or the law may result in a variety of consequences, including, but not limited to, rejection or removal of listings and other content, rejection or removal of product tags, or suspension or termination of access to any or all Facebook, Instagram, WhatsApp, or Messenger commerce services or features. If you repeatedly post commerce content that violates our policies, we may take additional action on your account.  
+  
+Facebook Marketplace is intended for consumer-to-consumer sales. Businesses and individuals acting in a business or commercial capacity in the European Economic Area (EEA), Philippines and India, may be subject to restrictions, including suspension of access to Marketplace and/or removal of their Marketplace listings if they attempt to sell on Marketplace.
+
+### Steps to Take if Disapproved
+
+#### Appeal the Decision
+
+If your commerce content has been rejected or removed for violating our Commerce Policies and you feel it was a mistake, you can request a review by following these steps for , or these steps for products in your (availabe on Instagram, Facebook, Messenger and WhatsApp Business), and we'll take another look.
+
+### Prohibited Content
+
+21.  Commerce content may not promote the buying, or selling, or trading of tobacco products or tobacco paraphernalia.  
+     
+22.  Commerce content may not promote the buying, selling, or trading of cosmetics that have been used, or that are not sold in their original packaging.  
+     
+23.  Commerce content may not promote the buying, selling, or trading of certain vehicle parts and accessories.  
+     
+
+### Restricted Content
+
+* * *
