@@ -1670,3 +1670,33 @@ We’re investing so much in this space because we believe it provides benefits 
 Whether you use Meta Products or not, anyone can submit requests related to their personal information from third parties being used to develop and improve AI at Meta. [Learn more and submit requests here.](https://www.facebook.com/help/contact/1266025207620918)
 
 We see many possibilities ahead for people, creators and businesses to use generative AI. We’re excited to see this technology come this far but know that there’s more to do in the future. Generative AI is a fast-moving space and we are committed to staying transparent as this technology evolves.
+
+- - -
+
+Meta AI Verification Terms
+==========================
+
+UPDATED JUL 31, 2025
+
+These AI Verification Terms supplement [Meta’s AI Terms of Service](https://www.facebook.com/legal/ai-terms) and [Meta’s AI Disclosures](https://transparency.meta.com/policies/other-policies/meta-AI-disclosures).
+
+When you provide photos of yourself to improve your AI Images from Meta AI, Meta uses artificial intelligence (“AI”) technology to compare the provided photos with the live photos that you took of yourself during the initial setup to verify that they are of the same person. To work, the AI technology transforms the provided photos and live photos into embeddings representing your visual characteristics and compares the embeddings to verify that they were generated from photos of the same person. The embeddings will be used solely for this purpose and will be deleted within just a few seconds of creation.
+
+By providing photos to improve your AI Images from Meta AI, you represent, warrant and agree that the photos that you provide are of you and do not include or otherwise incorporate any other person(s). You further expressly waive and release any claim that might be brought by you or on your behalf against Meta or any Meta affiliate alleging that these AI Verification Terms or the conduct described herein fail to comply with or otherwise violate in any respect the Illinois Biometric Information Privacy Act, 740 ILCS 14, or the Texas Capture or Use of Biometric Identifier Act, Tex. Bus. & Com. Code § 503. If any aspect of this Paragraph is deemed invalid or unenforceable, that aspect shall be severed and not affect the validity or enforceability of any other aspect.
+
+- - -
+
+AI Disclosures
+==============
+
+UPDATED JUL 22, 2024
+
+These AI Disclosures supplement [Meta’s AI Terms of Service](https://www.facebook.com/policies/other-policies/ais-terms).
+
+Creating images of yourself using Meta AI, uses artificial intelligence (“AI”) technology, developed by Meta, that allows you to generate and share imagined photos of yourself in, for example, different contexts and settings. To work, each time an image is generated, the AI technology transforms images of yourself that you provide into an embedding representing your visual characteristics and uses the embedding to generate images that may look similar to you (“Generated Image”). This technology is not facial recognition. The embedding, which cannot be used to identify you, will be deleted within just a few seconds of its creation.
+
+When you create images of yourself with Meta AI, Meta may use the images you provide and other information (for example, your prompt instruction) in accordance with [Meta’s Privacy Policy](https://www.facebook.com/privacy/policy/), including to (a) evaluate how well the AI technology performed or (b) perform other business obligations, such as fulfilling any compliance obligations. When you share the Generated Image with other users, your prompt may also be shared with those users.
+
+By creating images of yourself with Meta AI, you represent, warrant and agree that the images that you provide are of you and do not include or otherwise incorporate any other person(s). **You further expressly waive and release any claim that might be brought by you or on your behalf against Meta or any Meta affiliate alleging that these AI Disclosures or the conduct described herein fail to comply with or otherwise violate in any respect the Illinois Biometric Information Privacy Act, 740 ILCS 14, or the Texas Capture or Use of Biometric Identifier Act, Tex. Bus. & Com. Code § 503. If any aspect of this Paragraph is deemed invalid or unenforceable, that aspect shall be severed and not affect the validity or enforceability of any other aspect.**
+
+By creating images of yourself with Meta AI, you agree to the use of AI technology, and to the collection and use of your information as described above. You can always choose not to use these features and such information will not be collected and used. Similarly, you can disable the feature at any time by deleting the photos of yourselfthat you provided. You can do so by going to Meta AI settings on [Instagram](https://help.instagram.com/814837257408912?ref=learn_more), [WhatsApp](https://faq.whatsapp.com/1892120137920091), or [Messenger](https://www.facebook.com/help/messenger-app/776548234657946?ref=learn_more).
