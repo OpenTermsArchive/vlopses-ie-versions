@@ -1678,7 +1678,7 @@ Meta AI Verification Terms
 
 UPDATED JUL 31, 2025
 
-These AI Verification Terms supplement [Meta’s AI Terms of Service](https://www.facebook.com/legal/ai-terms) and [Meta’s AI Disclosures](https://transparency.meta.com/policies/other-policies/meta-AI-disclosures).
+These AI Verification Terms supplement [Meta’s AI Terms of Service](https://www.facebook.com/legal/ai-terms) and [Meta’s AI Disclosures](https://transparency.meta.com/policies/other-policies/meta-AI-disclosures/).
 
 When you provide photos of yourself to improve your AI Images from Meta AI, Meta uses artificial intelligence (“AI”) technology to compare the provided photos with the live photos that you took of yourself during the initial setup to verify that they are of the same person. To work, the AI technology transforms the provided photos and live photos into embeddings representing your visual characteristics and compares the embeddings to verify that they were generated from photos of the same person. The embeddings will be used solely for this purpose and will be deleted within just a few seconds of creation.
 
