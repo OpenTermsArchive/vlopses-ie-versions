@@ -342,7 +342,7 @@ Complaints about Pinterest’s implementation of measures under the Online Safet
 
 We have implemented a number of measures to protect teens and the general public from harmful online content. While we strive for a seamless experience, we understand that issues may sometimes arise. If you are a user in the EU and have concerns about the parental controls or reporting and flagging mechanisms that we have implemented, you have a right to make a complaint to Pinterest under the Online Safety Code.
 
-To submit a complaint, please contact us at our dedicated email address: ireland-osc-poc \[at\] pinterest.com (ireland-osc-poc\[at\]pinterest\[dot\]com).
+To submit a complaint, please contact us at our dedicated email address: ireland-osc-poc \[at\] pinterest.com.
 
 When making a complaint, please specify whether your complaint relates to our (1) parental controls or (2) reporting and flagging mechanisms. This will help us to review and address your concerns more efficiently.
 
@@ -399,7 +399,7 @@ Complaints about Pinterest’s implementation of measures under the Online Safet
 
 We have implemented a number of measures to protect teens and the general public from harmful online content. While we strive for a seamless experience, we understand that issues may sometimes arise. If you are a user in the EU and have concerns about the parental controls or reporting and flagging mechanisms that we have implemented, you have a right to make a complaint to Pinterest under the Online Safety Code.
 
-To submit a complaint, please contact us at our dedicated email address: ireland-osc-poc \[at\] pinterest.com (ireland-osc-poc\[at\]pinterest\[dot\]com).
+To submit a complaint, please contact us at our dedicated email address: ireland-osc-poc \[at\] pinterest.com.
 
 When making a complaint, please specify whether your complaint relates to our (1) parental controls or (2) reporting and flagging mechanisms. This will help us to review and address your concerns more efficiently.
 
