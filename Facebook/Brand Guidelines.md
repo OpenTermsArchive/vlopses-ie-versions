@@ -21,9 +21,9 @@ Our logo has evolved over time, building on our past heritage, using an 'f' with
 
   
 
-Something went wrong
+Something Went Wrong
 
-We're having trouble with playing this video.
+We're having trouble playing this video.
 
 [Learn more](https://www.facebook.com/help/396404120401278/list)
 
