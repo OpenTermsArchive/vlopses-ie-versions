@@ -304,7 +304,7 @@ We collect device information like:
 
 13
 
-Identifiers we collect include device IDs, mobile advertiser ID or IDs from games, apps or accounts you use. We also collect Family Device IDs or other identifiers unique to [Meta Company Products](https://www.facebook.com/legal/meta-company-products?entry_point=POLICY_ANNOTATION%3A1.ex.26-IdentifiersThatTellYour) associated with the same device or account.
+Identifiers we collect include device IDs, mobile advertiser ID or IDs from games, apps or accounts you use. We also collect Family Device IDs or other identifiers unique to [Meta Company Products](https://www.facebook.com/help/195227921252400?ref=dp&entry_point=POLICY_ANNOTATION%3A1.ex.26-IdentifiersThatTellYour) associated with the same device or account.
 
 14
 
@@ -1163,7 +1163,7 @@ Highlights
 *   We do this to make new features or shared experiences between different products.
 *   We also share information, like your name and email address, to help verify your accounts, and check out suspicious activities. This helps us keep your accounts safe.
 
-We are part of the [Meta Companies](https://www.facebook.com/help/111814505650678?entry_point=POLICY_SECTION%3A5-HowDoTheMeta) that provide Meta Company Products. [Meta Company Products](https://www.facebook.com/legal/meta-company-products?entry_point=POLICY_SECTION%3A5-HowDoTheMeta) include all the [Meta Products\[59\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A5-HowDoTheMeta#annotation-59) covered by this Policy, plus other products like WhatsApp and more.
+We are part of the [Meta Companies](https://www.facebook.com/help/111814505650678?entry_point=POLICY_SECTION%3A5-HowDoTheMeta) that provide Meta Company Products. [Meta Company Products](https://www.facebook.com/help/195227921252400?entry_point=POLICY_SECTION%3A5-HowDoTheMeta) include all the [Meta Products\[59\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A5-HowDoTheMeta#annotation-59) covered by this Policy, plus other products like WhatsApp and more.
 
 We share information we collect, infrastructure, systems and technology with the other Meta Companies. [Learn more](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A5-HowDoTheMeta#9-HowDoWeTransfer) about how we transfer information to other countries.
 
@@ -1678,7 +1678,7 @@ Meta AI Verification Terms
 
 UPDATED JUL 31, 2025
 
-These AI Verification Terms supplement [Meta’s AI Terms of Service](https://www.facebook.com/legal/ai-terms) and [Meta’s AI Disclosures](https://transparency.meta.com/policies/other-policies/meta-AI-disclosures/).
+These AI Verification Terms supplement [Meta’s AI Terms of Service](https://www.facebook.com/legal/ai-terms) and [Meta’s AI Disclosures](https://transparency.meta.com/policies/other-policies/meta-AI-disclosures).
 
 When you provide photos of yourself to improve your AI Images from Meta AI, Meta uses artificial intelligence (“AI”) technology to compare the provided photos with the live photos that you took of yourself during the initial setup to verify that they are of the same person. To work, the AI technology transforms the provided photos and live photos into embeddings representing your visual characteristics and compares the embeddings to verify that they were generated from photos of the same person. The embeddings will be used solely for this purpose and will be deleted within just a few seconds of creation.
 
