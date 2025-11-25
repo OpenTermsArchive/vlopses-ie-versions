@@ -1,7 +1,7 @@
 YouTube Data Processing Terms
 =============================
 
-#### Effective as of November 24, 2020 ([view previous version](https://www.youtube.com/t/terms_dataprocessing?archive=20200131))
+#### November 24, 2020 tarihinden itibaren geçerli ([önceki sürümü görüntüle](https://www.youtube.com/t/terms_dataprocessing?archive=20200131))
 
 We have updated our YouTube Data Processing Terms on November 24 2020 to address a recent ruling of the Court of Justice of the European Union on data transfers.
 
