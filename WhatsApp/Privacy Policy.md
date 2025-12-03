@@ -1022,15 +1022,15 @@ Ireland
 EU-U.S. and Swiss-U.S. Data Privacy Frameworks Disclosure for WhatsApp LLC
 ==========================================================================
 
-Last Updated: February 15, 2024
+Last Updated: December 3, 2025
 
 WhatsApp LLC (“WhatsApp”) has certified our participation in the EU-U.S. Data Privacy Framework and the Swiss-U.S. Data Privacy Framework (collectively, the [“DPF"](https://www.dataprivacyframework.gov/s/)) with the U.S. Department of Commerce.
 
 This certification relates to WhatsApp's processing of personal information received from the European Economic Area (“EEA”) and Switzerland under the DPF in connection with our [certification](https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt00000011sfnAAA&status=Active). If there is any conflict between the terms in this disclosure and the DPF Principles, the Principles shall govern. To learn more about the DPF, or to review our [certification](https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt00000011sfnAAA&status=Active) on the DPF list, visit the [DPF website](https://www.dataprivacyframework.gov/s/).
 
-**What this disclosure covers.** WhatsApp follows the DPF for all personal information received from the EEA or Switzerland under the DPF in relation to the services offered by WhatsApp Ireland Ltd. (this includes WhatsApp Services, as defined in the [Privacy Policy](https://www.whatsapp.com/legal/privacy-policy-eea), Channels and WhatsApp Business Services, as defined in the [Business Terms of Service](https://www.whatsapp.com/legal/business-terms)):
+**What this disclosure covers.** WhatsApp follows the DPF for all personal information received from the EEA or Switzerland under the DPF in relation to the services offered by WhatsApp Ireland Ltd. (this includes WhatsApp Services, as defined in the [Privacy Policy](https://www.whatsapp.com/legal/privacy-policy-eea), [supplemental privacy policies](https://www.whatsapp.com/legal/supplemental-privacy-policies-eea/) and WhatsApp Business Services, as defined in the [Business Terms of Service](https://www.whatsapp.com/legal/business-terms)):
 
-*   WhatsApp Services and Channels: For WhatsApp Services and Channels, please see the [Privacy Policy](https://www.whatsapp.com/legal/privacy-policy-eea) and [Channels Supplemental Privacy Policy](https://www.whatsapp.com/legal/channels-privacy-policy-eea) for details about:  
+*   WhatsApp Services: For WhatsApp Services, please see the [Privacy Policy](https://www.whatsapp.com/legal/privacy-policy-eea) and [supplemental privacy policies](https://www.whatsapp.com/legal/supplemental-privacy-policies-eea/) for details about:  
     *   The types of personal information processed
     *   The purposes for which personal information is processed
     *   The types of third parties to which personal information is disclosed
