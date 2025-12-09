@@ -2633,9 +2633,6 @@ Payments
 8.  Unless the conditions described in Section 3 apply, developers of Play-distributed apps requiring or accepting payment from users in these [countries/regions](https://support.google.com/googleplay/android-developer/answer/13821247) for access to in-app purchases may offer users an alternative billing system within the app, alongside Google Play's billing system for those transactions if they successfully complete the billing declaration form for each respective programme and agree to the additional terms and [programme requirements](https://support.google.com/googleplay/android-developer/answer/12570971) included therein.
     
 
-9.  Developers of Play-distributed apps may lead users in the European Economic Area (EEA) outside the app, including to promote offers for digital in-app features and services. Developers who lead EEA users outside the app must successfully complete the [declaration form](https://support.google.com/googleplay/android-developer/contact/external_offers_program) for the programme and agree to the additional terms and [programme requirements](https://support.google.com/googleplay/android-developer/answer/14372887) included therein.
-    
-
 **Note:** To view timelines and frequently asked questions regarding this policy, please visit our [Help Centre](https://support.google.com/googleplay/android-developer/answer/10281818).
 
 * * *
