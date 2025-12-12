@@ -358,29 +358,29 @@ Feb 9, 2024
 
 Dec 30, 2023
 
-Aug 30, 2023
+Aug 29, 2023
 
-Apr 28, 2023
+Apr 27, 2023
 
 Dec 24, 2021
 
 Nov 25, 2021
 
-Oct 16, 2021
+Oct 15, 2021
 
-Aug 27, 2021
+Aug 26, 2021
 
-Jun 24, 2021
+Jun 23, 2021
 
-Oct 23, 2020
+Oct 22, 2020
 
-Aug 28, 2020
+Aug 27, 2020
 
 Feb 28, 2020
 
-Oct 11, 2019
+Oct 10, 2019
 
-Sep 28, 2019
+Sep 27, 2019
 
 Dec 29, 2018
 
@@ -908,65 +908,65 @@ CHANGE LOG
 
 Today
 
-May 14, 2025
+May 15, 2025
+
+Feb 28, 2025
 
 Feb 27, 2025
 
-Feb 26, 2025
+Jun 27, 2024
 
-Jun 26, 2024
+Dec 1, 2023
 
-Nov 30, 2023
+Jul 28, 2023
 
-Jul 27, 2023
+Apr 28, 2023
 
-Apr 27, 2023
+Dec 23, 2022
 
-Dec 22, 2022
+Oct 28, 2022
 
-Oct 27, 2022
+Dec 24, 2021
 
-Dec 23, 2021
+Nov 25, 2021
 
-Nov 24, 2021
+Oct 1, 2021
 
-Sep 30, 2021
+Aug 27, 2021
 
-Aug 26, 2021
+Jul 30, 2021
 
-Jul 29, 2021
+Jan 29, 2021
 
-Jan 28, 2021
+Sep 25, 2020
 
-Sep 24, 2020
+Jul 31, 2020
 
-Jul 30, 2020
+Jun 23, 2020
 
-Jun 22, 2020
+May 1, 2020
 
-Apr 30, 2020
+Dec 1, 2019
 
-Nov 30, 2019
+Oct 11, 2019
 
-Oct 10, 2019
+Sep 25, 2019
 
-Sep 24, 2019
+Sep 4, 2019
 
-Sep 3, 2019
+Jul 31, 2019
 
-Jul 30, 2019
+Jul 25, 2019
 
-Jul 24, 2019
+Jul 2, 2019
 
-Jul 1, 2019
+Apr 27, 2019
 
-Apr 26, 2019
+Mar 21, 2019
 
-Mar 20, 2019
+Dec 1, 2018
 
-Nov 30, 2018
-
-Aug 31, 2018
+Sep 1, 2018
 
 Policy Rationale
 
@@ -3910,37 +3910,37 @@ CHANGE LOG
 
 Today
 
-May 14, 2025
+May 15, 2025
 
-Oct 2, 2024
+Oct 3, 2024
 
-Aug 29, 2024
+Aug 30, 2024
 
-Feb 29, 2024
+Mar 1, 2024
 
-Dec 5, 2023
+Dec 6, 2023
 
-Nov 23, 2022
+Nov 24, 2022
 
-Dec 23, 2021
+Dec 24, 2021
 
-Nov 24, 2021
+Nov 25, 2021
 
-Oct 28, 2021
+Oct 29, 2021
 
-Feb 25, 2021
+Feb 26, 2021
 
-Nov 18, 2020
+Nov 19, 2020
 
-May 28, 2020
+May 29, 2020
 
-Aug 26, 2019
+Aug 27, 2019
 
-Jul 30, 2019
+Jul 31, 2019
 
-Dec 28, 2018
+Dec 29, 2018
 
-Oct 15, 2018
+Oct 16, 2018
 
 Policy Rationale
 
@@ -4228,9 +4228,9 @@ CHANGE LOG
 
 Today
 
-Oct 9, 2024
+Oct 10, 2024
 
-Jul 31, 2024
+Aug 1, 2024
 
 Policy Rationale
 
@@ -4568,77 +4568,52 @@ CHANGE LOG
 
 Today
 
-Oct 3, 2024
+Dec 11, 2025
 
-Jul 19, 2024
+Oct 2, 2024
 
-Apr 26, 2022
+Jul 18, 2024
 
-Dec 18, 2020
+Apr 25, 2022
 
-Nov 8, 2019
+Dec 17, 2020
 
-Oct 11, 2019
+Nov 7, 2019
+
+Oct 10, 2019
 
 Policy Rationale
 
-In line with our commitment to authenticity, we don't allow people to misrepresent themselves on our services, use fake accounts, artificially boost the popularity of content, or engage in behaviors designed to enable other violations under our Community Standards. Inauthentic Behavior refers to a variety of complex forms of deception, performed by a network of inauthentic assets controlled by the same individual or individuals, with the goal of deceiving Meta or our community or to evade enforcement under the Community Standards.
+Inauthentic Behavior refers to a variety of complex forms of deception, performed by a network of inauthentic assets controlled by the same individual or individuals, with the goal of deceiving Meta or our community or to evade enforcement under the Community Standards.
 
-Where adversarial threat actors use fake accounts to engage in sophisticated Inauthentic tactics in order to influence public debate - they engage in what we’ve defined as Coordinated Inauthentic Behavior - or coordinated efforts to manipulate public debate for a strategic goal, in which fake accounts are central to the operation. This violating behavior receives a more severe and often bespoke response, in keeping with their more substantial and sophisticated efforts to deceive. Whenever possible, we share our findings about networks of Coordinated Inauthentic Behavior in our Quarterly Adversarial Threat Reports, found [here](https://transparency.fb.com/en-gb/metasecurity/threat-reporting). These reports are not meant to cover the entire universe of enforcements under the Inauthentic Behavior policy, but help inform our community’s understanding of the evolving nature of threats we face in this space.
+Where adversarial threat actors use false identities to engage in sophisticated forms of Inauthentic Behavior, they engage in what we’ve defined as Coordinated Inauthentic Behavior (CIB).
 
-While Inauthentic Behavior is often associated with civic or political content, and we are committed to preventing Inauthentic Behavior in the context of elections - these enforcement actions and standards apply agnostic of content, political or otherwise. This policy is intended to protect the authenticity of debate and discussion on our services, and create a space where people can trust the people and communities they interact with.
+These enforcement actions and standards apply agnostic of content or ideology and are designed to create a space where people can trust the people and communities they interact with.
+
+When we identify these networks, we remove the fake accounts, Pages, Groups, or other Meta assets directly involved in the operation. In cases where these people also create, manage, co-opt, target, or control Pages, Groups or communities that represent authentic entities not involved in the violating behavior, we may take steps to remove the violating individuals but allow the uninvolved people and communities to remain on our services.
+
+Whenever possible, we share our findings about networks of CIB in our Adversarial Threat Reports, found here. These reports are not meant to cover the entire universe of enforcements under the Inauthentic Behavior policy, but help inform our community’s understanding of the evolving nature of threats we face in this space.
 
 We do not allow:
 
-*   The creation, use, or claimed use of Inauthentic Meta Assets (Accounts, Pages, Groups, etc.) in order to:
-    
-    *   Deceive Meta or our users about:
-        
-    
-    *   The identity, purpose, or origin of an audience or the entity that they represent; or
-        
-    *   the popularity of content or assets on our services; or
-        
-    *   a Meta asset’s ownership or control network.
-        
-    
-    *   To Evade enforcement under the Community Standards.
-        
-    *   Misuse Meta reporting systems to harass, intimidate or silence others.
-        
+The creation, use, or claimed use of Inauthentic Meta Assets (Accounts, Pages, Groups, etc.) in order to:
+
+*   Deceive Meta or our users about the identity, or origin of an audience or the entity that they represent
     
 
-*   Engaging in complex deception through the use of Meta Assets, including:
+*   To Evade enforcement under the Community Standards.
     
-    *   **Inauthentic Distribution:** Using a connected network of inauthentic Meta assets to increase the distribution of content, in order to mislead Meta or its users about the popularity of the content in question.
-        
-    *   **Inauthentic Audience Building:** Using inauthentic Meta assets to increase the viewership or following of network assets, in order to mislead Meta or its users about the origin, ownership or purpose of an asset or assets.
-        
-    *   **Foreign Inauthentic Behavior:** Foreign entities using Inauthentic Meta assets to falsely represent a domestic or local voice, in order to deceive an audience about the identity, purpose or origin of the entity they represent.
-        
-    *   **Inauthentic Engagement:** Using a connected network of inauthentic Meta assets to deliver substantial quantities of fake engagement in ways designed to look authentic, in order to deceive Meta and its users about the popularity of content.
-        
-    *   **Substantially Similar Deceptions:** Other substantially similar claimed or actual efforts by relatively sophisticated, connected networks of inauthentic Meta assets to deceive Meta or its users about the origin, popularity, or purpose of content.
-        
+*   Misuse Meta reporting systems to harass, intimidate or silence others.
     
 
 For the following Community Standards, we require additional information and/or context to enforce:
 
 We do not allow:
 
-*   Entities to engage in, or claim to engage in **Coordinated Inauthentic Behavior**, defined as particularly sophisticated forms of Inauthentic Behavior where inauthentic accounts are central to the operation and operators:
-    
-    *   Use adversarial methods to evade detection or appear authentic; and
-        
-    *   Use a variety of adversarial and inauthentic techniques to achieve overarching strategic objectives; and
-        
-    *   Primarily seek to manipulate public debate.
-        
+*   Entities to engage in, or claim to engage in **Coordinated Inauthentic Behavior**, defined as particularly sophisticated forms of Inauthentic Behavior where false identities are central to the operation and operators use adversarial methods to evade detection or appear authentic; and
     
 
-*   Entities to engage in, or claim to engage in **Foreign Interference**, defined as Coordinated Inauthentic Behavior where the network operators are not located in the same country as the audience the operation targets.
-    
-*   Entities to engage in, or claim to engage in **Government Interference**, defined as Coordinated Inauthentic Behavior where the operation is attributable to a government actor.
+*   Entities to engage in, or claim to engage in Foreign Interference, defined as Coordinated Inauthentic Behavior where the network operators are not located in the same country as the audience the operation targets
     
 *   Governments that have instituted sustained blocks of social media to use their official departments, agencies, and embassies to deny the use of force or violent events in the context of an attack against the territorial integrity of another state in violation of Article 2(4) of the UN charter.
     
@@ -5187,7 +5162,7 @@ CHANGE LOG
 
 Today
 
-Jun 26, 2024
+Jun 27, 2024
 
 Policy Rationale
 
