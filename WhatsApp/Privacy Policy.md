@@ -1022,7 +1022,7 @@ Ireland
 EU-U.S. and Swiss-U.S. Data Privacy Frameworks Disclosure for WhatsApp LLC
 ==========================================================================
 
-Last Updated: December 3, 2025
+Effective December 3, 2025
 
 WhatsApp LLC (“WhatsApp”) has certified our participation in the EU-U.S. Data Privacy Framework and the Swiss-U.S. Data Privacy Framework (collectively, the [“DPF"](https://www.dataprivacyframework.gov/s/)) with the U.S. Department of Commerce.
 
