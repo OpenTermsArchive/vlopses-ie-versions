@@ -718,9 +718,9 @@ To find out more, please visit our [Help Centre](https://support.google.com/goog
 Families self-certified ads SDK policy
 ======================================
 
-Please note that the Google Play Families Self-Certified Ads SDK Program is currently not accepting new applicants. The application window will reopen and guidelines will be announced here at a later date. 
+Please note that the Google Play Families Self-Certified Ads SDK Programme is currently not accepting new applicants. The application window will reopen and guidelines will be announced here at a later date. 
 
-Current participants and their program compliance requirements will remain unchanged.
+Current participants and their programme compliance requirements will remain unchanged.
 
 Google Play is committed to building a safe experience for children and families. A key part of this is to help ensure that children only see ads that are appropriate for their age and that their data is handled appropriately. To achieve this goal, we require ads SDKs and mediation platforms to self-certify that they are appropriate for children and compliant with [Google Play Developer Programme Policies](https://play.google.com/about/developer-content-policy/) and [Google Play Families policies](https://support.google.com/googleplay/android-developer/answer/9893335), including [Families Self-Certified Ads SDK Programme requirements](https://support.google.com/googleplay/android-developer/answer/9900633).
 
