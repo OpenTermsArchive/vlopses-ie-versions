@@ -260,9 +260,9 @@ The app is missing a link to manage and cancel subscriptions in the account set
 Families self-certified ad SDK programme
 ========================================
 
-Please note that the Google Play Families Self-Certified Ads SDK Program is currently not accepting new applicants. The application window will reopen and guidelines will be announced here at a later date. 
+Please note that the Google Play Families Self-Certified Ads SDK Programme is currently not accepting new applicants. The application window will reopen and guidelines will be announced here at a later date. 
 
-Current participants and their program compliance requirements will remain unchanged.
+Current participants and their programme compliance requirements will remain unchanged.
 
 If you serve ads in your app, and the target audience for your app only includes children as described in the [Families policy](https://support.google.com/googleplay/android-developer/answer/9893335), then you must only use ads SDK versions that have self-certified compliance with Google Play policies, including the Families Self-Certified Ads SDK requirements below.
 
