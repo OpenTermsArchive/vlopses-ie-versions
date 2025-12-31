@@ -1633,7 +1633,8 @@ In addition to the above, restricted permissions are permissions that are design
 
 Certain restricted permissions may be subject to additional requirements as detailed below. The objective of these restrictions is to safeguard user privacy. We may make limited exceptions to the requirements below in very rare cases where apps provide a highly compelling or critical feature, and where there is no alternative method available to provide the feature. We evaluate proposed exceptions against the potential privacy or security impacts on users.
 
-### SMS and call log permissions
+SMS and call log permissions
+----------------------------
 
 SMS and call log permissions are regarded as personal and sensitive user data subject to the [personal and sensitive Information](https://support.google.com/googleplay/android-developer/answer/9888076#personal_sensitive) policy, and the following restrictions:
 
@@ -1646,7 +1647,8 @@ Apps lacking default SMS, Phone or Assistant handler capability may not declare 
 
 Apps may only use the permission (and any data derived from the permission) to provide approved core app functionality. Core functionality is defined as the main purpose of the app. This may include a set of core features, which must all be prominently documented and promoted in the app’s description. Without the core feature(s), the app is 'broken' or rendered unusable. The transfer, sharing or licensed use of this data must only be for providing core features or services within the app, and its use may not be extended for any other purpose (for example, improving other apps or services, advertising or marketing purposes). You may not use alternative methods (including other permissions, APIs or third-party sources) to derive data attributed to call log- or SMS-related permissions.
 
-### Location permissions
+Location permissions
+--------------------
 
 [Device location](https://developer.android.com/training/location) is regarded as personal and sensitive user data subject to the [Personal and sensitive information](https://support.google.com/googleplay/android-developer/answer/9888076#personal_sensitive) policy and the [Background location policy](https://support.google.com/googleplay/android-developer/answer/9799150?hl=en-GB#zippy=), and the following requirements:
 
@@ -1664,7 +1666,8 @@ Apps designed specifically for children must comply with the [Designed for Famil
 
 For more information on the policy requirements, please see [this help article](https://support.google.com/googleplay/android-developer/answer/9799150?hl=en-GB&ref_topic=2364761).
 
-### All files access permission
+All files access permission
+---------------------------
 
 Files and directory attributes on a user’s device are regarded as personal and sensitive user data subject to the [personal and sensitive information](https://support.google.com/googleplay/android-developer/answer/9888076/) policy and the following requirements:
 
