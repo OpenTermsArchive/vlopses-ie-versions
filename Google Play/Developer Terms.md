@@ -848,7 +848,7 @@ To make a request for data that you do not believe is already available via Play
 Developer Programme Policy
 ==========================
 
-_(effective from 30 October 2025, unless otherwise stated)_
+_(effective from 1 January 2026, unless otherwise stated)_
 
 * * *
 
@@ -1280,8 +1280,7 @@ We don't allow apps that expose users to harmful health content and services. 
 
 If your app contains or promotes health content and services, you must ensure that your app is compliant with any applicable laws and regulations.
 
-Health and medical apps
------------------------
+#### **Health and medical apps**
 
 If your app offers health-related features or information as part of its functionality, or accesses health data to support non-health features, it must comply with the existing Google Play Developer Policies, including [privacy, deception and device abuse](https://support.google.com/googleplay/android-developer/topic/9877467?sjid=4099002138806266388-AP), in addition to the below requirements:
 
@@ -1866,6 +1865,19 @@ Apps that request this permission are subject to review, and those that do not m
 As a reminder**,** any usage of the `USE_FULL_SCREEN_INTENT` permission must comply with all [Google Play developer policies,](https://play.google.com/about/developer-content-policy/?authuser=0#!?modal_active=none) including our [mobile unwanted software](https://support.google.com/googleplay/android-developer/answer/9970222), [device and network abuse](https://support.google.com/googleplay/android-developer/answer/9888379?hl=en) and [ads](https://support.google.com/googleplay/android-developer/answer/9857753?hl=en-gb&sjid=11744761627827448774-NA) policies. Full-screen intent notifications cannot interfere with, disrupt, damage or access the user’s device in an unauthorised manner. Additionally, apps should not interfere with other apps or the usability of the device.
 
 Learn more about the `USE_FULL_SCREEN_INTENT` permission in our [Help Centre](https://support.google.com/googleplay/android-developer/answer/13392821#full_screen_intent).
+
+Age Signals API and user data
+-----------------------------
+
+This policy defines the conditions for your use of the [Age Signals API](https://developer.android.com/google/play/age-signals/overview), which provides access to personal and sensitive user age and parental consent data.
+
+You may only use the data accessed via the Age Signals API for the sole purpose of complying with [applicable legal and regulatory obligations](https://support.google.com/googleplay/android-developer/answer/16569691) such as providing age-appropriate experiences within your app.
+
+You are strictly prohibited from using this data for the following purposes, including, but not limited to:
+
+*   Advertising, marketing or personalisation purposes, including the serving of targeted ads
+*   Data analytics, user profiling or business intelligence
+*   Selling, sharing or transferring the data to any third party for any reason, except as strictly required by law
 
 * * *
 
