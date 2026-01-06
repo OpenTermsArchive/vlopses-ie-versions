@@ -554,7 +554,7 @@ Meta AIs Terms of Service (EU)
 
   
 
-These Terms of Service (“Terms”) apply when you access and use Meta AIs and other software, tools, services, documentation, content, functionalities, and generative AI features that we make available to you through any [Meta Product](https://www.facebook.com/legal/meta-products) (collectively, “AIs”). These terms are a legally binding agreement between you and Meta Platforms, Inc. (“Meta”, “we”, “our”, or “us”).
+These Terms of Service (“Terms”) apply when you access and use Meta AIs and other software, tools, services, documentation, content, functionalities, and generative AI features that we make available to you through any [Meta Product](https://www.facebook.com/legal/meta-products) (collectively, “AIs”). These terms are a legally binding agreement between you and Meta Platforms Ireland Limited (“Meta”, “we”, “our”, or “us”).
 
   
 
@@ -679,4 +679,4 @@ These Terms of Service (“Terms”) apply when you access and use Meta AIs and 
     
 *   **Effective Date**
     
-    December 18, 2025
+    January 5, 2026
