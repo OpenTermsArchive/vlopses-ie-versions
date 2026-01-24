@@ -681,9 +681,9 @@ Related Articles
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
-[Your Username](https://www.facebook.com/help/1740158369563165/?helpref=related_articles)
-
 [Create a username for your Facebook Page](https://www.facebook.com/help/121237621291199/?helpref=related_articles)
+
+[Your Username](https://www.facebook.com/help/1740158369563165/?helpref=related_articles)
 
 Related Articles
 
@@ -693,9 +693,9 @@ Related Articles
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
-[Your Username](https://www.facebook.com/help/1740158369563165/?helpref=related_articles)
-
 [Create a username for your Facebook Page](https://www.facebook.com/help/121237621291199/?helpref=related_articles)
+
+[Your Username](https://www.facebook.com/help/1740158369563165/?helpref=related_articles)
 
 - - -
 
