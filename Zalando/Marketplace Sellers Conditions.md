@@ -1803,6 +1803,22 @@ The Platform Rules transparently set out how our platform works. Our aim is to p
 
 You can download the Platform Rules in a PDF format on the left side of the page, at any time.
 
+Important
+
+For partners selling in **Switzerland** and **France**:
+
+From 1 July 2026, version 13 of our Platform Rules will include deliveries to Liechtenstein (via zalando.ch) and Monaco (via zalando.fr).
+
+To ensure a great customer experience, follow these steps:
+
+\- Treat orders from Liechtenstein as standard Swiss orders.
+
+\- Treat orders from Monaco as standard French orders.
+
+\- Check that your carrier agreements cover these regions. You can use your existing authorised carriers listed [here](https://partner.zalando.com/university/article/logistics-providers-per-country).
+
+Please note that these orders don't require extra customs processes or separate VAT payments to local tax authorities.
+
 **Updates in version 12 - effective 1 January 2026**
 ----------------------------------------------------
 
