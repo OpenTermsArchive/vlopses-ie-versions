@@ -1778,23 +1778,29 @@ Related Resources:
 
 ### Downloads
 
-*   [Platform Rules - Version 12 with highlighted changes](https://assets.ctfassets.net/6h1o1uyhbb7c/6h6Iqf5esAfr9aqvhCTFDE/90c4cc277b64253646de4116144c6122/Platform_Rules_-_Version_12_w__highlighted_changes.pdf)
 *   [Platform Rules - Version 12](https://assets.ctfassets.net/6h1o1uyhbb7c/YM8ELQDH1f3SJRUBmadHQ/d6fe043876fb8e829cbdf256821c8d5a/Platform_Rules_-_Version_12.pdf)
+*   [Platform Rules - Version 13](https://assets.ctfassets.net/6h1o1uyhbb7c/3sq3siB6Ppa9n81ID3LxHe/5ee4a27cc0ead7c08fd8127d840d305c/Platform_Rules_-_Version_13.pdf)
+*   [Platform Rules - version 13 with highlighted changes](https://assets.ctfassets.net/6h1o1uyhbb7c/1ShOhdqOb4I1mYc8nv6emt/9e414718c3442a2122e91cf883d0f141/Platform_Rules_-_Version_13_with_highlighted_changes.pdf)
 
 Download all
 
-Updated January 6, 2026
+Updated June 15, 2026
 
 ### Downloads
 
-*   [Platform Rules - Version 12 with highlighted changes](https://assets.ctfassets.net/6h1o1uyhbb7c/6h6Iqf5esAfr9aqvhCTFDE/90c4cc277b64253646de4116144c6122/Platform_Rules_-_Version_12_w__highlighted_changes.pdf)
 *   [Platform Rules - Version 12](https://assets.ctfassets.net/6h1o1uyhbb7c/YM8ELQDH1f3SJRUBmadHQ/d6fe043876fb8e829cbdf256821c8d5a/Platform_Rules_-_Version_12.pdf)
+*   [Platform Rules - Version 13](https://assets.ctfassets.net/6h1o1uyhbb7c/3sq3siB6Ppa9n81ID3LxHe/5ee4a27cc0ead7c08fd8127d840d305c/Platform_Rules_-_Version_13.pdf)
+*   [Platform Rules - version 13 with highlighted changes](https://assets.ctfassets.net/6h1o1uyhbb7c/1ShOhdqOb4I1mYc8nv6emt/9e414718c3442a2122e91cf883d0f141/Platform_Rules_-_Version_13_with_highlighted_changes.pdf)
 
 Download all
 
 * * *
 
 * * *
+
+Important
+
+Version 12 of the Platform Rules is valid until 30 June 2026. Version 13 will come into effect on 1 July 2026.
 
 **What are the Platform Rules?** 
 ---------------------------------
@@ -1803,32 +1809,12 @@ The Platform Rules transparently set out how our platform works. Our aim is to p
 
 You can download the Platform Rules in a PDF format on the left side of the page, at any time.
 
-Important
+**Updates in version 13 - effective 1 July 2026**
+-------------------------------------------------
 
-For partners selling in **Switzerland** and **France**:
+These changes and updates clarify existing processes to make sure our instructions and policies are clear and you remain compliant on Zalando. Please see the full overview below.
 
-From 1 July 2026, version 13 of our Platform Rules will include deliveries to Liechtenstein (via zalando.ch) and Monaco (via zalando.fr).
-
-To ensure a great customer experience, follow these steps:
-
-\- Treat orders from Liechtenstein as standard Swiss orders.
-
-\- Treat orders from Monaco as standard French orders.
-
-\- Check that your carrier agreements cover these regions. You can use your existing authorised carriers listed [here](https://partner.zalando.com/university/article/logistics-providers-per-country).
-
-Please note that these orders don't require extra customs processes or separate VAT payments to local tax authorities.
-
-**Updates in version 12 - effective 1 January 2026**
-----------------------------------------------------
-
-These changes and updates clarify existing processes to make sure our instructions and policies are clear and you remain compliant on Zalando. Please see the full overview below:
-
-### **New guidelines or policies**
-
-###### 
-
-**Topic**
+### **The following changes require your action**
 
 ###### 
 
@@ -1836,73 +1822,69 @@ These changes and updates clarify existing processes to make sure our instructio
 
 ###### 
 
-**Description**
-
-Definitions
-
-0
-
-Added the definitions of Customer Care (CuCa) and ZEOS. 
-
-[Zalando’s product, content and brand guidelines](https://partner.zalando.com/university/article/zalandos-ethical-standards)
-
-3.1
-
-Linked a new version with the following main changes: Content
-
-We have split ‘content’ out of the product and brand guidelines (previously Product, Content and Brand) to create a clear definition between content creation (covered by the community guidelines) and products and brands sold on Zalando. 
-
-We have added an introductory statement clarifying that while clothing and style evolve with social movements and global contexts, we will continue to prohibit the sale of products associated with any of our 'banned' dimensions.
-
-Substance use Whereas previously we have prohibited any reference to the consumption of alcohol, we have tightened our guidance to prohibit only demonstrations of, or encouragement of overconsumption of alcohol. We have also explicitly banned any portrayal or references to pharmaceutical drugs (as well as illegal drugs) and have banned references to all forms of tobacco, tobacco products or consumption of tobacco.
-
-EPR Battery 
-
-3.2.5.1
-
-Added that battery products will be reactivated once Zalando can ensure the partner's EPR compliance in the respective shop country.
-
-Personalised recommendations
-
-5.6
-
-Added an explanation on how our personalised recommendation tools work.
-
-New deactivation reasons 
-
-4.5
-
-Added three (3) new deactivation reasons:
-
-Consolidating or/and shipping an order from a non-EU location to EU customers 
-
-Partner is inactive on Zalando (no sales, no responses, etc.) for a period of 200 days.
-
-Partner's fulfilment and shipping performance is leading to poor customer experience.
-
-New markets
-
-A0, A2, A3
-
-Added the Customer Terms and Conditions of the three (3) new markets  Bulgaria, Greece and Portugal, their logistics targets and their approved carriers.
-
-CXM targets
-
-A2
-
-Reduced delivery time in Poland and Sweden by one (1) day, effective 1 July 2026. Defined Saturday exclusion at delivery and return level for all countries and changes applies as follows, effective 1 July 2026: DK, EE, LV, LT, SE: Saturday changes from a non-working day to a working day for both delivery and return pick-up.
-
-FI: Saturday changes to a working day for delivery, but remains a non-working day for return pick-up.
-
-CZ: Saturday changes from a working day to a non-working day for both delivery and return pick-up.
-
-AT, BE, LU, CH: Saturday changes from a working day to a non-working day for return pick-up.
-
-### **Clarifications**
+**Category**
 
 ###### 
 
-**Topic**
+**Description**
+
+3.2.1 EPR EU Battery
+
+Addition
+
+You can now reactivate your battery related articles as soon as we verify your EPR details against national registers.
+
+3.2.2: EPR EU Packaging
+
+Addition
+
+Added details regarding the mandatory, standardised EPR system across all EU Member States under the Packaging and Packaging Waste Regulation (PPWR), effective 12 August 2026. Under these rules, you must comply with EPR packaging regulations and provide your EPR details for all markets where you currently sell or plan to expand.
+
+3.2.2: EPR EU Packaging
+
+Clarification
+
+Clarified that EPR is now a mandatory legal requirement in all EU markets. All partners must participate in recognised collection and recycling systems based on product category obligations.
+
+3.2.4–3.2.6 Country specifics
+
+Clarification/
+
+addition/
+
+removal
+
+Clarified that the requirements include packaging and batteries, along with other country-specific obligations, added a country-specific section for Belgium and removed the section for Spain, as it is now covered by the general EU section.
+
+7.2.7: Forward of wrongly returned articles
+
+Addition
+
+Added updates on the wrongly returned articles process to clarify EU, CH and UK process versus the specific process for Norway. The Norway process requires partners to send wrong articles directly back to the customer in lieu of the Zalando warehouse.
+
+A2 Logistics targets (PL)
+
+Removal/
+
+addition
+
+Removed 5-day delivery target for Poland. Added a new 4-day delivery target effective 1 July 2026.
+
+A3 Authorised carriers
+
+Removal/
+
+addition
+
+Postponed the implementation of Pick-up Points (PuP) for CTT Express in Spain to Q1 2027. Removed DPD and GLS for Germany, Bring for Denmark, and DPD for the Netherlands. Removed PuP delivery from Chronopost in France and from Evri/Hermes in the United Kingdom.
+
+A4 Order Quality Requirements
+
+Addition
+
+Added a requirement for providing the correct return tracking number to the customer; this is now labelled as a ‘blocker’ for partner quality.
+
+### **The following changes are for your information**
 
 ###### 
 
@@ -1910,71 +1892,75 @@ AT, BE, LU, CH: Saturday changes from a working day to a non-working day for ret
 
 ###### 
 
+**Category**
+
+###### 
+
 **Description**
 
-Offer selection/Price Mode
+0\. Definitions: Merchant
 
-6.2
+Clarification
 
-Introduced new wording to better describe Price Mode and relevance of fulfilment method within the tiering.
+Updated this definition to state that ‘Merchant’ refers to the legal entity, which includes both partners and Zalando Wholesale.
 
-Order communication
+3.2: Extended Producer Responsibility (EPR) Regulations
 
-7, 7.1
+Clarification
 
-Clarified the initial and approved order statuses and necessity to fulfil or cancel within three (3) working days of the approved order status.
+This section has been restructured for better readability. It now features a general section for EU battery and packaging rules, followed by specific requirements for Austria, Belgium, Germany, and Spain.
 
-Authorised warehouse/ stock locations
+4.3 Seasonality, season switch and  retagging guidelines
 
-7.2.2
+Clarification
 
-Clarified explicit ban of consolidating non-EU orders for an EU carrier and the requirement that all goods must be fully customs-cleared and in free circulation before any fulfilment operations.
+Updated our terminology: ‘NOS’ is now ‘Basic’, ‘end of season offboarding’ is now ‘season switch’, ‘product range’ is now ‘main catalogue’ and ‘backfilling’ is now ‘overlapping’.
 
-Shipment confirmation and tracking
+4.3.2: Article season retagging
 
-7.2.4
+Clarification
 
-Explained the necessity for a customer to be able to track parcels via the last mile carrier website.
+This section clarifies retagging as a recurring weekly process. To be retagged, articles must meet specific criteria for high availability, performance and content quality.
 
-Return policy
+5: Article visibility, search and sorting rules
 
-7.2.8
+Clarification
 
-Removed the leniency on customer returns which was introduced when Zalando transitioned from the 100-day to 30-day return policy.
+Updated ‘catalogue’ pages to ‘browse’ pages and increased the number of ranking modes from four to five. We added ‘price descending’ as the fifth sorting mode and ‘low delivery’ as a fourth sorting bucket. In addition we clarified the A/B testing procedures.
 
-Noted the necessity to retain technical connection with Zalando for 100 days for returns management following a contract expiration.
+6.2: Price Mode
 
-Customer Care
+Removal
 
-7.3
+We are removing the clause allowing customers to choose between Partner, ZFS or Wholesale offers. This will be decommissioned in July 2026 due to low user engagement.
 
-Specified the maintenance of customer service and customer escalation contacts via zDirect.
+7.1. Order cancellation
 
-Manual refunds
+Clarification
 
-7.4
+Included the right of revocation in the Zalando cancellation reasons.
 
-Corrected the info to reflect that manual refunds also apply to ZEOS fulfilled orders and clarified the right point of contact for issues with returned items in case of ZSS returns/ZRS fulfilment. Specified that a customer declaration may be provided in either handwritten or digital form.
+7.4: Manual refund
 
-Customer Experience Model (CXM)
+Clarification
 
-7.6
+Added clarification on the statutory two-year warranty right (§§ 434 ff. BGB), specifying that customers may return defective articles within two years of delivery.
 
-Explained the handling of force majeure events versus regional issues and holidays.
+A0 Business Terms and Conditions
 
-Data access
+Clarification
 
-8.1.2.1
+Updated our online shop overview to clarify our precise geographical scope. We have added Romania and Hungary (launched in 2022). Effective 1 July 2026, France includes Monaco, Switzerland includes Liechtenstein, and the United Kingdom includes England, Scotland, Wales and Northern Ireland. For strategic reasons, Zalando reserves the unilateral right to close or open up new markets.
 
-Specified the duration (100 days) for which access to Zalando tools after the effective contract expiration date can still be accessible. 
+A2 Saturday exclusion
 
-Authorised carriers
+Clarification
 
-A3
-
-Clarified inclusion of parcel shops and lockers. Added links to each final mile carrier website.
+Removed the Saturday exclusion information that ends 30 June 2026.
 
 If we make any changes to the Platform Rules, we will notify you at least 15 days in advance, allowing you to have enough time to assess the impact on your business and adapt your strategy accordingly.
+
+As per the Partner Agreement, you have the right to terminate your contract with us before these changes become effective. If you do not exercise this right within the notice period, the updated Platform Rules will be deemed accepted by you.
 
 The Platform Rules are part of Zalando’s responsibility under the European Platform to Business Regulation. This asks that platform providers are transparent, clear, fair, and proactive towards those who do business on the platform. If you want to read more, you can find the link to the full Platform to Business Regulation [here](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1150).
 
