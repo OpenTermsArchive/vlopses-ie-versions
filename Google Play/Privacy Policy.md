@@ -124,6 +124,8 @@ If you access, use or process personal information made available by Google that
 
 You must monitor your compliance with these conditions on a regular basis. If, at any time, you cannot meet these conditions (or if there is a significant risk that you will not be able to meet them), you must immediately notify us by email to [data-protection-office@google.com](mailto:data-protection-office@google.com) and immediately either stop processing EU Personal Information or take reasonable and appropriate steps to restore an adequate level of protection.
 
+Choose a section to give feedback on
+
 - - -
 
 Permissions and APIs that access sensitive information
@@ -681,6 +683,8 @@ You are strictly prohibited from using this data for the following purposes, inc
 | Check for parental consent requirements. | Don't use this data to perform analytics or user profiling. |
 | Ensure that the user's experiences match the user's age. | Don't share this data with a third party for any reason except as required by law. |
 
+Choose a section to give feedback on
+
 - - -
 
 Deceptive behaviour
@@ -869,3 +873,5 @@ Your app’s functionality should be reasonably clear to users; don't include an
 | Make sure that your app behaves identically for a regular user and for a Google Play reviewer. | Don't dynamically download and execute code from a remote source that introduces features or functionality not present during the app review. |
 | Be prepared to provide Google with a detailed explanation of your app's features and code if they request it for a review. | Don't use techniques to detect the app review environment and change your app's behaviour to hide non-compliant features. |
 | Ensure that all code in your app, including third-party SDKs, is directly related to the app's stated purpose. | Don't intentionally obfuscate code specifically to conceal policy-violating behaviour from reviewers. |
+
+Choose a section to give feedback on
