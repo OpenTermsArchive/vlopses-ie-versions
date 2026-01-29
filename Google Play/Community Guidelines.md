@@ -314,9 +314,7 @@ Financial services
 
 This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
 
-For [personal loan apps in India](https://support.google.com/googleplay/android-developer/answer/9876821#india), we're updating the [country requirements](https://support.google.com/googleplay/android-developer/answer/16604194#zippy=%2Cwhat-if-my-app-does-not-directly-provide-personal-loans-but-facilitates-money-lending) to align with a newly published government list of approved digital lending apps. Apps must be on this list and meet Play policy requirements in order to be available on Google Play in India. All new personal loan apps on Google Play in India must be in compliance as of 30 October 2025.
-
-(effective from 28 January 2026)
+For [personal loan apps in Thailand](https://support.google.com/googleplay/android-developer/answer/9876821#thailand), we're updating the Google Play listing requirements to display additional information such as the loan service provider, maximum interest rates and all fees. This applies immediately to new apps, and existing apps will have until 4 March 2026 to come into compliance. For more details, go to the [Policy deadlines](https://support.google.com/googleplay/android-developer/table/12921780) page.
 
 To preview the updated 'Financial services' article, visit [this page](https://support.google.com/googleplay/android-developer/answer/16597822).
 
@@ -591,16 +589,6 @@ Choose a section to give feedback on
 Blockchain-based content
 ========================
 
-**Changes are coming to this article**
-
-This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
-
-We’re updating the [Cryptocurrency Exchanges and Software Wallets](https://support.google.com/googleplay/android-developer/answer/13607354#cryptocurrency_exchanges) policy to include a [Help Centre link](https://support.google.com/googleplay/android-developer/answer/16329703) that details selected country-specific requirements.
-
-(effective from 28 January 2026)
-
-To preview the updated 'Blockchain-based content' article, visit [this page](https://support.google.com/googleplay/android-developer/answer/16302285).  
-
 As blockchain technology continues to rapidly evolve, we aim to provide a platform for developers to thrive with innovation and build more enriched, immersive experiences for users.
 
 For the purposes of this policy, we consider blockchain-based content to be tokenised digital assets secured on a blockchain. If your app contains blockchain-based content, you must comply with these requirements.
@@ -610,6 +598,8 @@ For the purposes of this policy, we consider blockchain-based content to be toke
 The purchase, holding or exchange of cryptocurrencies should be conducted through certified services in regulated jurisdictions.
 
 You must also comply with applicable regulations for any region or country that your app targets and avoid publishing your app where your products and services are prohibited. Google Play may request you to provide additional information or documents regarding your compliance with any applicable regulatory or licensing requirements.
+
+To learn more about country-specific requirements, please review this [Help Centre](https://support.google.com/googleplay/android-developer/answer/16329703) article.
 
 #### Cryptomining
 
@@ -662,16 +652,6 @@ Choose a section to give feedback on
 
 Blockchain-based content
 ========================
-
-**Policy preview**
-
-This article previews changes from our July 2025 policy updates.
-
-We’re updating the [Cryptocurrency Exchanges and Software Wallets](https://support.google.com/googleplay/android-developer/answer/13607354#cryptocurrency_exchanges) policy to include a [Help Centre link](https://support.google.com/googleplay/android-developer/answer/16329703) that details selected country-specific requirements.
-
-(effective from 28 January 2026)
-
-To view the current 'Blockchain-based content' article, visit [this page](https://support.google.com/googleplay/android-developer/answer/13607354).
 
 As blockchain technology continues to rapidly evolve, we aim to provide a platform for developers to thrive with innovation and build more enriched, immersive experiences for users.
 
