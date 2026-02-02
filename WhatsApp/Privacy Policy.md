@@ -156,9 +156,9 @@ WhatsApp LLC
   
 Privacy Policy  
   
-1601 Willow Road  
+1 Meta Way  
   
-Menlo Park, California 94025  
+Menlo Park, CA 94025  
   
 United States of America
 
