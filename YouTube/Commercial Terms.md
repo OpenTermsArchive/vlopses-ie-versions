@@ -1,7 +1,7 @@
 YouTube Paid Service Terms of Service
 =====================================
 
-#### Effective as of September 26, 2025 ([view previous version](https://www.youtube.com/t/terms_paidservice?archive=20220518-en))
+#### Effective as of February 2, 2026 ([view previous version](https://www.youtube.com/t/terms_paidservice?archive=20250926-en))
 
 #### View the Terms of Service in other languages: [Français (Canada)](https://www.youtube.com/t/terms_paidservice?hl=fr-ca&override_hl=1) and [English](https://www.youtube.com/t/terms_paidservice?hl=en&override_hl=1)
 
@@ -43,7 +43,11 @@ The Paid Services, and certain content available within the Paid Services, may o
 
 In some cases, you may be able to access a Paid Service through other Google products (e.g., you may be able to watch a movie on Google Play that you purchased on YouTube).  Additionally, you may be able to access content via YouTube that you have purchased, or subscribed to, through other Google products (e.g. you may be able to watch a movie on YouTube that you purchased on Google Play).  Your use of any Paid Service is governed only by the Terms, and not the terms of any other Google product, including any other Google product through which you receive access to a Paid Service.
 
-### **2.5         Your Information**
+### **2.5         Virtual Items Paid Services**
+
+Certain Paid Services may allow you to purchase or receive virtual items (such as those currently known as ‘Jewels’) (‘**Virtual Items**’) that grant you a limited non-transferable licence to access other features or services within YouTube. All Virtual Items are subject to the [Virtual Items policy](https://support.google.com/youtube/answer/15333704), as may be updated by Google. You must have an active Google account to purchase, receive or use Virtual Items. Once purchased, Virtual Items will appear in your account and will not expire. However, if you delete your account or your account is terminated for any reason, all Virtual Items in your account will become invalid and will not be reinstated if you create a new account. Virtual Items have no monetary value and cannot be exchanged for cash, legal tender or any form of credit.  Virtual Items are not a form of currency or payment instrument and are not intended to operate as a money transfer, payment, donation or crowdfunding instrument. Virtual Items that you purchase or receive can only be used on the Service and cannot be sold or transferred to any third parties, including other users.
+
+### **2.6         Your Information**
 
 Our [Privacy Policy](https://www.youtube.com/t/privacy) explains how we treat your personal data and protect your privacy when you use the Paid Services.  Please read the Privacy Policy carefully.
 
@@ -79,7 +83,7 @@ If you purchase a subscription to a Paid Service that automatically renews, you 
 
 ### **4.2        Cancellation of Purchases or Rentals**
 
-You can cancel your purchase and receive a refund as long as you have not commenced using the relevant Paid Service ordered and you make your request no later than 7 working days after your order is completed.  We reserve the right to approve or deny refund requests after 7 working days at our sole discretion, except where the Paid Service is defective, in which case the [Refund Policy](https://support.google.com/youtube/?p=refund_policy#zippy=%2cyoutube-premium-youtube-music-premium-memberships%2cmovie-show-purchases-or-rentals%2cticketed-live-events%2csuper-chat%2csuper-stickers%2csuper-thanks%2cdonations%2cchannel-memberships%2crefund-timelines) will apply. If you receive a refund for any reason, Google reserves the right to terminate your access to the relevant Paid Service purchased.
+You can cancel your purchase and receive a refund as long as you have not commenced using the relevant Paid Service ordered and you make your request no later than 7 working days after your order is completed except that all sales of Virtual Items are non-cancellable and final unless expressly stated in the [Refund Policy](https://support.google.com/youtube/?p=refund_policy#zippy=%2cyoutube-premium-youtube-music-premium-memberships%2cmovie-show-purchases-or-rentals%2cticketed-live-events%2csuper-chat%2csuper-stickers%2csuper-thanks%2cdonations%2cchannel-memberships%2crefund-timelines) or otherwise required by applicable law.  We reserve the right to approve or deny refund requests after 7 working days at our sole discretion, except where the Paid Service is defective, in which case the [Refund Policy](https://support.google.com/youtube/?p=refund_policy#zippy=%2cyoutube-premium-youtube-music-premium-memberships%2cmovie-show-purchases-or-rentals%2cticketed-live-events%2csuper-chat%2csuper-stickers%2csuper-thanks%2cdonations%2cchannel-memberships%2crefund-timelines) will apply. If you receive a refund for any reason, Google reserves the right to terminate your access to the relevant Paid Service purchased.
 
 ### **4.3        Refunds**
 
@@ -145,23 +149,23 @@ By using the Paid Services, you consent to receiving communications from us incl
 **Additional Terms for YouTube Premium, YouTube Music Premium and YouTube Premium Lite (and accepted payment methods)**
 =======================================================================================================================
 
-**1.        Introduction**
---------------------------
+**1\. Introduction**
+--------------------
 
 These Additional Terms for YouTube Premium, YouTube Music Premium and YouTube Premium Lite (“**Premium Service Terms**”) govern your use of and access to [YouTube Premium](https://support.google.com/youtube/answer/6305537), [YouTube Music Premium](https://support.google.com/youtube/answer/6305537) and [YouTube Premium Lite](https://support.google.com/youtube/answer/15968883)  (each  a “**Premium Service**” and collectively the “**Premium Services**”). The Premium Services include the membership plans that are currently offered and any additional services or plans under the Premium Services that Google might make available. Your purchase of any Premium Service and any use of the Premium Services are subject to: these Premium Service Terms;  these [Paid Service Terms of Service](https://www.youtube.com/t/terms_paidservice); and the [YouTube Terms of Service](https://www.youtube.com/t/terms). We’ll refer to these documents together as the “**Terms**”. If there is a conflict between these Premium Service Terms and the Paid Service Terms, these Premium Service Terms will take precedence.
 
-**2.        Your Acceptance**
------------------------------
+**2\. Your Acceptance**
+-----------------------
 
 You must have an active Google account to sign up for a Premium Service. If you do not have a Google account at the time that you sign up for a Premium Service, you will be required to create one. Any suspension or termination of your Google account may cause your access to any Premium Service to be suspended or terminated. The Premium Services may vary by geographical location, device, and operational system and may also vary in price, plan and feature offerings. [Learn more](https://support.google.com/youtube/answer/6305537). Please read the Terms carefully and make sure that you understand them. If you do not understand the Terms, or do not accept any part of them, then you may not use any Premium Service. By accessing or using any Premium Service, you accept the provisions set forth in the Terms.
 
-**3.        Geographical Restrictions**
----------------------------------------
+**3\. Geographical Restrictions**
+---------------------------------
 
 Your use of and access to any Premium Service should be used from the country or territory where you signed up for that Premium Service. Accessing or using any Premium Service predominantly outside of that country, or attempting to misrepresent your sign-up country, is a violation of the Premium Service Terms and may result in termination of your access to the Premium Services. If you move to a new country, you may be required to re-subscribe to the Premium Services there to maintain your access, subject to the Premium Service's availability, pricing, and feature offerings in that new country. [Learn more](https://support.google.com/youtube/answer/6307365).
 
-**4.        Plans**
--------------------
+**4\. Plans**
+-------------
 
 **4.1         Individual Plans**
 --------------------------------
@@ -183,28 +187,27 @@ Student memberships are only available to full-time students at approved higher 
 
 Some memberships are available for pre-paid purchase and give access to membership benefits for a fixed period of time. Pre-paid plans are purchased upfront for a select duration and do not automatically renew. You may have up to 24 months of pre-paid access. Once the time period you purchased ends, you will lose access to your benefits. If you wish to terminate access before the expiration of your pre-paid plan, please contact YouTube Support. No partial refunds are available. Availability of pre-paid plans may vary by operational system, country or duration. [Learn more](https://support.google.com/youtube/answer/11417260).
 
-**5.        Trials**
---------------------
+**5\. Trials**
+--------------
 
 We may offer no-cost Premium Service trials (“**Premium** **Service** **Trials**”) from time to time. Only first time Premium Service subscribers may be eligible for Premium Service Trials, introductory offers or promotional pricing. Except for Google Workspace Individual edition accounts, Google Workspace accounts may not be eligible for Premium Service Trials. You can sign up for only one Premium Service Trial  per payment method. [Learn more](https://support.google.com/youtube/answer/10324204).
 
-**6.        Promotional Offers**
---------------------------------
+**6.** **Promotional Offers**
 
 We may provide promotional offers from time to time. If you are eligible for more than one promotional offer, these offers may be applied in subsequent billing cycles. For clarity, some promotional offers may not be combined. Upon expiration of the promotional offer(s), you will be charged the full price of the Premium Service. Promotions may be subject to additional terms. Promotions may vary by country or billing platform and in duration or eligibility requirements.
 
-**7.        Features**
-----------------------
+**7\. Features**
+----------------
 
 [Features](https://support.google.com/youtube/answer/6308116) included with your Premium Services may come with certain restrictions, may vary by plan, device, country or for other reasons. Some features may be experimental, and we reserve the right to update or remove them at any time without any notice. You must have an Internet connection to stream or download content ([Supported devices).](https://support.google.com/youtube/go/red_devices) Some restrictions may apply for downloads ([Learn more](https://support.google.com/youtube/answer/6308116#offline)) and streaming limits ([Learn more](https://support.google.com/youtube/answer/7361503)). For clarity, ads or promotions may appear during live events streamed on YouTube, such as sporting events. [Learn more](https://support.google.com/youtube/answer/6308116#zippy=%2Cwatch-videos-without-ads). 
 
-**8.        Billing and Accepted Payment Methods**
---------------------------------------------------
+**8\. Billing and Accepted Payment Methods**
+--------------------------------------------
 
 You must have a valid and [accepted payment method](https://support.google.com/youtube/answer/10239146) on file in order to purchase a Premium Service. Google may change or restrict the use of the accepted payment methods from time to time, which may include a requirement to use a form of payment issued in the country in which you purchase the Premium Service. Changes in pricing of your Premium Service are subject to the Paid Service Terms of Service. For recurring plans, your payment method on file will be automatically charged the price of the plan every billing period starting on the first billing date until your Premium Service is cancelled.
 
-**9.        Suspensions and Cancellations**
--------------------------------------------
+**9\. Suspensions and Cancellations**
+-------------------------------------
 
 We reserve the right to restrict, pause, or cancel your use and access to any Premium Service (including any plans, Premium Service Trials, or promotional offers) as well as refuse sign ups to any Premium Service, including taking appropriate action (such as suspension of your YouTube account) for any violation of the Terms, applicable laws or Google policies.
 
