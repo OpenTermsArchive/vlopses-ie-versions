@@ -468,58 +468,58 @@ Super Thanks lets creators earn revenue from viewers who want to show extra grat
 Virtual Items Program Policies for Creators
 ===========================================
 
-The Virtual Items Module is available to US creators in the YouTube Partner Program (YPP) that want to unlock Virtual Items features. Enabling Virtual Items can help you build community, engage with fans, and earn money or other benefits.
+The Virtual Items Module is available to Canadian creators in the YouTube Partner Programme (YPP) who want to unlock Virtual Items features. Enabling Virtual Items can help you to build a community, engage with fans and earn money or other benefits.
 
 Virtual Items include these features:
 
 *   **Jewels:** A digital item that your fans can buy to unlock and send gifts on your vertical live streams.
-*   **Gifts:** A digital item that fans can send on vertical live streams unlocked by purchasing Jewels. Gifts appear as an overlay on top of vertical live streams and let viewers react and show appreciation in real-time. When your fans use their Jewels to send gifts, you earn Rubies.
-*   **Rubies:** A digital item that represents your earnings when your fans send gifts on your live streams. Your earnings from Rubies will be paid to you with your other YouTube Partner Program earnings.
+*   **Gifts:** A digital item that fans can send on vertical live streams, unlocked by purchasing Jewels. Gifts appear as an overlay on top of vertical live streams and let viewers react and show appreciation in real-time. When your fans use their Jewels to send gifts, you earn Rubies.
+*   **Rubies:** A digital item that represents the amount of gifts your fans have sent you on your live streams. Any earnings from Rubies will be paid to you with your other YouTube Partner Programme earnings.
 
-Policies that apply to Virtual Items monetization
+Policies that apply to Virtual Items monetisation
 -------------------------------------------------
 
-If you’re monetizing on YouTube with Virtual Items, your channel must comply with the Virtual Items Module, which applies to these features, and follow the [YouTube channel monetization policies](https://support.google.com/youtube/answer/1311392), which include:
+If you’re monetising on YouTube with Virtual Items, your channel must comply with the Virtual Items Module–which applies to these features–and follow the [YouTube Channel Monetisation Policies](https://support.google.com/youtube/answer/1311392), which include the:
 
 *   [YouTube Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/)
 *   [YouTube Terms of Service](https://www.youtube.com/static?template=terms)
-*   [YouTube Copyright and Fair Use Policies](https://www.youtube.com/howyoutubeworks/policies/copyright/#support-and-troubleshooting)
+*   [YouTube copyright and fair use policies](https://www.youtube.com/howyoutubeworks/policies/copyright/#support-and-troubleshooting)
 *   [Google AdSense Program Policies](https://support.google.com/adsense/answer/48182?ctx=checklist)
 
-You must also continue to comply with all applicable laws, as required by YouTube’s [Terms of Service](https://www.youtube.com/static?template=terms). This includes whether or not you can turn on, offer, and get money from Virtual Items. Virtual Items are not crowdfunding, donation, or tipping tools.
+You must also continue to comply with all applicable laws, as required by YouTube’s [Terms of Service](https://www.youtube.com/static?template=terms). This includes whether or not you can turn on, offer and get money from Virtual Items. Virtual Items are not crowdfunding, donation or tipping tools.
 
 ### Incentives
 
-We may offer incentives from time to time. Check [here](https://support.google.com/youtube/answer/15536109) for more info.
+We may offer Incentives from time to time. Check [here](https://support.google.com/youtube/answer/15536109) for more info.
 
 ### Termination
 
-If your access to Virtual Items features is terminated and you want to remove any particular content made available in connection with Virtual Items, you must remove it. YouTube is not responsible for removing or otherwise limiting access to any Virtual Item Content upon termination.
+If your access to Virtual Items features is terminated and you want to remove any particular content made available in connection with Virtual Items, you must remove it. YouTube is not responsible for removing or otherwise limiting access to any Virtual Items content upon termination.
 
 Minimum requirements for Virtual Items features
 -----------------------------------------------
 
-You must meet these minimum requirements to be eligible for the Virtual Items program:
+You must meet these minimum requirements to be eligible for the Virtual Items programme:
 
-*   Channel is in the [YouTube Partner Program](https://support.google.com/youtube/answer/72851).
-*   Be at least 18 years old with a [verified AdSense account](https://support.google.com/adsense/answer/7568896) or other form of age verification accepted by Google.
+*   Your channel must be in the [YouTube Partner Programme](https://support.google.com/youtube/answer/72851).
+*   You must be at least 18 years old with a [verified AdSense account](https://support.google.com/adsense/answer/7568896) or other form of age verification accepted by Google.
     *   **Note:** If you do not see the Virtual Items Module, you may need to take action to be eligible. Reference the section below on how to verify your AdSense account.
-*   Live in a [country or region where the individual Virtual Items are available](https://support.google.com/youtube/answer/15535963#availability).
+*   You must live in a [country or region where the individual Virtual Items are available](https://support.google.com/youtube/answer/15535963#availability).
 
-### Verifying Your AdSense Account
+### Verifying Your AdSense account
 
 To earn money from Virtual items on YouTube, you need to be at least 18 years old and have a verified AdSense account. Creators who have not gone through the AdSense ID verification process will be notified to do so when you attempt to enable gifts.
 
-If you do not see this notification or do not have a verified AdSense account, you can reach out to Creator Support to trigger [AdSense Identity Verification](https://support.google.com/adsense/answer/7568896) (IDV).
+If you do not see this notification or do not have a verified AdSense account, you can contact Creator Support to trigger [AdSense identity verification](https://support.google.com/adsense/answer/7568896) (IDV).
 
 To check whether your AdSense account is verified, follow these steps:
 
 Sign in to the AdSense account associated with your channel and select **Payments** then **Verification** **check**.
 
-*   If you see “Identity Verification” marked as Completed, then your AdSense account is verified.
-*   If you do not see “Identity Verification” listed, and you meet the minimum requirements listed above, reach out to Creator Support to trigger AdSense IDV.
+*   If you see 'Identity verification' marked as 'Completed', then your AdSense account has been verified.
+*   If you do not see 'Identity verification' listed and you meet the minimum requirements listed above, contact Creator Support to trigger AdSense IDV.
 
-**Note:** You have 45 days from the date AdSense first asks you to verify your identity to submit the required documents in your account. After 45 days, if you haven't provided the documents or AdSense is still unable to verify your identity from the documents you have provided, monetization will be paused on your channel until it’s complete.
+**Note:** You have 45 days from the date on which AdSense first asked you to verify your identity to submit the required documents in your account. After 45 days, if you haven't provided the documents or AdSense is still unable to verify your identity from the documents that you have provided, monetisation will be paused on your channel until it's complete.
 
 ### Individual live stream requirements for Virtual Items
 
@@ -527,22 +527,22 @@ All content in live streams must adhere to our [live stream policies](https://su
 
 Virtual Items aren't available on the following types of live streams:
 
-*   Is age-restricted or [made for kids](https://support.google.com/youtube/topic/9689353)
-*   Is unlisted or private
+*   Age-restricted or [Made for Kids](https://support.google.com/youtube/topic/9689353)
+*   Unlisted or private
 *   When live chat is turned off
 *   Horizontal live streams
-*   On YouTube Giving fundraisers
+*   YouTube Giving fundraisers
 
 How revenue works for Virtual Items
 -----------------------------------
 
 Here’s how you earn revenue from Virtual Items on YouTube:
 
-1.  **A viewer who has purchased Jewels redeems some of their Jewels for gifts during your live stream**. A viewer wants to show appreciation and interact in real-time, so they redeem some of their Jewels to send gifts during the live stream. The gifts help you engage with your fans in real-time and build excitement during the live stream.
-2.  **You earn Rubies from the gifts sent during the live stream**. You can view how many estimated Rubies you earned from gifts during your live stream and when it ends. Every two Jewels redeemed for gifts will earn you one Ruby.
-3.  **The Rubies you’ve earned during the live stream represent your revenue**. We will calculate your net revenue by multiplying the number of Rubies you earned by the revenue we pay per Ruby, which is $0.01.
+1.  **A viewer who has purchased Jewels redeems some of their Jewels for gifts during your live stream.** A viewer wants to show appreciation and interact in real time, so they redeem some of their Jewels to send gifts during the live stream. The gifts help you to engage with your fans in real time and build excitement during the live stream.
+2.  **Google allocates Rubies to you based on the live stream.** Rubies are part of YouTube’s unique model that empowers creators to earn money on our platform in a variety of different ways. Over the last few years, we've introduced several alternate sources of revenue outside of advertising to help eligible creators while connecting with their viewers, with Jewels serving as part of that. You can view an estimation of how many Rubies you've earned, applying our current conversion formula, from gifts during your live stream and when it ends. Currently, every two Jewels redeemed for gifts will earn you one Ruby.
+3.  **The Rubies that you've earned during the live stream represent your revenue.** We will calculate your net revenue by multiplying the number of Rubies you earned by the revenue that we pay per Ruby, which is $0.01.
 
-You can view the number of Rubies you’ve earned during live streams and the associated [revenue in YouTube Analytics](https://support.google.com/youtube/answer/9314488).
+You can view the number of Rubies that you've earned during live streams and the associated revenue [in YouTube Analytics](https://support.google.com/youtube/answer/9314488).
 
 Learn more about Virtual Items on YouTube
 -----------------------------------------
