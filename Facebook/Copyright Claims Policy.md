@@ -32,6 +32,68 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=hc_fnav)
 
+Popular Articles
+----------------
+
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=popular_articles)
+
+[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=popular_articles)
+
+[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=popular_articles)
+
+[What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=popular_articles)
+
+Popular Articles
+
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=popular_articles)
+
+[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=popular_articles)
+
+[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=popular_articles)
+
+[What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=popular_articles)
+
+Related Topics
+--------------
+
+[Notifications
+
+Change what you get notifications about on Facebook and decide how you get them.](https://www.facebook.com/help/1036755649750898/?helpref=related_topics)
+
+[Your Home Page
+
+Learn how Feed works, control what you see in Feed and react to posts.](https://www.facebook.com/help/753701661398957/?helpref=related_topics)
+
+[Your Privacy
+
+Learn how privacy settings help you connect and share with people you know and trust.](https://www.facebook.com/help/238318146535333/?helpref=related_topics)
+
+[Notifications](https://www.facebook.com/help/1036755649750898/?helpref=related_topics)
+
+[Your Home Page](https://www.facebook.com/help/753701661398957/?helpref=related_topics)
+
+[Your Privacy](https://www.facebook.com/help/238318146535333/?helpref=related_topics)
+
+*   [About](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.meta.com%2F%3Futm_source%3Dhelp-center%26utm_medium%3Dreferral)
+
+*   [Privacy](https://www.facebook.com/privacy/explanation/)
+
+*   [Terms and Policies](https://www.facebook.com/policies/)
+
+*   [Ad Choices](https://www.facebook.com/help/568137493302217/)
+
+*   [Careers](https://www.facebook.com/careers/)
+
+*   [Cookies](https://www.facebook.com/policies/cookies/)
+
+*   [Create Ad](https://www.facebook.com/business/)
+
+*   [Create Page](https://www.facebook.com/pages/creation/)
+
+* * *
+
+© 2026 Meta
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1945,9 +2007,7 @@ Learn more about [Rights Manager](https://l.facebook.com/l.php?u=https%3A%2F%2Fr
 Content protection
 ------------------
 
-Content protection is for individual content creators seeking to manage and protect their original content. It uses the same technology as Rights Manager to detect video matches across Facebook and Instagram, but the features of the tool are tailored specifically to creators. At this time, content protection can be accessed in Professional dashboard in the Facebook app on mobile devices.
-
-Learn more about [content protection](https://www.facebook.com/business/help/1024655109288450?helpref=faq_content).
+Content protection is for individual content creators seeking to manage and protect their original content. It uses the same technology as Rights Manager to detect video matches across Facebook and Instagram, but the features of the tool are tailored specifically to creators. Learn more about [content protection](https://www.facebook.com/business/help/1024655109288450?helpref=faq_content).
 
 Actions you can take with our copyright management tools
 --------------------------------------------------------
@@ -1957,7 +2017,7 @@ When your content is detected on a Page, profile, or Instagram account, you can 
 *   **Allow or track**: Allow matching content to remain posted and visible on Facebook and/or Instagram and have visibility into how it performs over time.
 *   **Block**: Prevent the matching content from being visible to anyone other than the Page, profile, or Instagram account that posted it.
 *   **Monetize**: You may be able to claim money earned from a video that is eligible for monetization on Meta platforms. Note: this feature is not available to all creators using content protection and/or Rights Manager at this time.
-*   **Apply attribution or ownership links**: You may be able to insert a banner below select Facebook matches linking it to your own content, Page, or profile.
+*   **Apply credit or ownership links**: You may be able to insert a banner below select Facebook matches linking it to your own content, Page, or profile.
 *   **Report and request takedown**: You can choose to send a copyright report to Facebook, which may result in the reported content being removed.
 
 If you want scaled copyright management, you can apply for access to our tools [here](https://www.facebook.com/rights_manager/apply). Our team will assess your application and grant access to protection features specific to your needs.
