@@ -1,9 +1,9 @@
 European Electronic Communications Code Notice
 ==============================================
 
-Last modified: 30 June 2022
+Last modified: November 23, 2021
 
-The European Electronic Communications Code (Directive (EU) 2018/1972) (the "**EECC**") requires us to provide applicable users of WhatsApp Messenger, WhatsApp Business App, and WhatsApp Business API with the following information about the electronic communication service that we provide as part of our Services or Business Services. This information supplements the terms of service for those services. Applicable users include microenterprises or small enterprises or not-for-profit organisations, unless they have explicitly agreed to waive all or parts of Art. 102 EECC, paras 1, 3, and 5. For the purposes of your documentation, future reference and unchanged reproduction, you may download or print a copy of this document.
+The European Electronic Communications Code (Directive (EU) 2018/1972) (the "**EECC**") requires us to provide applicable users of WhatsApp Messenger, WhatsApp Business App, and WhatsApp Business API with the following information about the electronic communication service that we provide as part of our Services or Business Services. This information supplements the terms of service for those services. Applicable users include microenterprises or small enterprises or not-for-profit organisations, unless they have explicitly agreed to waive all or parts of those provisions. For the purposes of your documentation, future reference and unchanged reproduction, you may download or print a copy of this document.
 
 ### Quality Of Service
 
@@ -15,7 +15,7 @@ We work to protect the safety, security, and integrity of WhatsApp by appropriat
 
 ### Price
 
-We do not charge for using the WhatsApp Messenger or the WhatsApp Business App, unless we agree otherwise with you. If you use the WhatsApp Business API a charge may apply, and is specified in the agreement between you and Facebook. All users of our Services and Business Services are responsible for carrier data plans and Internet access fees associated with use of our Services or Business Services.
+We do not charge for using the WhatsApp Messenger or the WhatsApp Business App, unless we agree otherwise with you. If you use the WhatsApp Business API a charge may apply, and is specified in the agreement between you and Facebook. All users of our Services and Business Services are responsible for carrier data plans, Internet access fees, and other fees and taxes associated with use of our Services or Business Services.
 
 ### Duration, Renewal And Termination
 
@@ -46,7 +46,7 @@ Ireland
 
 You can take legal action against us for any Claim that arises out of, or relates to, our Services or Business Services. For information on which governing law and venue applies to your Claim please refer to the Dispute Resolution section of the terms of service for [WhatsApp Messenger](https://www.whatsapp.com/legal/terms-of-service-eea). If you are a business user, please refer to the Governing Law and Venue section of the terms of service for [WhatsApp Business App or WhatsApp Business API](https://www.whatsapp.com/legal/business-terms).
 
-You may also be entitled to refer disputes in relation to matters covered by the EECC to an independent body for dispute resolution appointed in your country. A list of competent independent bodies for dispute resolution in EU countries and links to their websites is available at the European Union's [Online Dispute Resolution Bodies](https://ec.europa.eu/consumers/odr/main/?event=main.adr.show2) web page. For users based in Austria, this would be Rundfunk and Telekom Regulierungs-GmbH.
+You may also be entitled to refer disputes in relation to matters covered by the EECC to an independent body for dispute resolution appointed in your country. A list of competent independent bodies for dispute resolution in EU countries and links to their websites is available at the European Union's [Online Dispute Resolution Bodies](https://ec.europa.eu/consumers/odr/main/?event=main.adr.show2) web page.
 
 ### Emergency Services
 
