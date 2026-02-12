@@ -131,7 +131,7 @@ Choose a section to give feedback on
 Permissions and APIs that access sensitive information
 ======================================================
 
-_**Disclaimer:** Policy summaries are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict_
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
@@ -685,7 +685,7 @@ Choose a section to give feedback on
 Deceptive behaviour
 ===================
 
-_**Disclaimer:** Policy summaries are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict_
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
