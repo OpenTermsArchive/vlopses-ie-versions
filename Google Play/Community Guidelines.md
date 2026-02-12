@@ -276,7 +276,7 @@ Choose a section to give feedback on
 Google Play's target API level policy
 =====================================
 
-_**Disclaimer:** Policy summaries are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict_
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
@@ -695,7 +695,7 @@ Choose a section to give feedback on
 Device and network abuse
 ========================
 
-_**Disclaimer:** Policy summaries are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict_
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
@@ -870,7 +870,7 @@ Choose a section to give feedback on
 Misrepresentation
 =================
 
-_**Disclaimer:** Policy summaries are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict_
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
@@ -928,13 +928,15 @@ Visit [Google Play Protect](https://developers.google.com/android/play-protect/
 
  
 
-### Backdoors
+Backdoors
+---------
 
 Code that allows the execution of unwanted, potentially harmful, remote-controlled operations on a device.
 
 These operations may include behaviour that would place the app, binary or framework modification into one of the other malware categories if executed automatically. In general, backdoor is a description of how a potentially harmful operation can occur on a device and is therefore not completely aligned with categories like billing fraud or commercial spyware. As a result, a subset of backdoors, under some circumstances, are treated by Google Play Protect as a vulnerability.
 
-### Billing fraud
+Billing fraud
+-------------
 
 Code that automatically charges the user in an intentionally deceptive way.
 
@@ -953,7 +955,8 @@ Code that tricks users into subscribing to or purchasing content via their mobil
 
 Toll fraud includes any type of billing except premium SMS and premium calls. Examples of this include direct operator billing, wireless application protocol (WAP) and mobile airtime transfer. WAP fraud is one of the most prevalent types of toll fraud. WAP fraud can include tricking users into clicking a button on a silently loaded, transparent WebView. Upon performing the action, a recurring subscription is initiated, and the confirmation SMS or email is often hijacked to prevent users from noticing the financial transaction.
 
-### Stalkerware
+Stalkerware
+-----------
 
 Code that collects personal or sensitive user data from a device and transmits the data to a third party (enterprise or another individual) for monitoring purposes.
 
@@ -974,13 +977,15 @@ Monitoring apps must comply with these requirements:
 
 Please reference the [Use of the isMonitoringTool flag](https://support.google.com/googleplay/android-developer/answer/12955211) Help Centre article for more information.
 
-### Denial of service (DoS)
+Denial of service (DoS)
+-----------------------
 
 Code that, without the knowledge of the user, executes a denial-of-service (DoS) attack or is part of a distributed DoS attack against other systems and resources.
 
 For example, this can happen by sending a high volume of HTTP requests to produce excessive load on remote servers.
 
-### Hostile downloaders
+Hostile downloaders
+-------------------
 
 Code that isn't in itself potentially harmful, but downloads other PHAs.
 
@@ -994,19 +999,22 @@ Major browsers and file-sharing apps aren't considered hostile downloaders as lo
 *   They don't drive downloads without user interaction; and
 *   All PHA downloads are initiated by consenting users.
 
-### Non-Android threat
+Non-Android threat
+------------------
 
 Code that contains non-Android threats.
 
 These apps can't cause harm to the Android user or device, but contain components that are potentially harmful to other platforms.
 
-### Phishing
+Phishing
+--------
 
 Code that pretends to come from a trustworthy source, requests a user's authentication credentials or billing information, and sends the data to a third party. This category also applies to code that intercepts the transmission of user credentials in transit.
 
 Common targets of phishing include banking credentials, credit card numbers and online account credentials for social networks and games.
 
-### Elevated privilege abuse
+Elevated privilege abuse
+------------------------
 
 Code that compromises the integrity of the system by breaking the app sandbox, gaining elevated privileges or changing or disabling access to core security-related functions.
 
@@ -1018,7 +1026,8 @@ Examples include:
 
 Privilege escalation apps that root devices without user permission are classified as rooting apps.
 
-### Ransomware
+Ransomware
+----------
 
 Code that takes partial or extensive control of a device or data on a device and demands that the user make a payment or perform an action to release control.
 
@@ -1030,7 +1039,8 @@ Some ransomware encrypts data on the device and demands payment to decrypt the d
 
 Code distributed with the device whose primary purpose is for subsidised device management may be excluded from the ransomware category provided that they successfully meet requirements for secure lock and management, as well as adequate user disclosure and consent requirements.
 
-### Rooting
+Rooting
+-------
 
 Code that roots the device.
 
@@ -1038,11 +1048,13 @@ There's a difference between non-malicious and malicious rooting code. For examp
 
 Malicious rooting apps don't inform the user that they're going to root the device, or they inform the user about the rooting in advance but also execute other actions that apply to other PHA categories.
 
-### Spam
+Spam
+----
 
 Code that sends unsolicited messages to the user's contacts or uses the device as an email spam relay.
 
-### Spyware
+Spyware
+-------
 
 Spyware is a malicious application, code or behaviour that collects, exfiltrates or shares user or device data that is not related to policy-compliant functionality.
 
@@ -1056,23 +1068,27 @@ For example, spyware violations include, but are not limited to:
 
 All apps must also comply with all Google Play Developer Programme Policies, including user and device data policies, such as [mobile unwanted software](https://support.google.com/googleplay/android-developer/answer/9970222), [user data](https://support.google.com/googleplay/android-developer/answer/10144311), [permissions and APIs that access sensitive information](https://support.google.com/googleplay/android-developer/answer/9888170) and [SDK requirements](https://support.google.com/googleplay/android-developer/answer/13323374).
 
-### Trojan
+Trojan
+------
 
 Code that appears to be benign, such as a game that claims only to be a game, but that performs undesirable actions against the user.
 
 This classification is usually used in combination with other PHA categories. A trojan has an innocuous component and a hidden harmful component. For example, a game that sends premium SMS messages from the user's device in the background and without the user’s knowledge.
 
-### A note on uncommon apps
+A note on uncommon apps
+-----------------------
 
 New and rare apps can be classified as uncommon if Google Play Protect doesn't have enough information to clear them as safe. This doesn't mean that the app is necessarily harmful, but without further review it can't be cleared as safe either.
 
-### A note on the backdoor category
+A note on the backdoor category
+-------------------------------
 
 The backdoor malware category classification relies on how the code acts. A necessary condition for any code to be classified as a backdoor is that it enables behaviour that would place the code into one of the other malware categories if executed automatically. For example, if an app allows dynamic code loading and the dynamically loaded code is extracting text messages, it will be classified as a backdoor malware.
 
 However, if an app allows arbitrary code execution and we don’t have any reason to believe that this code execution was added to perform a malicious behaviour, the app will be treated as having a vulnerability, rather than being backdoor malware, and the developer will be asked to patch it.
 
-#### Riskware
+Riskware
+--------
 
 An application that utilises a variety of evasion techniques in order to serve the user different or fake application functionality. These apps mask themselves as legitimate applications or games to appear innocuous to app stores and users and use techniques such as obfuscation, dynamic code loading or cloaking to reveal potentially harmful content.
 
