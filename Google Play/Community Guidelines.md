@@ -1391,8 +1391,16 @@ Choose a section to give feedback on
 Mobile unwanted software
 ========================
 
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
 Mobile unwanted software
 ------------------------
+
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+
+To ensure a safe and great user experience, this policy builds on the Google [unwanted software policy](https://www.google.com/about/unwanted-software-policy.html) by outlining principles for the [Android ecosystem](https://www.android.com/mobile-unwanted-software-policy/) and the Google Play Store. Apps that violate these principles are potentially harmful to the user experience and we will take actions to protect users from them. Your app must deliver its promised value, be transparent about its functions and clearly disclose any bundled software. It must not misrepresent the device's state, impersonate others or generate fake ad traffic. You must handle all user data securely and in compliance with our [user data](https://support.google.com/googleplay/android-developer/answer/10144311?visit_id=638967622926708071-1089367679&rd=1) policies. Apps that interfere with device usability, show disruptive ads or mimic system prompts are prohibited. Please review the full policy to ensure compliance.
+
+![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
 At Google, we believe that if we focus on the user, everything else will follow. In our [Software principles](https://www.google.com/about/software-principles.html) and the [Unwanted software policy](https://www.google.com/about/unwanted-software-policy.html), we provide general recommendations for software that delivers a great user experience. This policy builds on the Google unwanted software policy by outlining principles for the [Android ecosystem](https://www.android.com/mobile-unwanted-software-policy) and the Google Play Store. Software that violates these principles is potentially harmful to the user experience, and we will take steps to protect users from it.
 
@@ -1447,6 +1455,17 @@ Example violations:
 *   Disruptive ads
 *   Unauthorised use or imitation of system functionality
 
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Be transparent with users about your app's functionality and present a clear value proposition that your app delivers on. | Don't trick users into installing your app or disabling device security protections, such as Google Play Protect. |
+| Handle personal and sensitive user data securely and ensure compliance with [user data](https://support.google.com/googleplay/android-developer/answer/10144311?visit_id=638967622926708071-1089367679&rd=1) policies. | Don't disrupt or interfere with other apps on the user's device or the device's normal functions. |
+| Ensure that the uninstall process is simple, clear and straightforward. | Don't display disruptive or unexpected advertisements. |
+| Disclose all bundled software and explicitly explain any system changes and allow user review and approval. | Don't misrepresent the device's state with fake security or virus alerts and don't mimic system-level notifications or other app prompts. |
+| Ensure that ads are easily dismissible and don't disrupt device use. | Don't mislead users or impersonate other apps, developers or entities. |
+
 Choose a section to give feedback on
 
 - - -
@@ -1454,7 +1473,15 @@ Choose a section to give feedback on
 Hostile Downloaders
 ===================
 
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
 ### **Hostile downloaders**
+
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+
+Google Play prohibits 'hostile downloaders' – apps that download other mobile unwanted software (MUwS). An app is flagged as a hostile downloader if it's believed to be designed to spread MUwS or if at least 5% of its downloads are determined to be MUwS. This policy does not apply to major browsers or file-sharing apps, as long as they only download software with the user's explicit consent and initiation. Please review the full policy to ensure compliance.
+
+![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
 Code that isn't in itself unwanted software, but downloads other mobile unwanted software (MUwS).
 
@@ -1467,6 +1494,15 @@ Major browsers and file-sharing apps aren't considered hostile downloaders as lo
 
 *   They don't drive downloads without user interaction; and
 *   All software downloads are initiated by consenting users.
+
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Ensure that your app doesn't include any code that spreads MUwS. | Don't include any code in your app that spreads MUwS. |
+| Monitor downloads to stay well below the 5% MUwS threshold. | Don't exceed the 5% MUwS threshold (25 MUwS per 500 downloads). |
+| Ensure that all app downloads are initiated by a consenting user, if your app's purpose is to download other files (like a browser or file-sharing). | Don't include functionality that drives app downloads without explicit user interaction, if your app's purpose is to download other files (like a browser or file-sharing). |
 
 Choose a section to give feedback on
 
