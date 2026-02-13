@@ -160,57 +160,115 @@ Submit
 
 - - -
 
-English [Choose your preferred language](https://www.apple.com/legal/dsa/ww/redress-options.html)
+European Digital Services Act (DSA)
+===================================
 
-Redress Rights in Connection with the European Union Digital Services Act
--------------------------------------------------------------------------
+This page includes information relevant to the EU Digital Services Act (Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services and amending Directive 2000/31/EC) (the DSA).
 
-In connection with the Digital Services Act (“DSA”), certain individuals or entities have available to them certain redress options, outlined below and organized according to the type of action taken.
+Notice and Action Portal
+------------------------
 
-The redress options below do not preclude you from seeking judicial redress in accordance with any existing agreement you have with Apple.
+Pursuant to Article 16 of the DSA, government representatives, trusted flaggers, and the general public can use the Notice and Action portal to submit notices concerning illegal content on the App Store, Apple Books (ebooks), Apple Podcasts Subscriptions, and iCloud storage.
 
-_Notices submitted concerning illegal content_
+[File a Content Report Notice](https://contentreports.apple.com/)
 
-If you submitted a notice pursuant to Article 16 of the DSA through the [Notice and action portal](https://contentreports.apple.com/), received a notification about the decision, and have concerns regarding the outcome, you may [submit a complaint](https://contentreports.apple.com/complaint).
+App Store Advertising Repository
+--------------------------------
 
-_Reviews Removed_
+Pursuant to Article 39 of the DSA, this repository contains information about Apple-delivered advertising on the App Store in European Union countries and regions.
 
-If your review was removed from the App Store, Apple Books (ebooks) or Apple Podcasts Subscriptions for violation of [Apple’s Submission Guidelines](https://www.apple.com/legal/internet-services/itunes/ww/) and you have a concern regarding the removal of your review, you can contact us [here](https://getsupport.apple.com/?caller=eulglrvw).
+[View the Apple Advertising Repository](https://adrepository.apple.com/)
 
-_Developer Response Removed_
+### Designated Point of Contact
 
-If you have a concern regarding the removal of your responses to customer reviews, you can contact us through the [Apple Developer site](https://developer.apple.com/contact/#!/topic/select). Sign in and click _App Setup and Distribution >_ _Customer Reviews and Ratings,_ then choose your preferred method of contact.
+Pursuant to Articles 11 and 12 of the DSA, the [Head of DSA Compliance](mailto:dsacompliance@apple.com) has been designated as Apple’s point of contact for communications with Member State authorities, the European Commission, the European Board for Digital Services, and recipients of the service. Such communications should be in English.
 
-Developer Account Terminations & App Removals
+ [Email the Head of DSA Compliance](mailto:dsacompliance@apple.com)
 
-If your developer account has been terminated and you would like to file a reinstatement request, you may petition the App Review Board to reinstate your account by completing this form: [Re-instate a Terminated Developer Program Membership](https://developer.apple.com/contact/app-store/). In your petition, provide the specific reasons why the App Review Board should consider re-instating your Apple Developer Program membership. Include details on what improvements you are planning to make to comply with the [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/), [Developer Code of Conduct](https://developer.apple.com/app-store/review/guidelines/#code-of-conduct) and [Apple Developer Program License Agreement](https://developer.apple.com/programs/apple-developer-program-license-agreement/).
+App Store Audit Reports
+-----------------------
 
-If you have a concern regarding measures taken by or behavior of Apple that affect you and relate directly to distribution of your licensed app on the App Store in the region in which you are established, you may [submit a complaint](https://developer.apple.com/contact/p2b/) pursuant to the Regulation (EU) 2019/1150 of the European Parliament and of the Council of 20 June 2019 on promoting fairness and transparency for business users of online intermediation services. Apple will consider and process such complaints and communicate the outcome to you.
+Pursuant to Article 37 of the DSA, this report sets out the results of the annual independent audit of the App Store’s Chapter III DSA obligations.
 
-If your app was removed based on an Intellectual Property claim, contact the claimant directly using the provided contact information, and request the claimant send the App Disputes Team an email confirming that the issue has been resolved and/or that the claim has been retracted.
+[August 2024](https://www.apple.com/legal/dsa/20242708_app-store_reasonable-assurance-report_non-confidential.pdf)
 
-_Apple Books (ebooks) Provider Account Terminations & Content Removals_
+[August 2025](https://www.apple.com/legal/dsa/20251119_app-store_reasonable-assurance-report_non-confidential.pdf)
 
-If your Apple Books account has been terminated, you may petition that your account is reinstated by contacting Apple at [](mailto:AppleBooksContracts@apple.com)AppleBooksContracts@apple.com. In your petition, provide the specific reasons why Apple should consider re-instating your Books account. Include details on what improvements you are planning to make to comply with your Paid and/or Free Books Agreement. 
+App Store Audit Implementation Reports
+--------------------------------------
 
-If you have a concern regarding measures taken by Apple that impact the distribution of your Apple Books ebook content in the EU, you may [submit a complaint](https://itunesconnect.apple.com/contact-us?content_type=books&topic=submit-a-complaint-%28eu-digital-services-act%29-489609d7-f750-4a15-8642-d002c0777efe&locale=en) via Contact Us in iTunes Connect, using the Topic _Submit a Complaint (EU Digital Services Act)._ Apple will consider and process such complaints and communicate the outcome to you.
+Pursuant to Article 37(6) of the DSA, this report sets out the measures that Apple has taken to implement the operational recommendations (referred to as “specific measures”) set out in the August 2024 DSA audit report.
 
-If your content was removed based on an Intellectual Property claim, reach out to Apple Legal via email, with the dispute reference number in the subject line, confirming that the issue has been resolved and/or that the claim has been retracted.
+[August 2024](https://www.apple.com/legal/dsa/20242708_app-store_audit-implementation-report_non-confidential.pdf)
 
-_Podcasts Subscription Provider Account Terminations & Content Removals_
+[August 2025](https://www.apple.com/legal/dsa/20241212_app-store_risk-assessment-report_non-confidential.pdf)
 
-If your Apple Podcasts account has been terminated, you may petition that your account is reinstated by contacting Apple at [](mailto:applepodcastscontracts@apple.com)applepodcastscontracts@apple.com.  In your petition, provide the specific reasons why Apple should consider re-instating your Podcast account. Include details on what improvements you are planning to make to comply with the [Podcasts content guidelines](https://podcasters.apple.com/support/891-content-and-subscription-guidelines). 
+App Store Risk  
+Assessment Reports
+-----------------------------------
 
-If you have a concern regarding measures taken by Apple that impact the distribution of your Apple Podcasts subscriptions content in the EU, you may [submit a complaint](https://podcastsconnect.apple.com/contact-us?content_type=podcasts&topic=submit-a-complaint-%28eu-digital-services-act%29-fa2585c8-db03-4468-84c4-f68a71653e5a&locale=en) via Contact Us in Podcasts Connect, using the Topic _Submit a Complaint (EU Digital Services Act)._ Apple will consider and process such complaints and communicate the outcome to you.
+Pursuant to Articles 34 and 35 of the DSA, this report sets out the results of Apple’s annual assessment of the systemic risks stemming from the design, function or use of the App Stores in the EU, as well as its assessment of the risk mitigation measures that it has put in place to address those risks.
 
-If your content was removed based on an Intellectual Property claim, reach out to Apple Legal via email, with the dispute reference number in the subject line, confirming that the issue has been resolved and/or that the claim has been retracted.
+[August 2023](https://www.apple.com/legal/dsa/20232808_app-store_risk-assessment-report_non-confidential.pdf)
 
-_Restrictions on Apple-Delivered Advertising_
+[August 2024](https://www.apple.com/legal/dsa/20241212_app-store_risk-assessment-report_non-confidential.pdf)
 
-If you received an email from Apple about a restriction to your Apple-delivered advertising, you can appeal [here](https://app.searchads.apple.com/cm/app/restriction-appeal). You’ll need to provide the notification code included in the email in your appeal. This appeals process applies only to Apple-delivered advertising.
+[August 2025](https://www.apple.com/legal/dsa/20251119_app-store_risk-assessment-report_non-confidential.pdf)
 
-_DSA Out-of-Court Dispute Settlement – App Store, Apple Books (ebooks) or Apple Podcasts Subscriptions_
+European Recipients of  
+Services Report
+----------------------------------------
 
-If you disagree with a decision that Apple has taken with respect to App Store, Apple Books (ebooks) or Apple Podcasts Subscriptions to restrict or remove your content or account in the ways described above or if you disagree with a decision that Apple has made in response to a notice submitted to Apple’s DSA Notice and Action portal regarding these services, you are entitled to engage with a DSA certified out-of-court dispute settlement body with a view to resolving your dispute. The European Commission maintains information about DSA out-of-court dispute settlement and a list of certified bodies and their areas of expertise on this dedicated webpage: [](https://digital-strategy.ec.europa.eu/en/policies/dsa-out-court-dispute-settlement)[https://digital-strategy.ec.europa.eu/en/policies/dsa-out-court-dispute-settlement](https://digital-strategy.ec.europa.eu/en/policies/dsa-out-court-dispute-settlement).
+In accordance with Article 24(2) of the DSA, the recipients of the services report includes the numbers of average monthly active recipients in the EU of intermediary services within the scope of that Article, calculated as an average over the period of the past six months.
 
-You should confirm on the Commission’s website whether a particular out-of-court dispute settlement body has been certified to resolve a dispute involving Apple (for example, some only resolve disputes involving certain social media platforms). If the listed body offers the option of resolving disputes involving Apple, or if you are unsure, please visit the website of the out-of-court dispute settlement body to understand how it can help you resolve your dispute and make contact with that body directly.
+[View the Most Recent Report](https://www.apple.com/legal/more-resources/dsa/ww/)
+
+Redress Options
+---------------
+
+Under the DSA, recipients of the App Store, Apple Books (ebooks) and Apple Podcasts Subscriptions services are entitled to receive information about available redress options in connection with certain decisions taken by Apple.  
+  
+[Learn more about redress options](https://www.apple.com/legal/dsa/redress-options.html)
+
+Transparency Reports
+--------------------
+
+Pursuant to the transparency reporting obligations in the DSA and Apple’s commitment to transparency, these reports provide information on the operation of the App Store, Apple Books (eBooks), Apple Podcasts Subscriptions and iCloud Storage.
+
+*   App Store
+    ---------
+    
+    *   [October 2023](https://www.apple.com/legal/dsa/transparency/eu/app-store/2310/)
+    *   [April 2024](https://www.apple.com/legal/dsa/transparency/eu/app-store/2404/)
+    *   [August 2024](https://www.apple.com/legal/dsa/transparency/eu/app-store/2408/)
+    *   [February 2025](https://www.apple.com/legal/dsa/transparency/eu/app-store/2502/)
+    *   [August 2025](https://www.apple.com/legal/dsa/transparency/eu/app-store/2508/)
+    *   [February 2026](https://www.apple.com/legal/dsa/transparency/eu/App-Store-February-2026.xlsx)
+    
+*   Apple Books (ebooks)
+    --------------------
+    
+    *   [February 2025](https://www.apple.com/legal/dsa/transparency/eu/books/2502/)
+    *   [February 2026](https://www.apple.com/legal/dsa/transparency/eu/Apple-Books-\(ebooks\)-February-2026.xlsx)
+    
+*   Apple Podcasts Subscriptions
+    ----------------------------
+    
+    *   [February 2025](https://www.apple.com/legal/dsa/transparency/eu/podcasts/2502/)
+    *   [February 2026](https://www.apple.com/legal/dsa/transparency/eu/Apple-Podcasts-Subscriptions-February-2026.xlsx)
+    
+*   iCloud Storage
+    --------------
+    
+    *   [February 2025](https://www.apple.com/legal/dsa/transparency/eu/icloud/2502/)
+    *   [February 2026](https://www.apple.com/legal/dsa/transparency/eu/Apple-iCloud-Storage-February-2026.xlsx)
+    
+
+DSA and Researchers
+-------------------
+
+Article 40 of the DSA establishes a regime for researchers vetted by Digital Services Coordinators to request data held by Very Large Online Platforms, including the App Store, for the sole purpose of conducting research relating to systemic risks in the European Union and related risk mitigation measures. The regime includes provisions for the protection of confidentiality, privacy and security of such data.
+
+Article 40(12) of the DSA allows researchers that meet specific criteria to access data that is publicly accessible on a Very Large Online Platform’s online interface.
+
+ [Learn more about access for researchers](https://www.apple.com/legal/dsa/dsa-researchers/)
