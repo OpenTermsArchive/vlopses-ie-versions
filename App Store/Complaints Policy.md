@@ -233,7 +233,7 @@ Under the DSA, recipients of the App Store, Apple Books (ebooks) and Apple Podca
 Transparency Reports
 --------------------
 
-Pursuant to the transparency reporting obligations in the DSA and Apple’s commitment to transparency, these reports provide information on the operation of the App Store, Apple Books (eBooks), Apple Podcasts Subscriptions and iCloud Storage.
+Pursuant to the transparency reporting obligations in the DSA and Apple’s commitment to transparency, these reports provide information on the operation of the App Store, Apple Books (eBooks), Apple Podcasts Subscriptions and iCloud Storage. 
 
 *   App Store
     ---------
@@ -269,6 +269,6 @@ DSA and Researchers
 
 Article 40 of the DSA establishes a regime for researchers vetted by Digital Services Coordinators to request data held by Very Large Online Platforms, including the App Store, for the sole purpose of conducting research relating to systemic risks in the European Union and related risk mitigation measures. The regime includes provisions for the protection of confidentiality, privacy and security of such data.
 
-Article 40(12) of the DSA allows researchers that meet specific criteria to access data that is publicly accessible on a Very Large Online Platform’s online interface.
+Article 40(12) of the DSA allows researchers that meet specific criteria to access data that is publicly accessible on a Very Large Online Platform’s online interface. 
 
  [Learn more about access for researchers](https://www.apple.com/legal/dsa/dsa-researchers/)
