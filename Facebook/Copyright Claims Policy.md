@@ -1611,7 +1611,7 @@ Related articles
 
 [What happens when Facebook removes my content?](https://www.facebook.com/help/260743102021762/?helpref=related_articles)
 
-[What tools does Facebook provide to help me protect my intellectual property in my videos?](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
+[Report content on Facebook](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
 
 Related articles
 
@@ -1623,7 +1623,7 @@ Related articles
 
 [What happens when Facebook removes my content?](https://www.facebook.com/help/260743102021762/?helpref=related_articles)
 
-[What tools does Facebook provide to help me protect my intellectual property in my videos?](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
+[Report content on Facebook](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
 
 - - -
 
