@@ -2867,7 +2867,8 @@ Example violations:
 
 * * *
 
-### **Hostile downloaders**
+**Hostile downloaders**
+-----------------------
 
 Code that isn't in itself unwanted software, but downloads other mobile unwanted software (MUwS).
 
