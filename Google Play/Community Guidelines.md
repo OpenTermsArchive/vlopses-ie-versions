@@ -1475,7 +1475,8 @@ Hostile Downloaders
 
 _**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
-### **Hostile downloaders**
+**Hostile downloaders**
+-----------------------
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
@@ -1511,18 +1512,36 @@ Choose a section to give feedback on
 Ad fraud
 ========
 
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
 Ad fraud
 --------
 
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+
+To maintain the mobile ad ecosystem trust, Google Play strictly prohibits ad fraud, which is a form of [invalid traffic](https://support.google.com/admob/answer/3342054), and defined as any ad interaction that tricks an ad network into believing that traffic is from real user interest. This includes showing hidden ads, auto-clicking ads, faking install attributions, showing ads outside the app or misrepresenting your app's identity (like its package name or device type) to ad networks. Please review the full policy to ensure compliance.
+
+![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+
 Ad fraud is strictly prohibited. Ad interactions generated for the purpose of tricking an ad network into believing traffic is from authentic user interest is ad fraud, which is a form of [invalid traffic](https://support.google.com/admob/answer/3342054?hl=en-GB&ref_topic=2745287). Ad fraud may be the byproduct of developers implementing ads in disallowed ways, such as showing hidden ads, automatically clicking ads, altering or modifying information and otherwise leveraging non-human actions (spiders, bots, etc.) or human activity designed to produce invalid ad traffic. Invalid traffic and ad fraud is harmful to advertisers, developers and users, and leads to long-term loss of trust in the mobile ads ecosystem.
 
-Examples of common violations
+**Here are some examples of common violations:**
 
 *   An app that renders ads that are not visible to the user.
 *   An app that automatically generates clicks on ads without the user's intention or that produces equivalent network traffic to fraudulently give click credits.
 *   An app sending fake installation attribution clicks to get paid-for installations that did not originate from the sender’s network.
 *   An app that makes ads pop up when the user is not within the app interface.
 *   False representations of the ad inventory by an app, for example, an app that communicates to ad networks that it is running on an iOS device when it is in fact running on an Android device, or an app that misrepresents the package name that is being monetised.
+
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Ensure that all ads are visible to users and properly rendered within the app interface. | Don't render ads that are hidden, off-screen or invisible to the user. |
+| Ensure that all ad clicks are a direct result of genuine, intentional user interactions. | Don't automatically generate clicks or use bots, scripts or other non-human actions to create ad traffic. |
+| Accurately represent your app's identity to ad networks, including its correct package name, device type (e.g. Android) and all ad inventory. | Don't implement ads in a way that tricks or incentivises users into accidental clicks. |
+| Ensure that all traffic, clicks and installation attributions are the result of authentic user interest. | Don't display ads (like pop-ups) when the user is not actively in your app. |
 
 Choose a section to give feedback on
 
@@ -1533,6 +1552,12 @@ Unauthorised use or imitation of system functionality
 
 Unauthorised use or imitation of system functionality
 -----------------------------------------------------
+
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+
+Users trust system notifications and warnings to be timely, relevant and important. Our policy protects this trust by prohibiting apps or ads from imitating or interfering with system functionality. Please review the full policy to ensure compliance.
+
+![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
 We don’t allow apps or ads that mimic or interfere with system functionality, such as notifications or warnings. System level notifications may only be used for an app’s integral features, such as an airline app that notifies users of special deals, or a game that notifies users of in-game promotions.
 
@@ -1547,6 +1572,15 @@ Examples of common violations
  
 
 For additional examples involving ads, please refer to the [Ads policy](https://https//support.google.com/googleplay/android-developer/answer/9857753).
+
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Use system notifications only for your app's integral features. | Don't mimic or interfere with system notifications or warnings. |
+| Clearly attribute notifications to your app so that users know the source. | Don't trigger notifications to promote a different app or a third-party service. |
+| Review the [Ads policy](https://support.google.com/googleplay/android-developer/answer/9857753) for more specific guidance on ad implementation. | Don't create notifications or alerts that look like they are from the device's operating system. |
 
 Choose a section to give feedback on
 
