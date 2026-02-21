@@ -416,7 +416,7 @@ Visit [Google Play Protect](https://developers.google.com/android/play-protect/
 Backdoors
 ---------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
 
 To protect your users, you must remove any code that acts as a backdoor, which is defined as code facilitating unwanted or harmful remote-controlled operations. Please review the full policy to ensure compliance.
 
@@ -432,17 +432,17 @@ These operations may include behaviour that would place the app, binary or frame
 | --- | --- |
 | **Do** | **Don't** |
 | Thoroughly test your app's code and all third-party libraries for hidden remote control capabilities. | Don't include hidden features or capabilities that could be exploited to harm users. |
-| Secure all remote execution endpoints against unauthorized access. | Don't obfuscate code to hide remote access functionality. |
-| Patch known security vulnerabilities in your app immediately. | Don’t ignore warnings about potential vulnerabilities in your dependencies. |
+| Secure all remote execution endpoints against unauthorised access. | Don't obfuscate code to hide remote access functionality. |
+| Patch known security vulnerabilities in your app immediately. | Don't ignore warnings about potential vulnerabilities in your dependencies. |
 
 * * *
 
 Billing fraud
 -------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
 
-To avoid billing fraud, you must remove any code that deceptively charges users without their explicit consent. This includes SMS fraud, Call fraud, and Toll fraud, which trick users into unwanted payments or subscriptions. Please review the full policy to ensure compliance.
+To avoid billing fraud, you must remove any code that deceptively charges users without their explicit consent. This includes SMS fraud, call fraud and toll fraud, which trick users into unwanted payments or subscriptions. Please review the full policy to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
@@ -469,17 +469,17 @@ Toll fraud includes any type of billing except premium SMS and premium calls. Ex
 | --- | --- |
 | **Do** | **Don't** |
 | Obtain explicit and unambiguous consent from users before initiating any financial transactions. | Don't hide or disguise any information related to charges or subscriptions. |
-| Ensure all billing disclosures are clear, transparent, and prominently visible to the user. | Don't use hidden web views, or automatically send premium SMS messages or make calls without consent. |
-| Send all carrier billing notifications through to the user | Don't use methods like direct carrier billing to trick users into subscriptions. |
+| Ensure that all billing disclosures are clear, transparent and prominently visible to the user. | Don't use hidden web views, or automatically send premium SMS messages or make calls without consent. |
+| Send all operator billing notifications through to the user | Don't use methods like direct operator billing to trick users into subscriptions. |
 
 * * *
 
 Stalkerware
 -----------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
 
-Google Play prohibits apps from monitoring another individual by collecting and transmitting personal and sensitive user data, unless the app is exclusively designed and marketed for parents to monitor their children or enterprise management for the monitoring of individual employees, provided they fully comply with strict requirements. Please review the full policy to ensure compliance.
+Google Play prohibits apps from monitoring another individual by collecting and transmitting personal and sensitive user data, unless the app is exclusively designed and marketed for parents to monitor their children or for enterprise management to monitor individual employees, provided that they fully comply with strict requirements. Please review the full policy to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
@@ -507,18 +507,18 @@ Please reference the [Use of the isMonitoringTool flag](https://support.google.c
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Market your app exclusively for parental or enterprise management use. | Market the app as a spying or surveillance solution. |
-| Include the `IsMonitoringTool` flag in your manifest. | Track other adults, including spouses, even with their permission. |
-| Display a persistent notification and unique icon when running. | Hide, cloak or mislead users about tracking behavior. |
-| Disclose all monitoring functionality in your store description. | Link to non-compliant APKs hosted outside Google Play. |
-| Provide adequate prominent disclosure and obtain consent. | Provide means to activate functionality that violates these terms. |
+| Market your app exclusively for parental or enterprise management use. | Don't market the app as a spying or surveillance solution. |
+| Include the `IsMonitoringTool` flag in your manifest. | Don't track other adults, including spouses, even with their permission. |
+| Display a persistent notification and unique icon when running. | Don't hide, cloak or mislead users about tracking behaviour. |
+| Disclose all monitoring functionality in your store description. | Don't link to non-compliant APKs hosted outside Google Play. |
+| Provide adequate prominent disclosure and obtain consent. | Don't provide means to activate functionality that violates these terms. |
 
 * * *
 
 Denial of service (DoS)
 -----------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
 
 To protect your app and other systems, you must remove any code that, without user knowledge, attacks other systems or generates excessive network load without user knowledge. Please review the full policy to ensure compliance.
 
@@ -533,17 +533,17 @@ For example, this can happen by sending a high volume of HTTP requests to produc
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Thoroughly test your code and third-party SDKs for network abuse. | Don’t hide or embed code that generates a high volume of traffic or network requests. |
-| Ensure all network requests from your app are legitimate and necessary for its functionality. | Don’t include functionality that can be remotely activated to attack external systems. |
+| Thoroughly test your code and third-party SDKs for network abuse. | Don't hide or embed code that generates a high volume of traffic or network requests. |
+| Ensure that all network requests from your app are legitimate and necessary for its functionality. | Don't include functionality that can be remotely activated to attack external systems. |
 
 * * *
 
 Hostile downloaders
 -------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy summary**
 
-Google Play prohibits "hostile downloaders"—apps that download other Mobile Unwanted Software (MUwS). An app is flagged as a hostile downloader if it's believed to be designed to spread MUwS or if at least 5% of its downloads are determined to be MUwS. This policy does not apply to major browsers or file-sharing apps, as long as they only download software with the user's explicit consent and initiation. Please review the full policy to ensure compliance.
+Google Play prohibits 'hostile downloaders' – apps that download other mobile unwanted software (MUwS). An app is flagged as a hostile downloader if it's believed to be designed to spread MUwS or if at least 5% of its downloads are determined to be MUwS. This policy does not apply to major browsers or file-sharing apps, as long as they only download software with the user's explicit consent and initiation. Please review the full policy to ensure compliance.
 
 Code that isn't in itself potentially harmful, but downloads other PHAs.
 
@@ -562,9 +562,9 @@ Major browsers and file-sharing apps aren't considered hostile downloaders as lo
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Ensure your app doesn’t include any code that spreads MUwS. | Don’t include any code in your app that spreads MUwS. |
-| Monitor downloads to stay well below the 5% MUwS threshold. | Don’t Exceed the 5% MUwS threshold (25 MUwS per 500 downloads). |
-| Ensure all app downloads are initiated by a consenting user, if your app's purpose is to download other files (like a browser or file-sharing). | Don’t include functionality that drives app downloads without explicit user interaction, if your app's purpose is to download other files (like a browser or file-sharing). |
+| Ensure that your app doesn't include any code that spreads MUwS. | Don't include any code in your app that spreads MUwS. |
+| Monitor downloads to stay well below the 5% MUwS threshold. | Don't exceed the 5% MUwS threshold (25 MUwS per 500 downloads). |
+| Ensure that all app downloads are initiated by a consenting user if your app's purpose is to download other files (like a browser or file-sharing app). | Don't include functionality that drives app downloads without explicit user interaction if your app's purpose is to download other files (like a browser or file-sharing app). |
 
 * * *
 
@@ -580,7 +580,7 @@ These apps can't cause harm to the Android user or device, but contain component
 Phishing
 --------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
 
 You must remove any code that engages in phishing by deceptively requesting a user's credentials or billing information and sending it to a third party. Please review the full policy to ensure compliance.
 
@@ -595,18 +595,18 @@ Common targets of phishing include banking credentials, credit card numbers and 
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Use official APIs and secure methods to handle user credentials and payment information. | Don’t impersonate a trusted source to trick users into providing personal or financial data. |
-| Ensure all user data is transmitted securely and is not readable by third parties. | Don’t intercept or collect user credentials or sensitive information without consent. |
-| Be transparent with users about what data you are requesting and why. | Don’t send sensitive user information to a third party without proper user disclosure and explicit consent. |
+| Use official APIs and secure methods to handle user credentials and payment information. | Don't impersonate a trusted source to trick users into providing personal or financial data. |
+| Ensure that all user data is transmitted securely and is not readable by third parties. | Don't intercept or collect user credentials or sensitive information without consent. |
+| Be transparent with users about what data you are requesting and why. | Don't send sensitive user information to a third party without proper user disclosure and explicit consent. |
 
 * * *
 
 Elevated privilege abuse
 ------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
 
-To avoid elevated privilege abuse violations, your app must not contain code that gains elevated privileges or breaks the Android security sandbox. This includes code that steals credentials from other apps, circumvents the Android permissions model, or disables core security features. Your app must also respect the user's control over their device. Please review the full policy to ensure compliance.
+To avoid elevated privilege abuse violations, your app must not contain code that gains elevated privileges or breaks the Android security sandbox. This includes code that steals credentials from other apps, circumvents the Android permissions model or disables core security features. Your app must also respect the user's control over their device. Please review the full policy to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
@@ -633,9 +633,9 @@ Privilege escalation apps that root devices without user permission are classifi
 Ransomware
 ----------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
 
-Ransomware is malicious software that takes a user's device or data hostage, demanding payment or an action to restore control. You must not lock users out, encrypt data, or prevent uninstallation. This policy protects users from extortion. Please review the full policy to ensure compliance.
+Ransomware is malicious software that takes a user's device or data hostage and demands payment or another action to restore control. You must not lock users out, encrypt data or prevent uninstallation. This policy protects users from extortion. Please review the full policy to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
@@ -654,7 +654,7 @@ Code distributed with the device whose primary purpose is for subsidised device 
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Ensure your app's code is free from any malicious ransomware functionality. | Don't encrypt user data or lock them out of their device. |
+| Ensure that your app's code is free from any malicious ransomware functionality. | Don't encrypt user data or lock them out of their device. |
 | Obtain explicit user consent for any device management features. | Don't use device admin features to block uninstallation. |
 | Provide a clear and easy way for users to remove your app. | Don't demand payment or action to restore device control. |
 
@@ -663,9 +663,9 @@ Code distributed with the device whose primary purpose is for subsidised device 
 Rooting
 -------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
 
-Google Play allows non-malicious rooting but prohibits malicious rooting code. You must inform users in advance about rooting and ensure your app does not perform any other harmful actions. The goal is to ensure users consent to this powerful device change and are not exposed to additional malicious behavior. Please review the full policy to ensure compliance.
+Google Play allows non-malicious rooting but prohibits malicious rooting code. You must inform users in advance about rooting and ensure that your app does not perform any other harmful actions. The goal is to ensure that users consent to this powerful device change and are not exposed to additional malicious behaviour. Please review the full policy to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
@@ -682,7 +682,7 @@ Malicious rooting apps don't inform the user that they're going to root the devi
 | **Do** | **Don't** |
 | Inform users in advance that your app will root the device. | Don't root a device without informing the user. |
 | Obtain explicit consent from the user before rooting. | Don't perform other harmful actions in a rooting app. |
-| Confirm your app's code is free from any other malicious behaviors. | Don't use rooting code to hide other malicious functionality. |
+| Confirm that your app's code is free from any other malicious behaviours. | Don't use rooting code to hide other malicious functionality. |
 
 * * *
 
@@ -696,7 +696,7 @@ Code that sends unsolicited messages to the user's contacts or uses the device a
 Spyware
 -------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
 
 Google Play prohibits the malicious collection or sharing of user or device data. Regardless of user consent or disclosure, data collection and sharing must be related to policy-compliant functionality. Please review the full policy to ensure compliance.
 
@@ -719,19 +719,19 @@ All apps must also comply with all Google Play Developer Programme Policies, inc
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Provide clear notice and obtain explicit user consent before any data collection or transmission. | Allow third-party SDKs in your app to record audio, calls, or obtain app data without explicit user consent and policy-compliant functionality. |
-| Implement robust logging and auditing for all third-party SDKs data access and transmission to detect and address unauthorized data exfiltration. | Engage in hidden data collection, or collect more data than the app needs for its stated function. |
-| Ensure SDKs integrated in your app only collect the minimum necessary data and that its purpose or behavior doesn’t cause your app to violate Google Play policies. | Include third-party SDKs in your app that transmit data in unexpected ways or without proper consent. |
-|     | Assume third-party SDKs in your app data collection practices are compliant without your thorough review. |
+| Provide clear notice and obtain explicit user consent before any data collection or transmission. | Don't allow third-party SDKs in your app to record audio, calls or obtain app data without explicit user consent and policy-compliant functionality. |
+| Implement robust logging and auditing for all third-party SDKs data access and transmission to detect and address unauthorised data exfiltration. | Don't engage in hidden data collection or collect more data than the app needs for its stated function. |
+| Ensure that SDKs integrated in your app only collect the minimum necessary data and that its purpose or behaviour doesn't cause your app to violate Google Play policies. | Don't include third-party SDKs in your app that transmit data in unexpected ways or without proper consent. |
+|     | Don't assume that third-party SDKs' data collection practices in your app are compliant without your thorough review. |
 
 * * *
 
 Trojan
 ------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
 
-A Trojan is code that contains a hidden, malicious component. This policy prohibits apps that perform undesirable actions against the user without their knowledge. As a developer, you must ensure your app's code is transparent and free of any hidden, harmful functionality. Please review the full policy to ensure compliance.
+A trojan is code that contains a hidden, malicious component. This policy prohibits apps that perform undesirable actions against the user without their knowledge. As a developer, you must ensure that your app's code is transparent and free of any hidden, harmful functionality. Please review the full policy to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
@@ -744,18 +744,18 @@ This classification is usually used in combination with other PHA categories. A 
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Ensure your app's code is transparent and serves its stated purpose. | Don't hide malicious functionality within a seemingly harmless app. |
-| Confirm all app functionality is disclosed to the user. | Don't perform background actions without the user's explicit knowledge and consent. |
-| Be certain any included third-party SDKs are safe and do not contain hidden behaviors. | Don't misrepresent your app's purpose to trick users. |
+| Ensure that your app's code is transparent and serves its stated purpose. | Don't hide malicious functionality within a seemingly harmless app. |
+| Confirm that all app functionality is disclosed to the user. | Don't perform background actions without the user's explicit knowledge and consent. |
+| Be certain that any included third-party SDKs are safe and do not contain hidden behaviours. | Don't misrepresent your app's purpose to trick users. |
 
 * * *
 
 A note on uncommon apps
 -----------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
 
-If Google Play Protect lacks sufficient information to verify your new app's safety, it may be classified as "uncommon." This status doesn't mean your app is harmful, but that it needs further review. Please review the full policy to ensure compliance.
+If Google Play Protect lacks sufficient information to verify your new app's safety, it may be classified as 'uncommon'. This status doesn't mean that your app is harmful, but that it needs further review. Please review the full policy to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
@@ -767,16 +767,16 @@ New and rare apps can be classified as uncommon if Google Play Protect doesn't h
 | --- | --- |
 | **Do** | **Don't** |
 | Provide complete and accurate information in your app listing. | Don't hide functionality or use obfuscated code. |
-| Ensure your app's code is clean and well-documented for review. | Don't use unverified third-party libraries. |
+| Ensure that your app's code is clean and well-documented for review. | Don't use unverified third-party libraries. |
 
 * * *
 
 A note on the backdoor category
 -------------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
 
-A backdoor is code that enables malicious behavior. If dynamic code loading is used to perform harmful actions, your app will be in violation. You must ensure your app’s code does not enable any hidden, malicious functionality. If a vulnerability is found without malicious intent, you will be asked to patch it. Please review the full policy to ensure compliance.
+A backdoor is code that enables malicious behaviour. If dynamic code loading is used to perform harmful actions, your app will be in violation. You must ensure that your app's code does not enable any hidden, malicious functionality. If a vulnerability is found without malicious intent, you will be asked to patch it. Please review the full policy to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
@@ -790,7 +790,7 @@ However, if an app allows arbitrary code execution and we don’t have any reaso
 | --- | --- |
 | **Do** | **Don't** |
 | Rigorously test any code that enables dynamic execution. | Don't use dynamic code loading to perform hidden, malicious actions. |
-| Ensure your app's code is free from vulnerabilities that could be exploited. | Don't allow arbitrary code execution without careful security checks. |
+| Ensure that your app's code is free from vulnerabilities that could be exploited. | Don't allow arbitrary code execution without careful security checks. |
 | Promptly patch any security vulnerabilities found in your app. | Don't use unverified third-party libraries that could enable a backdoor. |
 
 * * *
@@ -798,9 +798,9 @@ However, if an app allows arbitrary code execution and we don’t have any reaso
 Riskware
 --------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
 
-Riskware is an app that uses evasion techniques to hide malicious functionality. It masks itself as a legitimate app, using methods like obfuscation or dynamic code loading to reveal harmful content later. You must ensure your app is transparent and does not use such techniques to deceive reviewers or users. Please review the full policy to ensure compliance.
+Riskware is an app that uses evasion techniques to hide malicious functionality. It masks itself as a legitimate app, using methods like obfuscation or dynamic code loading to reveal harmful content later. You must ensure that your app is transparent and does not use such techniques to deceive reviewers or users. Please review the full policy to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
@@ -813,9 +813,9 @@ Riskware is similar to other PHA categories, specifically Trojan, with the main 
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Ensure your app's code is clear and easy to review. | Don't use obfuscation or cloaking to hide functionality. |
+| Ensure that your app's code is clear and easy to review. | Don't use obfuscation or cloaking to hide functionality. |
 | Be transparent about all of your app's functions. | Don't use dynamic code loading to serve malicious content. |
-| Disclose all functionality in the app description. | Don't make your app's behavior different for reviewers versus regular users. |
+| Disclose all functionality in the app description. | Don't make your app's behaviour different for reviewers versus regular users. |
 
 Choose a section to give feedback on
 
