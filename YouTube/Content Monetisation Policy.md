@@ -468,13 +468,13 @@ Super Thanks lets creators earn revenue from viewers who want to show extra grat
 Virtual Items Program Policies for Creators
 ===========================================
 
-The Virtual Items Module is available to Canadian creators in the YouTube Partner Programme (YPP) who want to unlock Virtual Items features. Enabling Virtual Items can help you to build a community, engage with fans and earn money or other benefits.
+The Virtual Items Module is available to eligible creators in the YouTube Partner Program (YPP) who want to unlock Virtual Items features. Enabling Virtual Items can help you to build a community, engage with fans and earn money or other benefits.
 
 Virtual Items include these features:
 
 *   **Jewels:** A digital item that your fans can buy to unlock and send gifts on your vertical live streams.
 *   **Gifts:** A digital item that fans can send on vertical live streams, unlocked by purchasing Jewels. Gifts appear as an overlay on top of vertical live streams and let viewers react and show appreciation in real-time. When your fans use their Jewels to send gifts, you earn Rubies.
-*   **Rubies:** A digital item that represents the amount of gifts your fans have sent you on your live streams. Any earnings from Rubies will be paid to you with your other YouTube Partner Programme earnings.
+*   **Rubies:** A digital item that represents the amount of gifts your fans have sent you on your live streams. Any earnings from Rubies will be paid to you with your other YouTube Partner Program earnings.
 
 Policies that apply to Virtual Items monetisation
 -------------------------------------------------
@@ -499,14 +499,21 @@ If your access to Virtual Items features is terminated and you want to remove an
 Minimum requirements for Virtual Items features
 -----------------------------------------------
 
-You must meet these minimum requirements to be eligible for the Virtual Items programme:
+You must meet these minimum requirements to be eligible for the Virtual Items program:
 
-*   Your channel must be in the [YouTube Partner Programme](https://support.google.com/youtube/answer/72851).
-*   You must be at least 18 years old with a [verified AdSense account](https://support.google.com/adsense/answer/7568896) or other form of age verification accepted by Google.
-    *   **Note:** If you do not see the Virtual Items Module, you may need to take action to be eligible. Reference the section below on how to verify your AdSense account.
+*   Your channel must be in the [YouTube Partner Program](https://support.google.com/youtube/answer/72851).
+*   Be at least 18 years old with a [verified AdSense account](https://support.google.com/adsense/answer/7568896) or other form of age verification accepted by Google.
+    
+    **Note:** If you do not see the Virtual Items Module, you may need to take action to be eligible. Reference the section below on how to verify your AdSense account.
+    
+
+*   Be at least 19 years old with a [verified AdSense account](https://support.google.com/adsense/answer/7568896) or other form of age verification accepted by Google.
+    
+    **Note:** If you do not see the Virtual Items Module, you may need to take action to be eligible. Reference the section below on how to verify your AdSense account.
+    
 *   You must live in a [country or region where the individual Virtual Items are available](https://support.google.com/youtube/answer/15535963#availability).
 
-### Verifying Your AdSense account
+### Verifying Your AdSense Account
 
 To earn money from Virtual items on YouTube, you need to be at least 18 years old and have a verified AdSense account. Creators who have not gone through the AdSense ID verification process will be notified to do so when you attempt to enable gifts.
 
