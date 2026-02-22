@@ -2020,43 +2020,43 @@ CHANGE LOG
 
 Today
 
-Aug 1, 2025
+Jul 31, 2025
 
-Jul 18, 2025
+Jul 17, 2025
 
-Dec 27, 2024
+Dec 26, 2024
 
-Oct 3, 2024
+Oct 2, 2024
 
-Jul 26, 2024
+Jul 25, 2024
 
-Jul 9, 2024
+Jul 8, 2024
 
-Jan 12, 2024
+Jan 11, 2024
 
-Dec 6, 2023
+Dec 5, 2023
 
-Aug 3, 2023
+Aug 2, 2023
 
-Dec 23, 2022
+Dec 22, 2022
 
-Apr 29, 2022
+Apr 28, 2022
 
-Nov 25, 2021
+Nov 24, 2021
 
-Oct 29, 2021
+Oct 28, 2021
 
-Aug 27, 2021
+Aug 26, 2021
 
-May 5, 2021
+May 4, 2021
 
-Jan 29, 2021
+Jan 28, 2021
 
-Nov 19, 2020
+Nov 18, 2020
 
-Jun 23, 2020
+Jun 22, 2020
 
-Dec 29, 2018
+Dec 28, 2018
 
 Policy Rationale
 
@@ -2275,43 +2275,43 @@ CHANGE LOG
 
 Today
 
-Oct 31, 2025
+Oct 30, 2025
 
-Sep 28, 2024
+Sep 27, 2024
 
-May 2, 2024
+May 1, 2024
 
-Mar 1, 2024
+Feb 29, 2024
 
-May 26, 2023
+May 25, 2023
 
-Aug 26, 2022
+Aug 25, 2022
 
-Dec 24, 2021
+Dec 23, 2021
 
-Nov 25, 2021
+Nov 24, 2021
 
-Oct 1, 2021
+Sep 30, 2021
 
-Jul 30, 2021
+Jul 29, 2021
 
-Nov 19, 2020
+Nov 18, 2020
 
-Dec 17, 2019
+Dec 16, 2019
 
-Aug 28, 2019
+Aug 27, 2019
 
-Jul 31, 2019
+Jul 30, 2019
 
-Jul 2, 2019
+Jul 1, 2019
 
-Oct 16, 2018
+Oct 15, 2018
 
-Sep 1, 2018
+Aug 31, 2018
 
-Jul 28, 2018
+Jul 27, 2018
 
-May 26, 2018
+May 25, 2018
 
 Policy Rationale
 
@@ -2791,17 +2791,17 @@ Aug 28, 2025
 
 Jul 31, 2025
 
-Dec 26, 2024
+Dec 27, 2024
 
 Sep 27, 2024
 
-Jan 12, 2024
+Jan 13, 2024
 
 Aug 31, 2023
 
-Dec 7, 2022
+Dec 8, 2022
 
-Nov 24, 2021
+Nov 25, 2021
 
 Sep 3, 2019
 
@@ -3916,21 +3916,21 @@ Oct 2, 2024
 
 Aug 29, 2024
 
-Feb 29, 2024
+Mar 1, 2024
 
-Dec 5, 2023
+Dec 6, 2023
 
-Nov 23, 2022
+Nov 24, 2022
 
-Dec 23, 2021
+Dec 24, 2021
 
-Nov 24, 2021
+Nov 25, 2021
 
 Oct 28, 2021
 
-Feb 25, 2021
+Feb 26, 2021
 
-Nov 18, 2020
+Nov 19, 2020
 
 May 28, 2020
 
@@ -3938,7 +3938,7 @@ Aug 26, 2019
 
 Jul 30, 2019
 
-Dec 28, 2018
+Dec 29, 2018
 
 Oct 15, 2018
 
@@ -4460,19 +4460,19 @@ CHANGE LOG
 
 Today
 
-Jun 26, 2025
+Jun 27, 2025
 
-Oct 2, 2024
+Oct 3, 2024
 
-Jun 26, 2024
+Jun 27, 2024
 
-Jun 30, 2022
+Jul 1, 2022
 
-Mar 26, 2021
+Mar 27, 2021
 
-Dec 17, 2020
+Dec 18, 2020
 
-Oct 30, 2019
+Oct 31, 2019
 
 Policy Rationale
 
@@ -4844,21 +4844,21 @@ CHANGE LOG
 
 Today
 
-Oct 9, 2024
+Oct 10, 2024
 
-Jul 31, 2024
+Aug 1, 2024
 
-Nov 23, 2022
+Nov 24, 2022
 
-Nov 18, 2020
+Nov 19, 2020
 
-Jan 30, 2020
+Jan 31, 2020
 
-Dec 16, 2019
+Dec 17, 2019
 
-Nov 30, 2019
+Dec 1, 2019
 
-Apr 26, 2019
+Apr 27, 2019
 
 Policy Rationale
 
