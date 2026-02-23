@@ -238,7 +238,73 @@ We will notify you as appropriate if we make material changes to this WhatsApp P
 Adding your WhatsApp account to an Accounts Centre
 ==================================================
 
-This information is not available in your location.
+What is WhatsApp in Accounts Centre
+-----------------------------------
+
+[Accounts Centre](https://www.meta.com/en-gb/help/accounts-center/) is a place where you can centrally manage account settings and connected experiences across your Facebook, Instagram, WhatsApp and Meta accounts. Adding your WhatsApp account to Accounts Centre is completely optional. You can add and remove your WhatsApp account to and from Accounts Centre at any time.
+
+By adding your WhatsApp account to Accounts Centre, you'll unlock experiences that work across Meta apps, such as the ability to easily share your Status created on WhatsApp to Stories on Facebook or Instagram. You'll also be able to manage some account settings in one place, such as adjusting profile information. Adding your WhatsApp account to Accounts Centre means WhatsApp and Meta will share information to provide these benefits, which we explain below and in the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy).
+
+Adding your WhatsApp account to Accounts Centre does not affect the privacy of your WhatsApp personal messages or calls, which will remain end-to-end encrypted. No one else, not even WhatsApp or Meta, can read or listen to them. We also do not share your contact lists with any other [Meta Company](https://faq.whatsapp.com/481188387305001/?locale=en_US).
+
+WhatsApp relies on Meta's infrastructure, such as servers, to support people around the world with fast and reliable services. In general, access to WhatsApp personal data is restricted, so it's only used by other Meta apps to determine how many people we serve and keep people safe, or when a user chooses to use an optional feature that works across Meta products.
+
+WhatsApp in Accounts Centre is one of these optional features. Other optional features include chatting with Meta AI or messaging businesses that are using Meta's business tools. Optional features are always explained clearly in the app so you can make the choice that's right for you.
+
+What information is collected by WhatsApp when you add your WhatsApp account to Accounts Centre
+-----------------------------------------------------------------------------------------------
+
+The [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy) describes information that WhatsApp collects on its services. When you choose to add your WhatsApp account to Accounts Centre, WhatsApp also collects information such as:
+
+To enable you to use connected experiences available through Accounts Centre, WhatsApp also receives information from other [Meta Companies](https://faq.whatsapp.com/481188387305001/?locale=en_US), such as:
+
+What information will Meta receive about you if you add your WhatsApp account to Accounts Centre
+------------------------------------------------------------------------------------------------
+
+When you choose to add your WhatsApp account to Accounts Centre, other [Meta Companies](https://faq.whatsapp.com/481188387305001/?locale=en_US) receive information such as:
+
+For what purposes WhatsApp uses your info if you add your WhatsApp account to Accounts Centre
+---------------------------------------------------------------------------------------------
+
+When you add your WhatsApp account to Accounts Centre, WhatsApp uses your info for purposes such as the following:
+
+How Meta uses your info if you add your WhatsApp account to Accounts Centre
+---------------------------------------------------------------------------
+
+If you choose to add your WhatsApp account to Accounts Centre, Meta will use your information as described in the [Meta Privacy Policy](https://www.facebook.com/privacy/policy/), to do things such as provide, personalise and improve its products and services, including to show you ads, measure their performance and provide more personalised features, content and suggestions across [Meta Company Products](https://faq.whatsapp.com/532729362019677), as well as promote safety, security and integrity. Meta's own terms and privacy policy will govern your use of Meta services and products.
+
+Of course, WhatsApp relies on Meta's infrastructure, such as servers, to support people around the world with fast and reliable services. However, access to WhatsApp personal data is restricted so it will not be used by other Meta apps – including for ads – unless it's to determine how many people we serve, keep people safe or to provide optional features that work across Meta products.
+
+WhatsApp in Accounts Centre is one of these optional features. Other optional features include chatting with Meta AI or messaging businesses that are using Meta's business tools. Optional features are always explained clearly in the app so you can make the choice that's right for you.
+
+Does adding WhatsApp to Accounts Centre affect whether Meta uses your information when you message a business or share your info with them
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Having your accounts in the same Accounts Centre does not affect whether your info is used if you choose to share it with businesses or if you message them on our products.
+
+Learn more about [how Meta uses your information across your accounts in the same Accounts Centre](https://www.meta.com/en-gb/help/accounts-center/433719745369721/).
+
+Which of your settings will change
+----------------------------------
+
+Adding your WhatsApp account to Accounts Centre will allow you to manage certain settings in one place for your WhatsApp accounts, and any other accounts that you have in the same Accounts Centre. These include things such as adjusting your profile information across accounts, and whether to always crosspost status across your apps. For a full list of settings controlled through Accounts Centre, read more [here](https://www.meta.com/en-gb/help/accounts-center/1894490827562393/).
+
+If you don't want to add your WhatsApp account to Accounts Centre
+-----------------------------------------------------------------
+
+You don't have to. Adding your WhatsApp account to Accounts Centre is completely optional. If you choose not to add your WhatsApp account to the same Accounts Centre as your Facebook or Instagram accounts, you can still use WhatsApp as you always have.
+
+If you add your WhatsApp account to Accounts Centre and then change your mind
+-----------------------------------------------------------------------------
+
+If you add your WhatsApp account to Accounts Centre, you allow us to combine and use your information across accounts in Accounts Centre on different [Meta Company Products](https://faq.whatsapp.com/532729362019677). You can remove your WhatsApp account from Accounts Centre at any time.
+
+If you remove your WhatsApp account from Accounts Centre, we'll stop [combining your info](https://www.meta.com/en-gb/help/accounts-center/433719745369721/) between your WhatsApp account and the other accounts still in your Accounts Centre within seven days. If you remove your WhatsApp account, your previously combined info would remain combined.
+
+You opted out of sharing your WhatsApp account information with Meta in 2016. How does adding your WhatsApp account to Accounts Centre affect you
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+If you opted out of sharing your WhatsApp account information with Meta to improve Meta ads and product experiences in 2016, then adding your WhatsApp account to Accounts Centre means that you are opting into this sharing, and all sharing associated with Accounts Centre as described above.
 
 * * *
 
@@ -246,7 +312,7 @@ This information is not available in your location.
 
 ### **WhatsApp Channels Supplemental Privacy Policy**
 
-Effective August 2, 2023
+Effective January 21, 2025
 
 This WhatsApp Channels Supplemental Privacy Policy helps explain our information practices when you use WhatsApp Channels (“Channels”). When we say “WhatsApp”, “our”, “we” or “us”, we are referring to WhatsApp LLC.
 
@@ -296,6 +362,8 @@ Channels information is shared in the following ways:
 
 *   **Public Information**. Remember that Channel Content, and information Admins share on Channels is public and available to others, subject to any audience or privacy settings. You should keep in mind that anybody can capture screenshots or make recordings of Channel Content and interactions on Channels and send them to WhatsApp or anyone else, or share, export or upload them off our Services.
 *   **Third-Party Service Providers and Meta Companies**. We work with third-party service providers and other [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies) to help us operate, provide, improve, understand and support Channels. We also work with [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies) to help us promote the safety, security, and integrity on Channels and our Services, including use of detection and measurement tools that leverage a combination of classifiers, content and behavioral signals, human review, and user reports—to proactively and reactively detect potentially violating content or use of Channels. When we share information with third-party service providers and other [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies) in this capacity, we require them to use your information on our behalf in accordance with our instructions and terms.
+
+*   **Accounts Center.** If you have added your WhatsApp account to Accounts Center, see [here](https://www.meta.com/help/accounts-center/Information-used-across-accounts-wa/) to learn more about how your information will be shared.
 
 #### **Managing And Retaining Your Information**
 
@@ -491,14 +559,11 @@ _*   [WhatsApp Legal Info](#whatsapp-legal-info)
 *   [Information We Collect](#info-we-collect)
 *   [How We Use Information](#how-we-use-info)
 
-*   [Information Shared by You and by WhatsApp with Third Parties](#info-you-and-we-share)
+*   [Information You and We Share](#info-you-and-we-share)
 
-*   [Region Specific Information](#region-specific-info)
-
-*   [What Does This Notice Cover?](#what-does-this-notice-cover)
-*   [Our Legal Basis For Processing](#our-legal-basis-for-processing)
 *   [How We Work With Other Meta Companies](#how-we-work-with-other-meta-companies)
-*   [More Information](#more-info)
+
+*   [Assignment, Change Of Control, And Transfer](#assignment-changeofcontrol-and-transfer)
 
 *   [Managing Your Information](#managing-your-info)
 *   [Law, Our Rights, And Protection](#law-ourrights-and-protection)
@@ -510,7 +575,7 @@ _
 
 If you are located in the [UK](https://faq.whatsapp.com/523679699550284/), WhatsApp LLC provides the Business App to you under this [WhatsApp Business Terms of Service](https://www.whatsapp.com/legal/business-terms) and [WhatsApp Business App Privacy Policy](#top).
 
-If you are located outside the [UK](https://faq.whatsapp.com/523679699550284/) or [European Region](https://faq.whatsapp.com/523679699550284/), WhatsApp LLC provides the Business App to you under this [WhatsApp Business Terms of Service](https://www.whatsapp.com/legal/business-terms) and [WhatsApp Business App Privacy Policy](#top).
+If you are located in the [European Region](https://faq.whatsapp.com/523679699550284/), WhatsApp Ireland Ltd. provides the Business App to you under this [WhatsApp Business Terms of Service](https://www.whatsapp.com/legal/business-terms) and [WhatsApp Business App Privacy Policy](#top).
 
 
 
@@ -522,7 +587,7 @@ _
 
 If you are located in the [UK](https://faq.whatsapp.com/523679699550284/), WhatsApp LLC ("WhatsApp," "our," "we," or "us") provides our Business App to you under this [Terms of Service](https://www.whatsapp.com/legal/business-terms) and this [WhatsApp Business App Privacy Policy](#top). WhatsApp LLC is also the data controller for any processing of personal information about you and you can contact us using the details in the section Contact Us below.
 
-If you are located outside the [European Region](https://faq.whatsapp.com/523679699550284/) or the [UK](https://faq.whatsapp.com/523679699550284/), WhatsApp LLC ("WhatsApp," "our," "we," or "us") provides our Business App to you under this [Terms of Service](https://www.whatsapp.com/legal/business-terms) and [Privacy Policy](#top).
+If you are located in the [European Region](https://faq.whatsapp.com/523679699550284/), WhatsApp Ireland Limited ("WhatsApp," "our," "we," or "us") provides our Business App to you under this [Terms of Service](https://www.whatsapp.com/legal/business-terms) and this [WhatsApp Business App Privacy Policy](#top). WhatsApp Ireland Limited is also the data controller for the processing of any personal information about you and you can contact us using the details in the section Contact Us below.
 
 
 
@@ -532,7 +597,7 @@ _
 
 The WhatsApp Business App provides similar features and functionality to the WhatsApp Messenger App (“Main App Functionality”), but provides additional features and functionality tailored for business needs (“Business Functions”). Business Functions include things like [catalog](https://faq.whatsapp.com/405903568419894), and [greeting](https://faq.whatsapp.com/501866148528310/?cms_platform=android) and [away messages](https://faq.whatsapp.com/2565868990219715/?cms_platform=android). While the WhatsApp Business App includes various features available in the WhatsApp Messenger App, some features may not be available; and not all Business Functions are available everywhere. Business Functions may be offered by WhatsApp, third parties and/or Meta, via integrations into our Business App, and may be subject to the third parties’ own terms of service and privacy policies.
 
-This WhatsApp Business App Privacy Policy (“Business App Privacy Policy”) explains WhatsApp’s data practices with respect to the Business Functions, and applies only to the extent information relating to users of the WhatsApp Business App would be considered personal data and is processed by WhatsApp as a controller, each under applicable law. Users should refer to the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy-eea), incorporated herein by reference, to understand how their information is processed in Main App Functionality. Learn more about Business Functions and the Main App Functionality available on WhatsApp Business App [here](https://faq.whatsapp.com/641572844337957).
+This WhatsApp Business App Privacy Policy (“Business App Privacy Policy”) explains WhatsApp’s data practices with respect to the Business Functions, and applies only to the extent information relating to users of the WhatsApp Business App would be considered personal data and is processed by WhatsApp as a controller, each under applicable law. Users should refer to the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy), incorporated herein by reference, to understand how their information is processed in Main App Functionality. Learn more about Business Functions and the Main App Functionality available on WhatsApp Business App [here](https://faq.whatsapp.com/641572844337957).
 
 Please also read the [WhatsApp Business Terms of Service](https://www.whatsapp.com/legal/business-terms) ("**Business Terms**"), which describe the terms under which you use and we provide the WhatsApp Business App.
 
@@ -547,7 +612,8 @@ In addition to the information described in the applicable WhatsApp Privacy Poli
 
 **Automatically Collected Information**
 
-*   Usage and Log Information. We collect information about your use of the Business Functions. For example, we collect information about your business profile settings; how you use Business Functions like [catalogs](https://faq.whatsapp.com/405903568419894), [labels](https://faq.whatsapp.com/3398508707096369/) and [quick replies](https://faq.whatsapp.com/1791149784551042/); and metrics related to how customers interact with your business.
+*   **Usage and Log Information.**  
+    We collect information about your use of the Business Functions. For example, we collect information about your business profile settings; how you use Business Functions like [catalogs](https://faq.whatsapp.com/405903568419894), [labels](https://faq.whatsapp.com/3398508707096369/) and [quick replies](https://faq.whatsapp.com/1791149784551042/); purchases and transactions with your business; and metrics related to how customers interact with your business.
 
 **Information Received From Others**
 
@@ -563,7 +629,7 @@ We use the information we collect for the same purposes described in the WhatsAp
 *   **Safety, Security and Integrity.**  
     In addition to the safety, security and integrity purposes described in the WhatsApp Privacy Policy, we also use the information we have to maintain safety, security and integrity on our WhatsApp Business App, for example: to create quality and integrity inferences about businesses; secure WhatsApp systems and WhatsApp Business App users’ accounts; fight threats, abuse, or infringement activities; promote safety, security, and integrity on the WhatsApp Business App; and to ensure compliance with our terms and policies.
 
-### Information Shared by You and by WhatsApp with Third Parties
+### Information You and We Share
 
 You and we share information as described in the WhatsApp Privacy Policy, plus additional sharing relevant to the Business Functions.
 
@@ -572,88 +638,17 @@ You and we share information as described in the WhatsApp Privacy Policy, plus a
 *   **Other Integrations.**  
     We allow you to connect the WhatsApp Business App to products and services offered by third parties and/or Meta. These can include for example: cloud storage and hosting services; customer relationship management tools; ad and message creation, delivery and management services; business analytics services; and AI tools. When you use these products or services, their own terms and privacy policies will govern your use of those services and products.
 
-### Region Specific Information
-
-_Additional information for users located in the EU and UK_
-
-### What Does This Notice Cover?
-
-This WhatsApp Business App Privacy Policy Notice (“Notice”) provides additional information for users of the WhatsApp Business App (“Business App”) who are located in the [European Region and UK](https://faq.whatsapp.com/general/26000121/).
-
-This Notice supplements the [WhatsApp Business App Privacy Policy](https://www.whatsapp.com/legal/business-app-privacy-policy), which applies to the use of the Business App to the extent information relating to its users would be considered personal data processed by WhatsApp as a controller, each under applicable law. Any capitalised terms used but not defined in this Notice have the meanings defined in the [WhatsApp Business App Privacy Policy](https://www.whatsapp.com/legal/business-app-privacy-policy) and applicable WhatsApp Privacy Policy. If there is any conflict between this Notice and the [WhatsApp Business Privacy Policy](https://www.whatsapp.com/legal/business-app-privacy-policy) or applicable WhatsApp Privacy Policy, this Notice will control solely with respect to your use of the Business App and only to the extent of the conflict.
-
-### Our Legal Basis For Processing
-
-In the European Region / UK, a “legal basis” is needed to process personal data. In this section we describe why and how and we process your information, and also identify the categories of information we use.
-
-**Processing necessary to perform our contract with you**
-
-We process certain information as necessary to conclude and perform our contract with you, according to those [Business Terms](https://www.whatsapp.com/legal/business-terms).
-
-The categories of information used and why and how they are processed, are set out below:
-
-|     |     |
-| --- | --- |
-| **Why And How We Process Your Information** | **Information Categories Used:** |
-| To operate and provide our Business App in accordance with our [Business Terms](https://www.whatsapp.com/legal/business-terms) we:<br><br>*   Provide onboarding tools to set up your business on the Business Services.<br>*   Facilitate you adding additional information, or changing existing information, about your business in your business profile, such as, changing your profile picture or cover photo, adding information “about” your business to be displayed to your customers, in line with your privacy settings.<br>*   Provide you with business features and tools; for example to host and manage your catalog, orders and cart.<br>*   Enable you to use optional experiences or business tools provided by third parties and/or Meta.<br>*   Providing business measurements and analytics.<br>*   Provide you with business support such as responding when you contact us. | Categories of [Information We Collect](#info-we-collect):<br><br>*   [Your Business Account Information](#?tab=t.0#heading=h.e4040pqyzr1s)<br>*   [Usage and Log Information](#?tab=t.0#heading=h.m9t6cbq6fzl5)<br><br>Other categories of “Information We Collect”:<br><br>*   Your Connections<br>*   Account Access Information<br>*   Usage Information<br>*   Log and Troubleshooting Information<br>*   Device and Connection Information<br>*   General Location Information<br>*   User Choices<br>*   Authentication Information<br><br>More information about “Information We Collect” can be found in the WhatsApp Privacy Policy that applies to you. |
-
-**Legitimate Interests**
-
-We rely on our legitimate interests or the legitimate interests of a third-party, such as our users, where they are not outweighed by your interests or fundamental rights and freedoms ("legitimate interests"):
-
-|     |     |     |
-| --- | --- | --- |
-| Why And How We Process Your Information | Legitimate Interests Relied On | Information Categories Used |
-| Providing marketing communications to you<br><br>*   We’ll collect and store your information and use it for marketing communications. | It is in our interest to promote WhatsApp and other Meta Company Products. | Categories of [Information We Collect](#info-we-collect):<br><br>*   [Your Business Account Information](#?tab=t.0#heading=h.e4040pqyzr1s)<br>*   [Usage and Log Information](#?tab=t.0#heading=h.m9t6cbq6fzl5)<br><br>Other categories of “Information We Collect”:<br><br>*   Device and Connection information |
-
-  
-
-|     |     |     |
-| --- | --- | --- |
-| Why And How We Process Your Information | Legitimate Interests Relied On | Information Categories Used |
-| To ensure safety, security, and integrity of the Business App. We use information we have and apply automated data processing techniques and, in some instances, conduct manual (human) review to:<br><br>*   Create quality and integrity inferences about businesses using the Business App;<br>*   secure WhatsApp systems and WhatsApp Business App users’ accounts;<br>*   fight threats, abuse, or infringement activities; and<br>*   promote safety, security, and integrity on the WhatsApp Business App and ensure compliance with our terms and policies. | It is in our interest and in the interest of WhatsApp Business App users to secure WhatsApp systems, Business App users’ accounts, and fight threats, abuse, or infringement activities and promote safety, integrity and security on the Business Services.<br><br>It is in our interest to ensure our Business Services are used in accordance with the Business Terms and policies. | Categories of [Information We Collect](#info-we-collect)<br><br>*   [Your Business Account Information](#?tab=t.0#heading=h.e4040pqyzr1s)<br>*   [Usage and Log Information](#?tab=t.0#heading=h.m9t6cbq6fzl5)<br><br>Other categories of “Information We Collect”:<br><br>*   Your Account Information<br>*   Customer Support Information And Other Communications<br>*   Account Access Information<br>*   Usage Information<br>*   Log and Troubleshooting Information<br>*   Device and Connection Information<br>*   Authentication Information<br>*   User Reports<br><br>More information about “Information We Collect” can be found in the WhatsApp Privacy Policy that applies to you. |
-
-You have the right to object to, and seek restriction of, this processing. To exercise your rights, visit the “How To Exercise Your Rights” section of the WhatsApp Privacy Policy which applies to you.
-
 ### How We Work With Other Meta Companies
 
-WhatsApp is one of the [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies). The Meta Companies provide technology products and services for both individuals and businesses.
+Review the WhatsApp Privacy Policy to understand how we work with the other Meta Companies for the WhatsApp Business App.
 
-**Where Meta acts as a service provider for WhatsApp**
+### Assignment, Change Of Control, And Transfer
 
-We work with other Meta Companies that act as our service providers and help us provide, secure and improve our Business App. When Meta Companies act as our service providers, we require them to use your information on our behalf in accordance with our instructions and terms. For more information on how we work with other Meta Companies that act as our service providers generally see the “How We Work With Other Meta Companies” section of the WhatsApp Privacy Policy which applies to you.
-
-**Other ways WhatsApp works with Meta**
-
-WhatsApp also shares Information We Collect with other [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies). If you are located in the European Region, where “Meta” is referenced below, this refers to Meta Platforms Ireland Ltd. If you are located in the UK, “Meta” refers to Meta Platforms, Inc..
-
-To enable Meta tools and features available on the WhatsApp Business App, we share information with the Meta Companies that enable these experiences:
-
-*   For Meta AI through WhatsApp we share the following information with Meta:
-
-*   Device and Connection Information (e.g., technical identifiers, region and language) to support the correct operation of Meta AI.
-
-*   For Meta Verified for Business or other business tools and features offered by Meta, we share the following information with Meta:
-
-*   Business Account Information to ensure you are eligible for Meta Verified for Business; and information when your Meta Verified subscription ceases.
-
-*   To enable Ads That Click to WhatsApp, we share the following information with Meta:
-
-*   Business Account Information to create Ads That Click to WhatsApp
-
-The Meta Companies will use this information for their own purposes as described in the [Meta Privacy Policy](https://facebook.com/privacy/policy/).
-
-Learn more about the other [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies) and their information practices by reviewing their privacy policies.
-
-### More Information
-
-You can find information about how you can exercise your rights including your right to complain, details about the controller of your data, and how to contact the relevant data protection officer in the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy-eea) applicable to you.
-
-Please review our WhatsApp Business App Privacy Policy as we may amend or update it from time to time.
+In the event that we are involved in a merger, acquisition, restructuring, bankruptcy, or sale of all or some of our assets, we will share your information with the successor entities or new owners in connection with the transaction in accordance with applicable data protection laws.
 
 ### Managing And Retaining Your Information
 
-The WhatsApp Business App follows the same information management, retention and deletion practices described in the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy-eea#privacy-policy-retention-of-your-information).
+The WhatsApp Business App follows the same information management, retention and deletion practices described in the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy#:~:text=Managing%20And%20Retaining-,Your,-Information).
 
 ### Law, Our Rights, And Protection
 
@@ -669,21 +664,17 @@ We may amend or update our Business App Privacy Policy. We will provide you noti
 
 ### Contact Us
 
-The Data Protection Officer for WhatsApp can be contacted [here](https://www.whatsapp.com/contact/forms/3022366361353546/).
+If you have questions or issues about our Privacy Policy, please [contact us](https://www.whatsapp.com/contact/forms/915483389072145).
 
-If you have questions about our Privacy Policy, please [contact us](https://www.whatsapp.com/contact/forms/4363383090404717/) or write us here:
+WhatsApp LLC
 
-WhatsApp Ireland Limited
+Privacy Policy
 
-Attn: Privacy Policy
+1 Meta Way
 
-Merrion Road
+Menlo Park, CA 94025
 
-Dublin 4
-
-D04 X2K5
-
-Ireland
+United States of America
 
 - - -
 
