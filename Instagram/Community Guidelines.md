@@ -23,25 +23,25 @@ The goal of our Community Standards is to create a place for expression and give
 
 Our commitment to expression is paramount, but we recognize the internet creates new and increased opportunities for abuse. For these reasons, when we limit expression, we do it in service of one or more of the following values:
 
-![](https://lookaside.fbsbx.com/elementpath/media/?media_id=849918942246548&version=1759849055&transcode_extension=webp)
+![](https://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=849918942246548&version=1759849055&transcode_extension=webp)
 
 AUTHENTICITY
 
 We want to make sure the content people see is authentic. We believe that authenticity creates a better environment for sharing, and that’s why we don’t want people using our services to misrepresent who they are or what they’re doing.
 
-![](https://lookaside.fbsbx.com/elementpath/media/?media_id=2800543873566764&version=1759849055&transcode_extension=webp)
+![](https://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=2800543873566764&version=1759849055&transcode_extension=webp)
 
 SAFETY
 
 We’re committed to making Facebook, Instagram, Messenger and Threads safe places. We remove content that could contribute to a risk of harm to the physical security of persons. Content that threatens people has the potential to intimidate, exclude or silence others and isn’t allowed on our services.
 
-![](https://lookaside.fbsbx.com/elementpath/media/?media_id=308994907203174&version=1759849055&transcode_extension=webp)
+![](https://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=308994907203174&version=1759849055&transcode_extension=webp)
 
 PRIVACY
 
 We’re committed to protecting personal privacy and information. Privacy gives people the freedom to be themselves, choose how and when to share on our services and connect more easily.
 
-![](https://lookaside.fbsbx.com/elementpath/media/?media_id=203760854736655&version=1759849055&transcode_extension=webp)
+![](https://static.xx.fbcdn.net/mci_ab/public/cms/?ab_b=e&ab_page=CMS&ab_entry=203760854736655&version=1759849055&transcode_extension=webp)
 
 DIGNITY
 
