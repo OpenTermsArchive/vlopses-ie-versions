@@ -406,10 +406,10 @@ Visit [Google Play Protect](https://developers.google.com/android/play-protect/
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Thoroughly vet all code in your app, including third-party SDKs, to ensure they do not exhibit malware-like behaviors such as spyware, trojans, or phishing, even unintentionally. | Integrate code that abuses elevated privileges to compromise system integrity, roots devices without explicit user consent and awareness, or employs maskware techniques to evade detection of malicious behavior. |
-| Consider using tools to check for security vulnerabilities or backdoors that enable unwanted remote operations. | Use third-party SDKs that collect and transmit personal data for monitoring without proper user disclosure and consent (i.e. stalkerware). Incorporate code that will cause deceptive billing practices involving SMS, calls, or toll fraud. |
-| Ensure third-party SDKs don’t collect and/or exfiltrate user data without policy-compliant functionality and/or adequate notice or consent (Spyware). | Use third-party SDKs that perform Denial of Service attacks or act as a Hostile Downloader. |
-| Ensure your app does not include third-party SDKs that violate the Android permissions model by gaining elevated privileges through the access of device data for an undisclosed purpose. |     |
+| Thoroughly vet all code in your app, including third-party SDKs, to ensure that they do not exhibit malware-like behaviours such as spyware, trojans or phishing, even unintentionally. | Integrate code that abuses elevated privileges to compromise system integrity, roots devices without explicit user consent and awareness or employs maskware techniques to evade detection of malicious behaviour. |
+| Consider using tools to check for security vulnerabilities or backdoors that enable unwanted remote operations. | Use third-party SDKs that collect and transmit personal data for monitoring without proper user disclosure and consent (i.e. stalkerware). Incorporate code that will cause deceptive billing practices involving SMS, calls or toll fraud. |
+| Ensure that third-party SDKs don't collect and/or exfiltrate user data without policy-compliant functionality and/or adequate notice or consent (spyware). | Use third-party SDKs that perform denial of service attacks or act as a hostile downloader. |
+| Ensure that your app does not include third-party SDKs that violate the Android permissions model by gaining elevated privileges through the access of device data for an undisclosed purpose. |     |
 
 * * *
 
