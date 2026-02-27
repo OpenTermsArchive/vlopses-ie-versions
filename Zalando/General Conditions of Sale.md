@@ -324,7 +324,7 @@ Robert Gentz
 
 Link to [**the platform of the European Commission according to Regulation on consumer ODR.**](http://ec.europa.eu/consumers/odr/)
 
-Information on the average monthly active recipients of the platform service in the Union (Art. 24 (2) Digital Services Act): 29.326 million (71.132 million for retail service and platform service)  
+Information on the average monthly active recipients of the platform service in the Union (Art. 24 (2) Digital Services Act): 35.85 million (88.23 million for retail service and platform service)  
 Link to [**ad repository**](http://www.zalando.ie/ads-repository/)
 
 Single Point of Contact for Member States' authorities, the European Commission and the Board according to Article 11 of the Digital Services Act is the following mail address: **authorities-dsa@zalando.de.**  
