@@ -1857,6 +1857,8 @@ CHANGE LOG
 
 Today
 
+Feb 26, 2026
+
 May 14, 2025
 
 Oct 2, 2024
@@ -1867,7 +1869,7 @@ Jul 2, 2024
 
 May 1, 2024
 
-Dec 30, 2023
+Dec 29, 2023
 
 Apr 28, 2022
 
@@ -1875,9 +1877,9 @@ Sep 30, 2021
 
 May 4, 2020
 
-Dec 18, 2020
+Dec 17, 2020
 
-Nov 19, 2020
+Nov 18, 2020
 
 Jul 30, 2020
 
@@ -1957,51 +1959,7 @@ For the following Community Standards, we require additional information and/or 
         
     *   Reports from media, law enforcement, or other third party sources (e.g. government agencies, NGOs), or the [Suicidal Content Contact Form](https://www.facebook.com/help/contact/305410456169423/) or [Instagram Contact Form](https://help.instagram.com/contact/383679321740945/).
         
-    
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-Data
-
-[View the latest Community Standards Enforcement Report](https://transparency.meta.com/data/community-standards-enforcement/)
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with suicide, self-injury, and eating disorders
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
+    *   We may take into account off-platform signals of admission to or promotion of suicide, self-injury, eating disorders or extreme weight-loss behaviors from a user to assess whether specific content posted by them on Meta platforms could present a risk to others.
 
 - - -
 
@@ -4228,9 +4186,9 @@ CHANGE LOG
 
 Today
 
-Oct 10, 2024
+Oct 9, 2024
 
-Aug 1, 2024
+Jul 31, 2024
 
 Policy Rationale
 
@@ -5230,9 +5188,9 @@ CHANGE LOG
 
 Today
 
-Mar 1, 2024
+Feb 29, 2024
 
-Nov 20, 2020
+Nov 19, 2020
 
 We comply with:
 
