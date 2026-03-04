@@ -506,11 +506,6 @@ You must meet these minimum requirements to be eligible for the Virtual Items pr
     
     **Note:** If you do not see the Virtual Items Module, you may need to take action to be eligible. Reference the section below on how to verify your AdSense account.
     
-
-*   Be at least 19 years old with a [verified AdSense account](https://support.google.com/adsense/answer/7568896) or other form of age verification accepted by Google.
-    
-    **Note:** If you do not see the Virtual Items Module, you may need to take action to be eligible. Reference the section below on how to verify your AdSense account.
-    
 *   You must live in a [country or region where the individual Virtual Items are available](https://support.google.com/youtube/answer/15535963#availability).
 
 ### Verifying Your AdSense Account
@@ -557,7 +552,7 @@ Learn more about Virtual Items on YouTube
 Who can buy Jewels and send gifts?
 ----------------------------------
 
-Signed-in viewers in the US and Taiwan, who are at least 18 years old, can purchase Jewels and send gifts to eligible creators during a vertical live stream in the YouTube mobile app.
+Signed-in viewers who meet the [requirements for virtual items](https://support.google.com/youtube/answer/15427201#minimum-requirements-virtual-items) can purchase Jewels and send gifts to eligible creators during a vertical live stream in the YouTube mobile app.
 
 Which creators can earn from gifts?
 -----------------------------------
@@ -567,7 +562,7 @@ US creators who are in the YouTube Partner Program (YPP) and have accepted and m
 Should I verify my identity to get access to Virtual Items?
 -----------------------------------------------------------
 
-Yes, to earn money from Virtual Items on vertical live streams, eligible US creators need to be at least 18 years old and have a verified AdSense account. Creators who have not gone through the ID verification process on AdSense will be prompted to do so. [Learn more](https://support.google.com/youtube/answer/16549064).
+Yes, to earn money from Virtual Items on vertical live streams, eligible creators need to meet the [requirements for virtual items](https://support.google.com/youtube/answer/15427201#minimum-requirements-virtual-items) and have a verified AdSense account. Creators who have not gone through the ID verification process on AdSense will be prompted to do so. [Learn more](https://support.google.com/youtube/answer/16549064).
 
 Are vertical live streams using third-party streaming services eligible for gifts?
 ----------------------------------------------------------------------------------
