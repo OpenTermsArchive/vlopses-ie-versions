@@ -1136,7 +1136,7 @@ Choose a section to give feedback on
 Developer Programme Policy
 ==========================
 
-_(effective from 28 January 2026, unless otherwise stated)_
+_(effective as of 4 March 2026, unless otherwise stated)_
 
 * * *
 
@@ -1379,7 +1379,7 @@ This policy applies to apps which offer loans directly, lead generators, and tho
 Personal loan apps targeting the listed countries must comply with additional requirements and provide supplementary documentation as part of the Financial features declaration within [Play Console](https://play.google.com/console/app/app-content/finance-declaration). Apps that provide EWA loans are subject to these requirements to the extent applicable in the relevant jurisdictions. You must, upon Google Play's request, provide additional information or documents relating to your compliance with the applicable regulatory and licensing requirements.
 
 1.  **India**
-    *   Only apps that submit a licence and are on the 'Digital lending apps (DLAs) deployed by Regulated Entities' list of the Reserve Bank of India (RBI) may submit personal loan apps to the Play Store for review (see this [Help Centre article](https://support.google.com/googleplay/android-developer/answer/16604194) for guidance).
+    *   Only apps that submit a licence and are on the 'Digital lending apps (DLAs) deployed by Regulated Entities' list of the Reserve Bank of India (RBI) may submit personal loan apps to Google Play for review (see this [Help Centre article](https://support.google.com/googleplay/android-developer/answer/16604194) for guidance).
     *   If you are not directly engaged in money lending activities and are only providing a platform to facilitate money lending by registered non-banking financial companies (NBFCs) or banks to users, you will need to accurately reflect this in the declaration.
         *   In addition, the names of all registered NBFCs and banks must be prominently disclosed in your app’s description.
 2.  **Indonesia**
@@ -1402,6 +1402,12 @@ Personal loan apps targeting the listed countries must comply with additional re
     *   Personal loan apps targeting Thailand, with interest rates at or above 15%, must obtain a valid licence from the Bank of Thailand (BoT) or the Ministry of Finance (MoF). Developers must provide documentation that proves their ability to provide or facilitate personal loans in Thailand. This documentation should include:
         *   A copy of their licence issued by the Bank of Thailand to operate as a personal loan provider or nano finance organisation.
         *   A copy of their Pico-finance business licence issued by the Ministry of Finance to operate as a Pico or Pico-plus lender.
+    *   All personal loan apps targeting Thailand must display the following details in the Google Play listing:
+        *   The name of the loan service provider(s) licensed by the Bank of Thailand (BoT) or the Fiscal Policy Office (FPO). 
+        *   Legal entity name for the developer.
+        *   Maximum interest rates and all fees.
+    *   In addition to the above information, personal loan apps targeting Thailand, with interest rates below 15%, must also include the following:
+        *   The statement 'This is a non-regulated loan provider under the BoT/FPO'.
 
 **Here is an example of a common violation:**
 
