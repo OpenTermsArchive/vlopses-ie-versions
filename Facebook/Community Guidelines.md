@@ -130,67 +130,67 @@ CHANGE LOG
 
 Today
 
-Sep 28, 2024
+Sep 27, 2024
 
-Aug 30, 2024
+Aug 29, 2024
 
-Aug 14, 2024
+Aug 13, 2024
 
-Jul 3, 2024
+Jul 2, 2024
 
-Apr 26, 2024
+Apr 25, 2024
 
-Sep 29, 2023
+Sep 28, 2023
 
-Sep 23, 2023
+Sep 22, 2023
 
-Jan 27, 2023
+Jan 26, 2023
 
-Nov 24, 2022
+Nov 23, 2022
 
-Sep 30, 2022
+Sep 29, 2022
 
-Feb 25, 2022
+Feb 24, 2022
 
-Nov 25, 2021
+Nov 24, 2021
 
-Oct 29, 2021
+Oct 28, 2021
 
-May 5, 2021
+May 4, 2021
 
-Feb 9, 2021
+Feb 8, 2021
 
-Jan 29, 2021
+Jan 28, 2021
 
-Nov 19, 2020
+Nov 18, 2020
 
-Sep 4, 2020
+Sep 3, 2020
 
-Jun 27, 2020
+Jun 26, 2020
 
-May 29, 2020
+May 28, 2020
 
-Dec 17, 2019
+Dec 16, 2019
 
-Dec 1, 2019
+Nov 30, 2019
 
-Sep 30, 2019
+Sep 29, 2019
 
-Jul 31, 2019
+Jul 30, 2019
 
-Jul 11, 2019
+Jul 10, 2019
 
-Jul 2, 2019
+Jul 1, 2019
 
-Apr 27, 2019
+Apr 26, 2019
 
-Dec 29, 2018
+Dec 28, 2018
 
-Oct 16, 2018
+Oct 15, 2018
 
-Jul 28, 2018
+Jul 27, 2018
 
-May 26, 2018
+May 25, 2018
 
 Policy Rationale
 
@@ -308,6 +308,8 @@ Dangerous Organizations and Individuals
 CHANGE LOG
 
 Today
+
+Mar 4, 2026
 
 Feb 8, 2024
 
@@ -536,27 +538,11 @@ Organizations and individuals designated by Meta as Violent Non-state Actors or 
 
 A Violence Inducing Entity (General) is a non-state actor that:
 
-*   Uses weapons as a part of their training, communication, or presence; and are structured or operate as unofficial military or security forces; AND
+*   Has as its stated goal or intended function to provide, through violence, an unsanctioned governmental enforcing function (such as, police, military, immigration) in place of, or in addition to, the government itself; or to disrupt through violence a governmental enforcing function;
     
-
-*   Coordinates in preparation for inter-community violence or civil war; OR
+*   Has engaged in a substantial step towards this stated goal on Meta’s platforms; and
     
-*   Advocates for violence against government officials or violent disruptions of civic events; OR
-    
-*   Engages in theft, vandalism, burglary or other damage to property; OR
-    
-*   Engages in mid-severity violence at civic events; OR
-    
-*   Promotes bringing weapons to a location when the stated intent is to intimidate people amid a protest
-    
-
-A **Violence Inducing Conspiracy Network** is a non-state actor that:
-
-*   Is identified by a name, mission statement, symbol, or shared lexicon; AND
-    
-*   Promotes unfounded theories that attempts to explain the ultimate causes of significant social and political problems, events and circumstances with claims of secret plots by two or more powerful actors; AND
-    
-*   Has explicitly advocated for or has been directly linked to a pattern of offline physical harm by adherents motivated by the desire to draw attention to or redress the supposed harms identified in the unfounded theories promoted by the network.
+*   Has engaged in multiple instances of threatening or inciting high-severity violence (online or offline);
     
 
 A **Hate Banned Entity** is a non-state actor that:
@@ -2397,25 +2383,25 @@ CHANGE LOG
 
 Today
 
-Sep 20, 2025
+Sep 19, 2025
 
-Aug 29, 2025
+Aug 28, 2025
 
-Aug 1, 2025
+Jul 31, 2025
 
-Dec 27, 2024
+Dec 26, 2024
 
-Sep 28, 2024
+Sep 27, 2024
 
-Jan 13, 2024
+Jan 12, 2024
 
-Sep 1, 2023
+Aug 31, 2023
 
-Dec 8, 2022
+Dec 7, 2022
 
-Nov 25, 2021
+Nov 24, 2021
 
-Sep 4, 2019
+Sep 3, 2019
 
 Policy Rationale
 
@@ -2509,7 +2495,7 @@ Our services aim to protect the privacy and personal information of our users. W
 
 We remove content that shares, offers, or solicits personally identifiable information or other private information that could lead to physical or financial harm, including financial, residential, and medical information, as well as private information obtained from illegal sources. We recognize that private information may become publicly available through news coverage, court filings, press releases, or other sources. When that happens, we may allow the information to be posted.
 
-We have additional restrictions for paid content. Although we allow ads that provide a positive user experience by focusing on the product’s or service’s details, we remove ads that exploit users’ personal hardships, appear to make negative or inaccurate characterizations about them, or imply knowledge of sensitive personal information. For more information on our privacy rules for paid content, see our Advertising Standard on [Privacy Violations and Personal Attributes](https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes).
+We have additional restrictions for paid content. Although we allow ads that provide a positive user experience by focusing on the product’s or service’s details, we remove ads that exploit users’ personal hardships, appear to make negative or inaccurate characterizations about them, or imply knowledge of sensitive personal information. For more information on our privacy rules for paid content, see our Advertising Standard on [Privacy Violations and Personal Attributes](https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/).
 
 We do not allow:
 
@@ -3815,27 +3801,27 @@ CHANGE LOG
 
 Today
 
-Apr 8, 2025
+Apr 7, 2025
 
-Mar 14, 2025
+Mar 13, 2025
 
-Jan 8, 2025
+Jan 7, 2025
 
-Jul 19, 2024
+Jul 18, 2024
 
-Jul 10, 2024
+Jul 9, 2024
 
-Jun 11, 2024
+Jun 10, 2024
 
-May 21, 2024
+May 20, 2024
 
-Feb 7, 2024
+Feb 6, 2024
 
-Dec 6, 2023
+Dec 5, 2023
 
-Sep 30, 2023
+Sep 29, 2023
 
-Jul 15, 2023
+Jul 14, 2023
 
 Policy Rationale
 
@@ -3847,7 +3833,7 @@ We remove misinformation where it is likely to directly contribute to the risk o
 
 For all other misinformation, we focus on reducing its prevalence or creating an environment that fosters a productive dialogue. We know that people often use misinformation in harmless ways, such as to exaggerate a point (“This team has the worst record in the history of the sport!”) or in humor or satire (“My husband just won Husband of the Year.”) They also may share their experience through stories that contain inaccuracies. In some cases, people share deeply-held personal opinions that others consider false or share information that they believe to be true but others consider incomplete or misleading.
 
-Recognizing how common such speech is, we focus on providing users with helpful information when there is potentially misleading or confusing content. As part of that effort, outside of the United States we partner with third-party fact checking organizations in many parts of the world to review and rate the accuracy of the most viral content on our platforms (see [here](https://transparency.fb.com/features/how-fact-checking-works/) and [here](https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes) for our approach in the United States). Beginning in the United States, the Community Notes program lets people add more context to Facebook, Instagram and Threads posts that are potentially misleading or confusing (see [here](https://transparency.meta.com/features/community-notes)). We also provide resources to increase media and digital literacy so people can decide what to read, trust, and share themselves. We require people to disclose, using our AI-disclosure tool, whenever they post organic content with photorealistic video or realistic-sounding audio that was digitally created or altered, and we may apply penalties if they fail to do so. We may also add a label to certain digitally created or altered content that creates a particularly high risk of misleading people on a matter of public importance.
+Recognizing how common such speech is, we focus on providing users with helpful information when there is potentially misleading or confusing content. As part of that effort, outside of the United States we partner with third-party fact checking organizations in many parts of the world to review and rate the accuracy of the most viral content on our platforms (see [here](https://transparency.fb.com/features/how-fact-checking-works/) and [here](https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes) for our approach in the United States). Beginning in the United States, the Community Notes program lets people add more context to Facebook, Instagram and Threads posts that are potentially misleading or confusing (see [here](https://transparency.meta.com/features/community-notes/)). We also provide resources to increase media and digital literacy so people can decide what to read, trust, and share themselves. We require people to disclose, using our AI-disclosure tool, whenever they post organic content with photorealistic video or realistic-sounding audio that was digitally created or altered, and we may apply penalties if they fail to do so. We may also add a label to certain digitally created or altered content that creates a particularly high risk of misleading people on a matter of public importance.
 
 Finally, we prohibit content and behavior in other areas that often overlap with the spread of misinformation. For example, our Community Standards prohibit [fake accounts](https://www.facebook.com/communitystandards/misrepresentation), [fraud](https://www.facebook.com/communitystandards/fraud_deception), and [coordinated inauthentic behavior](https://www.facebook.com/communitystandards/inauthentic_behavior).
 
