@@ -309,35 +309,35 @@ CHANGE LOG
 
 Today
 
-Feb 8, 2024
+Feb 9, 2024
 
-Dec 29, 2023
+Dec 30, 2023
 
-Aug 29, 2023
+Aug 30, 2023
 
-Apr 27, 2023
+Apr 28, 2023
 
-Dec 23, 2021
+Dec 24, 2021
 
-Nov 24, 2021
+Nov 25, 2021
 
-Oct 15, 2021
+Oct 16, 2021
 
-Aug 26, 2021
+Aug 27, 2021
 
-Jun 23, 2021
+Jun 24, 2021
 
-Oct 22, 2020
+Oct 23, 2020
 
-Aug 27, 2020
+Aug 28, 2020
 
-Feb 27, 2020
+Feb 28, 2020
 
-Oct 10, 2019
+Oct 11, 2019
 
-Sep 27, 2019
+Sep 28, 2019
 
-Dec 28, 2018
+Dec 29, 2018
 
 Policy Rationale
 
@@ -1644,37 +1644,37 @@ Today
 
 Feb 27, 2026
 
-May 14, 2025
+May 15, 2025
 
-Oct 2, 2024
+Oct 3, 2024
 
-Jul 25, 2024
+Jul 26, 2024
 
-Jul 2, 2024
+Jul 3, 2024
 
-May 1, 2024
+May 2, 2024
 
 Dec 30, 2023
 
-Apr 28, 2022
+Apr 29, 2022
 
-Sep 30, 2021
+Oct 1, 2021
 
-May 4, 2020
+May 5, 2020
 
 Dec 18, 2020
 
 Nov 19, 2020
 
-Jul 30, 2020
+Jul 31, 2020
 
-Jul 1, 2019
+Jul 2, 2019
 
-Apr 26, 2019
+Apr 27, 2019
 
-Mar 20, 2019
+Mar 21, 2019
 
-Aug 31, 2018
+Sep 1, 2018
 
 Policy Rationale
 
@@ -1974,7 +1974,7 @@ CHANGE LOG
 
 Today
 
-Mar 4, 2026
+Mar 5, 2026
 
 Oct 30, 2025
 
@@ -1982,23 +1982,23 @@ Sep 27, 2024
 
 May 1, 2024
 
-Feb 29, 2024
+Mar 1, 2024
 
 May 25, 2023
 
 Aug 25, 2022
 
-Dec 23, 2021
+Dec 24, 2021
 
-Nov 24, 2021
+Nov 25, 2021
 
 Sep 30, 2021
 
 Jul 29, 2021
 
-Nov 18, 2020
+Nov 19, 2020
 
-Dec 16, 2019
+Dec 17, 2019
 
 Aug 27, 2019
 
@@ -2058,7 +2058,7 @@ Content, activity or interactions that attempts to exploit people by:
         
     
 
-*   Promoting, threatening to share, or offering to make or kissing imagery through applications or services (including AI), or instructions, even if there is no commercial or non-commercial imagery shared in the content (sometimes referred to as “nudify” apps or “AI kissing” apps).
+*   Promoting, threatening to share, or offering to make NCII or kissing imagery through applications or services (including AI), or instructions, even if there is no commercial or non-commercial imagery shared in the content (sometimes referred to as “nudify” apps or “AI kissing” apps).
     
 *   Sharing secretly taken non-commercial imagery focusing on a person's commonly sexualized body parts (such as breasts, groin, buttocks, or thighs), a person in a sexually suggestive pose, or of a person engaged in sexual activity, and is shared with an intent to mock, sexualize or reveal the identity of the person depicted in the imagery. This imagery is commonly known as "creepshots" or "upskirts".
     
@@ -4016,7 +4016,7 @@ CHANGE LOG
 
 Today
 
-Aug 26, 2024
+Aug 27, 2024
 
 Policy Rationale
 
