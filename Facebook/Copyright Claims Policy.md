@@ -1873,9 +1873,9 @@ Related Articles
 
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[Reporting Copyright Infringements](https://www.facebook.com/help/400287850027717/?helpref=related_articles)
+[How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-[How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
+[Reporting Copyright Infringements](https://www.facebook.com/help/400287850027717/?helpref=related_articles)
 
 Related Articles
 
@@ -1885,9 +1885,9 @@ Related Articles
 
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[Reporting Copyright Infringements](https://www.facebook.com/help/400287850027717/?helpref=related_articles)
+[How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-[How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
+[Reporting Copyright Infringements](https://www.facebook.com/help/400287850027717/?helpref=related_articles)
 
 - - -
 
