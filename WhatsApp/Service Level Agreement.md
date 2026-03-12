@@ -25,8 +25,8 @@ WhatsApp Messenger and WhatsApp Business App users can terminate their relations
 
 If you have a complaint about our Services or Business Services you can raise it by contacting us:
 
-*   For WhatsApp Messenger Support you can contact us from your phone by opening WhatsApp > **Settings** > **Help** > **Contact Us**. You can also contact us from any internet connected device at [support@support.whatsapp.com](mailto:support@support.whatsapp.com).
-*   For WhatsApp Business App Support you can contact us from your phone by opening WhatsApp > **Settings** > **Help** > **Contact Us**. WhatsApp Business App and WhatsApp Business API users can also contact us from any internet connected device at [smb\_web@support.whatsapp.com](mailto:smb_web@support.whatsapp.com).
+*   For WhatsApp Messenger Support you can contact us from your phone by opening this link: [Contact us](https://wa.me/support). You can also contact us from any internet connected device through our [Contact form](https://www.whatsapp.com/contact).
+*   For WhatsApp Business App Support you can contact us from your phone by opening this link: [Contact us](https://wa.me/support). WhatsApp Business App and WhatsApp Business API users can also contact us from any internet connected device through our [Contact form](https://www.whatsapp.com/contact).
 
 You can also contact us by writing to us here:
 
