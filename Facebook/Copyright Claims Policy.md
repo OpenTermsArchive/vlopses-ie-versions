@@ -190,9 +190,9 @@ Related Articles
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
-
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
+
+[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 Related Articles
 
@@ -202,9 +202,9 @@ Related Articles
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
-
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
+
+[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 - - -
 
