@@ -278,7 +278,7 @@ Google Play's target API level policy
 
 _**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 Apps must target a recent Android API level to provide users with security and performance improvements. For new apps and app updates, you _must_ target an API level within one year of the latest major Android release; otherwise, Google Play will prevent your new app or app update submission. Existing apps that are not updated need to target an API level within two years of the latest major Android release to be visible to new users on newer Android versions. For exact timelines and exceptions, please refer to the [Help Centre](https://support.google.com/googleplay/android-developer/answer/11926878) article.
 
@@ -695,7 +695,7 @@ Device and network abuse
 
 _**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 Google Play prohibits your app (or any third-party SDKs in your app) from unauthorised access or interference with the user's device, other devices, network, API or service, other apps on the device, any Google service or an authorised operator's network. This encompasses a range of harmful, high-risk or disruptive behaviours, such as performing self-updates outside the Play Store, downloading unauthorised executable code, exploiting security vulnerabilities, facilitating hacking or creating game cheats that affect other apps. Protecting the integrity of the user's device and the broader ecosystem is paramount. Please review the full policy to ensure compliance.
 
@@ -743,7 +743,7 @@ We don’t allow code that introduces or exploits security vulnerabilities. Revi
 Foreground service use
 ----------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy summary**  
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy summary**  
 The foreground service permission policy ensures user transparency, privacy and optimal device performance.  For apps targeting Android 14+, you must declare valid foreground service (FGS) types in the manifest and Play Console, providing descriptions, user impact and a demo video justifying their use based on user-initiated, perceptible actions. Please review the full policy to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
@@ -779,7 +779,7 @@ The use of foreground service is further explained [here](https://support.google
 User-initiated data transfer jobs
 ---------------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 To maintain user control and prevent prolonged background activity, Google Play provides strict guidelines for apps using the user-initiated, data-transfer jobs API. Data transfers must be directly prompted by the user, ensuring that the app executes a command rather than initiating transfers independently. These transfers are exclusively for network data-transfer tasks and must only operate for the duration required to complete the requested action. Please review the full policy to ensure compliance.
 
@@ -807,7 +807,7 @@ The usage of user-initiated data transfer APIs is further explained [here](https
 Flag secure requirements
 ------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 FLAG\_SECURE is an app-declared display flag indicating sensitive data in the UI should be limited to secure surfaces, preventing screenshots and non-secure display viewing and capturing. Developers use this when content shouldn't be broadcast or viewed outside the app/device. Google Play requires all apps to respect other apps' FLAG\_SECURE declarations and not bypass them for security and privacy. Please review the full policy to ensure compliance.
 
@@ -832,7 +832,7 @@ Apps that qualify as an [accessibility tool](https://support.google.com/googlepl
 Apps that run on-device Android containers
 ------------------------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 To prevent security and privacy concerns, developers can use a 'REQUIRE\_SECURE\_ENV' flag in their app manifest when on-device Android container apps lack the full security features of Android OS.  The flag indicates that the app should not run in a simulated environment. Apps providing these containers are required to respect this flag by not loading apps that declare it and are prohibited from bypassing this security measure. Please review the full policy to ensure compliance.
 
@@ -870,7 +870,7 @@ Misrepresentation
 
 _**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 To protect users and ensure that they can trust an app's true identity and purpose, Google Play prohibits apps and developer accounts from misrepresenting or concealing their ownership, or primary purpose, or faking their country of origin to target users. This policy also strictly forbids coordinating with other apps, sites or accounts to mislead users by hiding an app's true identity or other material details, especially when the content involves politics, social issues or matters of public concern. Please review the full policy to ensure compliance.
 
@@ -901,7 +901,7 @@ Malware
 
 _**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 To maintain a safe Android ecosystem, Google Play prohibits any malicious code, including third-party SDKs integrated into apps, that could put users, their data or their devices at risk. Please review the full policy to ensure compliance.
 
@@ -943,7 +943,7 @@ Visit [Google Play Protect](https://developers.google.com/android/play-protect/
 Backdoors
 ---------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **summary**
 
 To protect your users, you must remove any code that acts as a backdoor, which is defined as code facilitating unwanted or harmful remote-controlled operations. Please review the full policy to ensure compliance.
 
@@ -967,7 +967,7 @@ These operations may include behaviour that would place the app, binary or frame
 Billing fraud
 -------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **summary**
 
 To avoid billing fraud, you must remove any code that deceptively charges users without their explicit consent. This includes SMS fraud, call fraud and toll fraud, which trick users into unwanted payments or subscriptions. Please review the full policy to ensure compliance.
 
@@ -1004,7 +1004,7 @@ Toll fraud includes any type of billing except premium SMS and premium calls. Ex
 Stalkerware
 -----------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **summary**
 
 Google Play prohibits apps from monitoring another individual by collecting and transmitting personal and sensitive user data, unless the app is exclusively designed and marketed for parents to monitor their children or for enterprise management to monitor individual employees, provided that they fully comply with strict requirements. Please review the full policy to ensure compliance.
 
@@ -1045,7 +1045,7 @@ Please reference the [Use of the isMonitoringTool flag](https://support.google.c
 Denial of service (DoS)
 -----------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **summary**
 
 To protect your app and other systems, you must remove any code that, without user knowledge, attacks other systems or generates excessive network load without user knowledge. Please review the full policy to ensure compliance.
 
@@ -1068,7 +1068,7 @@ For example, this can happen by sending a high volume of HTTP requests to produc
 Hostile downloaders
 -------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy summary**
 
 Google Play prohibits 'hostile downloaders' – apps that download other mobile unwanted software (MUwS). An app is flagged as a hostile downloader if it's believed to be designed to spread MUwS or if at least 5% of its downloads are determined to be MUwS. This policy does not apply to major browsers or file-sharing apps, as long as they only download software with the user's explicit consent and initiation. Please review the full policy to ensure compliance.
 
@@ -1107,7 +1107,7 @@ These apps can't cause harm to the Android user or device, but contain component
 Phishing
 --------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **summary**
 
 You must remove any code that engages in phishing by deceptively requesting a user's credentials or billing information and sending it to a third party. Please review the full policy to ensure compliance.
 
@@ -1131,7 +1131,7 @@ Common targets of phishing include banking credentials, credit card numbers and 
 Elevated privilege abuse
 ------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **summary**
 
 To avoid elevated privilege abuse violations, your app must not contain code that gains elevated privileges or breaks the Android security sandbox. This includes code that steals credentials from other apps, circumvents the Android permissions model or disables core security features. Your app must also respect the user's control over their device. Please review the full policy to ensure compliance.
 
@@ -1160,7 +1160,7 @@ Privilege escalation apps that root devices without user permission are classifi
 Ransomware
 ----------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **summary**
 
 Ransomware is malicious software that takes a user's device or data hostage and demands payment or another action to restore control. You must not lock users out, encrypt data or prevent uninstallation. This policy protects users from extortion. Please review the full policy to ensure compliance.
 
@@ -1190,7 +1190,7 @@ Code distributed with the device whose primary purpose is for subsidised device 
 Rooting
 -------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **summary**
 
 Google Play allows non-malicious rooting but prohibits malicious rooting code. You must inform users in advance about rooting and ensure that your app does not perform any other harmful actions. The goal is to ensure that users consent to this powerful device change and are not exposed to additional malicious behaviour. Please review the full policy to ensure compliance.
 
@@ -1223,7 +1223,7 @@ Code that sends unsolicited messages to the user's contacts or uses the device a
 Spyware
 -------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **summary**
 
 Google Play prohibits the malicious collection or sharing of user or device data. Regardless of user consent or disclosure, data collection and sharing must be related to policy-compliant functionality. Please review the full policy to ensure compliance.
 
@@ -1256,7 +1256,7 @@ All apps must also comply with all Google Play Developer Programme Policies, inc
 Trojan
 ------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **summary**
 
 A trojan is code that contains a hidden, malicious component. This policy prohibits apps that perform undesirable actions against the user without their knowledge. As a developer, you must ensure that your app's code is transparent and free of any hidden, harmful functionality. Please review the full policy to ensure compliance.
 
@@ -1280,7 +1280,7 @@ This classification is usually used in combination with other PHA categories. A 
 A note on uncommon apps
 -----------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **summary**
 
 If Google Play Protect lacks sufficient information to verify your new app's safety, it may be classified as 'uncommon'. This status doesn't mean that your app is harmful, but that it needs further review. Please review the full policy to ensure compliance.
 
@@ -1301,7 +1301,7 @@ New and rare apps can be classified as uncommon if Google Play Protect doesn't h
 A note on the backdoor category
 -------------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **summary**
 
 A backdoor is code that enables malicious behaviour. If dynamic code loading is used to perform harmful actions, your app will be in violation. You must ensure that your app's code does not enable any hidden, malicious functionality. If a vulnerability is found without malicious intent, you will be asked to patch it. Please review the full policy to ensure compliance.
 
@@ -1325,7 +1325,7 @@ However, if an app allows arbitrary code execution and we don’t have any reaso
 Riskware
 --------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **summary**
 
 Riskware is an app that uses evasion techniques to hide malicious functionality. It masks itself as a legitimate app, using methods like obfuscation or dynamic code loading to reveal harmful content later. You must ensure that your app is transparent and does not use such techniques to deceive reviewers or users. Please review the full policy to ensure compliance.
 
@@ -1394,7 +1394,7 @@ _**Disclaimer:** Policy summaries and key considerations are overviews only; alw
 Mobile unwanted software
 ------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 To ensure a safe and great user experience, this policy builds on the Google [unwanted software policy](https://www.google.com/about/unwanted-software-policy.html) by outlining principles for the [Android ecosystem](https://www.android.com/mobile-unwanted-software-policy/) and the Google Play Store. Apps that violate these principles are potentially harmful to the user experience and we will take actions to protect users from them. Your app must deliver its promised value, be transparent about its functions and clearly disclose any bundled software. It must not misrepresent the device's state, impersonate others or generate fake ad traffic. You must handle all user data securely and in compliance with our [user data](https://support.google.com/googleplay/android-developer/answer/10144311?visit_id=638967622926708071-1089367679&rd=1) policies. Apps that interfere with device usability, show disruptive ads or mimic system prompts are prohibited. Please review the full policy to ensure compliance.
 
@@ -1476,7 +1476,7 @@ _**Disclaimer:** Policy summaries and key considerations are overviews only; alw
 **Hostile downloaders**
 -----------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 Google Play prohibits 'hostile downloaders' – apps that download other mobile unwanted software (MUwS). An app is flagged as a hostile downloader if it's believed to be designed to spread MUwS or if at least 5% of its downloads are determined to be MUwS. This policy does not apply to major browsers or file-sharing apps, as long as they only download software with the user's explicit consent and initiation. Please review the full policy to ensure compliance.
 
@@ -1515,7 +1515,7 @@ _**Disclaimer:** Policy summaries and key considerations are overviews only; alw
 Ad fraud
 --------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 To maintain the mobile ad ecosystem trust, Google Play strictly prohibits ad fraud, which is a form of [invalid traffic](https://support.google.com/admob/answer/3342054), and defined as any ad interaction that tricks an ad network into believing that traffic is from real user interest. This includes showing hidden ads, auto-clicking ads, faking install attributions, showing ads outside the app or misrepresenting your app's identity (like its package name or device type) to ad networks. Please review the full policy to ensure compliance.
 
@@ -1551,7 +1551,7 @@ Unauthorised use or imitation of system functionality
 Unauthorised use or imitation of system functionality
 -----------------------------------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 Users trust system notifications and warnings to be timely, relevant and important. Our policy protects this trust by prohibiting apps or ads from imitating or interfering with system functionality. Please review the full policy to ensure compliance.
 
