@@ -133,7 +133,7 @@ Permissions and APIs that access sensitive information
 
 _**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 To promote user trust, Google Play mandates that requesting permissions and APIs that access sensitive user data must be necessary for the app's core functionalities as promoted in your Play Store listing and limited to user consented purposes.  Sensitive data must never be misused, under-disclosed or accessed unnecessarily. Request permissions and sensitive APIs incrementally, explaining each level. Use data only as consented to, and obtain new consent for other purposes. Please review the full policy to ensure compliance.
 
@@ -146,7 +146,7 @@ Request permissions and APIs that access sensitive information to access data in
 Restricted permissions
 ----------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 To safeguard user privacy, Google Play defines restricted permissions, subjecting them to additional requirements and mandates apps to responsibly use these permissions and not to manipulate users into granting access. Respect user choices when they decline permission requests and provide alternatives. Be aware that certain restricted permissions might have further additional requirements. Please review the full policy to ensure compliance.
 
@@ -176,7 +176,7 @@ Certain restricted permissions may be subject to additional requirements as deta
 SMS and call log permissions
 ----------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 Google Play imposes strict restrictions on accessing highly sensitive SMS and call log data. Your app must be the designated default handler for SMS, Phone or Assistant to request these permissions. Usage is limited _only_ to documented core app functionality that is absolutely essential for your app's primary purpose. This data must never be used for advertising or any other unapproved purpose.  Please review the full policy to ensure compliance.
 
@@ -209,7 +209,7 @@ Apps may only use the permission (and any data derived from the permission) to p
 Location permissions
 --------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 To protect user privacy, the background location policy requires apps to provide a strong justification and obtain explicit user consent for access. Device location data is limited to essential functions that directly benefit the user and are central to the app's core purpose; it is never permitted solely for advertising or analytics. Minimise your requests, choosing lesser sensitive options like coarse location and foreground access whenever possible. Foreground Services access of device location must be user-initiated and temporary, while background is only for critical features. Please review the full policy to ensure compliance.
 
@@ -246,7 +246,7 @@ For more information on the policy requirements, please see [this help article](
 All files access permission
 ---------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 Google Play policy treats access to user files and directories as sensitive and high risk access, so we restrict use of the `MANAGE_EXTERNAL_STORAGE` permission on Android 11+. You must have essential core app functionality that requires broad access to this permission for a user-facing purpose, and never for third parties. This helps prevent unnecessary data collection and protects users' privacy. Apps requesting this permission must clearly prompt users so they can make an informed privacy decision and get approval through Play’s app review. Please review the full policy to ensure compliance.
 
@@ -273,7 +273,7 @@ Files and directory attributes on a user’s device are regarded as personal and
 Photo and video permissions
 ---------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 To protect user privacy and security, Google Play requires apps that request `READ_MEDIA_IMAGES` or `READ_MEDIA_VIDEO` permissions to show strong, legitimate core use cases for persistent or frequent access to photos and videos. If your app does _not_ qualify for this access, you should remove the permissions. Instead, use a system picker like the more privacy-preserving Android Photo Picker for one-time or infrequent needs. Please review the full policy to ensure compliance.
 
@@ -309,7 +309,7 @@ Apps that have a legitimate access case for photos or videos, but do not qualify
 
 ### Package (app) visibility permission
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 Accessing a user's installed app inventory is sensitive data. Google Play policy strictly limits broad visibility (`QUERY_ALL_PACKAGES`), allowing it only for core app functionality that requires extensive knowledge of installed apps for interoperability. You must prioritise using finite, targeted queries to access specific apps when possible, which is more privacy friendly. Under no circumstances can data from the installed app inventory be sold or shared for advertising or analytics monetisation. Please review the full policy to ensure compliance.
 
@@ -343,7 +343,7 @@ App inventory data queried from Play-distributed apps may never be sold nor [sha
 
 ### **Accessibility API**
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
 Google Play permits the use of the AccessibilityService API across a wide range of applications. However, only services designed to help people with disabilities access their devices or overcome challenges due to their disabilities are eligible to declare themselves as accessibility tools by setting isAccessibilityTool=true in their metadata. These apps are exempt from the prominent disclosure and consent requirements. For all other uses, or if not declaring your app as an accessibility tool, you will be required to complete an accessibility declaration in Play Console and must implement a clear in-app disclosure explaining data access and use, and obtain affirmative user consent. Please review the full policy to ensure compliance.
 
@@ -389,7 +389,7 @@ Please refer to the [AccessibilityService API](https://support.google.com/google
 Request install packages permission
 -----------------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 `REQUEST_INSTALL_PACKAGES` permission allows apps to request the installation of other app packages. This permission is restricted to the app's core functionality, specifically when the primary purpose directly involves sending, receiving or enabling user-initiated installation of app packages. Using this permission to update your app, change its functionality or bundle other APKs for silent or unauthorised installation (except enterprise management) is prohibited. All installations must be a direct, active choice by the user. Apps targeting Android 8+ must hold this permission in order to use `Intent.ACTION_INSTALL_PACKAGE`. Please review the full policy to ensure compliance.
 
@@ -428,7 +428,7 @@ The `REQUEST_INSTALL_PACKAGES` permission may not be used to perform self update
 Body sensor permissions
 -----------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 To safeguard user privacy, Google Play mandates that access to highly sensitive body sensor data (such as heart rate, SpO2 and skin temperature) is  subject to our [User data](https://support.google.com/googleplay/android-developer/answer/10144311) policy and [Health apps](https://support.google.com/googleplay/android-developer/answer/12261419#health_apps) policy.
 
@@ -460,7 +460,7 @@ For comprehensive policy guidance, including prohibited uses, acceptable use ca
 Health Connect by Android Permissions
 -------------------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 Access to Health Connect data is restricted to apps with approved health, fitness, medical care or health research core use cases. You must strictly limit data access to the minimum scope necessary for these approved functions and obtain explicit user consent before sharing any health data with third parties. Transparency is key, so provide clear disclosures and a comprehensive privacy policy explaining data collection, use, management and deletion. Secure user data against unauthorised access and comply with all applicable laws and regulations (e.g. HIPAA, GDPR). Please review the full policy to ensure compliance.
 
@@ -546,7 +546,7 @@ For more information on requirements for apps connecting to Health Connect, plea
 VPN service
 -----------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 The VpnService base class allows developers to create secure VPN solutions. Google Play permits its use only for apps with core VPN functionality or those requiring a remote server for essential features such as parental control, app usage tracking, device security, network tools, web browsers or operator services. It is paramount that VpnService is never used to collect personal or sensitive user data without prominent disclosure and explicit consent. Furthermore, redirecting or manipulating user traffic from other apps for monetisation is strictly prohibited. All apps using VpnService must clearly document this in their Google Play listing and encrypt all data from the device to the VPN tunnel endpoint. Please review the full policy to ensure compliance.
 
@@ -585,7 +585,7 @@ Apps that use the VpnService must:
 Exact alarm permission
 ----------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 `USE_EXACT_ALARM` permission on Android 13+ is a highly restricted permission used only for apps whose core, user-facing functionality genuinely requires precise timing, like dedicated alarm, timer or calendar applications with event notifications. If your app does _not_ have this specific core need, consider using `SCHEDULE_EXACT_ALARM` permission instead. It provides the same functionality but access must be granted by the user. This policy prevents misuse that impacts system resources. Please review the full policy to ensure compliance.
 
@@ -621,7 +621,7 @@ For more information on exact alarm functionality, please see this [developer gu
 Full-screen intent permission
 -----------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 On Android 14+, the `USE_FULL_SCREEN_INTENT` permission is auto-granted _only_ for apps whose core function is setting alarms or handling calls. For any other use case, you must obtain explicit user consent and clearly explain your need. This policy prevents the misuse of full-screen intents for non-critical purposes and requires that your use does not interfere with or disrupt the user's device, other apps or overall usability. Please review the full policy to ensure compliance.
 
@@ -653,7 +653,7 @@ Learn more about the `USE_FULL_SCREEN_INTENT` permission in our [Help Centre](ht
 Age Signals API and user data
 -----------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 To help protect user's data, you may only use data provided by the Age Signals API to provide age-appropriate experiences in the app receiving this data. These guidelines ensure that you use the API strictly to meet compliance requirements and not for commercial gain or tracking.
 
@@ -687,7 +687,7 @@ Deceptive behaviour
 
 _**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 To uphold user trust, Google Play strictly prohibits all forms of deception. Your app, including any third-party SDKs, ads or services, must always maintain honesty and transparency, and must never mislead users or enable dishonest behaviour. All metadata, including the store listing, screenshots and title, must precisely reflect the app's functionality. Apps are prohibited from mimicking other apps or OS warnings. Any modifications to device settings require explicit user consent and must be easily reversible. Should your app require the download of additional assets, you must prompt the user and explicitly disclose the download size first. Please review the full policy to ensure compliance.
 
@@ -709,7 +709,7 @@ We don't allow apps that attempt to deceive users or enable dishonest behaviour,
 Misleading claims
 -----------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 To maintain our commitment to a transparent and trustworthy user experience, Google Play prohibits misleading claims or information in apps. This includes misleading information in the description, title, icon and screenshots. Apps must not misrepresent their functionality, or claim impossible features, even if labelled as a joke. You must also avoid improper categorisation, false content about elections and false claims of affiliation with governments or other established entities. For example, you cannot use 'Official' in a title without the necessary rights. Please review the full policy to ensure compliance.
 
@@ -748,7 +748,7 @@ Examples of common violations
 Deceptive device settings changes
 ---------------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 Google Play prohibits apps from making changes to a user's device settings or features outside the app without explicit user consent. Even with consent, any changes that your app makes must be easily reversible. Modifying settings as a service for third parties or for advertising is also prohibited. Finally, apps must not encourage or incentivise users to remove/disable third-party apps or modify device settings or features with an exception for verifiable security services. Please review the full policy to ensure compliance.
 
@@ -777,7 +777,7 @@ Additionally, we do not allow:
 Enabling dishonest behaviour
 ----------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 Google Play prohibits apps from deceiving or enabling users to deceive or mislead others, such as by generating fake IDs, passports, diplomas, social security numbers or credit cards. Your app itself must provide accurate disclosures, titles and descriptions about its functionality and must perform as reasonably and accurately expected by the user. Claiming an app is a 'prank' or 'for entertainment purposes' does not exempt it from these policies. Please review the full policy to ensure compliance.
 
@@ -813,7 +813,7 @@ Examples of common violations
 Manipulated media
 -----------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 To protect users, Google Play prohibits apps from creating, facilitating or promoting false or misleading media, such as images, videos or audio. This includes apps that perpetuate misleading media that could cause harm regarding sensitive events, politics or other matters of public concern. Exceptions may be made for obvious satire, parody or content with clear watermarks or disclaimers, and must comply with existing Google Play Developer Policies, including prohibiting disallowed content under the [**restricted content**](https://support.google.com/googleplay/android-developer/topic/9877466?sjid=4697247637550754979-NC) policies. Please review the full policy to ensure compliance.
 
@@ -851,7 +851,7 @@ Examples of common violations
 Behaviour transparency
 ----------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 To help ensure user safety and system integrity, Google Play prohibits apps from containing any hidden, dormant or undocumented features. Your app's functionality should be reasonably clear to your users. This policy also prohibits any techniques used to evade Google Play's app reviews. Please review the full policy to ensure compliance.
 
