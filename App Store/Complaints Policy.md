@@ -228,7 +228,7 @@ Redress Options
 
 Under the DSA, recipients of the App Store, Apple Books (ebooks) and Apple Podcasts Subscriptions services are entitled to receive information about available redress options in connection with certain decisions taken by Apple.  
   
-[Learn more about redress options](https://www.apple.com/legal/dsa/redress-options.html)
+[Learn more about redress options](https://www.apple.com/legal/dsa/redress-options/en/)
 
 Transparency Reports
 --------------------
