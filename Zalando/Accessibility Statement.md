@@ -1,98 +1,73 @@
-We’ve hit a snag
-================
+Accessibility statement
+=======================
 
-Our server is having a hard time with this one. Try clearing your browser history and hitting refresh.
+Our Commitment to Accessibility
+-------------------------------
 
-No luck? Tell us who you’re shopping for and we’ll get you back on track.
+At Zalando, accessibility is a core part of our mission. We believe that everyone should have equitable access to fashion and a seamless online shopping experience. To achieve this, we have integrated accessibility into our internal policies and development processes, ensuring that it remains a priority.
 
-[Women](https://www.zalando.ie/women-home/) [Men](https://www.zalando.ie/men-home/) [Kids](https://www.zalando.ie/kids-home/)
+Our Accessibility Approach & Process
+------------------------------------
 
-Abbiamo identificato un problema...
-===================================
+Our approach to accessibility is holistic and integrated into every stage of our operations, from product development to quality assurance. We follow a 'shift-left' approach, meaning that accessibility is a foundational requirement from the very beginning of the design and development process, not an afterthought.
 
-Il nostro server è in difficoltà. Prova a pulire la cronologia del tuo browser e premi aggiorna.
+Our teams are continuously trained on accessibility best practices and are equipped to ensure that inclusive design is a priority. We have also set up a monitoring strategy, including both self-assessments and external audits, to regularly test our services and validate our progress.
 
-Nessun risultato? Scegli una categoria e troveremo quello che cerchi.
+Compliance Status
+-----------------
 
-[Donna](https://www.zalando.ie/donna-home/) [Uomo](https://www.zalando.ie/uomo-home/) [Bambini](https://www.zalando.ie/bambini-home/)
+Zalando is dedicated to meeting and exceeding accessibility standards. We are actively working toward compliance with the **Web Content Accessibility Guidelines (WCAG) 2.2 Level AA** and the **EN 301 549** European standard, in accordance with the **European Accessibility Act (EAA)** and respective national implementation.
 
-Wir haben Schwierigkeiten
-=========================
+Currently, the Zalando website is **partially compliant** with the aforementioned standards. This means that while most of our content and main features are accessible, some parts do not yet fully comply with the standard.
 
-Unser Server hat es mit dieser Seite gerade schwer. Bitte leere deinen Browser-Verlauf und versuche es erneut.
+What is Already Accessible
+--------------------------
 
-Kein Glück? Dann wähle aus, für wen du shoppen möchtest und wir bringen dich zurück auf die Spur.
+We have focused on making the most important parts of the shopping journey accessible. Our main user journeys, including **browsing products**, **searching for items**, **adding to cart,** and **checking out**, are accessible to users who rely on screen readers and keyboard navigation.
 
-[Damen](https://www.zalando.ie/damen-home/) [Herren](https://www.zalando.ie/herren-home/) [Kinder](https://www.zalando.ie/kinder-home/)
+Additionally, we have implemented **descriptive alt text** for all non-decorative images across our website, ensuring that users with screen readers can understand the visual content.
 
-Hemos detectado un problema...
-==============================
+We have also made most of our interactive components, such as **product carousels**, **pop-up modals**, and **drop-down menus**, accessible to ensure they can be used with assistive technologies and keyboard navigation.
 
-Nuestro servidor está pasando un mal rato. Elimina el historial del explorador e inténtalo de nuevo.
+Areas for Improvement
+---------------------
 
-¿No ha habido suerte? Elige una categoría y te mostraremos estilos muy interesantes.
+We are actively working to address remaining accessibility barriers to provide a fully accessible shopping experience. Some of the areas we are currently improving include:
 
-[Mujer](https://www.zalando.ie/mujer-home/) [Hombre](https://www.zalando.ie/hombre-home/) [Niños](https://www.zalando.ie/nino-home/)
+*   **Error Handling and User Feedback**: We're enhancing form usability by ensuring all fields have proper labels and providing clear, text-based error messages. These messages are programmatically linked to their corresponding fields, making it easy for users with assistive technologies to identify and correct errors.
+    
+*   **Semantic Structure and Navigation**: We are committed to improving our website's overall structure. We're implementing a logical and consistent heading structure (H1, H2, etc.) across all pages to aid screen reader navigation and improve content comprehension for all users. We are also adding "skip to content" links that become visible upon keyboard focus, allowing users to bypass repetitive navigation elements.
+    
+*   **Sufficient Contrast**: Beyond just text, we are improving the color contrast of non-text elements such as icons, buttons, and other graphical components. This ensures users with low vision or color vision deficiencies can easily perceive and interact with key parts of the interface.
+    
+*   **Keyboard and Focus Management**: We are enhancing keyboard navigation for all interactive components to ensure a clear and visible focus indicator.
+    
+*   **User Preferences**: We are developing support for dynamic text, landscape and a dark mode feature to give users more control over their visual settings.
+    
+*   **Video Content**: We're actively working to improve the accessibility of our video content. This includes adding captions and audio descriptions for all videos and providing playback controls (play/pause) for all animated content and videos, giving users control over their experience.
+    
 
-Mutkia matkassa...
-==================
+Technical Specifications
+------------------------
 
-Serveri tökkii, pahoittelumme. Tyhjennä selaimesi välimuisti ja yritä uudelleen!
+Zalando's web accessibility relies on the following technologies, which are necessary for full compliance with our target accessibility standards:
 
-Ei onnistunut? Jatka eteenpäin klikkaamalla yhtä alla olevista osastoista.
+*   **HTML**
+    
+*   **WAI-ARIA**
+    
+*   **CSS**
+    
+*   **JavaScript**
+    
 
-[Naiset](https://www.zalando.ie/naiset-home/) [Miehet](https://www.zalando.ie/miehet-home/) [Lapset](https://www.zalando.ie/lapset-home/)
+We recommend using modern browsers like **Google Chrome**, **Safari**, or **Edge** for the best experience with assistive technologies such as NVDA, VoiceOver, and Talkback.
 
-Oops, il y a comme un hic
-=========================
+Feedback
+--------
 
-Notre serveur est un peu plus lent que d’habitude. On supprime les cookies et on actualise la page ?
+We welcome your feedback and appreciate you helping us improve. If you encounter an accessibility issue or have suggestions, please [contact our support team](https://zalando.ie/faq/My-Account/what-are-zalandos-accessibility-functionalities.html).
 
-Aucun résultat ? Dites-nous pour qui vous achetez et on vous remettra sur la bonne voie.
+We are committed to addressing your concerns promptly. Thank you for helping us make Zalando more accessible for everyone.
 
-[Femme](https://www.zalando.ie/accueil-femme/) [Homme](https://www.zalando.ie/accueil-homme/) [Enfant](https://www.zalando.ie/accueil-enfant/)
-
-Dit gaat wat moeizaam.
-======================
-
-Dit gaat niet zoals verwacht. Probeer je zoekgeschiedenis te wissen en vernieuw de pagina.
-
-Geen succes? Zeg ons naar wat je op zoek bent en we helpen je graag verder.
-
-[Dames](https://www.zalando.ie/dames-home/) [Heren](https://www.zalando.ie/heren-home/) [Kinderen](https://www.zalando.ie/kinderen-home/)
-
-Det er en feil på siden.
-========================
-
-Vår server kan ikke finne siden du søker. Prøv å tømme nettleserloggen og oppdater siden.
-
-Fremdeles problemer? Velg en kategori under og vi leder deg tilbake på riktig spor.
-
-[Dame](https://www.zalando.ie/dame-home/) [Herre](https://www.zalando.ie/herre-home/) [Barn](https://www.zalando.ie/barn-home/)
-
-Wystąpił błąd
-=============
-
-Nasz serwer nie poradził sobie z tą stroną. Wyczyść historię przeglądarki i spróbuj ponownie.
-
-Nie udało się znaleźć szukanej strony. Wybierz interesującą Cię kategorię i powróć do sklepu.
-
-[Kobiety](https://www.zalando.ie/kobiety-home/) [Mężczyźni](https://www.zalando.ie/mezczyzni-home/) [Dzieci](https://www.zalando.ie/dzieci-home/)
-
-Det är ett fel på sidan.
-========================
-
-Vår server kan inte hitta sidan. Försök att rensa din browserhistorik och ladda sidan på nytt.
-
-Problem? Välj avdelning så får vi dig tillbaka på rätt spår.
-
-[Dam](https://www.zalando.ie/kvinna-home/) [Herr](https://www.zalando.ie/man-home/) [Barn](https://www.zalando.ie/barn-home/)
-
-Vi er lidt pressede
-===================
-
-Den her er en smule hård for vores server. Prøv at slette din browserhistorik og opdatere sitet.
-
-Uden held? Fortæl os hvem du shopper til og vi sørger for du kommer tilbage på sporet.
-
-[Damer](https://www.zalando.ie/damer-home/) [Herrer](https://www.zalando.ie/herrer-home/) [Børn](https://www.zalando.ie/boern-home/)
+**This statement was last updated on**: October 20, 2025
