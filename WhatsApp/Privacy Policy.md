@@ -238,73 +238,9 @@ We will notify you as appropriate if we make material changes to this WhatsApp P
 Adding your WhatsApp account to an Accounts Centre
 ==================================================
 
-What is WhatsApp in Accounts Centre
------------------------------------
+WhatsApp in Accounts Centre is not available everywhere.
 
-[Accounts Centre](https://www.meta.com/en-gb/help/accounts-center/) is a place where you can centrally manage account settings and connected experiences across your Facebook, Instagram, WhatsApp and Meta accounts. Adding your WhatsApp account to Accounts Centre is completely optional. You can add and remove your WhatsApp account to and from Accounts Centre at any time.
-
-By adding your WhatsApp account to Accounts Centre, you'll unlock experiences that work across Meta apps, such as the ability to easily share your Status created on WhatsApp to Stories on Facebook or Instagram. You'll also be able to manage some account settings in one place, such as adjusting profile information. Adding your WhatsApp account to Accounts Centre means WhatsApp and Meta will share information to provide these benefits, which we explain below and in the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy).
-
-Adding your WhatsApp account to Accounts Centre does not affect the privacy of your WhatsApp personal messages or calls, which will remain end-to-end encrypted. No one else, not even WhatsApp or Meta, can read or listen to them. We also do not share your contact lists with any other [Meta Company](https://faq.whatsapp.com/481188387305001/?locale=en_US).
-
-WhatsApp relies on Meta's infrastructure, such as servers, to support people around the world with fast and reliable services. In general, access to WhatsApp personal data is restricted, so it's only used by other Meta apps to determine how many people we serve and keep people safe, or when a user chooses to use an optional feature that works across Meta products.
-
-WhatsApp in Accounts Centre is one of these optional features. Other optional features include chatting with Meta AI or messaging businesses that are using Meta's business tools. Optional features are always explained clearly in the app so you can make the choice that's right for you.
-
-What information is collected by WhatsApp when you add your WhatsApp account to Accounts Centre
------------------------------------------------------------------------------------------------
-
-The [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy) describes information that WhatsApp collects on its services. When you choose to add your WhatsApp account to Accounts Centre, WhatsApp also collects information such as:
-
-To enable you to use connected experiences available through Accounts Centre, WhatsApp also receives information from other [Meta Companies](https://faq.whatsapp.com/481188387305001/?locale=en_US), such as:
-
-What information will Meta receive about you if you add your WhatsApp account to Accounts Centre
-------------------------------------------------------------------------------------------------
-
-When you choose to add your WhatsApp account to Accounts Centre, other [Meta Companies](https://faq.whatsapp.com/481188387305001/?locale=en_US) receive information such as:
-
-For what purposes WhatsApp uses your info if you add your WhatsApp account to Accounts Centre
----------------------------------------------------------------------------------------------
-
-When you add your WhatsApp account to Accounts Centre, WhatsApp uses your info for purposes such as the following:
-
-How Meta uses your info if you add your WhatsApp account to Accounts Centre
----------------------------------------------------------------------------
-
-If you choose to add your WhatsApp account to Accounts Centre, Meta will use your information as described in the [Meta Privacy Policy](https://www.facebook.com/privacy/policy/), to do things such as provide, personalise and improve its products and services, including to show you ads, measure their performance and provide more personalised features, content and suggestions across [Meta Company Products](https://faq.whatsapp.com/532729362019677), as well as promote safety, security and integrity. Meta's own terms and privacy policy will govern your use of Meta services and products.
-
-Of course, WhatsApp relies on Meta's infrastructure, such as servers, to support people around the world with fast and reliable services. However, access to WhatsApp personal data is restricted so it will not be used by other Meta apps – including for ads – unless it's to determine how many people we serve, keep people safe or to provide optional features that work across Meta products.
-
-WhatsApp in Accounts Centre is one of these optional features. Other optional features include chatting with Meta AI or messaging businesses that are using Meta's business tools. Optional features are always explained clearly in the app so you can make the choice that's right for you.
-
-Does adding WhatsApp to Accounts Centre affect whether Meta uses your information when you message a business or share your info with them
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Having your accounts in the same Accounts Centre does not affect whether your info is used if you choose to share it with businesses or if you message them on our products.
-
-Learn more about [how Meta uses your information across your accounts in the same Accounts Centre](https://www.meta.com/en-gb/help/accounts-center/433719745369721/).
-
-Which of your settings will change
-----------------------------------
-
-Adding your WhatsApp account to Accounts Centre will allow you to manage certain settings in one place for your WhatsApp accounts, and any other accounts that you have in the same Accounts Centre. These include things such as adjusting your profile information across accounts, and whether to always crosspost status across your apps. For a full list of settings controlled through Accounts Centre, read more [here](https://www.meta.com/en-gb/help/accounts-center/1894490827562393/).
-
-If you don't want to add your WhatsApp account to Accounts Centre
------------------------------------------------------------------
-
-You don't have to. Adding your WhatsApp account to Accounts Centre is completely optional. If you choose not to add your WhatsApp account to the same Accounts Centre as your Facebook or Instagram accounts, you can still use WhatsApp as you always have.
-
-If you add your WhatsApp account to Accounts Centre and then change your mind
------------------------------------------------------------------------------
-
-If you add your WhatsApp account to Accounts Centre, you allow us to combine and use your information across accounts in Accounts Centre on different [Meta Company Products](https://faq.whatsapp.com/532729362019677). You can remove your WhatsApp account from Accounts Centre at any time.
-
-If you remove your WhatsApp account from Accounts Centre, we'll stop [combining your info](https://www.meta.com/en-gb/help/accounts-center/433719745369721/) between your WhatsApp account and the other accounts still in your Accounts Centre within seven days. If you remove your WhatsApp account, your previously combined info would remain combined.
-
-You opted out of sharing your WhatsApp account information with Meta in 2016. How does adding your WhatsApp account to Accounts Centre affect you
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-If you opted out of sharing your WhatsApp account information with Meta to improve Meta ads and product experiences in 2016, then adding your WhatsApp account to Accounts Centre means that you are opting into this sharing, and all sharing associated with Accounts Centre as described above.
+This information is not available in your location.
 
 * * *
 
