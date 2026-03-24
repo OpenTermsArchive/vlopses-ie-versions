@@ -242,7 +242,7 @@ We escalate cases to law enforcement where we believe there may be an imminent t
 
 Takeaway
 
-Our approach to responding to threats, violence, and harm areis tailored to the situation. When it comes to threats to oneself, our teams work to identify the best means of support via safety resources. Where others are under threat, we strive for safe outcomes both through the enforcement of our policies and, where nappropriate, by involving law enforcement.
+Our approach to responding to threats, violence, and harm areis tailored to the situation. When it comes to threats to oneself, our teams work to identify the best means of support via safety resources. Where others are under threat, we strive for safe outcomes both through the enforcement of our policies and, where appropriate, by involving law enforcement.
 
 Doing our part to support the safety and well-being of our community is a top priority across our company.
 
