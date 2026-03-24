@@ -238,8 +238,6 @@ We will notify you as appropriate if we make material changes to this WhatsApp P
 Adding your WhatsApp account to an Accounts Centre
 ==================================================
 
-WhatsApp in Accounts Centre is not available everywhere.
-
 This information is not available in your location.
 
 * * *
