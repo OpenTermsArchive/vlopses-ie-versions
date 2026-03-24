@@ -1261,9 +1261,9 @@ Related articles
 
 [How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
-[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
-
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+
+[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
 Related articles
 
@@ -1273,9 +1273,9 @@ Related articles
 
 [How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
-[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
-
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+
+[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
 - - -
 
