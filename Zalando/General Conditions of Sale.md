@@ -331,7 +331,6 @@ Single Point of Contact for Member States' authorities, the European Commission 
 Researchers can also use this point of contact to request access to data in accordance with Article 40 DSA.  
 Communication possible in English and German.
 
-[**Download and Archiving the Transparency Reporting as PDF 08/2025**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/37db03c0-f77a-4522-a996-6e5bc8256a33.pdf)  
-[**Download and Archiving  the Transparency Reporting as PDF 04/2025**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/83129c49-01c4-48c5-a93a-4382f70ea3b2.pdf)[**Download and Archiving  the Transparency Reporting as PDF 10/2024**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/7d061539-734b-44b3-8d43-46a5f39a32f9.pdf)[**Download and Archiving  the Transparency Reporting as PDF 04/2024**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/e496bc58-38cb-485c-820a-4869472ce86e.pdf)[**Download and Archiving  the Transparency Reporting as PDF 10/2023**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/19cd340e-13a5-457d-bd61-1a788c36d44e.pdf)
+All transparency reports and further DSA information are available in our [**Transparency Hub**](https://corporate.zalando.com/en/investor-relations/corporate-governance/transparency-hub).
 
 [**Privacy Notice**](https://www.zalando.ie/zalando-privacy-policy/)
