@@ -33,7 +33,7 @@ You can communicate familiar and locally relevant content ratings to your users 
 This article covers several critical aspects of content ratings:
 
 *   [How apps receive content ratings](#How apps receive content ratings)
-*   [How content ratings are used](#How content ratings are used)
+*   [How content ratings are used](#How_content_ratings_are_used)
 *   [Understanding your target audience selection](#Understanding your target audience selection)
 *   [How to manage target audience and app content settings](#How to manage target audience and app content settings)
 *   [How to make sure that ads are suitable for your app’s content rating](#How_to_make_sure_ads_are_suitable_for_your_apps_content_rating)
@@ -64,7 +64,7 @@ How content ratings are used
 App ratings are meant to do more than reflect the intended audience. They’re meant to help consumers, especially parents, identify whether the app is appropriate for what the consumers are looking for, along with other purposes, like:
 
 *   Blocking or filtering your content in certain territories or to specific users where legally required.
-*   In the European Economic Area (EEA), Australia, Brazil (beginning March 2026), Singapore (beginning March 2026), Switzerland and the United Kingdom only, for users determined to be minors:
+*   In the European Economic Area (EEA), Australia, Brazil, Singapore, Switzerland and the United Kingdom only, for users determined to be minors:
     *   Blocking the acquisition and purchase of mature content (such as 18+ rated apps or games)
     *   Blocking or filtering mature content from Google Play search and browse pages, except through deep linking
 *   Evaluating your app’s eligibility for special developer programmes
@@ -105,8 +105,6 @@ How to complete a rating questionnaire
 --------------------------------------
 
 Make sure that you provide accurate responses to the content rating questionnaire. If you have questions about the rating assigned to your app, contact the rating authority directly using the link provided in your certificate email. Misrepresentation of your app’s content may result in its removal or suspension.
-
-Unrated apps may also be removed from Google Play. To prevent your apps from being listed as Unrated, open Google Play Console, go to the **[App content](https://play.google.com/console/app/app-content/summary)** page, and fill in the questionnaire for each of your apps as soon as possible.
 
 Follow these steps to take the rating questionnaire. It’s critical to provide complete and accurate responses to every question.
 
@@ -287,12 +285,6 @@ Google Play Rating – Applies in Russia
 | ![18](//storage.googleapis.com/support-kms-prod/5F338C1358DDEA867F364A1316E20BE9203F) | **Rated 18+**<br><br>Recommended for mature audiences only. |
 
 ### Other
-
-Unrated
-
-| Rating | Description |
-| --- | --- |
-| ![Unrated](//lh6.ggpht.com/SKdY9wVw3QjGNVhf0XVpViN3xKDzMemJIh-pJ5w_qO00-dQoexvaPoLdniRd1Z1s0A=w24) | **Unrated**<br><br>Warning – content has not yet been rated. Unrated apps may potentially contain content appropriate for mature audiences only. |
 
 Refused classification
 
