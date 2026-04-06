@@ -1,6 +1,6 @@
 ### **WhatsApp Messaging Guidelines**
 
-Last updated: February 16, 2024
+Last updated: March 17, 2025
 
 WhatsApp is a simple, secure and reliable way to send messages and make calls. No one, not even WhatsApp, can see your personal messages which are end-to-end encrypted by default.
 
@@ -14,11 +14,13 @@ WhatsApp may take action against violations of our Terms of Service or these Gui
 *   Do not engage in adversarial behavior. This includes efforts to undermine WhatsApp integrity systems, abuse reporting tools, compromise user accounts, scrape data, or use unofficial clients, bulk messaging, auto-messaging, auto-dialing, or automation to harm WhatsApp or our users.
 *   Do not engage in fraud or spam This includes repeated unwanted contact with WhatsApp users, and activity that scams or defrauds WhatsApp or our users through purposeful deception or impersonation.
 
-Users can report WhatsApp contacts, groups, communities, status updates, or specific messages that potentially violate these Guidelines. You can learn more about how to report on WhatsApp [here](https://faq.whatsapp.com/414631957536067/). For information on how to report potential intellectual property violations, please see [here](https://www.whatsapp.com/legal/ip-policy).
+Users can report WhatsApp contacts, groups, communities, status updates, or specific messages that potentially violate these Guidelines. You can learn more about how to report on WhatsApp [here](https://faq.whatsapp.com/414631957536067/). For information on how to report potential intellectual property violations, please see [here](https://www.whatsapp.com/legal/ip-policy). For information about our processes for handling reports, please see [here](https://www.whatsapp.com/legal/1014533877201092).
 
 #### **How We Apply the Messaging Guidelines**
 
 WhatsApp may use both automated processing techniques and human review teams to detect and review information available to us including account, group, and community profile information, as well as reported messages, for potential violations of these Guidelines.
+
+If you would like to learn about the systems and processes that we use to apply these Guidelines, please see [here](https://www.whatsapp.com/legal/1014533877201092).
 
 ##### **Automated Processing**
 
@@ -46,6 +48,8 @@ When we become aware of illegal content or a violation of our terms and policies
 *   Reporting child sexual abuse material to NCMEC and/or competent authorities
 
 We may take additional actions as reflected in the WhatsApp Terms of Service.
+
+For information about the types of complaints that can be made, and our processes for handling complaints, please see [here](https://www.whatsapp.com/legal/1014533877201092).
 
 - - -
 
