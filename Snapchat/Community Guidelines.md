@@ -441,7 +441,7 @@ Bullying and harassment are counter to Snapchat’s values. These harms can take
 
 As a baseline, our policies prohibit content and conduct that mocks, shames, or demeans a person based on their physical appearance, personality, intelligence, or personal characteristics, as well as repeated mistreatment or unwanted contact. We also prohibit sharing private information or imagery of people without their knowledge or consent-- especially of members of vulnerable populations including minors, unhoused people, or those in medical or assisted-living facilities or nursing homes.
 
-In addition to enforcing these policies consistently, we use our product design to help limit harmful behavior that may violate these rules. For example, we use default settings that require both friends to accept a connection before they can chat with each other.
+In addition to enforcing these policies consistently, we use our product design to help limit harmful behaviour that may violate these rules. For example, we use default settings that require both friends to accept a connection before they can chat with each other.
 
   
 
@@ -449,11 +449,11 @@ In addition to enforcing these policies consistently, we use our product design 
 
 Prohibited Conduct
 
-Violations of our harassment and bullying policies include any unwanted behavior that could cause an ordinary person to experience emotional distress. We prohibit the following: 
+Violations of our harassment and bullying policies include any unwanted behaviour that could cause an ordinary person to experience emotional distress. We prohibit the following: 
 
-*   Posting content that mocks, shames, degrades, stigmatizes, or demeans a person based on their physical appearance, personality, intelligence, or personal characteristics, including aggressive or profane name-calling.
+*   Posting content that mocks, shames, degrades, stigmatises, or demeans a person based on their physical appearance, personality, intelligence, or personal characteristics, including aggressive or profane name-calling.
     
-*   Rumor-spreading, including accounts dedicated to anonymously bullying or shaming individuals. 
+*   Rumour-spreading, including accounts dedicated to anonymously bullying or shaming individuals. 
     
 *   Mocking victims of violence, death, or tragedy or wishing violence, death, or tragedy upon another party. 
     
@@ -491,9 +491,9 @@ We encourage users to report when they experience or observe violations of these
 
 Takeaway
 
-We prohibit harassment and bullying. We want our users to feel safe while using Snapchat. If you ever feel uncomfortable, please do not hesitate to send us a report and block the other user––these features are provided for your safety. Through our [Here for You](https://help.snapchat.com/hc/en-us/articles/7012398974612-Wellbeing-Features-on-Snapchat?lang=en-US#:~:text=Here%20For%20You%20provides%20proactive,are%20at%20risk%20for%20self%2Dharm.) portal, we help ensure users have access to in-app resources and information to help recognize and address bullying and harassment. We also provide tools to facilitate easy reporting of any violating behavior on Snapchat.
+We prohibit harassment and bullying. We want our users to feel safe while using Snapchat. If you ever feel uncomfortable, please do not hesitate to send us a report and block the other user—these features are provided for your safety. Through our [Here For You](https://help.snapchat.com/hc/en-us/articles/7012398974612-Wellbeing-Features-on-Snapchat?lang=en-GB#:~:text=Here%20For%20You%20provides%20proactive,are%20at%20risk%20for%20self%2Dharm.) portal, we help ensure users have access to in-app resources and information to help recognise and address bullying and harassment. We also provide tools to facilitate easy reporting of any violating behaviour on Snapchat.
 
-Please be considerate of people’s dignity and privacy––if they express discomfort, respect their boundaries. If they ask you to remove content about them, please do, and generally refrain from sharing images of people or information about them without their permission.
+Please be considerate of people’s dignity and privacy—if they express discomfort, respect their boundaries. If they ask you to remove content about them, please do, and generally refrain from sharing images of people or information about them without their permission.
 
   
 
