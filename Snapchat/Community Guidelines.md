@@ -607,7 +607,7 @@ Any harmful false information that is [prohibited in our Community Guidelines](h
 
 Political false or unsubstantiated information
 
-Our Community Guidelines prohibit political false information, such as erroneous information about voting, misrepresentations of a candidate’s positions or other content that undermines civic processes. There may be instances where our review teams are unable to verify whether a political claim is true, false, or potentially misleading. Ambiguous content may be allowed among friends or followers, but will not be eligible for recommendation.
+Our Community Guidelines prohibit political false information, such as erroneous information about voting, misrepresentations of a candidate’s positions or other content that undermines civic processes. There may be instances where our review teams are unable to verify whether a political claim is true, false or potentially misleading. Ambiguous content may be allowed among friends or followers, but will not be eligible for recommendation.
 
 Health-related false or unsubstantiated information
 
@@ -619,9 +619,9 @@ Such content is prohibited in our Community Guidelines, which means it is also p
 
 Manipulated media that is false or misleading
 
-Our Community Guidelines focus on manipulated media’s potential for _harm_ (for example, a deep fake of a politician doing something embarrassing). Our Content Guidelines go further to deny amplification to false or misleading information even where there is no obvious risk to society. For example, clickbait tile images that use photo editing tools or AI to depict a snake the size of a bus, or that edit actors into costumes to spread completely unfounded casting rumors; these examples may not threaten civic integrity or public health, but they are misleading.
+Our Community Guidelines focus on manipulated media’s potential for _harm_ (for example, a deep fake of a politician doing something embarrassing). Our Content Guidelines go further to deny amplification to false or misleading information even where there is no obvious risk to society. For example, clickbait tile images that use photo editing tools or AI to depict a snake the size of a bus, or that edit actors into costumes to spread completely unfounded casting rumours; these examples may not threaten civic integrity or public health, but they are misleading.
 
-Deceptive impersonations of other people, brands or organizations
+Deceptive impersonations of other people, brands or organisations
 
 Such content is prohibited in our Community Guidelines, and these Content Guidelines go further to prohibit ambiguous or unclear impersonation. Satire, parody and commentary are allowed, but the reality of content authorship must be reasonably clear to a viewer as young as 13.
 
@@ -635,13 +635,13 @@ This means content where the intent is not to entertain or inform the viewer, bu
 
 *   A “wait for it” caption, but “it” never happens.
     
-*   Challenges based on nonexistent Snapchat features, such as, “Snapchat won’t let you like this 10 times.”
+*   Challenges based on non-existent Snapchat features, such as, “Snapchat won’t let you like this 10 times”.
     
-*   Attempts to leverage likes or shares, such as, “If this gets 20,000 likes, I’ll shave my head.”
+*   Attempts to leverage likes or shares, such as, “If this gets 20,000 likes, I’ll shave my head”.
     
-*   Attempts to trick people into re-watching or pausing a Snap via long blocks of text, brief glimpses of something, or “spot the difference” games.
+*   Attempts to trick people into re-watching or pausing a Snap via long blocks of text, brief glimpses of something or “spot the difference” games.
     
-*   Misleading or sensationalized headlines or Tiles, such as unfounded casting rumors, presenting a celebrity’s years-old arrest as breaking news, editing an image of someone’s body or face to imply a radical transformation, etc.
+*   Misleading or sensationalised headlines or Tiles, such as unfounded casting rumours, presenting a celebrity’s years-old arrest as breaking news, editing an image of someone’s body or face to imply a radical transformation, etc.
     
 
 Up Next:
