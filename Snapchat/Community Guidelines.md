@@ -186,10 +186,10 @@ In addition to enforcing stricter consequences for these violations, we may use 
 
 Community Guidelines
 
-Threats, Violence, & Harm
+Threats, Violence & Harm
 
 
-=============================
+============================
 
 Community Guidelines Explainer Series
 
@@ -199,7 +199,7 @@ Updated: March 2026
 
 Overview
 
-The safety and well-being of our community is a top priority at Snapchat, and we take all instances of threats, violence, and harm seriously. We do not allow content that encourages, promotes, threatens, provides instructions for, or graphically depicts violent or dangerous behavior. We also prohibit content that promotes, glorifies, or encourages self-harm or suicide. Imminent threats to human life and safety may be referred to law enforcement.
+The safety and well-being of our community is a top priority at Snapchat, and we take all instances of threats, violence and harm seriously. We do not allow content that encourages, promotes, threatens, provides instructions for, or graphically depicts violent or dangerous behaviour. We also prohibit content that promotes, glorifies, or encourages self-harm or suicide. Imminent threats to human life and safety may be referred to law enforcement.
 
 While our policies and moderation practices enhance safety for all users, we also proactively invest in features and resources to help support the well-being of our community. We encourage Snapchatters to report content that indicates self-harm or emotional distress so that our teams can send resources and potentially alert emergency health responders.  
 
@@ -213,15 +213,15 @@ We prohibit the following: 
     
 *   Providing instructions or detailing methods of committing self-harm (including extreme dieting) or suicide. 
     
-*   Encouraging or engaging in violent or threatening behavior, including any content expressing an intention to cause serious physical or emotional harm to a person, a group of people, or damage to property. Where content indicates a credible and imminent threat to human life or safety, our teams may alert law enforcement agencies who may be positioned to intervene. 
+*   Encouraging or engaging in violent or threatening behaviour, including any content expressing an intention to cause serious physical or emotional harm to a person, a group of people, or damage to property. Where content indicates a credible and imminent threat to human life or safety, our teams may alert law enforcement agencies who may be positioned to intervene. 
     
 *   Vigilante activity. This includes coordinated efforts to intimidate or take physical action against individuals or communities outside proper legal process. 
     
-*   Encouraging, promoting, providing instructions for, or engaging in dangerous behavior. This includes engaging in activities likely to be imitated that could lead to serious harm or injury, such as high-risk challenges, stunts, reckless driving, or other behavior that poses a risk to the person doing it, someone else, or the public. 
+*   Encouraging, promoting, providing instructions for, or engaging in dangerous behaviour. This includes engaging in activities likely to be imitated that could lead to serious harm or injury, such as high-risk challenges, stunts, reckless driving, or other behaviour that poses a risk to the person doing it, someone else, or the public. 
     
 *   Encouraging the ingesting, injection, inhalation, or other self-administering of physically harmful substances or of substances in sufficient quantities as to be physically harmful. 
     
-*   Content that glorifies, or risks inciting, violent or harmful behavior toward people or animals.  
+*   Content that glorifies, or risks inciting, violent or harmful behaviour toward people or animals.  
     
 *   Gratuitous or graphic violence, including animal abuse.
     
@@ -230,19 +230,19 @@ We prohibit the following: 
 
 Our efforts to protect users
 
-We aim to balance safety and privacy in our approach to protecting users. We use a combination of automated tools and human review to prevent users from being exposed to content that promotes or encourages self-harm, eating disorders, or suicide, as well as threats and dangerous activities, on public surfaces (such as Spotlight, Public Stories and Maps). We always encourage users to [report](https://help.snapchat.com/hc/en-us/p/5153567363039232-help-topic?lang=en-US) any violating content so that our teams can review and take appropriate action.
+We aim to balance safety and privacy in our approach to protecting users. We use a combination of automated tools and human review to prevent users from being exposed to content that promotes or encourages self-harm, eating disorders, or suicide, as well as threats and dangerous activities, on public surfaces (such as Spotlight, Public Stories and Maps). We always encourage users to [report](https://help.snapchat.com/hc/en-us/p/5153567363039232-help-topic?lang=en-GB) any violating content so that our teams can review and take appropriate action.
 
-Where users report content that indicates a risk of self-harm, eating disorders, or suicide, we want to help. Where appropriate, we provide helpful resources and may identify opportunities for emergency services to intervene. Additional information about our safety resources is available on our [Privacy, Safety, & Policy Hub](https://values.snap.com/safety/safety-resources?lang=en-US).
+Where users report content that indicates a risk of self-harm, eating disorders, or suicide, we want to help. Where appropriate, we provide helpful resources and may identify opportunities for emergency services to intervene. Additional information about our safety resources is available on our [Privacy, Safety & Policy Hub](https://values.snap.com/safety/safety-resources?lang=en-US).
 
-To further support the well-being of our community, our [Here For You](https://help.snapchat.com/hc/articles/7012332426900?utm_source=web&utm_medium=web_snap&utm_campaign=cg&lang=en-US) portal helps to surface resources from expert localized partners when users search for certain topics related to mental health, anxiety, depression, stress, suicidal thoughts, grief, and bullying. 
+To further support the well-being of our community, our [Here For You](https://help.snapchat.com/hc/articles/7012332426900?utm_source=web&utm_medium=web_snap&utm_campaign=cg&lang=en-US) portal helps to surface resources from expert localised partners when users search for certain topics related to mental health, anxiety, depression, stress, suicidal thoughts, grief, and bullying. 
 
-We escalate cases to law enforcement where we believe there may be an imminent threat to human life. Snap’s approach is to maintain established protocols for assisting law-enforcement authorities globally, including dedicated channels for responding to potential imminent harm situations, subject to strict legal safeguards. More information for law enforcement can be found [here](https://values.snap.com/safety/safety-enforcement).
+We escalate cases to law enforcement where we believe there may be an imminent threat to human life. Snap's approach is to maintain established protocols for assisting law-enforcement authorities globally, including dedicated channels for responding to potential imminent harm situations, subject to strict legal safeguards. More information for law enforcement can be found [here](https://values.snap.com/safety/safety-enforcement).
 
 ### 
 
 Takeaway
 
-Our approach to responding to threats, violence, and harm areis tailored to the situation. When it comes to threats to oneself, our teams work to identify the best means of support via safety resources. Where others are under threat, we strive for safe outcomes both through the enforcement of our policies and, where appropriate, by involving law enforcement.
+Our approach to responding to threats, violence, and harm is tailored to the situation. When it comes to threats to oneself, our teams work to identify the best means of support via safety resources. Where others are under threat, we strive for safe outcomes both through the enforcement of our policies and, where appropriate, by involving law enforcement.
 
 Doing our part to support the safety and well-being of our community is a top priority across our company.
 
@@ -255,7 +255,7 @@ Hateful Content, Terrorism, and Violent Extremism
 
 -----------------------------------------------------
 
-[Learn More](https://values.snap.com/policy/policy-community-guidelines/hateful-content-terrorism-violent-extremism)
+[Read Next](https://values.snap.com/policy/policy-community-guidelines/hateful-content-terrorism-violent-extremism)
 
 - - -
 
