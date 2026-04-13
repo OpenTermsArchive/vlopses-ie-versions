@@ -1,7 +1,7 @@
 WhatsApp Channels Guidelines
 ============================
 
-Last updated: March 17, 2025
+Last updated: February 16, 2024
 
 WhatsApp Channels is an optional, one-way broadcasting feature within WhatsApp, separate from private messaging, designed to help people follow information from people and organizations that are important to them. Channel admins should be mindful of the following guidelines (these “Channels Guidelines”) so their updates are appropriate for a general audience. By using WhatsApp Channels, you agree to these Channels Guidelines and our [Supplemental Terms of Service for WhatsApp Channels](https://www.whatsapp.com/legal/channels-terms-of-service).
 
@@ -16,7 +16,7 @@ WhatsApp may take action against channels that violate the following Channels Gu
 
 ### How We Apply the Channels Guidelines
 
-WhatsApp may take action, utilizing automated tools, human review, and user reports, to detect abuse of these Channels Guidelines. If you would like to learn about the systems and processes that we use to apply these Channels Guidelines, please see [here](https://www.whatsapp.com/legal/666179685944290). We encourage users to report any channel or specific updates within a channel that potentially violate these Channels Guidelines. You can learn more about how to report a channel on WhatsApp [here](https://faq.whatsapp.com/3440358352849077). For information on how to report potential intellectual property violations, please see [here](https://www.whatsapp.com/legal/ip-policy). For information about our processes for handling reports, please see [here](https://www.whatsapp.com/legal/666179685944290).
+WhatsApp may take action, utilizing automated tools, human review, and user reports, to detect abuse of these Channels Guidelines. We encourage users to report any channel or specific updates within a channel that potentially violate these Channels Guidelines. You can learn more about how to report a channel on WhatsApp [here](https://faq.whatsapp.com/3440358352849077). For information on how to report potential intellectual property violations, please see [here](https://www.whatsapp.com/legal/ip-policy).
 
 _Automated Processing_
 
@@ -60,5 +60,3 @@ _Account Disables:_ If we disable your account for a violation of these Channels
 If you disagree with a content decision we have made on Channels and are a user in the EU, you can raise that decision with a certified out-of-court dispute settlement body in order to resolve the issue.
 
 _User Reports_: If you report content posted by others but we find that the content does not go against our terms or policies, we will let you know. If you disagree with a decision we have made, you can appeal that decision. If we determine that our decision was in error, we will reverse the enforcement.
-
-For more information about the types of complaints that can be made, and our processes for handling complaints, please see [here](https://www.whatsapp.com/legal/666179685944290).
