@@ -133,6 +133,20 @@ Permissions and APIs that access sensitive information
 
 _**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
+**Changes are coming to this article**
+
+This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
+
+*   To better protect user privacy, we're updating our [location permissions](https://support.google.com/googleplay/android-developer/answer/16909972#location-permissions) policy. We're introducing the location button as the recommended minimum scope for precise location in line with our user data and sensitive permissions requirements.  
+    (effective from 28 October 2026)
+    
+
+*   We're introducing the [contacts permissions](https://support.google.com/googleplay/android-developer/answer/16909972#contacts-permissions) policy to govern broad access of users' contacts. Apps that don't need broad access must use the [Android Contact Picker](https://developer.android.com/about/versions/17/features/contact-picker), a more secure, easy-to-integrate alternative that minimises data collection and improves user safety.  
+    (This is a new policy, and will be effective 28 October 2026.)
+    
+
+To preview the updated 'Permissions and APIs that access sensitive information' article, visit [this page](https://support.google.com/googleplay/android-developer/answer/16909972).
+
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
 To promote user trust, Google Play mandates that requesting permissions and APIs that access sensitive user data must be necessary for the app's core functionalities as promoted in your Play Store listing and limited to user consented purposes.  Sensitive data must never be misused, under-disclosed or accessed unnecessarily. Request permissions and sensitive APIs incrementally, explaining each level. Use data only as consented to, and obtain new consent for other purposes. Please review the full policy to ensure compliance.
@@ -279,20 +293,11 @@ To protect user privacy and security, Google Play requires apps that request `RE
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
-Photos and videos on a user’s device are regarded as personal and sensitive user data subject to Google Play's [User data policy](https://support.google.com/googleplay/android-developer/answer/10144311?visit_id=638283094302146844-815564681&rd=1). Apps may only access photos and videos for purposes directly related to app functionality, and may not request access on behalf of any third party for any purpose unrelated to user-facing app functionality. For a more privacy preserving experience, we encourage the use of a system picker such as the [photo picker](https://developer.android.com/training/data-storage/shared/photopicker).
+*   All user photos are personal and sensitive data subject to the [user data](https://support.google.com/googleplay/android-developer/answer/10144311) policy.
+    
 
-Apps requiring broad access to photos and video files located in shared storage on devices must successfully pass an appropriate access review and demonstrate a core use case that requires persistent or frequent photo/video access of files located in shared storage. Apps that have a one-off or infrequent need to access these files are requested to use a system picker, such as the Android [photo picker](https://developer.android.com/training/data-storage/shared/photopicker).
-
-Broad access to photos and videos are also subject to the following requirements:
-
-*   Apps that target Android 13 (API level 33) or later, require the [`READ_MEDIA_IMAGES`](https://developer.android.com/reference/android/Manifest.permission#%3Ccode%3EREAD_MEDIA_IMAGES%3C/code%3E) permission or [`READ_MEDIA_VIDEO`](https://developer.android.com/reference/android/Manifest.permission#%3Ccode%3EREAD_MEDIA_VIDEO%3C/code%3E) permission in order to obtain broad access to photos or video files located in shared storage on the device. All apps that target Android 13 and above and request the `READ_MEDIA_IMAGES` or `READ_MEDIA_VIDEO` permissions must successfully pass an appropriate access review before publishing.
-    *   Apps that request access to the `READ_MEDIA_VIDEO` or `READ_MEDIA_IMAGES` permission must successfully demonstrate a core use case that requires persistent or frequent need of photo/video access located in shared storage.
-
-If your app does not require or qualify for broad access to the `READ_MEDIA_VIDEO` or `READ_MEDIA_IMAGES` permissions, you must remove it from your app’s manifest in order to successfully meet the policy review requirements.
-
-In accordance with the [Restricted permissions policy](https://support.google.com/googleplay/android-developer/answer/9888170?hl=en), you must make a reasonable effort to accommodate users who do not grant broad access to media files on their device. This includes gracefully facilitating an accommodative app experience where users can still enjoy the feature or core functionality of your app.
-
-Apps that have a legitimate access case for photos or videos, but do not qualify for the `READ_MEDIA_IMAGES` nor `READ_MEDIA_VIDEO` permission may use a system picker such as the [photo picker](https://developer.android.com/training/data-storage/shared/photopicker). For additional information, please see this [Help Centre](https://support.google.com/googleplay/android-developer/answer/14115180) article.
+*   Apps that target Android 13 or later (API level 33+) may only request the `READ_MEDIA_IMAGES` and `READ_MEDIA_VIDEO` permissions if system pickers (like the Android Photo Picker) are not sufficient for your app to provide core user functionality. Apps that still request the `READ_MEDIA_IMAGES` and `READ_MEDIA_VIDEO` permissions must submit a Play Console declaration to demonstrate access needs for Photos and why Android Photo Picker (or alternatives) would not suffice.
+    
 
 ![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
 
