@@ -15,8 +15,6 @@ Meta recognizes how important it is for Facebook, Instagram, Messenger and Threa
 
 0:00 / 1:00
 
-![](https://static.xx.fbcdn.net/rsrc.php/ya/r/CdclleQAR55.webp)
-
 * * *
 
 Our commitment to voice
