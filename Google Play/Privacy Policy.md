@@ -137,7 +137,7 @@ _**Disclaimer:** Policy summaries and key considerations are overviews only; alw
 
 This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
 
-*   To better protect user privacy, we're updating our [location permissions](https://support.google.com/googleplay/android-developer/answer/16909972#location-permissions) policy. We're introducing the location button as the recommended minimum scope for precise location in line with our user data and sensitive permissions requirements.  
+*   To better protect user privacy, we're updating our [location permissions](https://support.google.com/googleplay/android-developer/answer/16909972#location-permissions) policy. We're introducing the [location button](https://android-developers.googleblog.com/2026/03/location-privacy.html) as the recommended minimum scope for precise location in line with our user data and sensitive permissions requirements.  
     (effective from 28 October 2026)
     
 
@@ -296,7 +296,7 @@ To protect user privacy and security, Google Play requires apps that request `RE
 *   All user photos are personal and sensitive data subject to the [user data](https://support.google.com/googleplay/android-developer/answer/10144311) policy.
     
 
-*   Apps that target Android 13 or later (API level 33+) may only request the `READ_MEDIA_IMAGES` and `READ_MEDIA_VIDEO` permissions if system pickers (like the Android Photo Picker) are not sufficient for your app to provide core user functionality. Apps that still request the `READ_MEDIA_IMAGES` and `READ_MEDIA_VIDEO` permissions must submit a Play Console declaration to demonstrate access needs for Photos and why Android Photo Picker (or alternatives) would not suffice.
+*   Apps that target Android 13 or later (API level 33+) may only request the `READ_MEDIA_IMAGES` and `READ_MEDIA_VIDEO` permissions if system pickers (like the [Android Photo Picker](https://developer.android.com/training/data-storage/shared/photo-picker)) are not sufficient for your app to provide core user functionality. Apps that still request the `READ_MEDIA_IMAGES` and `READ_MEDIA_VIDEO` permissions must submit a Play Console declaration to demonstrate access needs for Photos and why Android Photo Picker (or alternatives) would not suffice.
     
 
 ![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
