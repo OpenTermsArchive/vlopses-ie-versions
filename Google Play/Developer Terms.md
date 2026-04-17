@@ -1066,7 +1066,7 @@ Play Console requirements
 
 This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
 
-To ensure a safe and trusted ecosystem, we're introducing the [Account Transfer](https://support.google.com/googleplay/android-developer/answer/16911971#account_transfer) policy to require developers to use the official "Transfer ownership" workflow within the Play Console. If eligible, use this process to transfer your developer account.
+To ensure a safe and trusted ecosystem, we're introducing the [account transfer](https://support.google.com/googleplay/android-developer/answer/16911971#account_transfer) policy to require developers to use the official 'Transfer ownership' workflow within the Play Console. If eligible, use this process to transfer your developer account.
 
 (effective from 27 May 2026)
 
