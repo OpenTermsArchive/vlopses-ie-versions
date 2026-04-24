@@ -3746,19 +3746,19 @@ CHANGE LOG
 
 Today
 
-Dec 12, 2025
+Dec 11, 2025
 
-Oct 3, 2024
+Oct 2, 2024
 
-Jul 19, 2024
+Jul 18, 2024
 
-Apr 26, 2022
+Apr 25, 2022
 
-Dec 18, 2020
+Dec 17, 2020
 
-Nov 8, 2019
+Nov 7, 2019
 
-Oct 11, 2019
+Oct 10, 2019
 
 Policy Rationale
 
@@ -4186,16 +4186,6 @@ About recommendations on Facebook
 =================================
 
 Copy link
-
-O que são recomendações?
-
-Como funcionam as recomendações?
-
-Não quero recomendações
-
-O que não é recomendado?
-
-Tenho uma pergunta diferente
 
 We make personalised recommendations to the people who use our services to help them discover new communities and content. Both Facebook and Instagram may recommend content, accounts and entities (such as Pages, groups or events) that people do not already follow. Some examples of our recommendations experiences include Pages you may like, "Suggested for you" posts in Feed, People you may know or Groups you should join. Some entities might have limited or no access to features that encourage engagement, and might not be as widely recommended on Facebook as other entities.
 
