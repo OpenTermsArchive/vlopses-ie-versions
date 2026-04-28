@@ -1194,7 +1194,7 @@ Further, AliExpress reserves the right to refuse any purchase request submitted 
 
 AliExpress.com Terms and Conditions for Platform Transactions by EU/EEA/UK Consumers
 
-Version updated on 20 March 2026, effective as of 4 April 2026
+Version updated on 28 April 2026, effective as of 13 May 2026
 
 THANK YOU FOR USING ALIEXPRESS.
 
@@ -1390,7 +1390,7 @@ You can visit our [Transparency Center portal](https://www.aliexpress.com/p/tr
 
 Our Sites utilize recommender systems, powered by a single recommender system engine. The information displayed on all web pages containing personalised recommendations and/or personalised ads is selected by this recommender system engine. The recommender systems help us determine which content and products to promote by selecting the content and products which are more likely to be interesting and relevant to You.
 
-To do so, we use the following information about You: your IP address and/or the indicated ship-to country (or the more specific shipping destination chosen), your search history and browsing history when visiting or using the AliExpress platform, information about your shopping behaviour on the platform (click, add to cart, add to wish list, purchased products), and your member profile information (such as your age, city, interests, purchased amount). In addition to personalized information, we also use item profile (such as item image, item id) and item statistics (exposure, click, cart, wish, Click Through Rate, Conversion Rate, Gross Merchandise Volume, price, logistics) and context information (time, network, client information) as the main parameters. Based on the above information, we will extract your preferences to recommend to You products or services that may be of interest to You.
+To do so, we use the following information about You: your IP address and/or the indicated ship-to country (or the more specific shipping destination chosen), your search history and browsing history when visiting or using the AliExpress platform, information about your shopping behaviour on the platform (click, add to cart, add to wish list, purchased products with associated information such as payment method used and demonstrated purchasing power), and your member profile information (such as your age, gender, interests and preferences). In addition to personalized information, we also use item or store profile (such as item or store image, text, attributes, reviews, item id, store id) and item or store statistics (exposure, click, cart, wish, Click Through Rate, Conversion Rate, Gross Merchandise Volume, price, logistics) and context information (time, network, device information) as the main parameters. Based on the above information, we will extract your preferences to recommend to You products or services that may be of interest to You.
 
 Parameters prioritization and criteria: User behaviors (e.g., products clicked or purchased) and item statistics (e.g., click through rate, conversion rate) are weighted more heavily than static user and item profile (e.g., age range, product unique identifier) to prioritize real-time relevance and market responsiveness. Context information (e.g., time of actions, network connection details) dynamically adjust recommendations to reflect situational intent.
 
