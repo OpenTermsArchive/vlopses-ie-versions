@@ -1473,8 +1473,8 @@ Hostile Downloaders
 
 _**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
-**Hostile downloaders**
------------------------
+Hostile downloaders
+-------------------
 
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
 
