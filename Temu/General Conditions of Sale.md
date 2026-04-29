@@ -95,7 +95,6 @@ Help
 *   [Temu purchase protection](https://www.temu.com/ie/temu-purchase-protection.html)
 *   [Sitemap](https://www.temu.com/ie/sitemap.html)
 *   [Partner with Temu](https://www.temu.com/ie/partner-with-temu.html)
-*   [Digital Services Act](https://www.temu.com/ie/digital-services-act.html)
 *   [Accessibility](https://www.temu.com/ie/common-policy.html)
 *   [Transparency Center](https://www.temu.com/ie/transparency-center.html)
 
