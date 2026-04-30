@@ -6,7 +6,7 @@ WhatsApp is a simple, secure and reliable way to send messages and make calls. N
 
 These Messaging Guidelines (these “Guidelines”) apply to 1:1 chats, calls, group chats, and communities. Status updates are also subject to these Guidelines.
 
-Use of the WhatsApp Messenger Application is governed by our [Terms of Service](https://www.whatsapp.com/legal/terms-of-service) and these Guidelines. The use of our Business Services, including the WhatsApp Business Application and the WhatsApp Business Platform are governed by the WhatsApp [Business Terms of Service](https://www.whatsapp.com/legal/business-terms) and [business policies](https://www.whatsapp.com/legal/business-policy/), in addition to these Guidelines.
+Use of the WhatsApp Messenger Application is governed by our [Terms of Service](https://www.whatsapp.com/legal/terms-of-service-eea/) and these Guidelines. The use of our Business Services, including the WhatsApp Business Application and the WhatsApp Business Platform are governed by the WhatsApp [Business Terms of Service](https://www.whatsapp.com/legal/business-terms) and [business policies](https://www.whatsapp.com/legal/business-policy/), in addition to these Guidelines.
 
 WhatsApp may take action against violations of our Terms of Service or these Guidelines, based on the limited information available to WhatsApp, including basic account, group, and community profile information, as well as messages reported by other users. Your personal messages and calls are always protected by end-to-end encryption.
 
