@@ -870,7 +870,7 @@ Misrepresentation
 
 _**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
-![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
 To protect users and ensure that they can trust an app's true identity and purpose, Google Play prohibits apps and developer accounts from misrepresenting or concealing their ownership, or primary purpose, or faking their country of origin to target users. This policy also strictly forbids coordinating with other apps, sites or accounts to mislead users by hiding an app's true identity or other material details, especially when the content involves politics, social issues or matters of public concern. Please review the full policy to ensure compliance.
 
@@ -1394,7 +1394,7 @@ _**Disclaimer:** Policy summaries and key considerations are overviews only; alw
 Mobile unwanted software
 ------------------------
 
-![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
 To ensure a safe and great user experience, this policy builds on the Google [unwanted software policy](https://www.google.com/about/unwanted-software-policy.html) by outlining principles for the [Android ecosystem](https://www.android.com/mobile-unwanted-software-policy/) and the Google Play Store. Apps that violate these principles are potentially harmful to the user experience and we will take actions to protect users from them. Your app must deliver its promised value, be transparent about its functions and clearly disclose any bundled software. It must not misrepresent the device's state, impersonate others or generate fake ad traffic. You must handle all user data securely and in compliance with our [user data](https://support.google.com/googleplay/android-developer/answer/10144311?visit_id=638967622926708071-1089367679&rd=1) policies. Apps that interfere with device usability, show disruptive ads or mimic system prompts are prohibited. Please review the full policy to ensure compliance.
 
@@ -1515,7 +1515,7 @@ _**Disclaimer:** Policy summaries and key considerations are overviews only; alw
 Ad fraud
 --------
 
-![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
 To maintain the mobile ad ecosystem trust, Google Play strictly prohibits ad fraud, which is a form of [invalid traffic](https://support.google.com/admob/answer/3342054), and defined as any ad interaction that tricks an ad network into believing that traffic is from real user interest. This includes showing hidden ads, auto-clicking ads, faking install attributions, showing ads outside the app or misrepresenting your app's identity (like its package name or device type) to ad networks. Please review the full policy to ensure compliance.
 
@@ -1551,7 +1551,7 @@ Unauthorised use or imitation of system functionality
 Unauthorised use or imitation of system functionality
 -----------------------------------------------------
 
-![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy** **Summary**
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
 Users trust system notifications and warnings to be timely, relevant and important. Our policy protects this trust by prohibiting apps or ads from imitating or interfering with system functionality. Please review the full policy to ensure compliance.
 
