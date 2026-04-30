@@ -2476,27 +2476,29 @@ CHANGE LOG
 
 Today
 
-Oct 3, 2024
+Apr 30, 2026
 
-Jun 27, 2024
+Oct 2, 2024
 
-Jun 30, 2023
+Jun 26, 2024
 
-Feb 24, 2023
+Jun 29, 2023
 
-Sep 30, 2022
+Feb 23, 2023
 
-Feb 25, 2022
+Sep 29, 2022
 
-Nov 25, 2021
+Feb 24, 2022
 
-Oct 1, 2021
+Nov 24, 2021
 
-Nov 19, 2020
+Sep 30, 2021
 
-Dec 1, 2018
+Nov 18, 2020
 
-Jun 30, 2018
+Nov 30, 2018
+
+Jun 29, 2018
 
 Policy Rationale
 
@@ -2534,7 +2536,9 @@ Content that shares or asks for private information, either on our services or t
 
 **Residential information**
 
-*   Content sharing full private residential addresses of others, including building name or pins on a map identifying the address (even if the pins are in an off-platform link), except in the following contexts:
+Content sharing information that makes a residence reasonably identifiable, such as:
+
+*   Content sharing full private residential addresses of others, including building name or pins on a map identifying the address (even if the information is in an off-platform link), except in the following contexts:
     
 
 *   when shared to promote charitable causes, facilitate finding missing people, animals, or owners of missing objects, or contact a business or service providers
@@ -2581,9 +2585,11 @@ Content that shares or asks for private information, either on our services or t
 *   The imagery of the residence is not being shared because the residence is the focus of a news story (except when shared in the context of organizing protests against the resident)
     
 
+Content asking for the following information:
+
 *   Content asking for private residential information of others (except when the residence is an official residence or embassy provided to a high-ranking public official)
     
-*   Content asking for location of safe houses or exposes information about safe houses by sharing any of the below (except when the safe house is actively promoting information about their facility)
+*   Content asking for location of safe houses or exposing information about safe houses by sharing any of the below (except when the safe house is actively promoting information about their facility)
     
 
 *   Actual address (Note: "Post Box only" is allowed)
@@ -3534,9 +3540,9 @@ CHANGE LOG
 
 Today
 
-Oct 10, 2024
+Oct 9, 2024
 
-Aug 1, 2024
+Jul 31, 2024
 
 Policy Rationale
 
@@ -3746,19 +3752,19 @@ CHANGE LOG
 
 Today
 
-Dec 12, 2025
+Dec 11, 2025
 
-Oct 3, 2024
+Oct 2, 2024
 
-Jul 19, 2024
+Jul 18, 2024
 
-Apr 26, 2022
+Apr 25, 2022
 
-Dec 18, 2020
+Dec 17, 2020
 
-Nov 8, 2019
+Nov 7, 2019
 
-Oct 11, 2019
+Oct 10, 2019
 
 Policy Rationale
 
