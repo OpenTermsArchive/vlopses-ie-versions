@@ -883,13 +883,11 @@ What you should consider before submitting a report of intellectual property inf
 
 Copy link
 
-What is copyright infringement?
+What is copyright?
 
-What is trademark infringement?
+What is trademark?
 
 What is fair use?
-
-What are legal consequences?
 
 I have a different question
 
@@ -2013,14 +2011,6 @@ How do I report copyright infringement on Facebook?
 ===================================================
 
 Copy link
-
-Report copyright infringement
-
-Contact designated agent
-
-My content was reported
-
-I have a different question
 
 If you believe content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
