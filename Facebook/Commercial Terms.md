@@ -491,9 +491,9 @@ If you are an Alaska resident with questions regarding formal complaints, please
 
 - - -
 
-Terms and Policies
+Terms and policies
 
-BUSINESS
+Business
 --------
 
 Commerce
@@ -501,25 +501,25 @@ Commerce
 
 ### Overview
 
-Commerce content refers to any attempt to buy, sell, or trade products - even for free - on Facebook, Instagram, WhatsApp, or Messenger services designed for commerce – including, but not limited to, , , and . Products sold or offered for sale, or traded or offered for trade, on these services or features must comply with our Commerce Policies. Additionally, commerce content on Facebook and Messenger, and commerce content on Instagram must comply respectively with Facebook's and Instagram's . Commerce content on WhatsApp must comply with the . Buyers, sellers, and traders are also responsible for complying with that apply to the use of our products, and all applicable laws and regulations. Failure to comply with our policies or the law may result in a variety of consequences, including, but not limited to, rejection or removal of listings and other content, rejection or removal of product tags, or suspension or termination of access to any or all Facebook, Instagram, WhatsApp, or Messenger commerce services or features. If you repeatedly post commerce content that violates our policies, we may take additional action on your account.  
+Commerce content refers to any attempt to buy, sell or trade products – even for free – on Facebook, Instagram, WhatsApp or Messenger services designed for commerce, including, but not limited to, , and . Products sold or offered for sale, or traded or offered for trade, on these services or features must comply with our Commerce Policies. Additionally, commerce content on Facebook and Messenger, and commerce content on Instagram, must comply respectively with Facebook's and Instagram's . Commerce content on WhatsApp must comply with the . Buyers, sellers and traders are also responsible for complying with that apply to the use of our products, and all applicable laws and regulations. Failure to comply with our policies or the law may result in a variety of consequences, including, but not limited to, rejection or removal of listings and other content, rejection or removal of product tags, or suspension or termination of access to any or all Facebook, Instagram, WhatsApp or Messenger commerce services or features. If you repeatedly post commerce content that violates our policies, we may take additional action on your account.  
   
 Facebook Marketplace is intended for consumer-to-consumer sales. Businesses and individuals acting in a business or commercial capacity in the European Economic Area (EEA), Philippines and India, may be subject to restrictions, including suspension of access to Marketplace and/or removal of their Marketplace listings if they attempt to sell on Marketplace.
 
-### Steps to Take if Disapproved
+### Steps to take if disapproved
 
-#### Appeal the Decision
+#### Appeal the decision
 
-If your commerce content has been rejected or removed for violating our Commerce Policies and you feel it was a mistake, you can request a review by following these steps for , or these steps for products in your (availabe on Instagram, Facebook, Messenger and WhatsApp Business), and we'll take another look.
+If your commerce content has been rejected or removed for violating our Commerce Policies and you feel it was a mistake, you can request a review by following these steps for or these steps for products in your (available on Instagram, Facebook, Messenger and WhatsApp Business), and we'll take another look.
 
-### Prohibited Content
+### Prohibited content
 
 21.  Commerce content may not promote the buying, or selling, or trading of tobacco products or tobacco paraphernalia.  
      
-22.  Commerce content may not promote the buying, selling, or trading of cosmetics that have been used, or that are not sold in their original packaging.  
+22.  Commerce content may not promote the buying, selling or trading of cosmetics that have been used, or that are not sold in their original packaging.  
      
-23.  Commerce content may not promote the buying, selling, or trading of certain vehicle parts and accessories.  
+23.  Commerce content may not promote the buying, selling or trading of certain vehicle parts and accessories.  
      
 
-### Restricted Content
+### Restricted content
 
 * * *
