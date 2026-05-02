@@ -3,7 +3,7 @@ WhatsApp Channels Guidelines
 
 Last updated: February 16, 2024
 
-WhatsApp Channels is an optional, one-way broadcasting feature within WhatsApp, separate from private messaging, designed to help people follow information from people and organizations that are important to them. Channel admins should be mindful of the following guidelines (these “Channels Guidelines”) so their updates are appropriate for a general audience. By using WhatsApp Channels, you agree to these Channels Guidelines and our [Supplemental Terms of Service for WhatsApp Channels](https://www.whatsapp.com/legal/channels-terms-of-service).
+WhatsApp Channels is an optional, one-way broadcasting feature within WhatsApp, separate from private messaging, designed to help people follow information from people and organizations that are important to them. Channel admins should be mindful of the following guidelines (these “Channels Guidelines”) so their updates are appropriate for a general audience. By using WhatsApp Channels, you agree to these Channels Guidelines and our [Supplemental Terms of Service for WhatsApp Channels](https://www.whatsapp.com/legal/channels-terms-of-service-eea/).
 
 Channel admins should be respectful of their followers and avoid sending too many or low-quality updates, which could lead recipients to unfollow their channel. Channel admins should provide a title for their channel that reflects the channel content and helps users make informed choices about which channels they choose to follow.
 
