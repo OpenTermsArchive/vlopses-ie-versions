@@ -1304,11 +1304,13 @@ Related articles
 Copyright
 =========
 
-Report copyright infringement
+How to report copyright?
+
+My content was copied
 
 Protect my copyrighted work
 
-What is copyright?
+What is copyright infringement?
 
 I have a different question
 
@@ -1598,11 +1600,11 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-I have permission to use content
+What is copyright?
+
+Can I use content with permission?
 
 What is fair use?
-
-What is public domain content?
 
 I have a different question
 
