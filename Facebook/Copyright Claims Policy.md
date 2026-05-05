@@ -877,7 +877,7 @@ What is trademark?
 
 What is fair use?
 
-What is DMCA?
+What are legal consequences?
 
 I have a different question
 
@@ -1608,11 +1608,11 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-I have permission to use content
+What is copyright?
+
+Can I use content with permission?
 
 What is fair use?
-
-What is public domain content?
 
 I have a different question
 
