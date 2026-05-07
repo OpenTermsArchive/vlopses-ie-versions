@@ -2644,117 +2644,73 @@ A person, business, organisation or body that provides services to Meta or to ou
 
 - - -
 
-[...](https://mbasic.facebook.com/language/?n=%2Fcookie%2Fconsent_prompt%2F%3Fnext_uri%3Dhttps%253A%252F%252Fmbasic.facebook.com%252Fprivacy%252Fgenai)
+How Meta uses information for generative AI models and features
+===============================================================
 
-Allow the use of cookies from Facebook in this browser?
+Explore the policy
+------------------
 
-We use cookies and similar technologies to help provide and improve content on [Meta Products](https://www.facebook.com/help/1561485474074139). We also use them to provide a safer experience by using information that we receive from cookies on and off Facebook, and to provide and improve Meta Products for people who have an account.
+[AI at Meta
+----------](#1)[More resources
+--------------](#3)
 
-*   Essential cookies: These cookies are required to use Meta Products and are necessary for our sites to work as intended.
-*   Cookies from other companies: We use these cookies to show you ads off Meta Products and to provide features such as maps and videos on Meta Products. These cookies are optional.
+Other policies[Terms of Service
+----------------](https://mbasic.facebook.com/terms/)[Cookies policy
+--------------](https://mbasic.facebook.com/policies/cookies/)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-You have control over the optional cookies that we use. Learn more about cookies and how we use them, and review or change your choices at any time in our [Cookies Policy](https://mbasic.facebook.com/privacy/policies/cookies/printable/).
+AI at Meta
+==========
 
-About cookies
+We're developing generative AI experiences and are excited to bring them to more people and businesses across Meta Products worldwide. That's why we're developing AI at Meta, our collection of generative AI features and experiences, such as Meta AI and AI Creative Tools, along with the models that power them. This also includes making models available through an open platform to support researchers, developers and others in the AI community.
 
-What are cookies?
+AI at Meta helps people solve complex problems, be more imaginative and create something never seen before. From bringing real-time answers to chat, to helping people organise and plan for their next holiday, to giving them more ways to express themselves, AI at Meta helps people enhance their everyday activities, experiences and moments.
 
-Cookies are small pieces of text that are used to store and receive identifiers on a web browser. We use cookies and similar technologies to offer Meta Products and understand information that we receive about users, such as their activity on other websites and apps.
+We are committed to building responsibly. We want you to know how generative AI works and how we use your information to make this advancement possible.
 
-If you don't have an account, we don't use cookies to personalise ads for you, and activity that we receive will only be used for the security and integrity of our Products.
+What is generative AI?
+----------------------
 
-Learn more about cookies and the similar technologies that we use in our [Cookies Policy](https://mbasic.facebook.com/privacy/policies/cookies/printable/).
+Generative artificial intelligence (generative AI) enables people to quickly create content in new and exciting ways. For example, with generative AI people can easily create new content such as images to share with friends, and businesses can create text responses for questions from their customers.
 
-Why do we use cookies?
+Generative AI is not a database or static collection of information, but computer models. These models are a form of artificial intelligence that are trained on billions of pieces of information from different types of data such as text, images and audio. By studying this information, it can learn things such as the relationship and associations between different types of content. That way the models are able to create new content when a person gives it instructions or a question. Generative AI can be used to create a variety of content such as text, images and audio.
 
-Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience.
+*   Models that generate text: Large language models (also called LLMs) are models trained on massive amounts of text to help them predict typical sequences, such as those found in our everyday language. LLMs learn from the data using a combination of machine learning and guidance given by people who help train the models. They can be trained to do different language-based tasks, such as completing a sentence, translating text into a different language or responding to questions in a conversational way.
+*   Models that generate images: These models are trained by looking at billions of images and their text captions, which are the descriptive text associated with the images. The model learns the association between these text descriptions and the images. Once it's learned the association, it can create new images, such as when a person enters a text description of the image that they want generated.
 
-While the cookies that we use may change from time to time as we improve and update the Meta Products, we use them for the following purposes:
+Generative AI models help machines better understand the world and let people translate that understanding into creative expression.
 
-*   Authentication to keep users logged in
-*   To ensure security, site and product integrity
-*   To provide advertising, recommendations, insights and measurement, if we show you ads
-*   To provide site features and services
-*   To understand our Products' performance
-*   To enable analytics and research
-*   On third-party websites and apps to help companies that incorporate Meta technologies to share information with us about activity on their apps and websites.
+Where does Meta get training information?
+-----------------------------------------
 
-Learn more about cookies and how we use them in our [Cookies Policy](https://mbasic.facebook.com/privacy/policies/cookies/printable/).
+As it takes such a large amount of data to teach effective models, a combination of sources are used for training. We use information that is publicly available online and licensed information. We also use information shared on Meta Products. This information could be things such as posts or photos and their captions. We do not use the content of your private messages with friends and family to train our AIs unless you or someone in the chat chooses to share those messages with our AIs. For AI features that use [Private Processing technology](https://lm.facebook.com/l.php?u=https%3A%2F%2Ffaq.whatsapp.com%2F2089630958184255%3Fentry_point%3DPOLICY_SECTION%253Agenai_body), Meta cannot read or access the private messages that you have shared. There are more details on how we use information from Meta Products in our [Privacy Policy](https://www.facebook.com/privacy/policy?section_id=2-HowDoWeUse&entry_point=POLICY_SECTION%3Agenai_body).
 
-What are Meta Products?
+When we collect public information from the Internet or license data from other providers to train our models, it may include personal information. For example, if we collect a public blog post, it may include the author's name and contact information. When we do get personal information as part of this public and licensed data that we use to train our models, we don't specifically link this data to any Meta account.
 
-Meta Products include the Facebook, Instagram and Messenger apps, and any other features, apps, technologies, software or services offered by Meta under our Privacy Policy.
+Even if you don't use our Products or have an account, we may still process information about you to develop and improve AI at Meta. For example, this could happen if you appear anywhere in an image shared on our Products by someone who does use them or if someone mentions information about you in posts or captions that they share on our Products.
 
-You can learn more about [Meta Products in our Privacy Policy](https://www.facebook.com/privacy/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis&entry_point=cookie_consent_modal_what_are_meta_products).
+Privacy and generative AI
+-------------------------
 
-Your cookie choices
+At Meta, we have a responsibility to protect people's privacy and have teams dedicated to this work for everything that we build.
 
-You have control over optional cookies that we use:
+We have a robust internal Privacy Review process that helps ensure that we are using data at Meta responsibly for our products, including generative AI. We work to identify potential privacy risks that involve the collection, use or sharing of personal information and develop ways to reduce those risks to people's privacy. [Read more about our privacy programmes and learn about our teams of experts.](https://about.meta.com/privacy-progress/?entry_point=POLICY_SECTION%3Agenai_body)
 
-*   Our cookies on other apps and websites owned by companies that use Meta technologies, such as the Like button and Meta pixel, can be used to personalise your ads, if we show you ads.
-*   We use cookies from other companies to show you ads off Meta Products, and to provide features such as maps and video on Meta Products.
+To do this work ethically and responsibly, we have five foundational values at the core of how we think about AI. [Learn more about our five pillars.](https://ai.facebook.com/blog/facebooks-five-pillars-of-responsible-ai/?entry_point=POLICY_SECTION%3Agenai_body)
 
-You can review or change your choices at any time in your cookies settings.
+*   Privacy and security
+*   Fairness and inclusion
+*   Robustness and safety
+*   Transparency and control
+*   Governance and accountability
 
-Cookies from other companies
+Our AI responsibility efforts are propelled by a cross-disciplinary team whose mission is to help ensure that AI at Meta benefits people and society. Our work on responsible AI is driven by our belief that everyone should have equitable access to information, services and opportunities. [Learn about our recent progress.](https://ai.facebook.com/blog/responsible-ai-progress-meta-2022/?entry_point=POLICY_SECTION%3Agenai_body)
 
-We use cookies from [other companies](https://www.facebook.com/privacy/policies/cookies/?annotations[0]=explanation%2F3_companies_list) in order to show you ads off our Products, and provide features such as maps, payment services and video.
+We're investing so much in this space because we believe that it provides benefits for people, creators and businesses around the world. That's why we're building AI at Meta and making models available through an open platform. To train effective models to unlock these advancements, a significant amount of information is needed. This is why we draw from publicly available and licensed sources, as well as information that people have shared on Meta Products, including interactions with AI at Meta features. We keep training data for as long as we need it on a case-by-case basis to ensure that an AI model is operating appropriately, safely and efficiently. We also may keep it to protect our or others' interests, or comply with legal obligations.
 
-How we use these cookies
+Whether you use Meta Products or not, anyone can submit requests related to their personal information from third parties being used to develop and improve AI at Meta. [Learn more and submit requests here.](https://www.facebook.com/help/contact/1266025207620918?entry_point=POLICY_SECTION%3Agenai_body)
 
-We use cookies from other companies on our Products:
-
-*   To show you ads about our Products and features on other companies' apps and websites.
-*   To provide features on our Products such as maps, payment services and video.
-*   For analytics.
-
-If you allow these cookies
-
-*   Features that you use on Meta Products will not be affected.
-*   We'll be able to better personalise ads for you off Meta Products, and measure their performance.
-*   Other companies will receive information about you by using their cookies.
-
-If you don't allow these cookies
-
-*   Some features on our products may not work.
-*   We won't use cookies from other companies to personalise ads for you off Meta products, or measure their performance.
-
-Other ways that you can control your information
-
-Manage your ad experience in Accounts Centre
-
-You can manage your ad experience by visiting the following settings.
-
-Ad preferences
-
-In your ad preferences, you can choose whether we show you ads and make choices about the information used to show you ads.
-
-Ad settings
-
-If we show you ads, we use data that advertisers and other partners provide us with about your activity off Meta Company Products, including websites and apps, to show you better ads. You can control whether we use this data to show you ads in your [ad settings](https://www.facebook.com/settings/ads/).
-
-More information about online advertising
-
-You can opt out of seeing online interest-based ads from Meta and other participating companies through the [Digital Advertising Alliance](https://lm.facebook.com/l.php?u=https%3A%2F%2Foptout.aboutads.info%2F) in the US, the [Digital Advertising Alliance of Canada](https://lm.facebook.com/l.php?u=https%3A%2F%2Fyouradchoices.ca%2F) in Canada or the [European Interactive Digital Advertising Alliance](https://lm.facebook.com/l.php?u=https%3A%2F%2Fwww.youronlinechoices.com%2F) in Europe, or through your mobile device settings, if you are using Android, iOS 13 or an earlier version of iOS. Please note that ad blockers and tools that restrict our cookie use may interfere with these controls.
-
-The advertising companies we work with generally use cookies and similar technologies as part of their services. To learn more about how advertisers generally use cookies and the choices they offer, you can review the following resources:
-
-*   [Digital Advertising Alliance](https://lm.facebook.com/l.php?u=https%3A%2F%2Foptout.aboutads.info%2F)
-*   [Digital Advertising Alliance of Canada](https://lm.facebook.com/l.php?u=https%3A%2F%2Fyouradchoices.ca%2F)
-*   [European Interactive Digital Advertising Alliance](https://lm.facebook.com/l.php?u=https%3A%2F%2Fwww.youronlinechoices.com%2F)
-
-Controlling cookies with browser settings
-
-Your browser or device may offer settings that allow you to choose whether browser cookies are set and to delete them. These controls vary by browser, and manufacturers may change both the settings they make available and how they work at any time. As of 5 October 2020, you may find additional information about the controls offered by popular browsers at the links below. Certain parts of Meta Products may not work properly if you have disabled browser cookies. Please be aware that these controls are distinct from the controls that Facebook offers.
-
-*   [Google Chrome](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.google.com%2Fchrome%2Fanswer%2F95647)
-*   [Internet Explorer](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.microsoft.com%2Fen-ie%2Fhelp%2F17442%2Fwindows-internet-explorer-delete-manage-cookies)
-*   [Firefox](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.mozilla.org%2Fen-US%2Fkb%2Fenable-and-disable-cookies-website-preferences)
-*   [Safari](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.apple.com%2Fen-ie%2Fguide%2Fsafari%2Fsfri11471%2Fmac)
-*   [Safari mobile](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.apple.com%2Fen-us%2FHT201265)
-*   [Opera](https://lm.facebook.com/l.php?u=https%3A%2F%2Fblogs.opera.com%2Fnews%2F2015%2F08%2Fhow-to-manage-cookies-in-opera%2F)
-
-Decline optional cookiesAllow all cookies
+We see many possibilities ahead for people, creators and businesses to use generative AI. We're excited to see this technology come this far but know that there's more to do in the future. Generative AI is a fast-moving space and we are committed to staying transparent as this technology evolves.
 
 - - -
 
