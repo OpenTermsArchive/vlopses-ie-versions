@@ -184,7 +184,7 @@ What is trademark dilution?
 
 What is likelihood of confusion?
 
-What are limits to trademark rights?
+What are trademark rights limits?
 
 I have a different question
 
@@ -592,15 +592,15 @@ Content that I posted on Facebook was removed because it was reported for intell
 
 Copy link
 
-My content was removed
+Apelar remoção de conteúdo
 
-Appeal content removal
+Conteúdo removido por engano
 
-Contact rights owner
+Contactar proprietário dos direitos
 
-What is a trademark report?
+O que é uma marca registada?
 
-I have a different question
+Tenho uma questão diferente
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -648,13 +648,15 @@ Repeated intellectual property infringement on Facebook
 
 Copy link
 
-Mein Konto wurde deaktiviert
+My account was disabled
 
-Meine Seite wurde entfernt
+My Page was removed
 
-Was ist geistiges Eigentum?
+What is repeat infringer policy?
 
-Ich habe eine andere Frage
+What are intellectual property rights?
+
+I have a different question
 
 By using Facebook, you agree to our [Terms of Service](https://www.facebook.com/terms). Our terms prohibit people from taking any action on Facebook that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
@@ -1051,13 +1053,15 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-Melde en annonce for krænkelse
+Report a copyright infringement
 
-Hvad er Brand Rights Protection?
+Report a trademark infringement
 
-Rapportér en annonce med copyright
+Report a counterfeit ad
 
-Jeg har et andet spørgsmål
+How to use Brand Rights Protection
+
+I have a different question
 
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across Meta technologies such as Facebook and Instagram. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
@@ -1314,11 +1318,13 @@ Related articles
 Copyright
 =========
 
-Report copyright infringement
+How to report copyright?
+
+My content was copied
 
 Protect my copyrighted work
 
-What is copyright?
+What is copyright infringement?
 
 I have a different question
 
@@ -1508,11 +1514,13 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-What are my copyright rights?
+What is copyright infringement?
 
-My content was copied
+My work was copied
 
 Stop others using my work
+
+Grant permission to use work
 
 I have a different question
 
@@ -1752,11 +1760,11 @@ Copy link
 
 What is copyright infringement?
 
+Can I use copyrighted content?
+
 What is fair use?
 
-Can I use content with credit?
-
-What if I bought the content?
+How to report copyright infringement?
 
 I have a different question
 
@@ -2058,11 +2066,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Contact DMCA agent
-
-Report copyright infringement
-
 DMCA claim form
+
+DMCA contact details
+
+DMCA claim requirements
 
 I have a different question
 
@@ -2285,13 +2293,15 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Apply for Rights Manager
+Còraichean Manaidsear
 
-What is Content Protection?
+Dìon susbaint
 
-Report copyright infringement
+Cuir a-steach airson ruigsinneachd
 
-I have a different question
+Dèan aithris air briseadh dlighe-sgrìobhaidh
+
+Tha ceist eadar-dhealaichte agam
 
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we use systems that flag content posted to Facebook that may contain copyrighted content owned by someone else. We provide tailored tooling specific to a content owner's demonstrated needs.
 
