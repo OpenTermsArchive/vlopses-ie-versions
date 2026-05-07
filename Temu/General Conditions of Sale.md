@@ -153,15 +153,15 @@ We accept
 Shipping Info
 =============
 
-Free standard shipping
-----------------------
+Free standard shipping and Click & Collect
+------------------------------------------
 
-For most of the products (excluding products shipped from local warehouses, which have no minimum order value), standard shipping is free over applicable minimum order requirements. Please refer to product detail pages for available shipping methods and applicable minimum order requirements.
+For most of the products (excluding products shipped from local warehouses, which have no minimum order value), standard shipping and Click & Collect are free over applicable minimum order requirements. Please refer to product detail pages for available shipping methods and applicable minimum order requirements.
 
 Shipping options
 ----------------
 
-Available shipping options vary depending on each item. You may choose standard shipping depending on the items in your order and your location. Tracking may not be available every step of the way.
+Available shipping options vary depending on each item. You may choose standard shipping and Click & Collect depending on the items in your order and your location. Tracking may not be available every step of the way.
 
 Shipping address
 ----------------
