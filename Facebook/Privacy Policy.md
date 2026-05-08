@@ -3494,7 +3494,73 @@ For example, if you post threatening or harmful content, we may share your infor
 
 - - -
 
-* * *
+How Meta uses information for generative AI models and features
+===============================================================
+
+Explore the policy
+------------------
+
+[AI at Meta
+----------](#1)[More resources
+--------------](#3)
+
+Other policies[Terms of Service
+----------------](https://mbasic.facebook.com/terms/)[Cookies policy
+--------------](https://mbasic.facebook.com/policies/cookies/)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+AI at Meta
+==========
+
+We're developing generative AI experiences and are excited to bring them to more people and businesses across Meta Products worldwide. That's why we're developing AI at Meta, our collection of generative AI features and experiences, such as Meta AI and AI Creative Tools, along with the models that power them. This also includes making models available through an open platform to support researchers, developers and others in the AI community.
+
+AI at Meta helps people solve complex problems, be more imaginative and create something never seen before. From bringing real-time answers to chat, to helping people organise and plan for their next holiday, to giving them more ways to express themselves, AI at Meta helps people enhance their everyday activities, experiences and moments.
+
+We are committed to building responsibly. We want you to know how generative AI works and how we use your information to make this advancement possible.
+
+What is generative AI?
+----------------------
+
+Generative artificial intelligence (generative AI) enables people to quickly create content in new and exciting ways. For example, with generative AI people can easily create new content such as images to share with friends, and businesses can create text responses for questions from their customers.
+
+Generative AI is not a database or static collection of information, but computer models. These models are a form of artificial intelligence that are trained on billions of pieces of information from different types of data such as text, images and audio. By studying this information, it can learn things such as the relationship and associations between different types of content. That way the models are able to create new content when a person gives it instructions or a question. Generative AI can be used to create a variety of content such as text, images and audio.
+
+*   Models that generate text: Large language models (also called LLMs) are models trained on massive amounts of text to help them predict typical sequences, such as those found in our everyday language. LLMs learn from the data using a combination of machine learning and guidance given by people who help train the models. They can be trained to do different language-based tasks, such as completing a sentence, translating text into a different language or responding to questions in a conversational way.
+*   Models that generate images: These models are trained by looking at billions of images and their text captions, which are the descriptive text associated with the images. The model learns the association between these text descriptions and the images. Once it's learned the association, it can create new images, such as when a person enters a text description of the image that they want generated.
+
+Generative AI models help machines better understand the world and let people translate that understanding into creative expression.
+
+Where does Meta get training information?
+-----------------------------------------
+
+As it takes such a large amount of data to teach effective models, a combination of sources are used for training. We use information that is publicly available online and licensed information. We also use information shared on Meta Products. This information could be things such as posts or photos and their captions. We do not use the content of your private messages with friends and family to train our AIs unless you or someone in the chat chooses to share those messages with our AIs. For AI features that use [Private Processing technology](https://lm.facebook.com/l.php?u=https%3A%2F%2Ffaq.whatsapp.com%2F2089630958184255%3Fentry_point%3DPOLICY_SECTION%253Agenai_body), Meta cannot read or access the private messages that you have shared. There are more details on how we use information from Meta Products in our [Privacy Policy](https://www.facebook.com/privacy/policy?section_id=2-HowDoWeUse&entry_point=POLICY_SECTION%3Agenai_body).
+
+When we collect public information from the Internet or license data from other providers to train our models, it may include personal information. For example, if we collect a public blog post, it may include the author's name and contact information. When we do get personal information as part of this public and licensed data that we use to train our models, we don't specifically link this data to any Meta account.
+
+Even if you don't use our Products or have an account, we may still process information about you to develop and improve AI at Meta. For example, this could happen if you appear anywhere in an image shared on our Products by someone who does use them or if someone mentions information about you in posts or captions that they share on our Products.
+
+Privacy and generative AI
+-------------------------
+
+At Meta, we have a responsibility to protect people's privacy and have teams dedicated to this work for everything that we build.
+
+We have a robust internal Privacy Review process that helps ensure that we are using data at Meta responsibly for our products, including generative AI. We work to identify potential privacy risks that involve the collection, use or sharing of personal information and develop ways to reduce those risks to people's privacy. [Read more about our privacy programmes and learn about our teams of experts.](https://about.meta.com/privacy-progress/?entry_point=POLICY_SECTION%3Agenai_body)
+
+To do this work ethically and responsibly, we have five foundational values at the core of how we think about AI. [Learn more about our five pillars.](https://ai.facebook.com/blog/facebooks-five-pillars-of-responsible-ai/?entry_point=POLICY_SECTION%3Agenai_body)
+
+*   Privacy and security
+*   Fairness and inclusion
+*   Robustness and safety
+*   Transparency and control
+*   Governance and accountability
+
+Our AI responsibility efforts are propelled by a cross-disciplinary team whose mission is to help ensure that AI at Meta benefits people and society. Our work on responsible AI is driven by our belief that everyone should have equitable access to information, services and opportunities. [Learn about our recent progress.](https://ai.facebook.com/blog/responsible-ai-progress-meta-2022/?entry_point=POLICY_SECTION%3Agenai_body)
+
+We're investing so much in this space because we believe that it provides benefits for people, creators and businesses around the world. That's why we're building AI at Meta and making models available through an open platform. To train effective models to unlock these advancements, a significant amount of information is needed. This is why we draw from publicly available and licensed sources, as well as information that people have shared on Meta Products, including interactions with AI at Meta features. We keep training data for as long as we need it on a case-by-case basis to ensure that an AI model is operating appropriately, safely and efficiently. We also may keep it to protect our or others' interests, or comply with legal obligations.
+
+Whether you use Meta Products or not, anyone can submit requests related to their personal information from third parties being used to develop and improve AI at Meta. [Learn more and submit requests here.](https://www.facebook.com/help/contact/1266025207620918?entry_point=POLICY_SECTION%3Agenai_body)
+
+We see many possibilities ahead for people, creators and businesses to use generative AI. We're excited to see this technology come this far but know that there's more to do in the future. Generative AI is a fast-moving space and we are committed to staying transparent as this technology evolves.
 
 - - -
 
