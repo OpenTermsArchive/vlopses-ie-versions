@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright violation
+Report copyright infringement
 
-Report trademark violation
+Report trademark infringement
 
 What is copyright?
 
-What is trademark?
+What is a trademark?
 
 I have a different question
 
@@ -381,9 +381,11 @@ Copy link
 
 Report counterfeit goods
 
-What is trademark infringement?
+What is a counterfeit?
 
 Counterfeit sales on Facebook
+
+How to report counterfeits?
 
 I have a different question
 
@@ -1310,13 +1312,11 @@ Related articles
 Copyright
 =========
 
-How to report copyright?
-
-My content was copied
+Report copyright infringement
 
 Protect my copyrighted work
 
-What is copyright infringement?
+What is copyright?
 
 I have a different question
 
@@ -1606,13 +1606,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My content was removed
-
 What is fair use?
 
-How to get permission?
+Get permission to post
 
-What is public domain?
+Content in public domain
+
+What is copyright?
 
 I have a different question
 
@@ -1679,9 +1679,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
-
-I need legal advice
+Fair use in the EU?
 
 I have a different question
 
@@ -1953,13 +1951,11 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-What is a counter-notification?
+What is DMCA?
 
 My content was removed
 
-How long does restoration take?
-
-What is the Repeat Infringer policy?
+File a counter-notification
 
 I have a different question
 
@@ -2062,11 +2058,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Contact DMCA agent
-
-Report copyright infringement
-
 DMCA claim form
+
+DMCA contact details
+
+DMCA claim requirements
 
 I have a different question
 
@@ -2289,15 +2285,15 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Còraichean Manaidsear
+Apply for Rights Manager
 
-Dìon susbaint
+Report copyright infringement
 
-Cuir a-steach airson ruigsinneachd
+Content protection for creators
 
-Dèan aithris air briseadh dlighe-sgrìobhaidh
+What are my enforcement options?
 
-Tha ceist eadar-dhealaichte agam
+I have a different question
 
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we use systems that flag content posted to Facebook that may contain copyrighted content owned by someone else. We provide tailored tooling specific to a content owner's demonstrated needs.
 
