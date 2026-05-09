@@ -584,13 +584,15 @@ Content that I posted on Facebook was removed because it was reported for intell
 
 Copy link
 
-Apelować usunięcie treści
+Apelar remoção de conteúdo
 
-Apelować raport o znak towarowy
+Conteúdo removido por engano
 
-Apelować raport o własność intelektualną
+Contactar proprietário dos direitos
 
-I have a different question
+O que é uma marca registada?
+
+Tenho uma questão diferente
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -1155,11 +1157,13 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Retract my report
+Withdraw my IP report
 
-Cancel my IP report
+Cancel copyright report
 
-Restore removed content
+Retract trademark report
+
+Why can't content be restored?
 
 I have a different question
 
@@ -1306,11 +1310,13 @@ Related articles
 Copyright
 =========
 
-Report copyright infringement
+How to report copyright?
+
+My content was copied
 
 Protect my copyrighted work
 
-What is copyright?
+What is copyright infringement?
 
 I have a different question
 
@@ -1673,7 +1679,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-Fair use in the EU?
+Can I use copyrighted material?
+
+I need legal advice
 
 I have a different question
 
@@ -1887,9 +1895,9 @@ Facebook Lite App Help
 
 More
 
-My content was removed
-
 Appeal content removal
+
+Contact rights owner
 
 DMCA counter-notification
 
@@ -2054,11 +2062,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+Contact DMCA agent
+
+Report copyright infringement
+
 DMCA claim form
-
-DMCA contact details
-
-DMCA claim requirements
 
 I have a different question
 
