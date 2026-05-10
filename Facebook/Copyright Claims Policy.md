@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright violation
+Report copyright infringement
 
-Report trademark violation
+Report trademark infringement
 
 What is copyright?
 
-What is trademark?
+What is a trademark?
 
 I have a different question
 
@@ -49,16 +49,6 @@ A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that dis
 
 Trademark
 =========
-
-What is a trademark?
-
-Report trademark infringement
-
-Apply for Brand Rights Protection
-
-What does trademark protect?
-
-I have a different question
 
 These articles provide information about trademarks. This includes what trademarks do and don't protect, how you can avoid infringing the trademarks of other people when posting to Facebook and how Facebook addresses reports of trademark infringement.
 
@@ -1320,11 +1310,11 @@ Related articles
 Copyright
 =========
 
-How do I protect my work?
-
 Report copyright infringement
 
-What is copyright law?
+Protect my copyrighted work
+
+What is copyright?
 
 I have a different question
 
@@ -1402,11 +1392,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
-What isn't protected by copyright?
+What is not protected?
+
+My content was copied
 
 I have a different question
 
@@ -1614,11 +1604,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-I have permission to use content
+My content was removed
 
 What is fair use?
 
-What is public domain content?
+How to get permission?
+
+What is public domain?
 
 I have a different question
 
@@ -1760,11 +1752,11 @@ Copy link
 
 What is copyright infringement?
 
+Can I use copyrighted content?
+
 What is fair use?
 
-Can I use content with credit?
-
-What if I bought the content?
+How to report copyright infringement?
 
 I have a different question
 
