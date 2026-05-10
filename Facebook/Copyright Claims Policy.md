@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright infringement
+Report copyright violation
 
-Report trademark infringement
+Report trademark violation
 
 What is copyright?
 
-What is a trademark?
+What is trademark?
 
 I have a different question
 
@@ -49,6 +49,16 @@ A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that dis
 
 Trademark
 =========
+
+What is a trademark?
+
+Report trademark infringement
+
+Apply for Brand Rights Protection
+
+What does trademark protect?
+
+I have a different question
 
 These articles provide information about trademarks. This includes what trademarks do and don't protect, how you can avoid infringing the trademarks of other people when posting to Facebook and how Facebook addresses reports of trademark infringement.
 
@@ -381,11 +391,9 @@ Copy link
 
 Report counterfeit goods
 
-What is a counterfeit?
+What is trademark infringement?
 
 Counterfeit sales on Facebook
-
-How to report counterfeits?
 
 I have a different question
 
@@ -1312,11 +1320,11 @@ Related articles
 Copyright
 =========
 
+How do I protect my work?
+
 Report copyright infringement
 
-Protect my copyrighted work
-
-What is copyright?
+What is copyright law?
 
 I have a different question
 
@@ -1606,13 +1614,11 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
+I have permission to use content
+
 What is fair use?
 
-Get permission to post
-
-Content in public domain
-
-What is copyright?
+What is public domain content?
 
 I have a different question
 
@@ -1893,13 +1899,15 @@ Facebook Lite App Help
 
 More
 
-Appeal content removal
+Contenuto rimosso per copyright
 
-Contact rights owner
+Contestare rimozione contenuto
 
-DMCA counter-notification
+Contattare titolare dei diritti
 
-I have a different question
+Cosa sono le procedure DMCA?
+
+Ho un'altra domanda
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -1951,11 +1959,13 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-What is DMCA?
+What is a counter-notification?
 
 My content was removed
 
-File a counter-notification
+How long does restoration take?
+
+What is the Repeat Infringer policy?
 
 I have a different question
 
@@ -2285,15 +2295,15 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Apply for Rights Manager
+Còraichean Manaidsear
 
-Report copyright infringement
+Dìon susbaint
 
-Content protection for creators
+Cuir a-steach airson ruigsinneachd
 
-What are my enforcement options?
+Dèan aithris air briseadh dlighe-sgrìobhaidh
 
-I have a different question
+Tha ceist eadar-dhealaichte agam
 
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we use systems that flag content posted to Facebook that may contain copyrighted content owned by someone else. We provide tailored tooling specific to a content owner's demonstrated needs.
 
