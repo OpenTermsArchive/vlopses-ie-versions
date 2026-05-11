@@ -3608,7 +3608,7 @@ Jun 26, 2024
 
 Jun 30, 2022
 
-Dec 17, 2020
+Dec 18, 2020
 
 Oct 30, 2019
 
@@ -3946,21 +3946,21 @@ CHANGE LOG
 
 Today
 
-Oct 9, 2024
+Oct 10, 2024
 
-Jul 31, 2024
+Aug 1, 2024
 
-Nov 23, 2022
+Nov 24, 2022
 
-Nov 18, 2020
+Nov 19, 2020
 
-Jan 30, 2020
+Jan 31, 2020
 
-Dec 16, 2019
+Dec 17, 2019
 
-Nov 30, 2019
+Dec 1, 2019
 
-Apr 26, 2019
+Apr 27, 2019
 
 Policy Rationale
 
@@ -4142,7 +4142,7 @@ CHANGE LOG
 
 Today
 
-Jun 26, 2024
+Jun 27, 2024
 
 Policy Rationale
 
@@ -4169,9 +4169,9 @@ CHANGE LOG
 
 Today
 
-Feb 29, 2024
+Mar 1, 2024
 
-Nov 19, 2020
+Nov 20, 2020
 
 We comply with:
 
@@ -4193,9 +4193,9 @@ About recommendations on Facebook
 
 Copy link
 
-What content is recommended?
+What content isn't recommended?
 
-Why was my content not recommended?
+Why wasn't my content recommended?
 
 How do recommendations work?
 
