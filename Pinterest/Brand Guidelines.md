@@ -245,6 +245,9 @@ If your content is removed based on a trademark infringement report, you can con
 
 It’s our policy—in appropriate circumstances and at our discretion—to suspend or terminate the accounts of people who repeatedly infringe trademark rights or are repeatedly charged with infringing trademarks or other intellectual property rights. Actions against such users may also include temporary suspension of their ability to post content, among other things.
 
+  
+  
+
 Submit a Trademark Infringement Report
 ======================================
 
@@ -268,8 +271,7 @@ If you'd prefer not to use this form, please send the following information to [
 Appeal a Trademark Infringement Report
 ======================================
 
-If you believe a Pin was removed in error, or that the trademark owner was mistaken in some respect (e.g., you contend your Pin does not infringe the reporter’s trademark rights, or the reporter does not own the trademark), you may contest the report by emailing [trademark@pinterest.com](mailto:trademark@pinterest.com). To submit an appeal, please provide:
-
+*   If you believe a Pin was removed in error, or that the trademark owner was mistaken in some respect (e.g., you contend your Pin does not infringe the reporter’s trademark rights, or the reporter does not own the trademark), you may contest the report by emailing [trademark@pinterest.com](mailto:trademark@pinterest.com). To submit an appeal, please provide:
 *   A statement explaining that you have a good faith belief that your use of the trademark is non-infringing and the basis for that belief
 *   A statement that you understand that a copy of the appeal may be sent to the current account holder(s) impacted by your appeal
 *   Your name, address, and telephone number
@@ -288,7 +290,6 @@ We'll review your submission and take appropriate action.
 
 If your content is removed based on a counterfeit report, you can contest it by emailing [trademark@pinterest.com](mailto:trademark@pinterest.com) and by letting us know why you think the report is invalid. Please include the report reference number. If you want us to forward the information from the report, let us know by emailing [trademark@pinterest.com](mailto:trademark@pinterest.com) with the report reference number. We'll be happy to send it along (though we may remove personal contact information).
 
-It’s our policy—in appropriate circumstances and at our discretion—to suspend or terminate users found to engage in blatant or repeated counterfeiting. Users whose content is removed for violating our counterfeit policy may also have additional consequences, such as having access to certain services or programs revoked (e.g., advertising privileges, merchant and verified merchant programs).  
-  
+It’s our policy—in appropriate circumstances and at our discretion—to suspend or terminate users found to engage in blatant or repeated counterfeiting. Users whose content is removed for violating our counterfeit policy may also have additional consequences, such as having access to certain services or programs revoked (e.g., advertising privileges, merchant and verified merchant programs).
 
 Fill out counterfeit reporting form
