@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright infringement
+Report copyright violation
 
-Report trademark infringement
+Report trademark violation
 
 What is copyright?
 
-What is a trademark?
+What is trademark?
 
 I have a different question
 
@@ -2068,11 +2068,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+Contact DMCA agent
+
+Report copyright infringement
+
 DMCA claim form
-
-DMCA contact details
-
-DMCA claim requirements
 
 I have a different question
 
