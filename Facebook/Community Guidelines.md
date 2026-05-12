@@ -2476,29 +2476,29 @@ CHANGE LOG
 
 Today
 
-Apr 30, 2026
+May 1, 2026
 
-Oct 2, 2024
+Oct 3, 2024
 
-Jun 26, 2024
+Jun 27, 2024
 
-Jun 29, 2023
+Jun 30, 2023
 
-Feb 23, 2023
+Feb 24, 2023
 
-Sep 29, 2022
+Sep 30, 2022
 
-Feb 24, 2022
+Feb 25, 2022
 
-Nov 24, 2021
+Nov 25, 2021
 
-Sep 30, 2021
+Oct 1, 2021
 
-Nov 18, 2020
+Nov 19, 2020
 
-Nov 30, 2018
+Dec 1, 2018
 
-Jun 29, 2018
+Jun 30, 2018
 
 Policy Rationale
 
@@ -3308,37 +3308,37 @@ CHANGE LOG
 
 Today
 
-May 14, 2025
+May 15, 2025
 
-Oct 2, 2024
+Oct 3, 2024
 
-Aug 29, 2024
+Aug 30, 2024
 
-Feb 29, 2024
+Mar 1, 2024
 
-Dec 5, 2023
+Dec 6, 2023
 
-Nov 23, 2022
+Nov 24, 2022
 
-Dec 23, 2021
+Dec 24, 2021
 
-Nov 24, 2021
+Nov 25, 2021
 
-Oct 28, 2021
+Oct 29, 2021
 
-Feb 25, 2021
+Feb 26, 2021
 
-Nov 18, 2020
+Nov 19, 2020
 
-May 28, 2020
+May 29, 2020
 
-Aug 26, 2019
+Aug 27, 2019
 
-Jul 30, 2019
+Jul 31, 2019
 
-Dec 28, 2018
+Dec 29, 2018
 
-Oct 15, 2018
+Oct 16, 2018
 
 Policy Rationale
 
@@ -4192,14 +4192,6 @@ About recommendations on Facebook
 =================================
 
 Copy link
-
-What content isn't recommended?
-
-Why wasn't my content recommended?
-
-How do recommendations work?
-
-I have a different question
 
 We make personalised recommendations to the people who use our services to help them discover new communities and content. Both Facebook and Instagram may recommend content, accounts and entities (such as Pages, groups or events) that people do not already follow. Some examples of our recommendations experiences include Pages you may like, "Suggested for you" posts in Feed, People you may know or Groups you should join. Some entities might have limited or no access to features that encourage engagement, and might not be as widely recommended on Facebook as other entities.
 
