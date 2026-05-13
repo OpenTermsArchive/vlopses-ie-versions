@@ -1,5 +1,5 @@
-Unmoderated User-Generated Content
-==================================
+Drugs and Related Paraphernalia
+===============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
 
@@ -11,20 +11,15 @@ To ensure consistency worldwide, Microsoft Advertising enforces our policies acr
 
 This policy applies to all ad types.
 
-##### Important
+##### Note
 
 This page was last updated on April 8, 2026.
 
-Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
+Ads cannot advertise or link to pages that facilitate the distribution or cultivation of:
 
-Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
-
-*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
-
-**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
-*   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
-  
+*   **Illegal Substances:** Substances of questionable legality, or substances intended for recreational mind alteration including narcotics, psychotropics, and toxic drugs.
+*   **Drug Paraphernalia:** Equipment, product, or material that is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance excluding medical devices used for legitimate medical purposes and items used for legal non-mind altering recreational purposes.
+*   **Other Specific Substances:** Marijuana (including medicinal marijuana), Salvia divinorum or Salvinorin A, or any substance or material containing Salvia divinorum, Salvinorin A or CBD (cannabidiol).
 
 What Happens When an Ad Policy is Violated
 ------------------------------------------
@@ -47,8 +42,8 @@ Additional resources
 
 - - -
 
-Unmoderated User-Generated Content
-==================================
+Drugs and Related Paraphernalia
+===============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
 
@@ -60,20 +55,15 @@ To ensure consistency worldwide, Microsoft Advertising enforces our policies acr
 
 This policy applies to all ad types.
 
-##### Important
+##### Note
 
 This page was last updated on April 8, 2026.
 
-Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
+Ads cannot advertise or link to pages that facilitate the distribution or cultivation of:
 
-Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
-
-*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
-
-**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
-*   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
-  
+*   **Illegal Substances:** Substances of questionable legality, or substances intended for recreational mind alteration including narcotics, psychotropics, and toxic drugs.
+*   **Drug Paraphernalia:** Equipment, product, or material that is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance excluding medical devices used for legitimate medical purposes and items used for legal non-mind altering recreational purposes.
+*   **Other Specific Substances:** Marijuana (including medicinal marijuana), Salvia divinorum or Salvinorin A, or any substance or material containing Salvia divinorum, Salvinorin A or CBD (cannabidiol).
 
 What Happens When an Ad Policy is Violated
 ------------------------------------------
@@ -96,8 +86,8 @@ Additional resources
 
 - - -
 
-Unmoderated User-Generated Content
-==================================
+Drugs and Related Paraphernalia
+===============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
 
@@ -109,20 +99,15 @@ To ensure consistency worldwide, Microsoft Advertising enforces our policies acr
 
 This policy applies to all ad types.
 
-##### Important
+##### Note
 
 This page was last updated on April 8, 2026.
 
-Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
+Ads cannot advertise or link to pages that facilitate the distribution or cultivation of:
 
-Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
-
-*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
-
-**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
-*   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
-  
+*   **Illegal Substances:** Substances of questionable legality, or substances intended for recreational mind alteration including narcotics, psychotropics, and toxic drugs.
+*   **Drug Paraphernalia:** Equipment, product, or material that is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance excluding medical devices used for legitimate medical purposes and items used for legal non-mind altering recreational purposes.
+*   **Other Specific Substances:** Marijuana (including medicinal marijuana), Salvia divinorum or Salvinorin A, or any substance or material containing Salvia divinorum, Salvinorin A or CBD (cannabidiol).
 
 What Happens When an Ad Policy is Violated
 ------------------------------------------
@@ -145,8 +130,8 @@ Additional resources
 
 - - -
 
-Unmoderated User-Generated Content
-==================================
+Drugs and Related Paraphernalia
+===============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
 
@@ -158,20 +143,15 @@ To ensure consistency worldwide, Microsoft Advertising enforces our policies acr
 
 This policy applies to all ad types.
 
-##### Important
+##### Note
 
 This page was last updated on April 8, 2026.
 
-Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
+Ads cannot advertise or link to pages that facilitate the distribution or cultivation of:
 
-Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
-
-*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
-
-**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
-*   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
-  
+*   **Illegal Substances:** Substances of questionable legality, or substances intended for recreational mind alteration including narcotics, psychotropics, and toxic drugs.
+*   **Drug Paraphernalia:** Equipment, product, or material that is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance excluding medical devices used for legitimate medical purposes and items used for legal non-mind altering recreational purposes.
+*   **Other Specific Substances:** Marijuana (including medicinal marijuana), Salvia divinorum or Salvinorin A, or any substance or material containing Salvia divinorum, Salvinorin A or CBD (cannabidiol).
 
 What Happens When an Ad Policy is Violated
 ------------------------------------------
@@ -194,8 +174,8 @@ Additional resources
 
 - - -
 
-Unmoderated User-Generated Content
-==================================
+Drugs and Related Paraphernalia
+===============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
 
@@ -207,20 +187,15 @@ To ensure consistency worldwide, Microsoft Advertising enforces our policies acr
 
 This policy applies to all ad types.
 
-##### Important
+##### Note
 
 This page was last updated on April 8, 2026.
 
-Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
+Ads cannot advertise or link to pages that facilitate the distribution or cultivation of:
 
-Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
-
-*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
-
-**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
-*   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
-  
+*   **Illegal Substances:** Substances of questionable legality, or substances intended for recreational mind alteration including narcotics, psychotropics, and toxic drugs.
+*   **Drug Paraphernalia:** Equipment, product, or material that is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance excluding medical devices used for legitimate medical purposes and items used for legal non-mind altering recreational purposes.
+*   **Other Specific Substances:** Marijuana (including medicinal marijuana), Salvia divinorum or Salvinorin A, or any substance or material containing Salvia divinorum, Salvinorin A or CBD (cannabidiol).
 
 What Happens When an Ad Policy is Violated
 ------------------------------------------
@@ -243,8 +218,8 @@ Additional resources
 
 - - -
 
-Unmoderated User-Generated Content
-==================================
+Drugs and Related Paraphernalia
+===============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
 
@@ -256,20 +231,15 @@ To ensure consistency worldwide, Microsoft Advertising enforces our policies acr
 
 This policy applies to all ad types.
 
-##### Important
+##### Note
 
 This page was last updated on April 8, 2026.
 
-Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
+Ads cannot advertise or link to pages that facilitate the distribution or cultivation of:
 
-Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
-
-*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
-
-**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
-*   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
-  
+*   **Illegal Substances:** Substances of questionable legality, or substances intended for recreational mind alteration including narcotics, psychotropics, and toxic drugs.
+*   **Drug Paraphernalia:** Equipment, product, or material that is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance excluding medical devices used for legitimate medical purposes and items used for legal non-mind altering recreational purposes.
+*   **Other Specific Substances:** Marijuana (including medicinal marijuana), Salvia divinorum or Salvinorin A, or any substance or material containing Salvia divinorum, Salvinorin A or CBD (cannabidiol).
 
 What Happens When an Ad Policy is Violated
 ------------------------------------------
@@ -292,8 +262,8 @@ Additional resources
 
 - - -
 
-Unmoderated User-Generated Content
-==================================
+Drugs and Related Paraphernalia
+===============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
 
@@ -305,20 +275,15 @@ To ensure consistency worldwide, Microsoft Advertising enforces our policies acr
 
 This policy applies to all ad types.
 
-##### Important
+##### Note
 
 This page was last updated on April 8, 2026.
 
-Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
+Ads cannot advertise or link to pages that facilitate the distribution or cultivation of:
 
-Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
-
-*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
-
-**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
-*   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
-  
+*   **Illegal Substances:** Substances of questionable legality, or substances intended for recreational mind alteration including narcotics, psychotropics, and toxic drugs.
+*   **Drug Paraphernalia:** Equipment, product, or material that is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance excluding medical devices used for legitimate medical purposes and items used for legal non-mind altering recreational purposes.
+*   **Other Specific Substances:** Marijuana (including medicinal marijuana), Salvia divinorum or Salvinorin A, or any substance or material containing Salvia divinorum, Salvinorin A or CBD (cannabidiol).
 
 What Happens When an Ad Policy is Violated
 ------------------------------------------
@@ -338,8 +303,8 @@ Additional resources
 
 - - -
 
-Unmoderated User-Generated Content
-==================================
+Drugs and Related Paraphernalia
+===============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
 
@@ -351,20 +316,15 @@ To ensure consistency worldwide, Microsoft Advertising enforces our policies acr
 
 This policy applies to all ad types.
 
-##### Important
+##### Note
 
 This page was last updated on April 8, 2026.
 
-Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
+Ads cannot advertise or link to pages that facilitate the distribution or cultivation of:
 
-Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
-
-*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
-
-**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
-*   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
-  
+*   **Illegal Substances:** Substances of questionable legality, or substances intended for recreational mind alteration including narcotics, psychotropics, and toxic drugs.
+*   **Drug Paraphernalia:** Equipment, product, or material that is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance excluding medical devices used for legitimate medical purposes and items used for legal non-mind altering recreational purposes.
+*   **Other Specific Substances:** Marijuana (including medicinal marijuana), Salvia divinorum or Salvinorin A, or any substance or material containing Salvia divinorum, Salvinorin A or CBD (cannabidiol).
 
 What Happens When an Ad Policy is Violated
 ------------------------------------------
@@ -384,8 +344,8 @@ Additional resources
 
 - - -
 
-Unmoderated User-Generated Content
-==================================
+Drugs and Related Paraphernalia
+===============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
 
@@ -397,20 +357,15 @@ To ensure consistency worldwide, Microsoft Advertising enforces our policies acr
 
 This policy applies to all ad types.
 
-##### Important
+##### Note
 
 This page was last updated on April 8, 2026.
 
-Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
+Ads cannot advertise or link to pages that facilitate the distribution or cultivation of:
 
-Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
-
-*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
-
-**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
-*   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
-  
+*   **Illegal Substances:** Substances of questionable legality, or substances intended for recreational mind alteration including narcotics, psychotropics, and toxic drugs.
+*   **Drug Paraphernalia:** Equipment, product, or material that is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance excluding medical devices used for legitimate medical purposes and items used for legal non-mind altering recreational purposes.
+*   **Other Specific Substances:** Marijuana (including medicinal marijuana), Salvia divinorum or Salvinorin A, or any substance or material containing Salvia divinorum, Salvinorin A or CBD (cannabidiol).
 
 What Happens When an Ad Policy is Violated
 ------------------------------------------
@@ -430,8 +385,8 @@ Additional resources
 
 - - -
 
-Unmoderated User-Generated Content
-==================================
+Drugs and Related Paraphernalia
+===============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
 
@@ -443,20 +398,15 @@ To ensure consistency worldwide, Microsoft Advertising enforces our policies acr
 
 This policy applies to all ad types.
 
-##### Important
+##### Note
 
 This page was last updated on April 8, 2026.
 
-Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
+Ads cannot advertise or link to pages that facilitate the distribution or cultivation of:
 
-Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
-
-*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
-
-**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
-*   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
-  
+*   **Illegal Substances:** Substances of questionable legality, or substances intended for recreational mind alteration including narcotics, psychotropics, and toxic drugs.
+*   **Drug Paraphernalia:** Equipment, product, or material that is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance excluding medical devices used for legitimate medical purposes and items used for legal non-mind altering recreational purposes.
+*   **Other Specific Substances:** Marijuana (including medicinal marijuana), Salvia divinorum or Salvinorin A, or any substance or material containing Salvia divinorum, Salvinorin A or CBD (cannabidiol).
 
 What Happens When an Ad Policy is Violated
 ------------------------------------------
@@ -476,8 +426,8 @@ Additional resources
 
 - - -
 
-Unmoderated User-Generated Content
-==================================
+Drugs and Related Paraphernalia
+===============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
 
@@ -489,20 +439,15 @@ To ensure consistency worldwide, Microsoft Advertising enforces our policies acr
 
 This policy applies to all ad types.
 
-##### Important
+##### Note
 
 This page was last updated on April 8, 2026.
 
-Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
+Ads cannot advertise or link to pages that facilitate the distribution or cultivation of:
 
-Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
-
-*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
-
-**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
-*   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
-  
+*   **Illegal Substances:** Substances of questionable legality, or substances intended for recreational mind alteration including narcotics, psychotropics, and toxic drugs.
+*   **Drug Paraphernalia:** Equipment, product, or material that is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance excluding medical devices used for legitimate medical purposes and items used for legal non-mind altering recreational purposes.
+*   **Other Specific Substances:** Marijuana (including medicinal marijuana), Salvia divinorum or Salvinorin A, or any substance or material containing Salvia divinorum, Salvinorin A or CBD (cannabidiol).
 
 What Happens When an Ad Policy is Violated
 ------------------------------------------
@@ -522,8 +467,8 @@ Additional resources
 
 - - -
 
-Unmoderated User-Generated Content
-==================================
+Drugs and Related Paraphernalia
+===============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
 
@@ -535,20 +480,15 @@ To ensure consistency worldwide, Microsoft Advertising enforces our policies acr
 
 This policy applies to all ad types.
 
-##### Important
+##### Note
 
 This page was last updated on April 8, 2026.
 
-Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
+Ads cannot advertise or link to pages that facilitate the distribution or cultivation of:
 
-Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
-
-*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
-
-**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
-*   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
-  
+*   **Illegal Substances:** Substances of questionable legality, or substances intended for recreational mind alteration including narcotics, psychotropics, and toxic drugs.
+*   **Drug Paraphernalia:** Equipment, product, or material that is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance excluding medical devices used for legitimate medical purposes and items used for legal non-mind altering recreational purposes.
+*   **Other Specific Substances:** Marijuana (including medicinal marijuana), Salvia divinorum or Salvinorin A, or any substance or material containing Salvia divinorum, Salvinorin A or CBD (cannabidiol).
 
 What Happens When an Ad Policy is Violated
 ------------------------------------------
@@ -568,8 +508,8 @@ Additional resources
 
 - - -
 
-Unmoderated User-Generated Content
-==================================
+Drugs and Related Paraphernalia
+===============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
 
@@ -581,20 +521,15 @@ To ensure consistency worldwide, Microsoft Advertising enforces our policies acr
 
 This policy applies to all ad types.
 
-##### Important
+##### Note
 
 This page was last updated on April 8, 2026.
 
-Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
+Ads cannot advertise or link to pages that facilitate the distribution or cultivation of:
 
-Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
-
-*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
-
-**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
-*   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
-  
+*   **Illegal Substances:** Substances of questionable legality, or substances intended for recreational mind alteration including narcotics, psychotropics, and toxic drugs.
+*   **Drug Paraphernalia:** Equipment, product, or material that is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance excluding medical devices used for legitimate medical purposes and items used for legal non-mind altering recreational purposes.
+*   **Other Specific Substances:** Marijuana (including medicinal marijuana), Salvia divinorum or Salvinorin A, or any substance or material containing Salvia divinorum, Salvinorin A or CBD (cannabidiol).
 
 What Happens When an Ad Policy is Violated
 ------------------------------------------
@@ -614,8 +549,8 @@ Additional resources
 
 - - -
 
-Unmoderated User-Generated Content
-==================================
+Drugs and Related Paraphernalia
+===============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
 
@@ -627,20 +562,15 @@ To ensure consistency worldwide, Microsoft Advertising enforces our policies acr
 
 This policy applies to all ad types.
 
-##### Important
+##### Note
 
 This page was last updated on April 8, 2026.
 
-Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
+Ads cannot advertise or link to pages that facilitate the distribution or cultivation of:
 
-Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
-
-*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
-
-**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
-*   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
-  
+*   **Illegal Substances:** Substances of questionable legality, or substances intended for recreational mind alteration including narcotics, psychotropics, and toxic drugs.
+*   **Drug Paraphernalia:** Equipment, product, or material that is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance excluding medical devices used for legitimate medical purposes and items used for legal non-mind altering recreational purposes.
+*   **Other Specific Substances:** Marijuana (including medicinal marijuana), Salvia divinorum or Salvinorin A, or any substance or material containing Salvia divinorum, Salvinorin A or CBD (cannabidiol).
 
 What Happens When an Ad Policy is Violated
 ------------------------------------------
@@ -660,8 +590,8 @@ Additional resources
 
 - - -
 
-Unmoderated User-Generated Content
-==================================
+Drugs and Related Paraphernalia
+===============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
 
@@ -673,20 +603,15 @@ To ensure consistency worldwide, Microsoft Advertising enforces our policies acr
 
 This policy applies to all ad types.
 
-##### Important
+##### Note
 
 This page was last updated on April 8, 2026.
 
-Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
+Ads cannot advertise or link to pages that facilitate the distribution or cultivation of:
 
-Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
-
-*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
-
-**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
-*   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
-  
+*   **Illegal Substances:** Substances of questionable legality, or substances intended for recreational mind alteration including narcotics, psychotropics, and toxic drugs.
+*   **Drug Paraphernalia:** Equipment, product, or material that is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance excluding medical devices used for legitimate medical purposes and items used for legal non-mind altering recreational purposes.
+*   **Other Specific Substances:** Marijuana (including medicinal marijuana), Salvia divinorum or Salvinorin A, or any substance or material containing Salvia divinorum, Salvinorin A or CBD (cannabidiol).
 
 What Happens When an Ad Policy is Violated
 ------------------------------------------
