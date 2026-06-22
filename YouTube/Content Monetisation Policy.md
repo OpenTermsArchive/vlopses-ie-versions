@@ -55,7 +55,7 @@ This policy applies to your channel as a whole. In other words, if you have vide
 
 #### What is allowed to monetize
 
-This policy makes sure monetized content offers viewers something appealing and interesting to watch. In other words, if the average viewer can clearly tell that content on your channel differs from video to video, it's fine to monetize. We know many channels create content that follows a similar pattern. What’s important is that the substance of each video should be relatively varied.
+This policy makes sure monetized content offers viewers something appealing and interesting to watch. In other words, if the average viewer can clearly tell that content on your channel differs from video to video, it's fine to monetize. We know many channels create content that follows a similar pattern. What’s important is that the substance of each video should be materially varied.
 
 Examples of what is allowed to monetize (including but not limited to):
 
@@ -65,15 +65,16 @@ Examples of what is allowed to monetize (including but not limited to):
 
 #### Content that violates this guideline
 
-When a channel’s content consists of similar content, it can frustrate viewers who come to YouTube for appealing and interesting videos. That means channels where content is only slightly different from video to video are not allowed to monetize. In other words, your channel shouldn’t have content that's produced using a template and repeated at scale.
+When a channel’s content consists of similar content, it can frustrate viewers who come to YouTube for appealing and interesting videos. That means channels where content is only slightly different from video to video are not allowed to monetize. In other words, your channel shouldn’t have content that appears to be produced using a template and can be repeated at scale.
 
 Examples of what’s not allowed to monetize (this list is not exhaustive):
 
 *   Content that exclusively features readings of other materials you did not originally create, like text from websites or news feeds
 *   Songs modified to change the pitch or speed, but are otherwise identical to the original song
 *   Similar repetitive content with low educational value, commentary, narratives, or minimal variation across videos
-*   Mass-produced content using a similar template across multiple videos
-*   Image slideshows or scrolling text with minimal or no narrative, commentary, or educational value
+*   Mass-produced content using a similar or unoriginal template across multiple videos
+*   Image slideshows, templated storylines, or scrolling text with minimal or no narrative, commentary, or educational value
+*   AI-generated content made with generic templates giving the impression of mass production without adding the creator’s original, authentic insights or perspective 
 
 ### Reused content
 
@@ -126,7 +127,7 @@ Our aim is to provide kids and families with a safe and enriching experience on 
 
 If your channel has ["made for kids” content](https://support.google.com/youtube/answer/9528076), we’ll use YouTube’s [quality principles for kids and family content](https://support.google.com/youtube/answer/10774223) to determine the monetization status of that content.
 
-If a channel is found to have a strong focus on low-quality “made for kids” content, it may be [suspended](https://support.google.com/youtube/answer/1727191#ypp-participation-suspended) from the YouTube Partner Program. If an individual video is found to violate these quality principles, it may see [limited or no ads](https://support.google.com/youtube/answer/9208564).
+If a channel is found to have a strong focus on low-quality “made for kids” content, it may be [suspended](https://support.google.com/youtube/answer/1727191#ypp-participation-suspended) from the YouTube Partner Program. If an individual video is found to violate these quality principles, it may see [limited ad earnings or no ad earnings](https://support.google.com/youtube/answer/9208564).
 
 When checking to see if your “made for kids” content is of low or high quality, nuances and context are important. Visit our [best practices for kids and family content](https://support.google.com/youtube/answer/10774223) page for guides and examples.
 
@@ -194,12 +195,12 @@ If your channel is [terminated](https://support.google.com/youtube/answer/280216
 
 We’ll inform you in writing by email or in product when we have to enforce our policies. We will also let you know what options are available to you.
 
-Limit ad revenue from your videos
----------------------------------
+Limit ad earnings from your videos
+----------------------------------
 
-As a member of the YouTube Partner Program, you can make your videos eligible to earn ad revenue if they meet our [advertiser-friendly content guidelines](https://support.google.com/youtube/answer/6162278). However, if your videos are found to not meet our advertiser-friendly guidelines, or if they violate other policies, such as our [age restriction](https://support.google.com/youtube/answer/2802167) or [copyright guidelines](https://support.google.com/youtube/answer/2797466), your videos may earn limited or no ad revenue.
+As a member of the YouTube Partner Program, you can make your videos eligible to earn ad revenue if they meet our [advertiser-friendly content guidelines](https://support.google.com/youtube/answer/6162278). However, if your videos are found to not meet our advertiser-friendly guidelines, or if they violate other policies, such as our [age restriction](https://support.google.com/youtube/answer/2802167) or [copyright guidelines](https://support.google.com/youtube/answer/2797466), your videos may have limited ad earnings or no ad earnings.
 
-For more information about reasons why content may not be eligible for monetization, see: [Monetization icon guide for YouTube Studio](https://support.google.com/youtube/answer/9208564)
+For more information about reasons why content may not be eligible for monetization, see: [Understand your Content tab & manage notices on your video content](https://support.google.com/youtube/answer/9208564).
 
 Suspend your participation in the YouTube Partner Program
 
@@ -237,6 +238,8 @@ Whether you're facing a specific problem or you want to find out how to get the 
 *   Troubleshoot and fix bugs or issues with your account
 
 You can find more detailed instructions to [contact Creator Support](https://support.google.com/youtube/answer/3545535) and how to [get help as a YouTube Creator](https://support.google.com/youtube/answer/6249136).
+
+If you are a business user based in the European Union or the United Kingdom, you may also be able to resolve issues through mediation. [Find out more about how to request mediation here](http://g.co/help/mediation).
 
 - - -
 
@@ -473,7 +476,7 @@ The Virtual Items Module is available to eligible creators in the YouTube Partne
 
 Virtual Items include these features:
 
-*   **Jewels:** A digital item that your fans can buy to unlock and send gifts on your vertical live streams.
+*   **Jewels:** A digital item that your fans can buy to unlock and send gifts on your vertical live streams. Jewels can also be used to hype videos in [eligible regions](https://support.google.com/youtube/answer/15333704#hype-with-jewels-availability).
 *   **Gifts:** A digital item that fans can send on vertical live streams unlocked by purchasing Jewels. Gifts appear as an overlay on top of vertical live streams and let viewers react and show appreciation in real-time. When your fans use their Jewels to send gifts, you earn Rubies.
 *   **Rubies:** A digital item that represents your earnings when your fans send gifts on your live streams. Your earnings from Rubies will be paid to you with your other YouTube Partner Program earnings.
 
@@ -533,7 +536,6 @@ Virtual Items aren't available on the following types of live streams:
 *   Is age-restricted or [made for kids](https://support.google.com/youtube/topic/9689353)
 *   Is unlisted or private
 *   When live chat is turned off
-*   Horizontal live streams
 *   On YouTube Giving fundraisers
 
 How revenue works for Virtual Items
@@ -547,91 +549,13 @@ Here’s how you earn revenue from Virtual Items on YouTube:
 
 You can view the number of Rubies you’ve earned during live streams and the associated [revenue in YouTube Analytics](https://support.google.com/youtube/answer/9314488).
 
-The Virtual Items Module is available to eligible creators in the YouTube Partner Program (YPP) who want to unlock Virtual Items features. Enabling Virtual Items can help you to build a community, engage with fans and earn money or other benefits.
-
-Virtual Items include these features:
-
-*   **Jewels:** A digital item that your fans can buy to unlock and send gifts on your vertical live streams.
-*   **Gifts:** A digital item that fans can send on vertical live streams, unlocked by purchasing Jewels. Gifts appear as an overlay on top of vertical live streams and let viewers react and show appreciation in real-time. When your fans use their Jewels to send gifts, you earn Rubies.
-*   **Rubies:** A digital item that represents the amount of gifts your fans have sent you on your live streams. Any earnings from Rubies will be paid to you with your other YouTube Partner Program earnings.
-
-Policies that apply to Virtual Items monetisation
--------------------------------------------------
-
-If you’re monetising on YouTube with Virtual Items, your channel must comply with the Virtual Items Module–which applies to these features–and follow the [YouTube Channel Monetisation Policies](https://support.google.com/youtube/answer/1311392), which include the:
-
-*   [YouTube Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/)
-*   [YouTube Terms of Service](https://www.youtube.com/static?template=terms)
-*   [YouTube copyright and fair use policies](https://www.youtube.com/howyoutubeworks/policies/copyright/#support-and-troubleshooting)
-*   [Google AdSense Program Policies](https://support.google.com/adsense/answer/48182?ctx=checklist)
-
-You must also continue to comply with all applicable laws, as required by YouTube’s [Terms of Service](https://www.youtube.com/static?template=terms). This includes whether or not you can turn on, offer and get money from Virtual Items. Virtual Items are not crowdfunding, donation or tipping tools.
-
-### Incentives
-
-We may offer Incentives from time to time. Check [here](https://support.google.com/youtube/answer/15536109) for more info.
-
-### Termination
-
-If your access to Virtual Items features is terminated and you want to remove any particular content made available in connection with Virtual Items, you must remove it. YouTube is not responsible for removing or otherwise limiting access to any Virtual Items content upon termination.
-
-Minimum requirements for Virtual Items features
------------------------------------------------
-
-You must meet these minimum requirements to be eligible for the Virtual Items program:
-
-*   Your channel must be in the [YouTube Partner Program](https://support.google.com/youtube/answer/72851).
-*   Be at least 18 years old with a [verified AdSense account](https://support.google.com/adsense/answer/7568896) or other form of age verification accepted by Google.
-    
-    **Note:** If you do not see the Virtual Items Module, you may need to take action to be eligible. Reference the section below on how to verify your AdSense account.
-    
-*   You must live in a [country or region where the individual Virtual Items are available](https://support.google.com/youtube/answer/15535963#availability).
-
-### Verifying Your AdSense Account
-
-To earn money from Virtual items on YouTube, you need to be at least 18 years old and have a verified AdSense account. Creators who have not gone through the AdSense ID verification process will be notified to do so when you attempt to enable gifts.
-
-If you do not see this notification or do not have a verified AdSense account, you can contact Creator Support to trigger [AdSense identity verification](https://support.google.com/adsense/answer/7568896) (IDV).
-
-To check whether your AdSense account is verified, follow these steps:
-
-Sign in to the AdSense account associated with your channel and select **Payments** then **Verification** **check**.
-
-*   If you see 'Identity verification' marked as 'Completed', then your AdSense account has been verified.
-*   If you do not see 'Identity verification' listed and you meet the minimum requirements listed above, contact Creator Support to trigger AdSense IDV.
-
-**Note:** You have 45 days from the date on which AdSense first asked you to verify your identity to submit the required documents in your account. After 45 days, if you haven't provided the documents or AdSense is still unable to verify your identity from the documents that you have provided, monetisation will be paused on your channel until it's complete.
-
-### Individual live stream requirements for Virtual Items
-
-All content in live streams must adhere to our [live stream policies](https://support.google.com/youtube/answer/2474026).
-
-Virtual Items aren't available on the following types of live streams:
-
-*   Age-restricted or [Made for Kids](https://support.google.com/youtube/topic/9689353)
-*   Unlisted or private
-*   When live chat is turned off
-*   Horizontal live streams
-*   YouTube Giving fundraisers
-
-How revenue works for Virtual Items
------------------------------------
-
-Here’s how you earn revenue from Virtual Items on YouTube:
-
-1.  **A viewer who has purchased Jewels redeems some of their Jewels for gifts during your live stream.** A viewer wants to show appreciation and interact in real time, so they redeem some of their Jewels to send gifts during the live stream. The gifts help you to engage with your fans in real time and build excitement during the live stream.
-2.  **Google allocates Rubies to you based on the live stream.** Rubies are part of YouTube’s unique model that empowers creators to earn money on our platform in a variety of different ways. Over the last few years, we've introduced several alternate sources of revenue outside of advertising to help eligible creators while connecting with their viewers, with Jewels serving as part of that. You can view an estimation of how many Rubies you've earned, applying our current conversion formula, from gifts during your live stream and when it ends. Currently, every two Jewels redeemed for gifts will earn you one Ruby.
-3.  **The Rubies that you've earned during the live stream represent your revenue.** We will calculate your net revenue by multiplying the number of Rubies you earned by the revenue that we pay per Ruby, which is $0.01.
-
-You can view the number of Rubies that you've earned during live streams and the associated revenue [in YouTube Analytics](https://support.google.com/youtube/answer/9314488).
-
 Learn more about Virtual Items on YouTube
 -----------------------------------------
 
 Who can buy Jewels and send gifts?
 ----------------------------------
 
-Signed-in viewers who meet the [requirements for virtual items](https://support.google.com/youtube/answer/15427201#minimum-requirements-virtual-items) can purchase Jewels and send gifts to eligible creators during a vertical live stream in the YouTube mobile app.
+Signed-in viewers who meet the [requirements for virtual items](https://support.google.com/youtube/answer/15427201#minimum-requirements-virtual-items) can purchase Jewels and send gifts to eligible creators during a live stream in the YouTube mobile app.
 
 Which creators can earn from gifts?
 -----------------------------------
@@ -641,7 +565,7 @@ Creators in an [eligible country](https://support.google.com/youtube/answer/1553
 Should I verify my identity to get access to Virtual Items?
 -----------------------------------------------------------
 
-Yes, to earn money from Virtual Items on vertical live streams, eligible creators need to meet the [requirements for virtual items](https://support.google.com/youtube/answer/15427201#minimum-requirements-virtual-items) and have a verified AdSense account. Creators who have not gone through the ID verification process on AdSense will be prompted to do so. [Learn more](https://support.google.com/youtube/answer/16549064).
+Yes, to earn money from Virtual Items on live streams, eligible creators need to meet the [requirements for virtual items](https://support.google.com/youtube/answer/15427201#minimum-requirements-virtual-items) and have a verified AdSense account. Creators who have not gone through the ID verification process on AdSense will be prompted to do so. [Learn more](https://support.google.com/youtube/answer/16549064).
 
 Are vertical live streams using third-party streaming services eligible for gifts?
 ----------------------------------------------------------------------------------
