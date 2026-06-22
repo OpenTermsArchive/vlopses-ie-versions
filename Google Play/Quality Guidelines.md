@@ -179,11 +179,6 @@ Albania, Andorra, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, C
 
 Learn more on the [PEGI website](http://www.pegi.info/)
 
-Locations
----------
-
-Austria, Belgium, Bulgaria, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Greece, Hungary, Iceland, Ireland, Israel, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovak Republic, Slovenia, Spain, Sweden, Switzerland and United Kingdom
-
 Unterhaltungssoftware Selbstkontrolle (USK) – Germany
 
 Ratings in Germany are maintained by Unterhaltungssoftware Selbstkontrolle (USK).
