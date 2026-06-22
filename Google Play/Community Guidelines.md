@@ -32,7 +32,7 @@ Guidelines for writing a good review
 *   Keep it readable; check grammar and spelling, and don't use excessive capitalization and punctuation.
 *   Be nice to others.
 
-Google Play's policies for ratings and reviews are below. Reviews that don't follow these policies will be removed, and anyone who repeatedly or egregiously violates them may lose the ability to post reviews on Google Play.
+Google Play's policies for ratings and reviews are below. Reviews and comments that are offensive or violate these policies will be removed through a combination of automated and human review, and anyone who repeatedly or egregiously violates them may lose the ability to post on the Play store.
 
 Spam and fake reviews
 ---------------------
@@ -51,7 +51,7 @@ Off-topic reviews
 
 Keep reviews on-topic and relevant to the content, service, or experience you're reviewing.
 
-*   Don't post solicitations, political or social commentary, or anything else that is irrelevant to the content, service, or experience you're reviewing.
+*   Don't post solicitations, political or social commentary, or anything else that is irrelevant to the content, service, or core of the consumer experience you're reviewing.
 
 Advertising
 -----------
