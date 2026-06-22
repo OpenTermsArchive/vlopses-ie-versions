@@ -21,16 +21,16 @@ CONTENTS
 
 Click on the links below to go to a specific section of this Policy.
 
-*   [**1\. How We Process Your Personal Data >**](linkto:#ps-t1)​
-*   [**2\. Sharing Your Personal Data >**](linkto:#ps-t2)​
-*   [**3\. Cookies, Interest-Based Advertising, Ad Choices >**](linkto:#ps-t3)​
-*   [**4\. Security Precautions >**](linkto:#ps-t4)​
-*   [**5\. Your Rights >**](linkto:#ps-t5)​
-*   [**6\. Retention >**](linkto:#ps-t6)​
-*   [**7\. Third-Party Websites >**](linkto:#ps-t7)​
-*   [**8\. Children >**](linkto:#ps-t8)​
-*   [**9\. Transfer of Your Personal Data >**](linkto:#ps-t9)​
-*   [**10\. Contact Us >**](linkto:#ps-t10)​
+*   **1\. How We Process Your Personal Data >**
+*   **2\. Sharing Your Personal Data >**
+*   **3\. Cookies, Interest-Based Advertising, Ad Choices >**
+*   **4\. Security Precautions >**
+*   **5\. Your Rights >**
+*   **6\. Retention >**
+*   **7\. Third-Party Websites >**
+*   **8\. Children >**
+*   **9\. Transfer of Your Personal Data >**
+*   **10\. Contact Us >**
 
 **1\. How We Process Your Personal Data**
 -----------------------------------------
