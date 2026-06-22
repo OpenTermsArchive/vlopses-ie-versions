@@ -1,396 +1,398 @@
-YouTube Data Processing Terms
-=============================
+Όροι Επεξεργασίας Δεδομένων YouTube
+===================================
 
-#### Effective as of November 24, 2020 ([view previous version](https://www.youtube.com/t/terms_dataprocessing?archive=20200131))
+#### Σε ισχύ από τις 24 Νοεμβρίου 2020 ([δείτε την προηγούμενη έκδοση](https://www.youtube.com/t/terms_dataprocessing?archive=20200131))
 
-We have updated our YouTube Data Processing Terms on November 24 2020 to address a recent ruling of the Court of Justice of the European Union on data transfers.
+Ενημερώσαμε τους Όρους Επεξεργασίας Δεδομένων στις 24 Νοεμβρίου 2020 για να εξετάσουμε μια πρόσφατη απόφαση του Δικαστηρίου της Ευρωπαϊκής Ένωσης σχετικά με τις διαβιβάσεις δεδομένων.
 
-These YouTube Data Processing Terms (including the appendices, “**Data Processing Terms**”) will apply to the processing of Customer Personal Data. These terms serve as an addendum to the agreement between you (“**Customer**”) and Google regarding your use of the YouTube service (“**Agreement**”). Such Agreement may include the YouTube Terms of Service or a content license agreement, as applicable to Customer. Please take the time to read these Data Processing Terms carefully.
+Οι παρόντες Όροι Επεξεργασίας Δεδομένων YouTube (συμπεριλαμβανομένων των παραρτημάτων, «**Όροι Επεξεργασίας Δεδομένων**») θα ισχύουν για την επεξεργασία των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη. Οι όροι αυτοί αποτελούν συμπλήρωμα στη συμφωνία ανάμεσα σε εσάς («**Πελάτης**») και στην Google όσον αφορά τη χρήση της υπηρεσίας YouTube από εσάς («**Συμφωνία**»). Η Συμφωνία αυτή μπορεί να περιλαμβάνει τους Όρους Χρήσης Υπηρεσίας YouTube ή μια σύμβαση παραχώρησης άδειας χρήσης περιεχομένου, όπως ισχύει για τον Πελάτη. Παρακαλούμε να αφιερώσετε χρόνο στην προσεκτική ανάγνωση αυτών των Όρων Επεξεργασίας Δεδομένων.
 
-### 1\. **Introduction**
+### 1\. **Εισαγωγή**
 
-These Data Processing Terms reflect the parties’ agreement on the terms governing the processing and security of Customer Personal Data in connection with the European Data Protection Legislation.
+Οι παρόντες Όροι Επεξεργασίας Δεδομένων αποτυπώνουν τη συμφωνία των μερών σχετικά με τους όρους που διέπουν την επεξεργασία και ασφάλεια των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη σε σχέση με την Ευρωπαϊκή Νομοθεσία για την Προστασία Δεδομένων.
 
-### 2\. **Definitions and Interpretation**
+### 2\. **Ορισμοί και Ερμηνεία**
 
-2.1 In these Data Processing Terms:
+2.1 Στους παρόντες Όρους Επεξεργασίας Δεδομένων:
 
-“**Affiliate,**” if not already defined in the Agreement, means an entity that directly or indirectly controls, is controlled by, or is under common control with, a party.
+ως «**Συνδεδεμένη εταιρία**», εάν δεν έχει ήδη οριστεί στη Συμφωνία, νοείται οποιαδήποτε οντότητα που άμεσα ή έμμεσα ελέγχει, ελέγχεται από, ή τελεί υπό κοινό έλεγχο με, ένα μέρος·
 
-“**Customer** **Personal** **Data**” means audio and audiovisual content that is uploaded by Customer to YouTube under the terms of the Agreement and processed by Google on behalf of Customer in Google’s provision of the Processor Services.
+ως «**Δεδομένα Προσωπικού Χαρακτήρα Πελάτη**» νοείται το ηχητικό και οπτικοακουστικό περιεχόμενο που μεταφορτώνεται (upload) από τον Πελάτη στο YouTube σύμφωνα με τους όρους της Συμφωνίας και το οποίο επεξεργάζεται η Google για λογαριασμό του Πελάτη κατά την παροχή των Υπηρεσιών Εκτελούντος την Επεξεργασία από την Google·
 
-“**Data Incident**” means a breach of Google’s security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, Customer Personal Data on systems managed by or otherwise controlled by Google.  “Data Incidents” will not include unsuccessful attempts or activities that do not compromise the security of Customer Personal Data, including unsuccessful log-in attempts, pings, port scans, denial of service attacks, and other network attacks on firewalls or networked systems.
+ως «**Περιστατικό Δεδομένων**» νοείται η παραβίαση της ασφάλειας της Google που οδηγεί στην τυχαία ή παράνομη καταστροφή, απώλεια, τροποποίηση, μη εξουσιοδοτημένη αποκάλυψη ή πρόσβαση στα Δεδομένα Προσωπικού Χαρακτήρα Πελάτη σε συστήματα που διαχειρίζεται ή με άλλο τρόπο ελέγχει η Google.  Τα «Περιστατικά Δεδομένων» δεν θα περιλαμβάνουν ανεπιτυχείς απόπειρες ή δραστηριότητες που δεν θέτουν σε κίνδυνο την ασφάλεια των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη, συμπεριλαμβανομένων ανεπιτυχών αποπειρών σύνδεσης (log-in), «pings», ανίχνευσης θυρών, επιθέσεων άρνησης παροχής υπηρεσίας, και άλλων επιθέσεων δικτύου σε τείχη προστασίας (firewalls) ή δικτυωμένα συστήματα·
 
-“**Data Subject Tool**” means a tool (if any) made available by Google to data subjects that enables Google to respond directly and in a standardised manner to certain requests from data subjects in relation to Customer Personal Data (for example, online advertising settings or an opt-out browser plugin).
+ως «**Εργαλείο Υποκειμένων Δεδομένων**» νοείται ένα εργαλείο (αν υπάρχει) που διατίθεται από την Google στα υποκείμενα δεδομένων και το οποίο επιτρέπει στην Google να ανταποκριθεί με άμεσο και τυποποιημένο τρόπο σε ορισμένα αιτήματα των υποκειμένων δεδομένων σε σχέση με τα Δεδομένα Προσωπικού Χαρακτήρα Πελάτη (για παράδειγμα, ρυθμίσεις ηλεκτρονικής διαφήμισης ή ένα plugin εξαίρεσης του προγράμματος περιήγησης (opt-out browser plugin)·
 
-“**EEA**” means the European Economic Area.
+ως «**ΕΟΧ**» νοείται ο Ευρωπαϊκός Οικονομικός Χώρος·
 
-“**EU** **GDPR**” means Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC.
+ως «**GDPR EE**» νοείται ο κανονισμός (ΕΕ) 2016/679 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου, της 27ης Απριλίου 2016, για την προστασία των φυσικών προσώπων έναντι της επεξεργασίας δεδομένων προσωπικού χαρακτήρα και για την ελεύθερη κυκλοφορία των δεδομένων αυτών και την κατάργηση της  Οδηγίας 95/46/ΕΚ·
 
-“**European Data Protection Legislation**” means, as applicable: (a) the GDPR; (b) the Federal Data Protection Act of 19 June 1992 (Switzerland); (c) the Brazilian Data Protection General Law (Law No. 13709/2018); and/or (d) any other applicable data protection laws or regulations modeled on the General Data Protection Regulation.
+ως «**Νομοθεσία για την Προστασία Δεδομένων**» νοείται, κατά περίπτωση: α) ο Γενικός Κανονισμός για την Προστασία Δεδομένων (GDPR)· β) ο Ομοσπονδιακός Νόμος σχετικά με την Προστασία Δεδομένων της 19ης Ιουνίου 1992 (Ελβετία)· γ) ο Γενικός Νόμος για την Προστασία Δεδομένων της Βραζιλίας (νόμος 13709/2018) · και / ή (δ) οποιοιδήποτε άλλοι ισχύοντες νόμοι ή κανονισμοί για την προστασία δεδομένων βασισμένοι στο Γενικό Κανονισμό για την Προστασία Δεδομένων.
 
-**“European or National Laws”** means, as applicable: (a) EU or EU Member State law (if the EU GDPR applies to the processing of Customer Personal Data); and/or (b) the law of the UK or a part of the UK (if the UK GDPR applies to the processing of Customer Personal Data).
+ως «**η Ευρωπαϊκή ή Εθνική νομοθεσία»** νοείται, κατά περίπτωση: (α) νομοθεσία της ΕΕ ή κράτους μέλος της ΕΕ (εάν ο GDPR ΕΕ ισχύει για την επεξεργασια Δεδομένων Προσωπικού Χαρακτήρα
 
-**“GDPR”** means, as applicable: (a) the EU GDPR; and/or (b) the UK GDPR.
+Πελάτη), ή/και (β) η νομοθεσία του Ηνωμένου Βασιλείου ή τμήματος του Ηνωμένου Βασιλείου (εάν ο GDPR ΗΒ ισχύει για την επεξεργασία Δεδομένων Προσωπικού Χαρακτήρα Πελάτη).
 
-“**Google**” means the Google Entity that is party to your Agreement.
+ως **«GDPR»** νοείται, κατά περίπτωση: (α) ο GDPR ΕΕ, ή/και (β) ο GDPR ΗΒ.
 
-“**Google** **Affiliate Subprocessors**” has the meaning given in Section 11.1 (Consent to Subprocessor Engagement).
+ως «**Google**» νοείται η Οντότητα Google που είναι συμβαλλόμενο μέρος της Συμφωνίας σας·
 
-“**Google Entity**” means Google LLC (formerly known as Google Inc.), Google Ireland Limited, YouTube, LLC or any other Affiliate of Google LLC.
+ο όρος «**Συνδεδεμένες Εταιρείες Google ως Υπεργολάβοι Επεξεργασίας**» έχει την έννοια που ορίζεται στην Ενότητα 11.1 (Συγκατάθεση για την Πρόσληψη των Υπεργολάβων Επεξεργασίας)·
 
-“**ISO 27001 Certification**” means ISO/IEC 27001:2013 certification or a comparable certification for the Processor Services.
+ως «**Οντότητα Google**» νοείται η  Google LLC (πρώην Google Inc.), η  Google Ireland Limited, η  YouTube LLC, ή οποιαδήποτε άλλη Συνδεδεμένη Εταιρεία της Google LLC·
 
-“**Notification Email Address**” means the email address (if any) designated by Customer, via the user interface of the Processor Services or such other means provided by Google, to receive certain notifications from Google relating to these Data Processing Terms.
+ως «**Πιστοποίηση ISO 27001**» νοείται η πιστοποίηση ISO/IEC 27001:2013 ή ανάλογη πιστοποίηση για τις Υπηρεσίες Εκτελούντος την Επεξεργασία·
 
-“**Processor Services**” means the processing of Customer Personal Data in accordance with these Data Processing Terms.  
+ως «**Διεύθυνση email γνωστοποίησης**» νοείται η διεύθυνση email (αν υπάρχει) που ορίζει ο Πελάτης, μέσω της του περιβάλλοντος χρήστη των Υπηρεσιών Εκτελούντος την Επεξεργασία ή άλλων μέσων που παρέχονται από την Google, για τη λήψη ορισμένων γνωστοποιήσεων από την Google σε σχέση με τους παρόντες Όρους Επεξεργασίας Δεδομένων·
 
-“**Security Documentation**” means the certificate issued for the ISO 27001 Certification, if any, and any other security certifications or documentation that Google may make available in respect of the Processor Services.
+ως «**Υπηρεσίες Εκτελούντος την Επεξεργασία**» νοείται η επεξεργασία Δεδομένων Προσωπικού Χαρακτήρα Πελάτη σύμφωνα με τους παρόντες Όρους Επεξεργασίας Δεδομένων·  
 
-“**Security Measures**” has the meaning given in Section 7.1.1 (Google’s Security Measures).
+ως «**Τεκμηρίωση Ασφαλείας**» νοείται το πιστοποιητικό που έχει εκδοθεί για την Πιστοποίηση ISO 27001, αν υπάρχει, και τυχόν άλλες πιστοποιήσεις ασφαλείας ή τεκμηρίωση που μπορεί η Google να θέσει στη διάθεση των Υπηρεσιών Εκτελούντος την Επεξεργασία·
 
-“**Standard Contractual Clauses**” means the European Commission’s standard contractual clauses at [](https://privacy.google.com/businesses/gdprprocessorterms/sccs/)[https://privacy.google.com/businesses/gdprprocessorterms/sccs/](https://privacy.google.com/businesses/gdprprocessorterms/sccs/), which are standard data protection terms for the transfer of personal data to processors established in third countries that do not ensure an adequate level of data protection, as described in Article 46 of the EU GDPR.
+ο όρος «**Μέτρα Ασφαλείας**» έχει την έννοια που ορίζεται στην Ενότητα 7.1.1 (Μέτρα Ασφαλείας της Google)·
 
-“**Subprocessors**” means third parties authorised under these Data Processing Terms to have logical access to and process Customer Personal Data in order to provide parts of the Processor Services and any related technical support.
+ως «**Τυποποιημένες Συμβατικές Ρήτρες**» νοούνται οι τυποποιημένες συμβατικές ρήτρες της Ευρωπαϊκής Επιτροπής στη διεύθυνση [https://privacy.google.com/businesses/gdprprocessorterms/sccs/](https://privacy.google.com/businesses/gdprprocessorterms/sccs/), οι οποίες αποτελούν τυπικούς όρους προστασίας δεδομένων για τη μεταφορά προσωπικών δεδομένων σε εκτελούντες την επεξεργασία εγκατεστημένους σε τρίτες χώρες, οι οποίες δεν εξασφαλίζουν επαρκές επίπεδο προστασίας των δεδομένων, όπως περιγράφεται στο άρθρο 46 του GDPR EE.
 
-**“Supervisory Authority”** means, as applicable: (a) a “supervisory authority” as defined in the EU GDPR; and/or (b) the “Commissioner” as defined in the UK GDPR.
+ως «**Υπεργολάβοι Επεξεργασίας**» νοούνται τρίτοι οι οποίοι εξουσιοδοτούνται βάσει των παρόντων Όρων Επεξεργασίας Δεδομένων να έχουν λογική πρόσβαση και να επεξεργάζονται Δεδομένα Προσωπικού Χαρακτήρα Πελάτη προκειμένου να παρέχουν τμήματα των Υπηρεσιών Εκτελούντος την Επεξεργασία και τυχόν σχετική τεχνική υποστήριξη·
 
-“**Third Party Subprocessors**” has the meaning given in Section 11.1 (Consent to Subprocessor Engagement).
+ως **«Εποπτική Αρχή»** νοείται, κατα περίπτωση: (α) η “εποπτική αρχή” όπως ορίζεται στο GDPR ΕΕ, ή/και (β) ο «Επίτροπος» όπως ορίζεται στο GDPR ΗΒ.
 
-**“UK GDPR”** means the EU GDPR as amended and incorporated into UK law under the UK European Union (Withdrawal) Act 2018, if in force
+ο όρος «**Τρίτοι Υπεργολάβοι Επεξεργασίας** » έχει την έννοια που ορίζεται στην Ενότητα 11.1 (Συγκατάθεση για την Πρόσληψη των Υπεργολάβων Επεξεργασίας)·
 
-2.2 The terms “**controller**”, “**data subject**”, “**personal data**”, “**processing**” and “**processor**” as used in these Data Processing Terms have the meanings given in the GDPR, and the terms “**data importer**” and “**data exporter**” have the meanings given in the Standard Contractual Clauses.
+ως «**GDPR ΗΒ**» νοείται το GDPR ΕΕ όπως τροποποιήθηκε και ενσωματώθηκε στη νομοθεσία του Ηνωμἐνου Βασιλείου σύμφωνα με την πράξη 2018 (γνωστοποίηση αποχώρησης) μεταξύ της Ευρωπαϊκής Ένωσης και του ΗΒ, εάν ισχύει.
 
-2.3 Any reference to a legal framework, statute or other legislative enactment is a reference to it as amended or re-enacted from time to time.
+2.2 Οι όροι «**υπεύθυνος επεξεργασίας**», «**υποκείμενο δεδομένων**», «**δεδομένα προσωπικού χαρακτήρα**», «**επεξεργασία**» και «**εκτελών την επεξεργασία**», όπως χρησιμοποιούνται στους παρόντες Όρους Επεξεργασίας Δεδομένων έχουν την έννοια που ορίζεται στο GDPR, και οι όροι «εισαγωγέας δεδομένων» και «εξαγωγέας δεδομένων» έχουν τις έννοιες που δίνονται στις Τυποποιημένες Συμβατικές Ρήτρες.
 
-2.4 If these Data Processing Terms are translated into any other language, and there is a discrepancy between the English text and the translated text, the English text will govern.
+2.3 Οποιαδήποτε παραπομπή σε νομικό πλαίσιο, νομοθετική πράξη ή άλλη νομοθετική διάταξη αποτελεί παραπομπή σε αυτά όπως τροποποιούνται ή θεσπίζονται εκ νέου κατά καιρούς.
 
-### 3\. **Duration of these Data Processing** **Terms**
+2.4 Εάν οι παρόντες Όροι Επεξεργασίας Δεδομένων μεταφραστούν σε οποιαδήποτε άλλη γλώσσα και υπάρχει ασυμφωνία μεταξύ του αγγλικού κειμένου και του μεταφρασμένου κειμένου, το αγγλικό κείμενο θα επικρατήσει.
 
-The term (“**Term**”) of these Data Processing Terms, and Google’s provision of the Processor Services, will begin on May 25, 2018 (or the date of the Agreement if after May 25, 2018) (“**Terms Effective Date**”) and will continue until deletion of all Customer Personal Data by Google as described in these Data Processing Terms. 
+### 3\. **Διάρκεια των παρόντων Όρων Επεξεργασίας Δεδομένων**
 
-### 4\. **Application of these Data Processing Terms**
+Η διάρκεια ισχύος («**Διάρκεια**») των παρόντων Όρων Επεξεργασίας Δεδομένων και η παροχή από την Google των Υπηρεσιών Εκτελούντος την Επεξεργασία, θα ξεκινήσει στις 25 Μαΐου 2018 (ή την ημερομηνία της Συμφωνίας αν είναι μεταγενέστερη της 25ης Μαΐου 2018) («**Ημερομηνία Έναρξης Ισχύος Όρων**») και θα συνεχιστεί έως τη διαγραφή του συνόλου των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη από την Google όπως περιγράφεται στους παρόντες Όρους Επεξεργασίας Δεδομένων.
 
-4.1 **Application of European** **Data Protection Legislation.**  These Data Processing Terms  will only apply to the extent that the European Data Protection Legislation applies to the processing of Customer Personal Data, including if: 
+### 4\. **Εφαρμογή των παρόντων Όρων Επεξεργασίας Δεδομένων**
 
-(a) the processing is in the context of the activities of an establishment of Customer in the EEA or the UK; and/or
+4.1. **Εφαρμογή της Ευρωπαϊκής Νομοθεσίας για την Προστασία Δεδομένων.**  Οι παρόντες Όροι Επεξεργασίας Δεδομένων θα ισχύουν μόνο στο βαθμό που η Ευρωπαϊκή Νομοθεσία για την Προστασία Δεδομένων ισχύει για την επεξεργασία των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη, μεταξύ άλλων αν:
 
-(b) Customer Personal Data is personal data relating to data subjects who are in the EEA or the UK and the processing relates to the offering to them of goods or services or the monitoring of their behaviour in the EEA or the UK.
+(α) η επεξεργασία πραγματοποιείται στο πλαίσιο των δραστηριοτήτων μιας εγκατάστασης του Πελάτη στον ΕΟΧ ή στο ΗΒ· ή
 
-### 5\. **Processing of Data**
+(β) Τα Δεδομένα Προσωπικού Χαρακτήρα Πελάτη είναι δεδομένα προσωπικού χαρακτήρα σε σχέση με υποκείμενα δεδομένων που είναι εγκατεστημένα στον ΕΟΧ ή στο ΗΒ και η επεξεργασία αφορά την προσφορά σε αυτά προϊόντων ή υπηρεσιών ή την παρακολούθηση της συμπεριφοράς τους εντός του ΕΟΧ ή του ΗΒ.
 
-5.1 **Roles and Regulatory** **Compliance; Authorisation.**
+### 5\. **Επεξεργασία Δεδομένων**
 
-5.1.1 **Processor and Controller Responsibilities.**  
+5.1 **Ρόλοι και Ρυθμιστική Συμμόρφωση· Εξουσιοδότηση.**
 
-(a) These Data Processing Terms describe the subject matter and details of the processing of Customer Personal Data;
+5.1.1 **Ευθύνες Εκτελούντα την Επεξεργασία και Υπεύθυνου Επεξεργασίας**  
 
-(b) Google is a processor of Customer Personal Data under the Data Protection Legislation;
+(α) Οι παρόντες Όροι Επεξεργασίας Δεδομένων περιγράφουν το αντικείμενο και τις λεπτομέρειες της επεξεργασίας των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη·
 
-(c) Customer is a controller or processor, as applicable, of Customer Personal Data under the Data Protection Legislation; and
+(β) Η Google είναι η εκτελούσα την επεξεργασία των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη σύμφωνα με τη Νομοθεσία για την Προστασία Δεδομένων·
 
-(d) each party will comply with the obligations applicable to it under the Data Protection Legislation with respect to the processing of Customer Personal Data.
+(γ) Ο Πελάτης είναι ο υπεύθυνος επεξεργασίας ή ο εκτελών την επεξεργασία, κατά περίπτωση, των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη σύμφωνα με τη Νομοθεσία για την Προστασία Δεδομένων· και
 
-5.1.2 **Authorisation by Third Party Controller.**  If Customer is a processor, Customer warrants to Google that Customer’s instructions and actions with respect to Customer Personal Data, including its appointment of Google as another processor, have been authorised by the relevant controller.
+(δ) έκαστο μέρος θα συμμορφώνεται με τις υποχρεώσεις που ισχύουν για αυτό βάσει της Νομοθεσίας για την Προστασία Δεδομένων όσον αφορά την επεξεργασία των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη.
 
-5.2 **Customer’s Instructions.**  Customer instructs Google to process Customer Personal Data only in accordance with applicable law and these Data Processing Terms: (a) to provide the Processor Services and any related technical support; (b) as further specified via Customer’s use of the Processor Services (including in the settings and other functionality of the Processor Services) and any related technical support; and (c) as documented in the form of the Agreement, including these Data Processing Terms. 
+5.1.2 **Εξουσιοδότηση από τον Τρίτο Υπεύθυνο Επεξεργασίας**.  Αν ο Πελάτης είναι εκτελών την επεξεργασία, ο Πελάτης εγγυάται στην Google ότι οι οδηγίες και ενέργειες του Πελάτη σχετικά με τα Δεδομένα Προσωπικού Χαρακτήρα Πελάτη, συμπεριλαμβανομένου του ορισμού από αυτόν της Google ως έτερης εκτελούσας την επεξεργασία, έχουν εξουσιοδοτηθεί από τον αρμόδιο υπεύθυνο επεξεργασίας.
 
-5.3 **Google’s Compliance with** **Instructions****.**  Google will comply with the instructions described in Section 5.2 (Customer’s Instructions) (including with regard to data transfers) unless European or National Laws to which Google is subject requires other processing of Customer Personal Data by Google, in which case Google will inform Customer (unless any such law prohibits Google from doing so on important grounds of public interest).
+5.2 **Οδηγίες του Πελάτη.**  Ο Πελάτης δίνει εντολή στην Google να επεξεργαστεί τα Δεδομένα Προσωπικού Χαρακτήρα Πελάτη μόνο σύμφωνα με την ισχύουσα νομοθεσία και τους παρόντες Όρους Επεξεργασίας Δεδομένων: (α) για την παροχή των Υπηρεσιών Εκτελούντος την Επεξεργασία και τυχόν σχετικής τεχνικής υποστήριξης· (β) όπως διευκρινίζεται περαιτέρω μέσω της χρήσης από τον Πελάτη των Υπηρεσιών Εκτελούντος την Επεξεργασία (μεταξύ άλλων στις ρυθμίσεις για άλλες λειτουργίες των Υπηρεσιών Επεξεργασίας) και τυχών σχετικής τεχνικής υποστήριξης· και γ) όπως τεκμηριώνεται με τη μορφή της Συμφωνίας, συμπεριλαμβανομένων των παρόντων Όρων Επεξεργασίας Δεδομένων.  
 
-### 6\. **Data Deletion**
+5.3        **Συμμόρφωση της Google με Οδηγίες.**  Η Google θα συμμορφώνεται με τις οδηγίες που περιγράφονται στην Ενότητα 5.2 (Οδηγίες του Πελάτη) (μεταξύ άλλων σε σχέση με τις διαβιβάσεις δεδομένων) εκτός αν η Ευρωπαϊκή ή Εθνική νομοθεσία στην  οποία  υπόκειται η Google απαιτεί διαφορετική επεξεργασία των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη από την Google· σε αυτήν την περίπτωση η Google θα ενημερώσει τον Πελάτη (εκτός αν η Google, σύμφωνα με οποιαδήποτε τέτοια  νομοθεσία, δεν επιτρέπεται να το πράξει για σημαντικούς λόγους δημοσίου συμφέροντος).
 
-6.1 **Deletion During Term****.** 
+### 6\. **Διαγραφή Δεδομένων**
 
-6.1.1 **Processor Services With Deletion Functionality.**  During the Term, if:
+6.1 **Διαγραφή κατά την περίοδο της Διάρκειας Ισχύος**  
 
-(a) the functionality of the Processor Services includes the option for Customer to delete Customer Personal Data;
+6.1.1 **Υπηρεσίες Εκτελούντος την Επεξεργασία με Λειτουργία Διαγραφής**.  Κατά την περίοδο της Διάρκειας Ισχύος, αν:
 
-(b) Customer uses the Processor Services to delete certain Customer Personal Data; and
+(α) η λειτουργία των Υπηρεσιών Εκτελούντος την Επεξεργασία περιλαμβάνει την επιλογή για τον Πελάτη να διαγράψει τα Δεδομένα Προσωπικού Χαρακτήρα Πελάτη·
 
-(c) the deleted Customer Personal Data cannot be recovered by Customer (for example, from the “trash”),
+(β) ο Πελάτης χρησιμοποιήσει τις Υπηρεσίες Εκτελούντος την Επεξεργασία για τη διαγραφή ορισμένων Δεδομένων Προσωπικού Χαρακτήρα Πελάτη·
 
-then Google will delete such Customer Personal Data from its systems as soon as reasonably practicable, unless European or National Laws require storage.
+(γ) τα διαγραμμένα Δεδομένα Προσωπικού Χαρακτήρα Πελάτη δεν μπορούν να ανακτηθούν από τον Πελάτη (για παράδειγμα από τον «κάδο ανακύκλωσης»)·
 
-6.1.2 **Processor Services Without Deletion Functionality.**  During the Term, if the functionality of the Processor Services does not include the option for Customer to delete Customer Personal Data, then Google will comply with any reasonable request from Customer to facilitate such deletion, insofar as this is possible taking into account the nature and functionality of the Processor Services and unless European or National Laws require storage. Google may charge a fee (based on Google’s reasonable costs) for any data deletion under this Section 6.1.2 (Processor Services Without Deletion Functionality).  Google will provide Customer with further details of any applicable fee, and the basis of its calculation, in advance of any such data deletion.
+τότε η Google θα διαγράψει τα εν λόγω Δεδομένα Προσωπικού Χαρακτήρα Πελάτη από τα συστήματά της το συντομότερο, εύλογα και πρακτικά, δυνατό, εκτός αν απαιτείται η αποθήκευση από την Ευρωπαϊκή ή Εθνική νομοθεσία.
 
-6.2 **Deletion on** **Agreement** **Expiry****.**  On expiry or termination of the Agreement, Customer instructs Google to delete all Customer Personal Data (including existing copies) from Google’s systems in accordance with applicable law.  Google will comply with this instruction as soon as reasonably practicable unless: (i) European or National Laws require storage; or (ii) the Agreement is superseded by a new agreement or terms between Customer and Google regarding Customer's use of the YouTube service and Customer confirms that the Customer Personal Data (including existing copies already uploaded to the YouTube Service) should continue to be processed in accordance with these Data Processing Terms.
+6.1.2 **Υπηρεσίες Εκτελούντος την Επεξεργασία χωρίς Λειτουργία Διαγραφής**. Κατά την περίοδο Διάρκειας Ισχύος, αν η λειτουργία των Υπηρεσιών Εκτελούντος την Επεξεργασία δεν περιλαμβάνει την επιλογή για τον Πελάτη να διαγράψει τα Δεδομένα Προσωπικού Χαρακτήρα Πελάτη, τότε η Google θα συμμορφωθεί με κάθε εύλογο αίτημα από τον Πελάτη για να διευκολύνει την εν λόγω διαγραφή, στο μέτρο που αυτό είναι δυνατό, λαμβάνοντας υπόψη τη φύση και τη λειτουργία των Υπηρεσιών Εκτελούντος την Επεξεργασία εκτός και εάν η Ευρωπαϊκή ή Εθνική νομοθεσία απαιτεί την αποθήκευση των δεδομένων. Η Google ενδέχεται να χρεώσει ένα τέλος (με βάση τα εύλογα έξοδα της Google) για οποιαδήποτε διαγραφή δεδομένων σύμφωνα με την παρούσα Ενότητα 6.1.2 (Υπηρεσίες Εκτελούντος την Επεξεργασία χωρίς Λειτουργία Διαγραφής).  Η Google θα παράσχει στον Πελάτη περαιτέρω λεπτομέρειες σχετικά με κάθε ισχύον τέλος, καθώς και τη βάση του υπολογισμού του, πριν από οποιαδήποτε σχετική διαγραφή δεδομένων.
 
-### 7\. **Data Security**
+6.2 **Διαγραφή κατά τη Λήξη Ισχύος της Συμφωνίας.**  Κατά τη λήξη ή καταγγελία της Συμφωνίας, ο Πελάτης δίνει εντολή στην Google να διαγράψει το σύνολο των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη (συμπεριλαμβανομένων υπαρχόντων αντιγράφων) από τα συστήματα της Google σύμφωνα με την ισχύουσα νομοθεσία.  Η Google θα συμμορφωθεί με την εν λόγω εντολή το ταχύτερο δυνατό εκτός εάν: (i) η Ευρωπαϊκή ή Εθνική νομοθεσία  απαιτεί την αποθήκευση των δεδομένων, ή (ii) η Συμφωνία έχει αντικατασταθεί από νέα συμφωνία ή όρους μεταξύ του Πελάτη και της Google όσον αφορά τη χρήση από τον Πελάτη της υπηρεσίας YouTube και ο Πελάτης επιβεβαιώνει ότι τα Δεδομένα Προσωπικού Χαρακτήρα Πελάτη (συμπεριλαμβανομένων υπαρχόντων αντιγράφων που έχουν ήδη μεταφορτωθεί (upload) στην Υπηρεσία YouTube) θα πρέπει να εξακολουθήσουν να υποβάλλονται σε επεξεργασία σύμφωνα με τους παρόντες Όρους Επεξεργασίας Δεδομένων.
 
-7.1 **Google’s Security Measures and Assistance.**
+### 7\. **Ασφάλεια Δεδομένων**
 
-7.1.1 **Google’s Security Measures.**  Google will implement and maintain technical and organisational measures to protect Customer Personal Data against accidental or unlawful destruction, loss, alteration, unauthorised disclosure or access as described in Appendix 2 (the “**Security Measures**”).  Google may update or modify the Security Measures from time to time, provided that such updates and modifications do not result in the degradation of the overall security of the Processor Services.  
+7.1 **Μέτρα Ασφαλείας και Παροχή Συνδρομής της Google**  
 
-7.1.2 **Security Compliance by** **Google Staff.**  Google will ensure that all persons authorised to process Customer Personal Data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality. 
+7.1.1 **Μέτρα Ασφαλείας της Google.**  Η Google θα εφαρμόζει και θα τηρεί τεχνικά και οργανωτικά μέτρα για την προστασία των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη έναντι τυχαίας ή παράνομης καταστροφής, απώλειας, τροποποίησης, μη εξουσιοδοτημένης αποκάλυψης ή πρόσβασης όπως περιγράφεται στο Παράρτημα 2 (τα «**Μέτρα Ασφαλείας**»).  Η Google ενδέχεται να επικαιροποιεί ή να τροποποιεί τα Μέτρα Ασφαλείας κατά καιρούς, εφόσον οι εν λόγω επικαιροποιήσεις και τροποποιήσεις δεν έχουν ως αποτέλεσμα την υποβάθμιση της συνολικής ασφάλειας των Υπηρεσιών Εκτελούντος την Επεξεργασία.  
 
-7.1.3 **Google’s Security Assistance.** Google will (taking into account the nature of the processing of Customer Personal Data and the information available to Google) assist Customer in ensuring compliance with any obligations of Customer in respect of security of personal data and personal data breaches, including (if applicable) Customer’s obligations pursuant to Articles 32 to 34 (inclusive) of the GDPR, by:
+7.1.2 **Συμμόρφωση με τις απαιτήσεις Ασφαλείας από το Προσωπικό της Google**.  Η Google θα διασφαλίζει ότι όλα τα πρόσωπα που είναι εξουσιοδοτημένα να επεξεργάζονται Δεδομένα Προσωπικού Χαρακτήρα Πελάτη έχουν αναλάβει δέσμευση εμπιστευτικότητας ή υπόκεινται σε ειδική εκ του νόμου υποχρέωση εμπιστευτικότητας.
 
-(a) implementing and maintaining the Security Measures in accordance with Section 7.1.1 (Google’s Security Measures);
+7.1.3 **Παροχή Συνδρομής Ασφαλείας από την Google**.  Η Google (λαμβάνοντας υπόψη τη φύση της επεξεργασίας των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη και των πληροφοριών που διαθέτει η Google) θα παράσχει συνδρομή στον Πελάτη για τη διασφάλιση της συμμόρφωσης με οποιαδήποτε υποχρέωση του Πελάτη σε σχέση με την ασφάλεια των δεδομένων προσωπικού χαρακτήρα και τις παραβιάσεις προσωπικών δεδομένων, συμπεριλαμβανομένων (κατά περίπτωση) των υποχρεώσεων του Πελάτη σύμφωνα με τα άρθρα 32 έως 34 (περιλαμβανομένου) του Γενικού Κανονισμού για την Προστασία Δεδομένων (GDPR):
 
-(b) complying with the terms of Section 7.2 (Data Incidents); and
+(α) εφαρμόζοντας και τηρώντας Μέτρα Ασφαλείας σύμφωνα με την Ενότητα 7.1.1 (Μέτρα Ασφαλείας της Google)·
 
-(c) providing Customer with the Security Documentation in accordance with Section 7.5.1 (Reviews of Security Documentation) and the information contained in these Data Processing Terms.
+(β) συμμορφούμενη με τους όρους της Ενότητας 7.2 (Περιστατικά Δεδομένων)· και
 
-7.2 **Data Incidents.**
+(γ) παρέχοντας στον Πελάτη την Τεκμηρίωση Ασφαλείας σύμφωνα με την Ενότητα 7.5.1 (Επισκοπήσεις Τεκμηρίωσης Ασφαλείας) και τις πληροφορίες που περιλαμβάνονται στους παρόντες Όρους Επεξεργασίας Δεδομένων.
 
-7.2.1 **Incident Notification.** If Google becomes aware of a Data Incident, Google will: (a) notify Customer of the Data Incident promptly and without undue delay; and (b) promptly take reasonable steps to minimise harm and secure Customer Personal Data.
+7.2 **Περιστατικά Δεδομένων.**
 
-7.2.2 **Details of Data Incident.** Notifications made under Section 7.2.1 (Incident Notification) will describe, to the extent possible, details of the Data Incident, including steps taken to mitigate the potential risks and steps Google recommends Customer take to address the Data Incident.
+7.2.1 **Γνωστοποίηση Περιστατικού**.  Αν η Google λάβει γνώση ενός Περιστατικού Δεδομένων, η Google: α) ειδοποιεί εγκαίρως και χωρίς αδικαιολόγητη καθυστέρηση τον Πελάτη για το Περιστατικό Δεδομένων· και β) λαμβάνει εγκαίρως εύλογα μέτρα για την ελαχιστοποίηση της βλάβης και την προστασία των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη.
 
-7.2.3 **Delivery of Notification.** Google will deliver its notification of any Data Incident to the Notification Email Address or by other direct communication (for example, by phone call or an in-person meeting).  Customer will take all reasonable steps to provide the Notification Email Address and ensure that the Notification Email Address is current and valid.
+7.2.2 **Λεπτομέρειες για το Περιστατικό Δεδομένων.**  Οι γνωστοποιήσεις που πραγματοποιούνται σύμφωνα με την Ενότητα 7.2.1 (Γνωστοποίηση Περιστατικού) θα περιγράφουν, στο μέτρο του δυνατού, λεπτομέρειες του Περιστατικού Δεδομένων, συμπεριλαμβανομένων των μέτρων που ελήφθησαν για τον μετριασμό δυνητικών κινδύνων, καθώς και τα μέτρα που η Google συστήνει στον Πελάτη να ληφθούν για την αντιμετώπιση του Περιστατικού Δεδομένων.
 
-7.2.4 **Third Party Notifications.** Customer is solely responsible for complying with incident notification laws applicable to Customer and fulfilling any third party notification obligations related to any Data Incident.  
+7.2.3 **Αποστολή της Γνωστοποίησης**.  Η Google θα αποστείλει τη γνωστοποίηση της για οποιοδήποτε Περιστατικό Δεδομένων στη Διεύθυνση email γνωστοποίησης ή με άλλη άμεση επικοινωνία (για παράδειγμα, μέσω τηλεφώνου η αυτοπροσώπως).  Ο Πελάτης θα προβεί σε όλες τις εύλογες ενέργειες για την παροχή της Διεύθυνσης email γνωστοποίησης και για τη διασφάλιση ότι η Διεύθυνση email γνωστοποίησης ισχύει και είναι έγκυρη.
 
-7.2.5 **No Acknowledgement of Fault by Google.** Google’s notification of or response to a Data Incident under this Section 7.2 (Data Incidents) will not be construed as an acknowledgement by Google of any fault or liability with respect to the Data Incident.
+7.2.4 **Γνωστοποιήσεις Τρίτων**.  Ο Πελάτης είναι αποκλειστικά υπεύθυνος για τη συμμόρφωση με τη νομοθεσία γνωστοποίησης περιστατικών που ισχύουν για τον Πελάτη, καθώς και για την εκπλήρωση τυχόν υποχρεώσεων γνωστοποιήσεων τρίτων σε σχέση με οποιοδήποτε Περιστατικό Δεδομένων.  
 
-7.3 **Customer’s Security Responsibilities and Assessment.**         
+7.2.5 **Μη Αναγνώριση Σφάλματος από την Google**.  Η γνωστοποίηση Περιστατικού Δεδομένων ή η ανταπόκριση σε ένα Περιστατικό Δεδομένων από την Google σύμφωνα με την παρούσα Ενότητα 7.2 (Περιστατικά Δεδομένων) δεν θα θεωρηθεί αναγνώριση από την Google οποιουδήποτε σφάλματος ή υπαιτιότητας σε σχέση με το Περιστατικό Δεδομένων.
 
-7.3.1 **Customer’s Security Responsibilities.**  Without prejudice to Google’s obligations under Sections 7.1 (Google’s Security Measures and Assistance) and 7.2 (Data Incidents):
+7.3        **Ευθύνες του Πελάτη σε σχέση με την Ασφάλεια και Αξιολόγηση.**         
 
-(a) Customer is responsible for its use of the Processor Services, including:
+7.3.1 **Ευθύνες του Πελάτη σε σχέση με την Ασφάλεια**.  Με την επιφύλαξη των υποχρεώσεων της Google σύμφωνα με την Ενότητα 7.1 (Μέτρα Ασφαλείας και Παροχή Συνδρομής της Google ) και 7.2 (Περιστατικά Δεδομένων):
 
-(i) making appropriate use of the Processor Services to ensure a level of security appropriate to the risk in respect of Customer Personal Data; and
+(α) Ο Πελάτης είναι υπεύθυνος για τη χρήση των Υπηρεσιών Εκτελούντος την Επεξεργασία, μεταξύ άλλων:
 
-(ii) securing the account authentication credentials, systems, and devices Customer uses to access the Processor Services; and
+(i) για την κατάλληλη χρήση των Υπηρεσιών Εκτελούντος την Επεξεργασία προκειμένου να διασφαλίζεται ένα επίπεδο ασφάλειας που είναι κατάλληλο για τον κίνδυνο σε σχέση με τα Δεδομένα Προσωπικού Χαρακτήρα Πελάτη· και
 
-(b) Google has no obligation to protect Customer Personal Data that Customer elects to store or transfer outside of Google’s and its Subprocessors’ systems.
+(ii) για την προστασία των διαπιστευτηρίων ελέγχου ταυτότητας λογαριασμού, των συστημάτων και των συσκευών που χρησιμοποιεί ο Πελάτης για την πρόσβαση στις Υπηρεσίες Εκτελούντος την Επεξεργασία· και
 
-7.3.2 **Customer’s Security Assessment.**  Customer acknowledges and agrees that (taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of the processing of Customer Personal Data as well as the risks to individuals) the Security Measures implemented and maintained by Google as set out in Section 7.1.1 (Google’s Security Measures) provide a level of security appropriate to the risk in respect of Customer Personal Data.
+(β) Η Google δεν έχει καμία υποχρέωση να προστατεύει τα Δεδομένα Προσωπικού Χαρακτήρα Πελάτη τα οποία ο Πελάτης επιλέγει να αποθηκεύσει ή να διαβιβάσει εκτός των συστημάτων της Google και των δικών της Υπεργολάβων Επεξεργασίας.
 
-7.4 **Security Certification.** To evaluate and help ensure the continued effectiveness of the Security Measures, from time to time, Google may obtain the ISO 27001 Certification.
+7.3.2 **Αξιολόγηση Ασφαλείας Πελάτη**.  Ο Πελάτης αναγνωρίζει και συμφωνεί ότι (λαμβάνοντας υπόψη την εξέλιξη της τεχνολογίας, το κόστος υλοποίησης και τη φύση, το πεδίο, το πλαίσιο και τους σκοπούς της επεξεργασίας των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη καθώς και τους κινδύνους για τα άτομα) τα Μέτρα Ασφαλείας που εφαρμόζονται και τηρούνται από την Google όπως ορίζεται στην Ενότητα 7.1.1 (Μέτρα Ασφαλείας της Google) παρέχουν ένα επίπεδο ασφάλειας το οποίο είναι κατάλληλο για τον κίνδυνο σε σχέση με τα Δεδομένα Προσωπικού Χαρακτήρα Πελάτη.
 
-7.5 **Reviews and Audits of Compliance.**
+7.4 **Πιστοποίηση Ασφαλείας.** Για την αξιολόγηση και τη διασφάλιση της συνεχούς αποτελεσματικότητας των Μέτρων Ασφαλείας, κατά καιρούς, η Google μπορεί να λάβει Πιστοποίηση ISO 27001.
 
-7.5.1 **Reviews of Security Documentation****.**  To demonstrate compliance by Google with its obligations under these Data Processing Terms, Google will make the Security Documentation available for review by Customer.
+7.5 **Επισκοπήσεις και Έλεγχοι Συμμόρφωσης.**
 
-7.5.2 **Customer****’s** **Audit** **Right****s****.** 
+7.5.1 **Επισκοπήσεις Τεκμηρίωσης Ασφαλείας**.  Για την απόδειξη της συμμόρφωσης της Google με τις υποχρεώσεις της σύμφωνα με τους παρόντες Όρους Επεξεργασίας Δεδομένων, η Google θα θέσει στη διάθεση του Πελάτη προς επισκόπηση την Τεκμηρίωση Ασφαλείας.
 
-(a) Google will allow Customer or a third party auditor appointed by Customer to conduct audits (including inspections) to verify Google’s compliance with its obligations under these Data Processing Terms in accordance with Section 7.5.3 (Additional Business Terms for Audits). Google will contribute to such audits as described in Section 7.4 (Security Certification) and this Section 7.5 (Reviews and Audits of Compliance).
+7.5.2 **Δικαιώματα Ελέγχου του Πελάτη**.
 
-(b) If the Standard Contractual Clauses apply under Section 10.2 (Transfers of Data), Google will allow Customer or a third party auditor appointed by Customer to conduct audits as described in the Standard Contractual Clauses in accordance with Section 7.5.3 (Additional Business Terms for Audits).
+(α) Η Google θα επιτρέψει στον Πελάτη ή σε τρίτο ελεγκτή που ορίζεται από τον Πελάτη να διενεργήσει ελέγχους (μεταξύ άλλων, επιθεωρήσεις) για την επαλήθευση της συμμόρφωσης της Google με τις υποχρεώσεις της οι οποίες απορρέουν από τους παρόντες Όρους Επεξεργασίας Δεδομένων, σύμφωνα με την Ενότητα 7.5.3 (Πρόσθετοι Επιχειρηματικοί Όροι για Ελέγχους). Η Google θα συνεισφέρει στους εν λόγω ελέγχους όπως περιγράφεται στην Ενότητα 7.4 (Πιστοποίηση Ασφαλείας) και στην παρούσα Ενότητα 7.5 (Επισκοπήσεις και Έλεγχοι Συμμόρφωσης).
 
-(c) Customer may also conduct an audit to verify Google’s compliance with its obligations under these Data Processing Terms by reviewing the certificate issued for the ISO 27001 Certification (which reflects the outcome of an audit conducted by a third party auditor), if such certification is available at the time of Customer’s request.
+(β) Εάν οι Τυποποιημένες Συμβατικές Ρήτρες ισχύουν σύμφωνα με την Ενότητα 10.2 (Διαβιβάσεις δεδομένων), η Google θα επιτρέπει στον Πελάτη ή σε έναν ελεγκτή τρίτο που θα οριστεί από τον Πελάτη να διενεργεί ελέγχους, όπως περιγράφεται στις Τυποποιημένες Συμβατικές Ρήτρες, σύμφωνα με την Ενότητα 7.5.3 (Πρόσθετοι Επιχειρηματικοί Όροι για Ελέγχους).
 
-7.5.3 **Additional Business Terms for Audits.**  
+γ) Ο Πελάτης ενδέχεται επίσης να διενεργήσει έλεγχο για την επαλήθευση της συμμόρφωσης της Google με τις υποχρεώσεις της οι οποίες απορρέουν από τους παρόντες Όρους Επεξεργασίας Δεδομένων, επισκοπώντας το πιστοποιητικό που εκδόθηκε για την Πιστοποίηση ISO 27001 (το οποίο αποτυπώνει το αποτέλεσμα ελέγχου που διενεργήθηκε από τρίτο ελεγκτή), αν η εν λόγω πιστοποίηση είναι διαθέσιμη τη στιγμή του αιτήματος του Πελάτη.
 
-(a) Customer will send any request for an audit under Section 7.5.2(a) or 7.5.2(b) to Google as described in Section 12.1 (Contacting Google).
+7.5.3 **Συμπληρωματικοί Επιχειρηματικοί Όροι για Ελέγχους**.  
 
-(b) Following receipt by Google of a request under Section 7.5.3(a), Google and Customer will discuss and agree in advance on the reasonable start date, scope and duration of, and security and confidentiality controls applicable to, any audit under Section 7.5.2(a) or 7.5.2(b).
+(α) Ο Πελάτης θα αποστέλλει οποιοδήποτε αίτημα για τη διενέργεια ελέγχου σύμφωνα με την Ενότητα 7.5.2(α) ή 7.5.2(β) στην Google όπως περιγράφεται στην Ενότητα 12.1 (Επικοινωνία με την Google).
 
-(c) Google may charge a fee (based on Google’s reasonable costs) for any audit under Section 7.5.2(a) or 7.5.2(b). Google will provide Customer with further details of any applicable fee, and the basis of its calculation, in advance of any such audit. Customer will be responsible for any fees charged by any third party auditor appointed by Customer to execute any such audit.
+(β) Μετά την παραλαβή από την Google ενός αιτήματος βάσει της Ενότητας 7.5.3(α), η Google και ο Πελάτης θα συζητήσουν και θα συμφωνήσουν εκ των προτέρων σχετικά με την εύλογη ημερομηνία έναρξης, το πεδίο εφαρμογής και τη διάρκεια, καθώς και την ασφάλεια και τους ελέγχους εμπιστευτικότητας που ισχύουν για οποιοδήποτε έλεγχο που διενεργείται σύμφωνα με την Ενότητα 7.5.2(α) ή 7.5.2(β).
 
-(d) Google may object to any third party auditor appointed by Customer to conduct any audit under Section 7.5.2(a) or 7.5.2(b) if the auditor is, in Google’s reasonable opinion, not suitably qualified or independent, a competitor of Google or otherwise manifestly unsuitable. Any such objection by Google will require Customer to appoint another auditor or conduct the audit itself.
+(γ) Η Google ενδέχεται να χρεώσει ένα τέλος (με βάση τα εύλογα έξοδα της Google) για οποιονδήποτε έλεγχο σύμφωνα με την Ενότητα 7.5.2(α) ή 7.5.2(β). Η Google θα παράσχει στον Πελάτη περαιτέρω λεπτομέρειες σχετικά με κάθε ισχύον τέλος, καθώς και τη βάση του υπολογισμού του, πριν από οποιονδήποτε έλεγχο. Ο Πελάτης θα είναι υπεύθυνος για τυχόν τέλη που επιβάλλονται από τρίτο ελεγκτή που έχει οριστεί από τον Πελάτη για τη διενέργεια οποιουδήποτε τέτοιου ελέγχου.
 
-(e) Nothing in these Data Processing Terms will require Google either to disclose to Customer or its third party auditor, or to allow Customer or its third party auditor to access:
+(δ) Η Google μπορεί να προβάλλει αντιρρήσεις σε σχέση με τον διορισμό από τον Πελάτη οποιουδήποτε τρίτου ελεγκτή για τη διενέργεια οποιουδήποτε ελέγχου σύμφωνα με την ενότητα 7.5.2(α) ή 7.5.2(β) αν ο ελεγκτής, σύμφωνα με την εύλογη γνώμη της Google, δεν είναι κατάλληλα εξειδικευμένος ή ανεξάρτητος, είναι ανταγωνιστής της Google ή είναι με άλλο τρόπο καταφανώς ακατάλληλος. Οποιαδήποτε σχετική αντίρρηση από την Google θα απαιτεί από τον Πελάτη να ορίσει άλλον ελεγκτή ή να διενεργήσει ο ίδιος τον έλεγχο.
 
-(i) any data of any other customer of a Google Entity;
+(ε) Καμία διάταξη των παρόντων Όρων Επεξεργασίας Δεδομένων δεν θα απαιτεί από την Google να αποκαλύψει στον Πελάτη ή στον τρίτο ελεγκτή του, ή να επιτρέψει στον Πελάτη ή στον τρίτο ελεγκτή του την πρόσβαση:
 
-(ii) any Google Entity’s internal accounting or financial information;
+(i) σε δεδομένα οποιουδήποτε άλλου πελάτη Οντότητας της Google·
 
-(iii) any trade secret of a Google Entity;
+(ii) σε εσωτερικές λογιστικές ή οικονομικές πληροφορίες οποιασδήποτε Οντότητας της Google·
 
-(iv) any information that, in Google's reasonable opinion, could: (A) compromise the security of any Google Entity’s systems or premises; or (B) cause any Google Entity to breach its obligations under the Data Protection Legislation or its security and/or privacy obligations to Customer or any third party; or
+(iii) σε οποιοδήποτε εμπορικό απόρρητο Οντότητας της Google·
 
-(v) any information that Customer or its third party auditor seeks to access for any reason other than the good faith fulfilment of Customer’s obligations under the Data Protection Legislation.
+(iv) σε οποιαδήποτε πληροφορία η οποία, κατά την εύλογη γνώμη της Google θα μπορούσε: (Α) να θέσει σε κίνδυνο την ασφάλεια οποιωνδήποτε συστημάτων ή εγκαταστάσεων της Οντότητας της Google· ή (Β) να προκαλέσει την παραβίαση των υποχρεώσεων της Οντότητας της Google βάσει της Νομοθεσίας για την Προστασία Δεδομένων ή των υποχρεώσεών της περί ασφάλειας ή/και προστασίας της ιδιωτικής ζωής έναντι του Πελάτη ή οποιουδήποτε τρίτου· ή
 
-7.5.4 **No Modification of Standard Contractual Clauses.** If the Standard Contractual Clauses apply under Section 10.2 (Transfers of Data), nothing in this Section 7.5 (Reviews and Audits of Compliance) varies or modifies any rights or obligations of Customer or a Google Entity under the Standard Contractual Clauses. 
+(v) σε οποιαδήποτε πληροφορία στην οποία ο Πελάτης ή ο τρίτος ελεγκτής του επιδιώκει να αποκτήσει πρόσβαση για οποιονδήποτε λόγο πλην της εκπλήρωσης καλή τη πίστει των υποχρεώσεων του Πελάτη βάσει της Νομοθεσίας για την Προστασία Δεδομένων.
 
-### 8\. **Impact Assessments and Consultations**
+7.5.4 **Καμία τροποποίηση των Τυποποιημένων Συμβατικών Ρητρών.** Εάν οι Τυποποιημένες Συμβατικές Ρήτρες ισχύουν σύμφωνα με την Ενότητα 10.2 (Διαβιβάσεις Δεδομένων), τίποτα σε αυτήν την Ενότητα 7.5 (Επισκοπήσεις και Έλεγχοι Συμμόρφωσης) δεν μεταβάλλει ή τροποποιεί τυχόν δικαιώματα ή υποχρεώσεις του Πελάτη ή μιας Οντότητας Google βάσει των Τυποποιημένων Συμβατικών Ρητρών.
 
-Google will (taking into account the nature of the processing and the information available to Google) assist Customer in ensuring compliance with any obligations of Customer in respect of data protection impact assessments and prior consultation, including (if applicable) Customer’s obligations pursuant to Articles 35 and 36 of the GDPR, by:
+### 8\. **Εκτιμήσεις Αντικτύπου και Διαβουλεύσεις**
 
-(a) providing the Security Documentation in accordance with Section 7.5.1 (Reviews of Security Documentation);
+Η Google (λαμβάνοντας υπόψη τη φύση της επεξεργασίας και των πληροφοριών που διαθέτει η Google) θα παράσχει συνδρομή στον Πελάτη για τη διασφάλιση της συμμόρφωσης με οποιαδήποτε υποχρέωση του Πελάτη σε σχέση με τις εκτιμήσεις αντικτύπου σχετικά με την προστασία δεδομένων και προηγούμενη διαβούλευση, συμπεριλαμβανομένων (κατά περίπτωση), των υποχρεώσεων του Πελάτη σύμφωνα με τα άρθρα 35 και 36 του Γενικού Κανονισμού για την Προστασία Δεδομένων (GDPR):
 
-(b) providing the information contained in these Data Processing Terms; and
+(α) παρέχοντας την Τεκμηρίωση Ασφαλείας σύμφωνα με την Ενότητα 7.5.1 (Επισκοπήσεις Τεκμηρίωσης Ασφαλείας)·
 
-(c) providing or otherwise making available, in accordance with Google’s standard practices, other materials concerning the nature of the Processor Services and the processing of Customer Personal Data (for example, help centre materials).
+(β) παρέχοντας τις πληροφορίες που περιέχονται στους παρόντες Όρους Επεξεργασίας Δεδομένων· και
 
-### 9\. **Data Subject Rights**
+(γ) παρέχοντας ή διαθέτοντας με άλλο τρόπο, σύμφωνα με τις συνήθεις πρακτικές της Google, άλλα υλικά που αφορούν τη φύση των Υπηρεσιών Εκτελούντος την Επεξεργασία και την επεξεργασία των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη (για παράδειγμα, υλικά του κέντρου υποστήριξης).
 
-9.1 **Responses to Data Subject** **Requests.**  If Google receives a request from a data subject in relation to Customer Personal Data, Google will:
+### 9\. **Δικαιώματα Υποκειμένων των Δεδομένων**
 
-(a) if the request is made via a Data Subject Tool, respond directly to the data subject’s request in accordance with the standard functionality of that Data Subject Tool; or
+9.1 **Ανταπόκριση σε Αιτήματα των Υποκειμένων των Δεδομένων**.  Αν η Google λάβει αίτημα από υποκείμενο των δεδομένων σε σχέση με Δεδομένα Προσωπικού Χαρακτήρα Πελάτη, τότε η Google:
 
-(b) if the request is not made via a Data Subject Tool, advise the data subject to submit his/her request to Customer, and Customer will be responsible for responding to such request.
+(α) αν το αίτημα υποβάλλεται μέσω Εργαλείου του Υποκειμένου των Δεδομένων, απαντάει άμεσα στο αίτημα του υποκειμένου δεδομένων σύμφωνα με την τυποποιημένη λειτουργία του Εργαλείου του Υποκειμένου των Δεδομένων· ή
 
-9.2 **Google’s Data Subject Request Assistance****.**  Google will (taking into account the nature of the processing of Customer Personal Data and, if applicable, Article 11 of the GDPR) assist Customer in fulfilling any obligation of Customer to respond to requests by data subjects, including (if applicable) Customer’s obligation to respond to requests for exercising the data subject’s rights laid down in Chapter III of the GDPR, by:
+(β) αν το αίτημα δεν υποβάλλεται μέσω του Εργαλείου του Υποκειμένου των Δεδομένων, συμβουλεύει το υποκείμενο των δεδομένων να υποβάλλει το αίτημά του/της στον Πελάτη και ο Πελάτης θα είναι υπεύθυνος για την ανταπόκριση στο εν λόγω αίτημα.
 
-(a) providing the functionality of the Processor Services;
+9.2 **Παροχή Συνδρομής από την Google σε σχέση με το Αίτημα του Υποκειμένου των Δεδομένων.**  Η Google (λαμβάνοντας υπόψη τη φύση της επεξεργασίας των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη και, κατά περίπτωση, το άρθρο 11 του Γενικού Κανονισμού για την Προστασία Δεδομένων - GDPR) θα παράσχει συνδρομή στον Πελάτη ώστε ο Πελάτης να ανταποκριθεί στα αιτήματα των υποκειμένων των δεδομένων, συμπεριλαμβανομένης (κατά περίπτωση) της υποχρέωσης του Πελάτη να ανταποκρίνεται σε αιτήματα για την άσκηση των δικαιωμάτων του που προβλέπονται στο Κεφάλαιο III του Γενικού Κανονισμού για την Προστασία Δεδομένων (GDPR),
 
-(b) complying with the commitments set out in Section 9.1 (Responses to Data Subject Requests); and
+(α) παρέχοντας τη λειτουργία των Υπηρεσιών Εκτελούντος την Επεξεργασία·
 
-(c) if applicable to the Processor Services, making available Data Subject Tools.
+(β) συμμορφούμενη με τις δεσμεύσεις που ορίζονται στην Ενότητα 9.1 (Ανταπόκριση σε Αιτήματα των Υποκειμένων των Δεδομένων)·
 
-### 10\. **Data Transfers**
+(γ) αν ισχύει για τις Υπηρεσίες Εκτελούντος την Επεξεργασία, καθιστώντας διαθέσιμα Εργαλεία των Υποκειμένων των Δεδομένων.
 
-10.1 **Data Storage and Processing Facilities.**  Google may, subject to Section 10.2 (Transfers of Data), store and process Customer Personal Data in the United States of America and any other country in which Google or any of its Subprocessors maintains facilities.
+### 10\. **Διαβιβάσεις Δεδομένων**
 
-10.2 **Transfers of Data****.**  If the storage and/or processing of Customer Personal Data involves transfers of Customer Personal Data from the EEA, Switzerland, or the UK to any third country that is not subject to an adequacy decision under the European Data Protection Legislation:
+10.1 **Αποθήκευση Δεδομένων και Εγκαταστάσεις Επεξεργασίας.**  Η Google μπορεί, με την επιφύλαξη της Ενότητας 10.2 (Διαβιβάσεις Δεδομένων), να αποθηκεύει και να επεξεργάζεται τα Δεδομένα Προσωπικού Χαρακτήρα Πελάτη στις Ηνωμένες Πολιτείες Αμερικής και σε οποιαδήποτε άλλη χώρα στην οποία η Google ή οποιοιδήποτε δικοί της Υπεργολάβοι Επεξεργασίας διατηρούν εγκαταστάσεις.
 
-(a) Customer (as data exporter) will be deemed to have entered into the Standard Contractual Clauses with Google LLC (as data importer);
+10.2 **Διαβιβάσεις Δεδομένων.** Εάν η αποθήκευση ή / και η επεξεργασία των Προσωπικών Δεδομένων Πελάτη συνεπάγεται τη διαβίβαση Προσωπικών Δεδομένων Πελάτη από τον ΕΟΧ, την Ελβετία ή το Ηνωμένο Βασίλειο σε οποιαδήποτε τρίτη χώρα που δεν υπόκειται σε απόφαση επάρκειας σύμφωνα με την Ευρωπαϊκή Νομοθεσία για την Προστασία Δεδομένων:
 
-(b) the transfers will be subject to the Standard Contractual Clauses; and
+(α) Ο Πελάτης (ως εξαγωγέας δεδομένων) θα θεωρείται ότι έχει συνάψει τις Τυποποιημένες συμβατικές ρήτρες με την Google LLC (ως εισαγωγέας δεδομένων).
 
-(c) Google will ensure that Google LLC complies with its obligations under such Standard Contractual Clauses regarding such transfers.
+(β) οι διαβιβάσεις θα υπόκεινται στις Τυποποιημένες συμβατικές ρήτρες · και
 
-10.3 **Data Centre Information.**  Information about the locations of Google data centres is available at: [www.google.com/about/datacenters/inside/locations/index.html](https://www.google.com/about/datacenters/locations/).  
+(γ) Η Google θα διασφαλίσει ότι η Google LLC συμμορφώνεται με τις υποχρεώσεις της βάσει αυτών των Τυποποιημένων συμβατικών ρητρών σχετικά με τέτοιες διαβιβάσεις.
 
-### 11\. **Subprocessors**
+10.3 **Πληροφορίες Κέντρου Δεδομένων**  Πληροφορίες σχετικά με τις τοποθεσίες των κέντρων δεδομένων της Google είναι διαθέσιμες στη διεύθυνση: [www.google.com/about/datacenters/inside/locations/index.html](https://www.google.com/about/datacenters/locations/).  
 
-11.1 **Consent to Subprocessor Engagement.**  Customer specifically authorises the engagement of Google’s Affiliates as Subprocessors (“**Google Affiliate Subprocessors**”).  In addition, Customer generally authorises the engagement of any other third parties as Subprocessors (“**Third Party Subprocessors**”). If the Standard Contractual Clauses apply under Section 10.2 (Transfers of Data), the above authorisations constitute Customer’s prior written consent to the subcontracting by Google LLC of the processing of Customer Personal Data.
+### 11\. **Υπεργολάβοι Επεξεργασίας**
 
-11.2 **Information about Subprocessors.**  Information about Subprocessors is available at privacy.google.com/businesses/subprocessors. 
+11.1 **Συγκατάθεση για την Πρόσληψη Υπεργολάβων Επεξεργασίας.**  Ο Πελάτης εξουσιοδοτεί συγκεκριμένα την πρόσληψη Συνδεδεμένων με την Google Εταιρειών ως Υπεργολάβων Επεξεργασίας («**Συνδεδεμένες Εταιρείες Google ως Υπεργολάβοι Επεξεργασίας**»).  Επιπλέον, ο Πελάτης εξουσιοδοτεί γενικά την πρόσληψη οποιωνδήποτε άλλων τρίτων ως Υπεργολάβων Επεξεργασίας («**Τρίτοι Υπεργολάβοι Επεξεργασίας**»). Εάν οι Τυποποιημένες Συμβατικές Ρήτρες ισχύουν σύμφωνα με την Ενότητα 10.2 (Διαβιβάσεις Δεδομένων), οι παραπάνω εξουσιοδοτήσεις αποτελούν την προηγούμενη γραπτή συγκατάθεση του Πελάτη για την υπεργολαβία από την Google LLC για την επεξεργασία Προσωπικών Δεδομένων Πελάτη.
 
-11.3 **Requirements** **for Subprocessor Engagement.**  When engaging any Subprocessor, Google will:  
+11.2 **Πληροφορίες σχετικά με τους Υπεργολάβους Επεξεργασίας.**  Πληροφορίες σχετικά με τους Υπεργολάβους Επεξεργασίας είναι διαθέσιμες στη διεύθυνση: privacy.google.com/businesses/subprocessors.
 
-(a) ensure via a written contract that:
+11.3 **Απαιτήσεις για την Πρόσληψη των Υπεργολάβων Επεξεργασίας.**  Κατά την ανάθεση καθηκόντων σε οποιονδήποτε Υπεργολάβο Επεξεργασίας, η Google:  
 
-(i) the Subprocessor only accesses and uses Customer Personal Data to the extent required to perform the obligations subcontracted to it, and does so in accordance with the Agreement (including these Data Processing Terms) and, if applicable under Section 10.2 (Transfers of Data), the Standard Contractual Clauses; and
+(α) θα διασφαλίζει μέσω γραπτής σύμβασης ότι:
 
-(ii) if the GDPR applies to the processing of Customer Personal Data, the data protection obligations set out in Article 28(3) of the GDPR are imposed on the Subprocessor; and
+(i) ο Υπεργολάβος Επεξεργασίας έχει πρόσβαση και χρησιμοποιεί τα Δεδομένα Προσωπικού Χαρακτήρα Πελάτη αποκλειστικά στον βαθμό που απαιτείται για την εκπλήρωση των υποχρεώσεων που του έχουν ανατεθεί με υπεργολαβία, και το πράττει σύμφωνα με τη Συμφωνία (συμπεριλαμβανομένων των παρόντων Όρων Επεξεργασίας) και με την Ενότητα 10.2 (Διαβιβάσεις Δεδομένων) εφόσον εφαρμόζεται · και
 
-(b) remain fully liable for all obligations subcontracted to, and all acts and omissions of, the Subprocessor.
+(ii) αν ο Γενικός Κανονισμός για την Προστασία Δεδομένων (GDPR) ισχύει για την επεξεργασία των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη, οι υποχρεώσεις για την προστασία των δεδομένων που ορίζονται στο άρθρο 28 παράγραφος 3 του GDPR επιβάλλονται στον Υπεργολάβο Δεδομένων· και
 
-### 12\. **Contacting Google;** **Processing Records**
+(β) παραμένει πλήρως υπεύθυνη για όλες τις υποχρεώσεις που ανατίθενται, καθώς και για όλες τις πράξεις και παραλείψεις του Υπεργολάβου Επεξεργασίας.
 
-12.1 **Contacting Google****.**  Customer may contact Google in relation to the exercise of its rights under these Data Processing Terms via the methods described at [https://support.google.com/youtube/answer/2801895](https://support.google.com/youtube/answer/2801895?ref_topic=2803240) or via such other means as may be provided by Google from time to time.  
+### 12\. **Επικοινωνία με την Google· Αρχεία Δραστηριοτήτων Επεξεργασίας**
 
-12.2 **Google’s Processing Records.**  Customer acknowledges that Google is required under the GDPR to: (a) collect and maintain records of certain information, including the name and contact details of each processor and/or controller on behalf of which Google is acting and (if applicable) of such processor’s or controller's local representative and data protection officer; and (b) make such information available to any Supervisory Authority.  Accordingly, Customer will, where requested and as applicable to Customer, provide such information to Google via the user interface of the Processor Services or via such other means as may be provided by Google, and will use such user interface or other means to ensure that all information provided is kept accurate and up-to-date.
+12.1 **Επικοινωνία με την Google.**  Ο Πελάτης μπορεί να επικοινωνήσει με την Google σε σχέση με την άσκηση των δικαιωμάτων του βάσει των παρόντων Όρων Επεξεργασίας Δεδομένων μέσω των μεθόδων που περιγράφονται στη διεύθυνση [https://support.google.com/youtube/answer/2801895](https://support.google.com/youtube/answer/2801895?ref_topic=2803240) ή μέσω άλλων μέσων που μπορεί να παρέχει η Google κατά καιρούς.  
 
-### 13\. **Liability**
+12.2 **Αρχεία Δραστηριοτήτων Επεξεργασίας της Google**  Ο Πελάτης αναγνωρίζει ότι η Google υποχρεούται βάσει του Γενικού Κανονισμού για την Προστασία Δεδομένων (GDPR): (α) να συλλέγει και να τηρεί αρχεία ορισμένων πληροφοριών, συμπεριλαμβανομένου του ονόματος και των στοιχείων επικοινωνίας κάθε εκτελούντα επεξεργασία ή/και υπεύθυνου επεξεργασίας για λογαριασμό του οποίου ενεργεί η Google και (κατά περίπτωση) του τοπικού εκπροσώπου του εν λόγω εκτελούντα την επεξεργασία ή υπεύθυνου επεξεργασίας και του υπευθύνου προστασίας δεδομένων· και (β) να θέτει τις εν λόγω πληροφορίες στη διάθεση κάθε  εποπτικής  αρχής.  Ως εκ τούτου, όπου απαιτείται και ισχύει για τον Πελάτη, ο Πελάτης θα παράσχει τις εν λόγω πληροφορίες στην Google μέσω του περιβάλλοντος χρήστη των Υπηρεσιών Εκτελούντος την Επεξεργασία ή μέσω άλλων μέσων που μπορεί να παρέχει η Google, και θα χρησιμοποιήσει το εν λόγω περιβάλλον χρήστη ή άλλα μέσα για να διασφαλίσει ότι όλες οι πληροφορίες που παρέχονται διατηρούνται ακριβείς και επικαιροποιημένες.
 
-13.1 **Liability Cap.** Notwithstanding anything else in the Agreement, the total aggregate liability of either party towards the other party under or in connection with these Data Processing Terms will be limited to the maximum monetary or payment-based amount at which that party’s liability is capped under the Agreement (for clarity, any exclusion of confidentiality or indemnification claims from the Agreement’s limitation of liability will not apply to claims under the Agreement relating to the European Data Protection Legislation).  Nothing in this Section 13 (Liability) will exclude or limit either party’s liability for: (a) death or personal injury resulting from its negligence or the negligence of its employees or agents; (b) fraud or fraudulent misrepresentation; or (c) matters for which liability cannot be excluded or limited under applicable law.
+### 13\. **Ευθύνη**
 
-13.2 **Liability if the Standard Contractual Clauses Apply**. If the Standard Contractual Clauses apply under Section 10.2 (Transfers of Data), then the total combined liability of each party and its Affiliates towards the other party and its Affiliates under or in connection with the Agreement and the Standard Contractual Clauses combined will be subject to Section 13.1 (Liability Cap).
+13.1 **Όριο Ευθύνης.** Με την επιφύλαξη οποιασδήποτε άλλης διάταξης της Συμφωνίας, η ολική και συνολική ευθύνη κάθε μέρους έναντι του άλλου μέρους βάσει ή σε σχέση με τους παρόντες Όρους Επεξεργασίας Δεδομένων θα περιορίζεται στο μέγιστο νομισματικό ή βάσει πληρωμής ποσό με το οποίο η ευθύνη του εν λόγω μέρους καλύπτεται βάσει της Συμφωνίας (για λόγους σαφήνειας, οποιαδήποτε εξαίρεση αξιώσεων εμπιστευτικότητας ή αποζημίωσης από τον περιορισμό ευθύνης δεν θα ισχύει για αξιώσεις που απορρέουν από τη Συμφωνία σχετικά με την Ευρωπαϊκή Νομοθεσία για την Προστασία των Δεδομένων.  Καμία διάταξη της παρούσας Ενότητας 13 (Ευθύνη) δεν θα αποκλείει ούτε θα περιορίζει την ευθύνη έκαστου μέρους για: (α) θάνατο ή σωματική βλάβη που οφείλεται σε δική του αμέλεια ή σε αμέλεια των υπαλλήλων ή αντιπροσώπων του· (β) απάτη ή ψευδή ή παραπλανητική παρουσίαση· ή (γ) θέματα για τα οποία η ευθύνη δεν μπορεί να αποκλειστεί ή να περιοριστεί βάσει του εφαρμοστέου δικαίου.
 
-### 14\. **Third Party Beneficiaries**
+13.2 **Ευθύνη εάν ισχύουν οι Τυποποιημένες Συμβατικές Ρήτρες**. Εάν οι Τυποποιημένες Συμβατικές Ρήτρες ισχύουν σύμφωνα με την Ενότητα 10.2 (Διαβιβάσεις Δεδομένων), τότε η συνολική συνδυασμένη ευθύνη κάθε συμβαλλόμενου μέρους και των Συνδεδεμένων εταιρειών του έναντι του άλλου μέρους και των Συνδεδεμένων εταιρειών του βάσει ή σε σχέση με τη Συμφωνία και τις Τυποποιημένες Συμβατικές Ρήτρες θα υπόκεινται στην Ενότητα 13.1 (Όριο ευθύνης).
 
-If a party’s Affiliate is a party to the Standard Contractual Clauses that apply under Section 10.2 (Transfers of Data), then that Affiliate will be a third party beneficiary of Sections 6.2 (Deletion on Agreement Expiry), 7.5 (Reviews and Audits of Compliance), 9.1 (Responses to Data Subject Requests), 10.2 (Transfers of Data), 11.1 (Consent to Subprocessor Engagement), and 13.2 (Liability if the Standard Contractual Clauses Apply). To the extent this Section 14 (Third Party Beneficiaries) conflicts or is inconsistent with any other clause in the Agreement, this Section 14 (Third Party Beneficiaries) will apply.
+### 14\. **Δικαιούχοι τρίτοι**
 
-### 15\. **Effect of** **these Data Processing Terms**
+Εάν μια Συνδεδεμένη εταιρεία ενός μέρους είναι μέρος των Τυποποιημένων Συμβατικών Ρητρών που ισχύουν σύμφωνα με την Ενότητα 10.2 (Διαβιβάσεις δεδομένων), τότε αυτή η Συνδεδεμένη εταιρεία θα είναι τρίτος δικαιούχος στις Ενότητες 6.2 (Διαγραφή κατά τη Λήξη Ισχύος της Συμφωνίας), 7.5 (Επισκοπήσεις και Έλεγχοι Συμμόρφωσης) , 9.1 (Ανταπόκριση σε Αιτήματα των Υποκειμένων των Δεδομένων), 10.2 (Διαβιβάσεις Δεδομένων), 11.1 (Συγκατάθεση για την Πρόσληψη Υπεργολάβων Επεξεργασίας) και 13.2 (Ευθύνη εάν ισχύουν οι Τυποποιημένες Συμβατικές Ρήτρες). Στο βαθμό που αυτή η Ενότητα 14 (Δικαιούχοι Τρίτοι) έρχεται σε σύγκρουση ή είναι ασυμβίβαστη με οποιονδήποτε άλλο όρο της Συμφωνίας, αυτή η Ενότητα 14 (Δικαιούχοι Τρίτοι) θα εφαρμόζεται.
 
-If there is any conflict or inconsistency between the Standard Contractual Clauses, the terms of these Data Processing Terms, and the remainder of the Agreement, then the following order of precedence will apply:
+### 15\. **Ισχύς των παρόντων Όρων Επεξεργασίας Δεδομένων**
 
-(a) the Standard Contractual Clauses;
+Σε περίπτωση σύγκρουσης ή ασυνέπειας μεταξύ των Τυποποιημένων Συμβατικών Ρητρών, των όρων των παρόντων Όρων Επεξεργασίας Δεδομένων και του υπολοίπου της Συμφωνίας, τότε θα ισχύει η ακόλουθη σειρά προτεραιότητας:
 
-(b) the remainder of these Data Processing Terms; and
+α) Οι Τυποποιημένες Συμβατικές Ρήτρες,
 
-(c) the remainder of the Agreement.
+β) Το υπόλοιπο των παρόντων Όρων Επεξεργασίας Δεδομένων, και
 
-Subject to the amendments in these Data Processing Terms, the Agreement remains in full force and effect.
+γ) Το υπόλοιπο της Συμφωνίας.
 
-### 16\. **Changes to** **these Data Processing Terms**
+Με την επιφύλαξη των τροποποιήσεων σε αυτούς τους Όρους Επεξεργασίας Δεδομένων, η Συμφωνία παραμένει σε πλήρη ισχύ και παράγει αποτελέσματα.
 
-16.1 **Changes to** **Processor Services****.** Google may only change the list of potential Processor Services:
+### 16\. **Αλλαγές στους παρόντες Όρους Επεξεργασίας Δεδομένων**
 
-(a) to reflect a change to the name of a service;
+16.1 **Αλλαγές στις** **Υπηρεσίες Εκτελούντος την Επεξεργασία**. Η Google μπορεί να αλλάξει τον κατάλογο των δυνητικών Υπηρεσιών Εκτελούντος την Επεξεργασία μόνο για:
 
-(b) to add a new service; or
+(α) την αποτύπωση μιας αλλαγής στο όνομα της υπηρεσίας·
 
-(c) to remove a service where either: (i) all contracts for the provision of that service are terminated; or (ii) Google has Customer’s consent.
+(β) την προσθήκη νέας υπηρεσίας· ή
 
-16.2 **Changes to Data Processing Terms.**  Google may change these Data Processing Terms if the change:
+(γ) την κατάργηση μιας υπηρεσίας στις περιπτώσεις που: (i) όλες οι συμβάσεις για την παροχή της εν λόγω υπηρεσίας έχουν καταγγελθεί· ή (ii) η Google έχει τη συγκατάθεση του Πελάτη.
 
-(a) is expressly permitted by these Data Processing Terms, including as described in Section 16.1 (Changes to Processor Services);
+16.2 **Αλλαγές στους Όρους Επεξεργασίας Δεδομένων.**  Η Google μπορεί να αλλάξει τους παρόντες Όρους Επεξεργασίας Δεδομένων αν η αλλαγή:
 
-(b) reflects a change in the name or form of a legal entity;
+(α) επιτρέπεται ρητά από τους παρόντες Όρους Επεξεργασίας Δεδομένων, συμπεριλαμβανομένων των όρων που περιγράφονται στην Ενότητα 16.1(Αλλαγές στις Υπηρεσίες Εκτελούντος την Επεξεργασία)**·**
 
-(c) is required to comply with applicable law, applicable regulation, a court order or guidance issued by a governmental regulator or agency; or
+(β) αποτυπώνει μια αλλαγή στο όνομα ή στη μορφή μιας νομικής οντότητας·
 
-(d) does not (i) result in a degradation of the overall security of the Processor Services; (ii) expand the scope of or remove any restrictions on Google’s processing of Customer Personal Data, as described in Section 5.3 (Google’s Compliance with Instructions); and (iii) otherwise have a material adverse impact on Customer’s rights under these Data Processing Terms, as reasonably determined by Google.
+(γ) απαιτείται για τη συμμόρφωση με την ισχύουσα νομοθεσία, τον ισχύοντα κανονισμό, δικαστική απόφαση ή οδηγίες που εκδίδονται από κυβερνητική ρυθμιστική αρχή ή οργανισμό·ή
 
-16.3        **Changes to Standard Contractual Clauses.** Google may only change the Standard Contractual Clauses in accordance with Sections 16.2(b) - 16.2(d) (Changes to Data Processing Terms) or to incorporate any new version of the Standard Contractual Clauses that may be adopted under the European Data Protection Legislation, in each case in a manner that does not affect the validity of the Standard Contractual Clauses under the European Data Protection Legislation.
+(δ) δεν (i) έχει ως αποτέλεσμα την υποβάθμιση της συνολικής ασφάλειας των Υπηρεσιών Εκτελούντος την Επεξεργασία· (ii) διευρύνει το πεδίο εφαρμογής ούτε καταργεί τυχόν περιορισμούς σε σχέση με την επεξεργασία από την Google των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη, όπως περιγράφεται στην Ενότητα 5.3 (Συμμόρφωση της Google με Οδηγίες)· και (iii) έχει με άλλο τρόπο σημαντικό αρνητικό αντίκτυπο στα δικαιώματα του Πελάτη βάσει των παρόντων Όρων Επεξεργασίας Δεδομένων, όπως καθορίζονται εύλογα από την Google.
 
-**Appendix 1:** **Subject Matter and Details of the Data Processing**
----------------------------------------------------------------------
+16.3 **Αλλαγές στις Τυποποιημένες συμβατικές ρήτρες.** Η Google μπορεί να αλλάξει μόνο τις Τυποποιημένες συμβατικές ρήτρες σύμφωνα με τις Ενότητες 16.2 (β) - 16.2 (δ) (Αλλαγές στους Όρους Επεξεργασίας Δεδομένων) ή να ενσωματώσει οποιαδήποτε νέα έκδοση των Τυποποιημένων συμβατικών ρητρών που μπορεί να υιοθετηθεί βάσει της Ευρωπαϊκής Νομοθεσίας για την Προστασία Δεδομένων, σε κάθε περίπτωση με τρόπο που δεν επηρεάζει την εγκυρότητα των Τυποποιημένων συμβατικών ρητρών σύμφωνα με την Ευρωπαϊκή Νομοθεσία για την Προστασία Δεδομένων.
 
-**Subject Matter**
+**Παράρτημα 1: Αντικείμενο και Λεπτομέρειες της Επεξεργασίας Δεδομένων**
+------------------------------------------------------------------------
 
-Google’s provision of the Processor Services and any related technical support to Customer.
+**Αντικείμενο**
 
-**Duration of the Processing**
+Η παροχή από την Google των Υπηρεσιών Εκτελούντος την Επεξεργασία και κάθε σχετικής τεχνικής υποστήριξης στον Πελάτη.
 
-The Term plus the period from expiry of the Term until deletion of all Customer Personal Data by Google in accordance with these Data Processing Terms.
+**Διάρκεια της Επεξεργασίας**
 
-**Nature and Purpose of the Processing**
+Η Διάρκεια Ισχύος συν η περίοδος από τη λήξη της Διάρκειας Ισχύος έως τη διαγραφή του συνόλου των Δεδομένων Προσωπικού Χαρακτήρα Πελάτη από την Google σύμφωνα με τους παρόντες Όρους Επεξεργασίας Δεδομένων.
 
-Google will process (including, as applicable to the Processor Services and the instructions described in Section 5.2 (Customer’s Instructions), collecting, recording, organising, structuring, storing, altering, retrieving, using, disclosing, combining, erasing and destroying) Customer Personal Data for the purpose of providing the Processor Services and any related technical support to Customer in accordance with these Data Processing Terms.
+**Φύση και Σκοπός της Επεξεργασίας**
 
-**Types of Personal Data**
+Η Google θα επεξεργάζεται (μεταξύ άλλων, όπως ισχύει για τις Υπηρεσίες Εκτελούντος την Επεξεργασία και τις οδηγίες που περιγράφονται στην Ενότητα 5.2 (Οδηγίες Πελάτη), θα συλλέγει, θα καταγράφει, θα οργανώνει, θα διαρθρώνει, θα αποθηκεύει, θα τροποποιεί, θα ανακτά, θα χρησιμοποιεί, θα κοινοποιεί, θα συνδυάζει, θα διαγράφει και θα καταστρέφει) τα Δεδομένα Προσωπικού Χαρακτήρα Πελάτη για τον σκοπό της παροχής των Υπηρεσιών Εκτελούντος την Επεξεργασία και οποιασδήποτε σχετικής τεχνικής υποστήριξης στον Πελάτη σύμφωνα με τους παρόντες Όρους Επεξεργασίας Δεδομένων.
 
-The types of personal data that constitute Customer Personal Data are audio and audiovisual content that are uploaded by Customer to YouTube under the terms of the Agreement and processed by Google on behalf of Customer in Google’s provision of the Processor Services.
+**Είδη Δεδομένων Προσωπικού Χαρακτήρα**
 
- **Appendix** **2****:** **Security Measures**
-----------------------------------------------
+Τα είδη δεδομένων προσωπικού χαρακτήρα που αποτελούν Δεδομένα Προσωπικού Χαρακτήρα Πελάτη είναι ηχητικό και οπτικοακουστικό περιεχόμενο που μεταφορτώνεται (upload) από τον Πελάτη στο YouTube σύμφωνα με τους όρους της Συμφωνίας και το οποίο επεξεργάζεται η Google για λογαριασμό του Πελάτη κατά την παροχή των Υπηρεσιών Εκτελούντος την Επεξεργασία από την Google·
 
-As from the Terms Effective Date, Google will implement and maintain the Security Measures set out in this Appendix 2. Google may update or modify such Security Measures from time to time, provided that such updates and modifications do not result in the degradation of the overall security of the Processor Services.
+ **Παράρτημα 2: Μέτρα Ασφαλείας**
+---------------------------------
 
-### 1\.         **Data Centre & Network Security**
+Από την Ημερομηνία Έναρξης Ισχύος των Όρων, η Google θα εφαρμόσει και θα τηρεί τα Μέτρα Ασφαλείας που ορίζονται στο παρόν Παράρτημα 2. Η Google ενδέχεται να επικαιροποιεί ή να τροποποιεί τα εν λόγω Μέτρα Ασφαλείας κατά καιρούς, εφόσον οι εν λόγω επικαιροποιήσεις και τροποποιήσεις δεν έχουν ως αποτέλεσμα την υποβάθμιση της συνολικής ασφάλειας των Υπηρεσιών Εκτελούντος την Επεξεργασία.
 
-(a) Data Centres.
+**1\.**         **Κέντρο Δεδομένων και Ασφάλεια Δικτύου**
 
-Infrastructure. Google maintains geographically distributed data centres. Google stores all production data in physically secure data centres.
+(α) Κέντρα Δεδομένων.
 
-Redundancy. Infrastructure systems have been designed to eliminate single points of failure and minimise the impact of anticipated environmental risks. Dual circuits, switches, networks or other necessary devices help provide this redundancy. The Processor Services are designed to allow Google to perform certain types of preventative and corrective maintenance without interruption. All environmental equipment and facilities have documented preventative maintenance procedures that detail the process for and frequency of performance in accordance with the manufacturer's or internal specifications. Preventative and corrective maintenance of the data centre equipment is scheduled through a standard process according to documented procedures.
+Υποδομή. Η Google διατηρεί γεωγραφικά κατανεμημένα κέντρα δεδομένων. Η Google αποθηκεύει το σύνολο των δεδομένων παραγωγής σε φυσικά ασφαλή κέντρα δεδομένων.
 
-Power. The data centre electrical power systems are designed to be redundant and maintainable without impact to continuous operations, 24 hours a day, and 7 days a week. In most cases, a primary as well as an alternate power source, each with equal capacity, is provided for critical infrastructure components in the data centre. Backup power is provided by various mechanisms such as uninterruptible power supply (UPS) batteries, which supply consistently reliable power protection during utility brownouts, blackouts, over voltage, under voltage, and out-of-tolerance frequency conditions. If utility power is interrupted, backup power is designed to provide transitory power to the data centre, at full capacity, for up to 10 minutes until the diesel generator systems take over. The diesel generators are capable of automatically starting up within seconds to provide enough emergency electrical power to run the data centre at full capacity typically for a period of days.
+Εφεδρεία. Τα συστήματα υποδομής έχουν σχεδιαστεί για να εξαλείψουν μεμονωμένα σημεία αποτυχίας (single points of failure) και να ελαχιστοποιήσουν τις επιπτώσεις των αναμενόμενων περιβαλλοντικών κινδύνων. Παράλληλα κυκλώματα, διακόπτες, δίκτυα και άλλες απαραίτητες συσκευές συμβάλλουν στην παροχή των εν λόγω εφεδρειών. Οι Υπηρεσίες Εκτελούντος την Επεξεργασία έχουν σχεδιαστεί για να επιτρέψουν στην Google να εκτελεί ορισμένους τύπους προληπτικής και διορθωτικής συντήρησης χωρίς διακοπή. Το σύνολο του περιβαλλοντικού εξοπλισμού και των εγκαταστάσεων έχουν τεκμηριωμένες προληπτικές διαδικασίες συντήρησης που καθορίζουν λεπτομερώς τη διαδικασία και τη συχνότητα απόδοσης σύμφωνα με τις προδιαγραφές του κατασκευαστή ή τις εσωτερικές προδιαγραφές. Η προληπτική και διορθωτική συντήρηση του εξοπλισμού του κέντρου δεδομένων προγραμματίζεται μέσω μιας τυποποιημένης διαδικασίας σύμφωνα με τεκμηριωμένες διαδικασίες.
 
-Server Operating Systems. Google servers use hardened operating systems which are customised for the unique server needs of the business. Data is stored using proprietary algorithms to augment data security and redundancy. Google employs a code review process to increase the security of the code used to provide the Processor Services and enhance the security products in production environments.
+Ενέργεια. Τα συστήματα ηλεκτρικής ενέργειας του κέντρου δεδομένων είναι σχεδιασμένα να διαθέτουν εφεδρείες και να συντηρούνται χωρίς να επηρεάζουν τις συνεχείς λειτουργίες, 24 ώρες το 24ωρο, 7 ημέρες την εβδομάδα. Στις περισσότερες περιπτώσεις παρέχεται πρωτογενής καθώς και εναλλακτική πηγή ενέργειας, έκαστη με την ίδια δυναμικότητα, για κρίσιμης σημασίας στοιχεία υποδομής στο κέντρο δεδομένων. Παρέχεται εφεδρική ισχύς από διάφορους μηχανισμούς όπως μπαταρίες αδιάλειπτης παροχής ενέργειας (UPS), που παρέχουν με συνέπεια αξιόπιστη προστασία ενέργειας κατά τη διάρκεια πτώσεων τάσης ρεύματος, διακοπών ηλεκτρικού ρεύματος, υψηλής τάση, χαμηλής τάση, και συνθηκών συχνότητας εκτός των ορίων ανοχής. Αν διακοπεί η παροχή ενέργειας, η εφεδρική τροφοδοσία ενέργειας έχει σχεδιαστεί να παρέχει μεταβατική ενέργεια στο κέντρο δεδομένων, πλήρους δυναμικότητας, για έως και 10 λεπτά μέχρι τη λειτουργία των συστημάτων γεννητριών πετρελαίου. Οι γεννήτριες πετρελαίου μπορούν να ξεκινήσουν αυτόματα εντός δευτερολέπτων για την παροχή επαρκούς ηλεκτρικής ενέργειας έκτακτης ανάγκης για τη λειτουργία του κέντρου δεδομένων με πλήρη δυναμικότητα, συνήθως για κάποιες ημέρες.
 
-Businesses Continuity. Google replicates data over multiple systems to help to protect against accidental destruction or loss. Google has designed and regularly plans and tests its business continuity planning/disaster recovery programs.
+Λειτουργικά Συστήματα Διακομιστών. Οι διακομιστές της Google χρησιμοποιούν ισχυρά λειτουργικά συστήματα τα οποία είναι προσαρμοσμένα στις ανάγκες κάθε διακομιστή της επιχείρησης. Τα δεδομένα αποθηκεύονται με τη χρήση ιδιόκτητων αλγόριθμων για την αύξηση της ασφάλειας των δεδομένων και των εφεδρειών. Η Google χρησιμοποιεί μια διαδικασία επισκόπησης κώδικα για την αύξηση της ασφάλειας του κώδικα που χρησιμοποιείται για την παροχή των Υπηρεσιών Εκτελούντος την Επεξεργασία και την ενίσχυση των προϊόντων ασφαλείας σε περιβάλλοντα παραγωγής.
 
-(b) Networks & Transmission.
+Επιχειρησιακή Συνέχεια. Η Google αναπαράγει δεδομένα σε πολλά συστήματα για να συμβάλει στην προστασία από τυχαία καταστροφή ή απώλεια. Η Google έχει σχεδιάσει και προγραμματίζει τακτικά και δοκιμάζει τα προγράμματα σχεδιασμού επιχειρησιακής συνέχειας/ αποκατάστασης καταστροφών.
 
-Data Transmission. Data centres are typically connected via high-speed private links to provide secure and fast data transfer between data centres. This is designed to prevent data from being read, copied, altered or removed without authorisation during electronic transfer or transport or while being recorded onto data storage media. Google transfers data via Internet standard protocols.
+(β) Δίκτυα & Μετάδοση.
 
-External Attack Surface. Google employs multiple layers of network devices and intrusion detection to protect its external attack surface. Google considers potential attack vectors and incorporates appropriate purpose built technologies into external facing systems.
+Διαβίβαση Δεδομένων. Τα κέντρα δεδομένων συνδέονται συνήθως μέσω ιδιωτικών συνδέσεων υψηλής ταχύτητας για την παροχή ασφαλούς και ταχείας μετάδοσης δεδομένων μεταξύ των κέντρων δεδομένων. Έχει σχεδιαστεί με σκοπό να εμποδίσει την ανάγνωση, αντιγραφή, τροποποίηση ή διαγραφή των δεδομένων χωρίς εξουσιοδότηση κατά τη διάρκεια ηλεκτρονικής διαβίβασης ή διαμετακόμισης ή ενόσω καταγράφονται σε μέσα αποθήκευσης δεδομένων. Η Google διαβιβάζει τα δεδομένα μέσω πρότυπων πρωτοκόλλων διαδικτύου.
 
-Intrusion Detection. Intrusion detection is intended to provide insight into ongoing attack activities and provide adequate information to respond to incidents. Google’s intrusion detection involves:
+Επιφάνεια Εξωτερικής Επίθεσης. Η Google χρησιμοποιεί πολλαπλά επίπεδα συσκευών δικτύου και ανίχνευσης εισβολών για την προστασία της εξωτερικής της επιφάνειας επίθεσης. Η Google λαμβάνει υπόψη της τους δυνητικούς φορείς επιθέσεων και ενσωματώνει κατάλληλες ειδικά κατασκευασμένες τεχνολογίες στα εξωστρεφή συστήματα.
 
-1\. Tightly controlling the size and make-up of Google’s attack surface through preventative measures;
+Ανίχνευση Εισβολών. Η ανίχνευση εισβολών έχει σκοπό να παρέχει πληροφορίες για συνεχιζόμενες δραστηριότητες επιθέσεων καθώς και επαρκείς πληροφορίες για την αντιμετώπιση περιστατικών. Η ανίχνευση επιθέσεων της Google περιλαμβάνει:
 
-2\. Employing intelligent detection controls at data entry points; and
+1\. Ακριβή έλεγχο του μεγέθους και της σύνθεσης της επιφάνειας επιθέσεων της Google μέσω της λήψης προληπτικών μέτρων·
 
-3\. Employing technologies that automatically remedy certain dangerous situations.
+2\. Χρήση ευφυών ελέγχων ανίχνευσης σε σημεία εισόδου δεδομένων· και
 
-Incident Response. Google monitors a variety of communication channels for security incidents, and Google’s security personnel will react promptly to known incidents.
+3\. Χρήση τεχνολογιών που αντιμετωπίζουν αυτόματα ορισμένες επικίνδυνες καταστάσεις.
 
-Encryption Technologies. Google makes HTTPS encryption (also referred to as SSL or TLS connection) available. Google servers support ephemeral elliptic curve Diffie Hellman cryptographic key exchange signed with RSA and ECDSA. These perfect forward secrecy (PFS) methods help protect traffic and minimise the impact of a compromised key, or a cryptographic breakthrough.
+Αντιμετώπιση Περιστατικού. Η Google παρακολουθεί πολλά κανάλια επικοινωνίας για περιστατικά ασφαλείας και το προσωπικό ασφαλείας της Google θα αντιδρά άμεσα σε γνωστά περιστατικά.
 
-### 2\.         **Access and Site Controls**
+Τεχνολογίες Κρυπτογράφησης. Η Google καθιστά διαθέσιμη την κρυπτογράφηση HTTPS (επίσης γνωστή ως σύνδεση SSL ή TLS). Οι διακομιστές της Google υποστηρίζουν εφήμερη ελλειπτικής καμπύλης κρυπτογραφημένη ανταλλαγή κλειδιού με τη μέθοδο Diffie-Hellman με υπογραφή RSA και ECDSA. Αυτές οι μέθοδοι άριστης και άμεσης εμπιστευτικότητας (PFS) συμβάλλουν στην προστασία της κυκλοφορίας και ελαχιστοποιούν τις επιπτώσεις ενός παραβιασμένου κλειδιού ή μιας παραβίασης κρυπτογράφησης.
 
-(a) Site Controls.
+**2\.**         **Πρόσβαση και Έλεγχοι Εγκαταστάσεων**
 
-On-site Data Centre Security Operation. Google’s data centres maintain an on-site security operation responsible for all physical data centre security functions 24 hours a day, 7 days a week. The on-site security operation personnel monitor Closed Circuit TV (“**CCTV**”) cameras and all alarm systems. On-site security operation personnel perform internal and external patrols of the data centre regularly.
+(α) Έλεγχοι Εγκαταστάσεων.
 
-Data Centre Access Procedures. Google maintains formal access procedures for allowing physical access to the data centres. The data centres are housed in facilities that require electronic card key access, with alarms that are linked to the on-site security operation. All entrants to the data centre are required to identify themselves as well as show proof of identity to on-site security operations. Only authorised employees, contractors and visitors are allowed entry to the data centres. Only authorised employees and contractors are permitted to request electronic card key access to these facilities. Data centre electronic card key access requests must be made in advance and in writing, and require the approval of the requestor’s manager and the data centre director. All other entrants requiring temporary data centre access must: (i) obtain approval in advance from the data centre managers for the specific data centre and internal areas they wish to visit; (ii) sign in at on-site security operations; and (iii) reference an approved data centre access record identifying the individual as approved.
+Λειτουργία Ασφαλείας του Κέντρου Δεδομένων της Εγκατάστασης. Τα κέντρα δεδομένων της Google διατηρούν μια επιτόπια λειτουργία ασφαλείας που ευθύνεται για όλες τις λειτουργίες ασφαλείας των φυσικών κέντρων δεδομένων 24 ώρες το 24ωρο, 7 ημέρες την εβδομάδα. Το προσωπικό επιχειρησιακής ασφάλειας στην εγκατάσταση παρακολουθεί τις κάμερες του Κλειστού Κυκλώματος Τηλεόρασης («**CCTV**») και όλα τα συστήματα συναγερμού. Το προσωπικό επιχειρησιακής ασφάλειας στην εγκατάσταση πραγματοποιεί τακτικά εσωτερικές και εξωτερικές περιπολίες στο κέντρο δεδομένων.
 
-On-site Data Centre Security Devices. Google’s data centres employ an electronic card key and biometric access control system that is linked to a system alarm. The access control system monitors and records each individual’s electronic card key and when they access perimeter doors, shipping and receiving, and other critical areas. Unauthorised activity and failed access attempts are logged by the access control system and investigated, as appropriate. Authorised access throughout the business operations and data centres is restricted based on zones and the individual’s job responsibilities. The fire doors at the data centres are alarmed. CCTV cameras are in operation both inside and outside the data centres. The positioning of the cameras has been designed to cover strategic areas including, among others, the perimeter, doors to the data centre building, and shipping/receiving. On-site security operations personnel manage the CCTV monitoring, recording and control equipment. Secure cables throughout the data centres connect the CCTV equipment. Cameras record on-site via digital video recorders 24 hours a day, 7 days a week. The surveillance records are retained for at least 7 days based on activity.
+Διαδικασίες Πρόσβασης στο Κέντρο Δεδομένων. Η Google διατηρεί επίσημες διαδικασίες πρόσβασης για να επιτρέψει τη φυσική πρόσβαση στα κέντρα δεδομένων. Τα κέντρα δεδομένων στεγάζονται σε εγκαταστάσεις στις οποίες η πρόσβαση απαιτεί τη χρήση ηλεκτρονικής κάρτας-κλειδιού, με συναγερμούς που συνδέονται με τη λειτουργία ασφαλείας στην εγκατάσταση. Όσοι εισέρχονται στο κέντρο δεδομένων πρέπει να δηλώνουν την ταυτότητά τους καθώς και να υποβάλλουν αποδεικτικό ταυτότητας στις λειτουργίες ασφαλείας της εγκατάστασης. Μόνο εξουσιοδοτημένοι υπάλληλοι, εργολάβοι και επισκέπτες επιτρέπεται να εισέρχονται στα κέντρα δεδομένων. Μόνο εξουσιοδοτημένοι υπάλληλοι και εργολάβοι επιτρέπεται να ζητούν πρόσβαση στις εν λόγω εγκαταστάσεις μέσω της χρήσης ηλεκτρονικής κάρτας-κλειδιού. Τα αιτήματα πρόσβασης στο κέντρο δεδομένων με τη χρήση ηλεκτρονικής κάρτας-κλειδιού πρέπει να υποβάλλονται εκ των προτέρων και γραπτώς, και απαιτείται έγκριση από τον διευθυντή του αιτούντος και τον διευθυντή του κέντρου δεδομένων. Όλοι οι υπόλοιποι οι οποίοι εισέρχονται ζητώντας προσωρινή πρόσβαση στο κέντρο δεδομένων πρέπει: (i) να λάβουν εκ των προτέρων έγκριση από τους διευθυντές του κέντρου δεδομένων για το συγκεκριμένο κέντρο δεδομένων και τις εσωτερικές περιοχές που επιθυμούν να επισκεφθούν· (ii) να εγγραφούν στις λειτουργίες ασφαλείας της εγκατάστασης· και (iii) να αναφέρουν ένα εγκεκριμένο αρχείο πρόσβασης στο κέντρο δεδομένων που αναγνωρίζει το άτομο ως εξουσιοδοτημένο.
 
-(b) Access Control.
+Συσκευές Ασφαλείας του Κέντρου Δεδομένων της Εγκατάστασης. Τα κέντρα δεδομένων της Google χρησιμοποιούν μία ηλεκτρονική κάρτα-κλειδί και ένα βιομετρικό σύστημα ελέγχου πρόσβασης που συνδέεται με έναν συναγερμό συστήματος. Το σύστημα ελέγχου πρόσβασης παρακολουθεί και καταγράφει την ηλεκτρονική κάρτα-κλειδί κάθε ατόμου και κατά την πρόσβαση στις περιμετρικές πόρτες, στις περιοχές αποστολής και λήψης, καθώς και σε άλλες κρίσιμες περιοχές. Η μη εξουσιοδοτημένη δραστηριότητα και οι αποτυχημένες απόπειρες πρόσβασης καταγράφονται από το σύστημα ελέγχου πρόσβασης και διερευνώνται, κατά περίπτωση. Η εξουσιοδοτημένη πρόσβαση σε όλες τις επιχειρησιακές δραστηριότητες και τα κέντρα δεδομένων περιορίζεται βάσει ζωνών και καθηκόντων κάθε ατόμου. Οι θύρες πυρασφάλειας στα κέντρα δεδομένων είναι εξοπλισμένες με συναγερμό. Οι κάμερες του κλειστού κυκλώματος τηλεόρασης (CCTV) λειτουργούν τόσο εντός όσο και εκτός των κέντρων δεδομένων. Η τοποθέτηση των καμερών έχει σχεδιαστεί για να καλύπτει στρατηγικές περιοχές, συμπεριλαμβανομένων, μεταξύ άλλων, τις περιμετρικές πόρτες του κτηρίου του κέντρου δεδομένων, καθώς και των περιοχών αποστολής/λήψης. Το επιχειρησιακό προσωπικό ασφαλείας στην εγκατάσταση διαχειρίζεται τον εξοπλισμό του κλειστού κυκλώματος τηλεόρασης (CCTV), τον εξοπλισμό καταγραφής και ελέγχου. Ασφαλή καλώδια στα κέντρα δεδομένων συνδέουν τον εξοπλισμό CCTV. Οι κάμερες καταγράφουν επιτόπου μέσω συσκευών ψηφιακής εγγραφής 24 ώρες το 24ωρο, 7 ημέρες την εβδομάδα. Τα αρχεία παρακολούθησης διατηρούνται για τουλάχιστον 7 ημέρες με βάση τη δραστηριότητα.
 
-Infrastructure Security Personnel. Google has, and maintains, a security policy for its personnel, and requires security training as part of the training package for its personnel. Google’s infrastructure security personnel are responsible for the ongoing monitoring of Google’s security infrastructure, the review of the Processor Services, and responding to security incidents.
+(β) Έλεγχος πρόσβασης.
 
-Access Control and Privilege Management. Customer's administrators and users must authenticate themselves via a central authentication system or via a single sign on system in order to use the Processor Services.
+Προσωπικό Ασφαλείας Υποδομών. Η Google διαθέτει, και διατηρεί, μια πολιτική ασφαλείας για το προσωπικό της, και απαιτεί εκπαίδευση ασφάλειας στο πλαίσιο του προγράμματος εκπαίδευσης για το προσωπικό της. Το προσωπικό ασφαλείας υποδομών της Google είναι υπεύθυνο για τη συνεχή παρακολούθηση της υποδομής ασφαλείας της Google, την επισκόπηση των Υπηρεσιών Εκτελούντος την Επεξεργασία και την αντιμετώπιση περιστατικών ασφαλείας.
 
-Internal Data Access Processes and Policies – Access Policy. Google’s internal data access processes and policies are designed to prevent unauthorised persons and/or systems from gaining access to systems used to process personal data. Google aims to design its systems to: (i) only allow authorised persons to access data they are authorised to access; and (ii) ensure that personal data cannot be read, copied, altered or removed without authorisation during processing, use and after recording. The systems are designed to detect any inappropriate access. Google employs a centralised access management system to control personnel access to production servers, and only provides access to a limited number of authorised personnel. LDAP, Kerberos and a proprietary system utilising SSH certificates are designed to provide Google with secure and flexible access mechanisms. These mechanisms are designed to grant only approved access rights to site hosts, logs, data and configuration information. Google requires the use of unique user IDs, strong passwords, two factor authentication and carefully monitored access lists to minimise the potential for unauthorised account use. The granting or modification of access rights is based on: the authorised personnel’s job responsibilities; job duty requirements necessary to perform authorised tasks; and a need to know basis. The granting or modification of access rights must also be in accordance with Google’s internal data access policies and training. Approvals are managed by workflow tools that maintain audit records of all changes. Access to systems is logged to create an audit trail for accountability. Where passwords are employed for authentication (e.g. login to workstations), password policies that follow at least industry standard practices are implemented. These standards include restrictions on password reuse and sufficient password strength.
+Έλεγχος Πρόσβασης και Διαχείριση Προνομίων. Οι διαχειριστές του Πελάτη και οι χρήστες πρέπει να πιστοποιήσουν την ταυτότητά τους μέσω ενός κεντρικού συστήματος πιστοποίησης ή μέσω ενός μοναδικού αναγνωριστικού συστήματος σύνδεσης προκειμένου να χρησιμοποιήσουν τις Υπηρεσίες Εκτελούντος την Επεξεργασία.
 
-### 3\.         **Data**
+Εσωτερικές Διαδικασίες και Πολιτικές Πρόσβασης στα Δεδομένα - Πολιτική Πρόσβασης. Οι εσωτερικές διαδικασίες και πολιτικές πρόσβασης στα δεδομένα έχουν σχεδιαστεί για την αποτροπή της πρόσβασης μη εξουσιοδοτημένων προσώπων ή/και συστημάτων σε συστήματα που χρησιμοποιούνται για την επεξεργασία δεδομένων προσωπικού χαρακτήρα. Η Google επιδιώκει να σχεδιάσει τα συστήματά της: (i) για να επιτρέπει μόνο σε εξουσιοδοτημένα πρόσωπα να έχουν πρόσβαση σε εκείνα τα δεδομένα για τα οποία είναι εξουσιοδοτημένα να έχουν πρόσβαση· και (ii) για να διασφαλίζει ότι τα δεδομένα προσωπικού χαρακτήρα δεν μπορούν να αναγνωστούν, αντιγραφούν, τροποποιηθούν ή αφαιρεθούν χωρίς εξουσιοδότηση κατά τη διάρκεια επεξεργασίας, χρήσης και μετά την καταγραφή. Τα συστήματα έχουν σχεδιαστεί με τρόπο τέτοιον ώστε να ανιχνεύουν τυχόν μη εξουσιοδοτημένη πρόσβαση. Η Google χρησιμοποιεί ένα κεντρικό σύστημα διαχείρισης πρόσβασης για τον έλεγχο της πρόσβασης του προσωπικού στους διακομιστές παραγωγής, και παρέχει πρόσβαση μόνο σε περιορισμένο αριθμό εξουσιοδοτημένου προσωπικού. Το πρωτόκολλο LDAP, το σύστημα Kerberos και ένα ιδιόκτητο σύστημα που χρησιμοποιεί πιστοποιητικά SSH έχουν σχεδιαστεί για να παρέχουν στην Google ασφαλείς και ευέλικτους μηχανισμούς πρόσβασης. Οι εν λόγω μηχανισμοί έχουν σχεδιαστεί για να παρέχουν μόνο εγκεκριμένα δικαιώματα πρόσβασης στους κεντρικούς υπολογιστές (site hosts), τα αρχεία καταγραφής (logs), τα δεδομένα και τις πληροφορίες διαμόρφωσης (configuration). Η Google απαιτεί τη χρήση μοναδικών αναγνωριστικών χρήστη, ισχυρών κωδικών πρόσβασης, ελέγχου ταυτότητας δύο παραγόντων και προσεκτικά επιτηρούμενων καταλόγων πρόσβασης, ώστε να ελαχιστοποιηθεί η πιθανότητα μη εξουσιοδοτημένης χρήσης κάποιου λογαριασμού. Η χορήγηση ή η τροποποίηση δικαιωμάτων πρόσβασης βασίζεται στις αρμοδιότητες του εξουσιοδοτημένου προσωπικού, στις απαιτήσεις των εργασιών που απαιτούνται για την εκτέλεση των εξουσιοδοτημένων καθηκόντων και με βάση την ανάγκη των αρμοδίων προσώπων να γνωρίζουν (need to know basis). Η χορήγηση ή η τροποποίηση δικαιωμάτων πρόσβασης πρέπει επίσης να συνάδει με τις εσωτερικές πολιτικές και την εκπαίδευση της Google σε σχέση με την πρόσβαση στα δεδομένα. Η διαχείριση των εγκρίσεων πραγματοποιείται μέσω εργαλείων ροής εργασιών που διατηρούν αρχεία ελέγχου όλων των αλλαγών. Η πρόσβαση στα συστήματα καταγράφεται για τη δημιουργία μιας διαδρομής ελέγχου για σκοπούς λογοδοσίας. Όπου χρησιμοποιούνται κωδικοί πρόσβασης για έλεγχο της ταυτότητας (πχ. σύνδεση σε σταθμούς εργασίας), εφαρμόζονται πολιτικές πρόσβασης που συμμορφώνονται τουλάχιστον με τις τυποποιημένες πρακτικές του κλάδου. Τα εν λόγω πρότυπα περιλαμβάνουν περιορισμούς σε σχέση με την επαναχρησιμοποίηση των κωδικών πρόσβασης και την επαρκή ισχύ κωδικού πρόσβασης.
 
-(a) Data Storage, Isolation & Authentication.
+**3\.**         **Δεδομένα**
 
-Google stores data in a multi-tenant environment on Google-owned servers. Data, the Processor Services database and file system architecture are replicated between multiple geographically dispersed data centres. Google logically isolates each customer's data. A central authentication system is used across all Processor Services to increase uniform security of data.
+(α) Αποθήκευση, απομόνωση και έλεγχος ταυτότητας δεδομένων.
 
-(b) Decommissioned Disks and Disk Destruction Guidelines.
+Η Google αποθηκεύει δεδομένα σε περιβάλλον πολλαπλών χρηστών στους διακομιστές που ανήκουν στην Google. Τα δεδομένα, η βάση δεδομένων των Υπηρεσιών Εκτελούντος την Επεξεργασία και η αρχιτεκτονική του συστήματος αρχείων αντιγράφονται μεταξύ πολλαπλών, γεωγραφικά διασκορπισμένων κέντρων δεδομένων. Η Google απομονώνει λογικά τα δεδομένα κάθε πελάτη. Χρησιμοποιείται ένα κεντρικό σύστημα ελέγχου ταυτότητας σε όλες τις Υπηρεσίες Εκτελούντος την Επεξεργασία για την αύξηση της ομοιόμορφης ασφάλειας δεδομένων.
 
-Certain disks containing data may experience performance issues, errors or hardware failure that lead them to be decommissioned (“**Decommissioned Disk**”). Every Decommissioned Disk is subject to a series of data destruction processes (the “**Data** **Destruction Guidelines**”) before leaving Google’s premises either for reuse or destruction. Decommissioned Disks are erased in a multi-step process and verified complete by at least two independent validators. The erase results are logged by the Decommissioned Disk’s serial number for tracking. Finally, the erased Decommissioned Disk is released to inventory for reuse and redeployment. If, due to hardware failure, the Decommissioned Disk cannot be erased, it is securely stored until it can be destroyed. Each facility is audited regularly to monitor compliance with the Data Destruction Guidelines.
+(β) Δίσκοι που τίθενται εκτός Λειτουργίας και Οδηγίες Καταστροφής Δίσκων.
 
-### 4\.         **Personnel Security**
+Ορισμένοι δίσκοι που περιέχουν δεδομένα ενδέχεται να παρουσιάσουν προβλήματα επιδόσεων, σφάλματα ή βλάβες υλικού που έχουν ως αποτέλεσμα να τεθούν εκτός λειτουργίας («**Δίσκος που τίθεται εκτός Λειτουργίας**»). Κάθε Δίσκος που τίθεται εκτός Λειτουργίας υπόκειται σε μια σειρά διαδικασιών καταστροφής δεδομένων («**Οδηγίες Καταστροφής Δεδομένων**») πριν απομακρυνθούν από τις εγκαταστάσεις της Google είτε για επαναχρησιμοποίηση είτε για καταστροφή. Οι Δίσκοι που τίθενται εκτός Λειτουργίας διαγράφονται στο πλαίσιο μιας διαδικασίας πολλαπλών βημάτων και επαληθεύονται πλήρως από τουλάχιστον δύο ανεξάρτητους ελεγκτές. Τα αποτελέσματα της διαγραφής καταγράφονται λαμβάνοντας τον σειριακό αριθμό του Δίσκου που τίθεται εκτός Λειτουργίας ώστε να μπορούν να εντοπίζονται. Τέλος, ο διαγραφείς Δίσκος που έχει τεθεί εκτός Λειτουργίας εντάσσεται στο απόθεμα για επαναχρησιμοποίηση (reuse) ή αναδιάταξη (redeployment). Αν, εξαιτίας της αποτυχίας υλικού, ο Δίσκος που έχει τεθεί εκτός Λειτουργίας δεν μπορεί να διαγραφεί, αποθηκεύεται με ασφάλεια μέχρι τη στιγμή που μπορεί να καταστραφεί. Κάθε εγκατάσταση ελέγχεται τακτικά για την παρακολούθηση της συμμόρφωσης με τις Οδηγίες Καταστροφής Δεδομένων.
 
-Google personnel are required to conduct themselves in a manner consistent with the company’s guidelines regarding confidentiality, business ethics, appropriate usage, and professional standards. Google conducts reasonably appropriate backgrounds checks to the extent legally permissible and in accordance with applicable local labor law and statutory regulations.
+**4\.**         **Ασφάλεια Προσωπικού**
 
-Personnel are required to execute a confidentiality agreement and must acknowledge receipt of, and compliance with, Google’s confidentiality and privacy policies. Personnel are provided with security training. Personnel handling Customer Personal Data are required to complete additional requirements appropriate to their role. Google’s personnel will not process Customer Personal Data without authorisation.
+Το προσωπικό της Google πρέπει να συμπεριφέρεται με τρόπο που συνάδει με τις οδηγίες της εταιρείας σε σχέση με την εμπιστευτικότητα, την επαγγελματική δεοντολογία, την κατάλληλη χρήση και τα επαγγελματικά πρότυπα. Η Google διενεργεί ευλόγως κατάλληλους ελέγχους ιστορικού στον βαθμό που είναι νόμιμα αποδεκτό και σύμφωνα με την ισχύουσα τοπική εργατική νομοθεσία και τις ισχύουσες νομοθετικές ρυθμίσεις.
 
-### 5\.         **Subprocessor Security**
+Το προσωπικό υποχρεούται να υπογράψει σύμβαση εμπιστευτικότητα και πρέπει να επιβεβαιώσει την λήψη και τη συμμόρφωση με τις πολιτικές εμπιστευτικότητας και απορρήτου της Google. Στο προσωπικό παρέχεται εκπαίδευση για την ασφάλεια. Το προσωπικό που χειρίζεται Δεδομένα Προσωπικού Χαρακτήρα Πελάτη απαιτείται να εκπληρώσει πρόσθετες απαιτήσεις που είναι κατάλληλες για τον ρόλο του. Το προσωπικό της Google δεν θα επεξεργάζεται Δεδομένα Προσωπικού Χαρακτήρα Πελάτη χωρίς άδεια.
 
-Before onboarding Subprocessors, Google conducts an audit of the security and privacy practices of Subprocessors to ensure Subprocessors provide a level of security and privacy appropriate to their access to data and the scope of the services they are engaged to provide. Once Google has assessed the risks presented by the Subprocessor then, subject always to the requirements set out in Section 11.3 (Requirements for Subprocessor Engagement), the Subprocessor is required to enter into appropriate security, confidentiality and privacy contract terms.
+**5\.**         **Ασφάλεια Υπεργολάβου Επεξεργασίας**
+
+Πριν την ανάθεση σε Υπεργολάβους Επεξεργασίας, η Google διενεργεί έλεγχο των πρακτικών ασφαλείας και προστασίας απορρήτου των Υπεργολάβων Επεξεργασίας για να διασφαλίσει ότι οι Υπεργολάβοι Ασφαλείας παρέχουν ένα επίπεδο ασφάλειας και προστασίας του απορρήτου που ενδείκνυται για την πρόσβαση στα δεδομένα και για το εύρος των υπηρεσιών που έχουν δεσμευτεί να παρέχουν. Μόλις η Google αξιολογήσει τους κινδύνους που παρουσιάστηκαν από τους Υπεργολάβους Επεξεργασίας τότε, με την επιφύλαξη πάντα των απαιτήσεων που ορίζονται στην Ενότητα 11.3 (Απαιτήσεις για την Πρόσληψη των Υπεργολάβων Επεξεργασίας), ο Υπεργολάβος Επεξεργασίας υποχρεούται να συμφωνήσει με τους κατάλληλους συμβατικούς όρους ασφάλειας, εμπιστευτικότητας και απορρήτου.
