@@ -62,7 +62,7 @@ We have a reporting and complaints procedure to review potentially unlawful cont
 
 --------------------------
 
-The statutory warranty rights to which you are entitled apply. Further information on this can be found in the general terms and conditions. You also have the option of [**downloading and archiving the general terms and conditions.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a812d5b6-a01e-43ff-99cd-be1141e887f2.pdf)
+The statutory warranty rights to which you are entitled apply. Further information on this can be found in the general terms and conditions. You also have the option of [**downloading and archiving the general terms and conditions.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a1b68227-7add-480c-83c8-68c1fd7eaead.pdf)
 
 **Reporting and complaints procedure; out-of-court dispute resolution**  
 
@@ -75,7 +75,7 @@ Before suspending the processing of reports and complaints, we shall issue a war
 Standard Terms and Conditions
 =============================
 
-[**Downloading and Archiving the General Terms and Conditions as PDF**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a812d5b6-a01e-43ff-99cd-be1141e887f2.pdf)
+[**Downloading and Archiving the General Terms and Conditions as PDF**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a1b68227-7add-480c-83c8-68c1fd7eaead.pdf)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Standard Terms and Conditions (T&Cs) for orders placed online at www.zalando.ie**  
@@ -110,8 +110,8 @@ All Zalando partners are Business Traders.
 ------------------------------------------------------
 
 2.1 The prices set out in the offer as at the date on which the order is placed shall apply. The stated prices are final prices (totals), in other words they include Irish value added tax at the applicable statutory rate. The merchandise remains our property or the property of the relevant Zalando partner, as the case may be, until full payment of the purchase price.  
-2.2 We assume the costs of shipping for all orders with a minimum order basket value of €30.00.  
-2.3 Shipping costs amount to €3.90 including VAT for all orders with a value of less than €30.00, as indicated on the product detail page and in the shopping cart when placing the order. The fee relates to costs resulting from the size of the order, inter alia shipping handling and other services. The costs accrue and are levied by Zalando. In case that the customer returns the goods within the procedure and in accordance with this contract and the applicable law, the shipping costs will be refunded.  
+2.2 We assume the costs of shipping for all orders with a minimum order basket value of €39.00.  
+2.3 Shipping costs amount to €3.90 including VAT for all orders with a value of less than €39.00, as indicated on the product detail page and in the shopping cart when placing the order. The fee relates to costs resulting from the size of the order, inter alia shipping handling and other services. The costs accrue and are levied by Zalando. In case that the customer returns the goods within the procedure and in accordance with this contract and the applicable law, the shipping costs will be refunded.  
 2.4 Express delivery is available for certain orders. When placing your order, you will see whether this option is available for your particular order as well as the costs of this option. Merchandise will be delivered within 2 working days at the latest. If the merchandise does not arrive within that delivery period, you will of course receive a refund of the delivery costs.  
 2.5 Depending on where your item is being shipped from, long-distance delivery fees of €3.90 including VAT may apply. We will inform you accordingly before your order is placed if long-distance delivery fees apply for the item selected. Long-distance delivery costs accrue and are levied by Zalando. If you decide to return any item for which long-distance delivery fees have been charged, we will refund the long-distance delivery fees if the full order is returned. Your statutory rights remain unaffected.
 
@@ -210,7 +210,7 @@ Please refer to [**our help pages or contact our customer service via this link.
 10.3 Quality conditions of the Zalando-pre-owned merchandise: Since Zalando-Pre-owned merchandise are second-hand goods, usual signs of use, which can be expected due to the used quality of the goods, do not constitute a defect. For such usual signs of use or properties of the goods, which were already evident from the description of the item, no rights of redress exist.  
 10.4 For further information in respect of the Zalando Trade In Option for unworn and worn pre-owned clothing, please [**see the Conditions for Trade In Option.**](https://www.zalando.ie/faq/Conditions-for-the-Trade-In-Option.html)  
 10.5 These T&Cs can be viewed at [**www.zalando.ie.**](https://www.zalando.ie/zalando-terms) You can also print or save this document by selecting the usual commands in your web browser (usually File -> Save as).  
-You can also [**download and archive this document as a PDF.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a812d5b6-a01e-43ff-99cd-be1141e887f2.pdf)  
+You can also [**download and archive this document as a PDF.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a1b68227-7add-480c-83c8-68c1fd7eaead.pdf)  
 To open the PDF file, you will need Adobe Reader, which you can download for free at www.adobe.de, or a similar PDF viewer.  
 10.6 You can also easily archive your order details by either downloading the T&Cs and using the appropriate commands in your browser to save the order summary appearing on the last page of the online shop ordering process, or by waiting to receive the automatic order confirmation which we also send to your nominated e-mail address upon completion of your order. The order confirmation e-mail includes your order details and our T&Cs and can be easily printed out or saved with your e-mail programme.  
 10.7 As a customer, you have the option to contact a local ADR organ in the event of any dispute which you have been unable to settle directly with Zalando SE. You can use the ADR to try to reach an out-of-court settlement, which usually is easier, quicker and cheaper than initiating a legal action in court. Please, however, note that the possibility to use ADR is available only if you live within the EU and the trader is based in the EU.  
@@ -287,4 +287,4 @@ Registered with the Local Court (Amtsgericht) of Charlottenburg Berlin, HRB 1588
 VAT ID: DE 260543043  
 Local WEEE & BATT-Reg.- PRL Nr: 3349WB
 
-Last updated: 27.04.2026
+Last updated: 18.05.2026
