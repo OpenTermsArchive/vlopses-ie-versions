@@ -163,7 +163,7 @@ Subscribe to the [YouTube Creators channel](https://www.youtube.com/channel/UCkR
 
 |     |     |
 | --- | --- |
-|     | Spam & deceptive practices<br>--------------------------<br><br>The YouTube Community is one that's built on trust. Content that intends to scam, mislead, spam, or defraud other users isn't allowed on YouTube.<br><br>*   [Spam, deceptive practices, & scams policies](https://support.google.com/youtube/answer/2801973)<br>*   [Impersonation policy](https://support.google.com/youtube/answer/2801947)<br>*   [External links policy](https://support.google.com/youtube/answer/9054257)<br>*   [Fake engagement policy](https://support.google.com/youtube/answer/3399767)<br>*   [Playlists policy](https://support.google.com/youtube/answer/9713446)<br>*   [Additional policies](https://support.google.com/youtube/answer/2801981) |
+|     | Spam & deceptive practices<br>--------------------------<br><br>The YouTube Community is one that's built on trust. Content that intends to scam, mislead, spam, or defraud other users isn't allowed on YouTube.<br><br>*   [Spam policy](https://support.google.com/youtube/answer/2801973)<br>*   [Impersonation policy](https://support.google.com/youtube/answer/2801947)<br>*   [External links policy](https://support.google.com/youtube/answer/9054257)<br>*   [Fake engagement policy](https://support.google.com/youtube/answer/3399767)<br>*   [Playlists policy](https://support.google.com/youtube/answer/9713446)<br>*   [Additional policies](https://support.google.com/youtube/answer/2801981) |
 |     | Sensitive content<br>-----------------<br><br>We hope to protect viewers, creators, and especially minors. That's why we've got rules around keeping children safe, sex & nudity, and self harm. Learn what's allowed on YouTube and what to do if you see content that doesn't follow these policies.<br><br>*   [Nudity & sexual content policies](https://support.google.com/youtube/answer/2802002)<br>*   [Thumbnails policy](https://support.google.com/youtube/answer/9229980)<br>*   [Child safety policy](https://support.google.com/youtube/answer/2801999)<br>*   [​Suicide, self-harm, and eating disorders policy](https://support.google.com/youtube/answer/2802245)<br>*   [Vulgar language policy](https://support.google.com/youtube/answer/10072685) |
 |     | Violent or dangerous content<br>----------------------------<br><br>Hate speech, predatory behavior, graphic violence, malicious attacks, and content that promotes harmful or dangerous behavior isn't allowed on YouTube.<br><br>*   [Harmful or dangerous content policies](https://support.google.com/youtube/answer/2801964)<br>*   [Violent or graphic content policies](https://support.google.com/youtube/answer/2802008)<br>*   [Violent criminal organizations policy](https://support.google.com/youtube/answer/9229472)<br>*   [Hate speech policy](https://support.google.com/youtube/answer/2801939)<br>*   [Harassment & cyberbullying policies](https://support.google.com/youtube/answer/2802268) |
 |     | Regulated goods<br>---------------<br><br>Certain goods can't be sold on YouTube. Find out what's allowed and what isn't.<br><br>*   [Sale of illegal or regulated goods or services policies](https://support.google.com/youtube/answer/9229611)<br>*   [Firearms policy](https://support.google.com/youtube/answer/7667605) |
@@ -176,105 +176,38 @@ _**Please take these rules seriously**. If a YouTube creator’s on- and/or off-
 
 - - -
 
-Spam, deceptive practices, & scams policies
-===========================================
+Spam Policy
+===========
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+We do not allow content, metadata, or behavior designed to take advantage of the YouTube community, including spamming users or manipulating the platform in ways that mislead them. We also prohibit misleading viewers to boost content engagement or to flood community spaces with inorganic promotion.
 
-YouTube doesn’t allow spam, scams, or other deceptive practices that take advantage of the YouTube community. We also don’t allow content where the main purpose is to trick others into leaving YouTube for another site.
+If you find content that violates this policy, [report it using these instructions](https://support.google.com/youtube/answer/2802027) for reporting Community Guidelines violations. If you've found a few videos or comments on the same channel that you would like to report, you can report the channel.
 
-If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found a few videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel).
+This policy applies to all types of content on YouTube, including unlisted and private content, comments, links, posts and thumbnails, and coordinated networks of channels.
 
-What these policies mean for you
---------------------------------
+What this policy means for you
+------------------------------
 
-### If you're posting content
+We recognize that creators use a variety of strategies to promote their channels and reach new audiences. To grow their audience safely and sustainably, creators should avoid practices that rely on artificial engagement, undermine platform integrity and disrupt the overall viewer experience. Examples are included below; this is not a complete list.
 
-Don’t post content on YouTube if it fits any of the descriptions noted below.
-
-*   **Video Spam:** Content that is excessively posted, repetitive, or untargeted and does one or more of the following:
-    *   Promises viewers they'll see something but instead directs them off site.
-    *   Gets clicks, views, or traffic off YouTube by promising viewers that they’ll make money fast.
-    *   Sends audiences to sites that spread harmful software, try to gather personal info, or other sites that have a negative impact.
-*   **Misleading Metadata or Thumbnails:** Using the title, thumbnails, or description to trick users into believing the content is something it is not. This includes titles, thumbnails, or descriptions leading viewers to believe they will see something in a video, but then not including it in the video content itself.
-*   **Scams:** Content offering cash gifts, “get rich quick” schemes, or pyramid schemes (sending money without a tangible product in a pyramid structure).
-*   **Incentivization Spam:** Content that sells engagement metrics such as views, likes, comments, or any other metric on YouTube. This type of spam can also include content where the only purpose is to boost subscribers, views, or other metrics. For example, offering to subscribe to another creator’s channel solely in exchange for them subscribing to your channel, also known as "Sub4Sub" content.
-*   **Comments Spam:** Comments where the sole purpose is to gather personal info from viewers, misleadingly drive viewers off YouTube, or perform any of the prohibited behaviors noted above.
-*   **Repetitive comments:** Leaving large amounts of identical, untargeted or repetitive comments. Note that this type of engagement may lead to the removal of your comments.
-*   **3rd party content:** Live streams that include unauthorized 3rd party content that are not corrected after repeated warnings of possible abuse. Channel owners should actively monitor their live streams and correct any potential issues in a timely manner.
-
-This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list. Please note these policies also apply to [external links](https://support.google.com/youtube/answer/9054257) in your content. This can include clickable URLs, verbally directing users to other sites in video, as well as other forms.
-
-**Note:** You're allowed to encourage viewers to subscribe, hit the like button, share, or leave a comment.
-
-Video Spam
-----------
-
-The following types of content are not allowed on YouTube. Keep in mind this list isn't a complete list.
-
-*   Content that promises viewers they'll watch something but instead directs them off site to view.
-*   Posting the same content repeatedly across one or more channels.
-*   Massively uploading content that you scraped from other creators.
-*   Trying to get viewers to install harmful software, or directing them to sites that might compromise their privacy.
-*   Autogenerated content that computers post without regard for quality or viewer experience.
-*   Promising money, products, software, or gaming perks at no charge if viewers install software, download an app, or perform other tasks.
-*   Massively posting affiliate content in dedicated accounts.
-*   Repeatedly uploading content that you don’t own and that isn’t [EDSA](https://support.google.com/youtube/answer/6345162).
-
-Misleading metadata or thumbnails
-
-The following types of content are not allowed on YouTube. Keep in mind this list isn't a complete list.
-
-*   A thumbnail with a picture of a popular celebrity that has nothing to do with the video content.
-*   Using the title, thumbnail, or description to lead a viewer to think they will see a genre of content that is not actually contained in the video. For example, leading a viewer to think they will see an analysis from a well-known news anchor, but the video contains a music video instead.
-*   Titles, thumbnails, or descriptions leading viewers to believe they will see something in a video, but then not including it in the video content itself.
-*   Using the title, thumbnail, or description to indicate a newsworthy event recently took place or is taking place, but then not addressing that event in the video content.
-
-Scams
------
-
-The following types of content are not allowed on YouTube. Keep in mind this list isn't a complete list.
-
-*   Making exaggerated promises, such as claims that viewers can get rich fast or that a miracle treatment can cure chronic illnesses such as cancer.
-*   Promoting cash gifting or other pyramid schemes.
-*   Accounts dedicated to cash gifting schemes.
-*   Videos that promise "You'll make $50,000 tomorrow with this plan!"
-
-Incentivization Spam
---------------------
-
-The following types of content are not allowed on YouTube. Keep in mind this list isn't a complete list.
-
-*   Videos where the purpose is to encourage viewers to subscribe.
-*   "Subs 4 Subs" videos.
-*   Videos that offer "likes" for sale.
-*   A video that offers to give the channel to the 100,000th subscriber without any other content.
-
-Comments Spam
--------------
-
-The following types of content are not allowed on YouTube. Keep in mind this list isn't a complete list.
-
-*   Comments about surveys or giveaways that promote pyramid schemes.
-*   "Pay Per Click" referral links in comments.
-*   Comments that falsely claim to offer full video content. This type of content could be:
-    *   Movies
-    *   TV shows
-    *   Concerts
-*   Posting links to harmful software or phishing site in comments: "omg just got tons of B∪cks from here! - \[xyz phishing site\].com"
-*   Comments with links to counterfeit stores.
-*   "Hey, check out my channel/video here!” when the channel/video has nothing to do with the video it was posted in.
-*   Posting the same comment repeatedly with a link to your channel.
-
-3rd party content
------------------
-
-The following types of content are not allowed on YouTube. Keep in mind this list isn't a complete list.
-
-*   Using your phone to stream a television show.
-*   Using 3rd party software to livestream songs from an album.
-
-Remember these are just some examples, and don't post content if you think it might violate this policy.
+1.  **Engagement manipulation:** Repetitive or templated content aimed at artificially inflating engagement through bots, coercion, or offering rewards in exchange for likes, views, or subscribers. It's okay to ask viewers to like, comment, or subscribe.
+    *   **Example:** Using coordinated "sub-for-sub" schemes.
+2.  **Fake engagement:** Exploiting community features, such as Polls or Image Posts, to force engagement rather than building genuine enthusiasm from your audience or community.
+    *   **Example:** Posting high volumes of low-effort, repetitive polls (e.g., "Click the heart if you like food") multiple times a day.
+3.  **Comment spam:** Using high-volume, repetitive, or deceptive comments, live chats, or other messages to drive traffic to or engagement with content.
+    *   **Example:** Posting identical or similar “check out my channel” messages across hundreds of videos.
+4.  **Off-platform diversion:** Content created solely to drive users off of YouTube to external sites, especially those hosting prohibited material like malware, adult content, or illegal goods/services.
+    *   **Example:** A 10-second video promising a "free unreleased movie" that directs viewers to a URL in the description which contains malware.
+5.  **Detection evasion:** Technical manipulation (such as speeding up audio, heavy filters, cropping) designed to bypass abuse detection.
+    *   **Example:** Uploading a television episode that has been mirrored horizontally to avoid detection.
+6.  **Automated or synthetic mass-production:** Using automated tools or AI to churn out high volumes of similar content with minimal changes. While testing out new creation tools or posting a few variations of a video is ok, we don't allow use of these tools to flood our platform with repetitive content. This includes coordinated mass-production and technical manipulation to bypass filters or trick viewers.
+    *   **Example:** Channels that use the exact same background music and repetitive AI generated imagery across many videos, with each video reading out an AI-generated script.
+7.  **Scraped content:** Re-posting material from other websites or platforms, or other videos without adding anything of your own; such as original commentary, educational value, or unique editing.
+    *   **Example:** A channel that takes popular clips and re-uploads them in their entirety without any transformative editing, reaction, or educational breakdown.
+8.  **Scams:** Promoting "get rich quick" investment schemes, fake job offers, or sharing fake "customer support" contact information to steal private data like bank details, passwords, or government IDs.
+    *   **Example:** A video pretending to be a real company or government service that tricks viewers into clicking a link for a "free payout" but steals their passwords and bank info.
+9.  **Malicious clickbait:** Using maliciously misleading titles, thumbnails, descriptions, or imagery to trick users into clicking on a video that does not deliver what was promised.
+    *   **Example:** Uploading a video for which the title offers a full sports match but the video shows only a clip.
 
 What happens if content violates this policy
 --------------------------------------------
@@ -292,44 +225,47 @@ If you get 3 strikes within 90 days, your channel may be terminated. Learn more 
 Impersonation policy
 ====================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
-
-Content intended to impersonate a person or channel is not allowed on YouTube. YouTube also enforces trademark holder rights. When a channel, or content in the channel, causes confusion about the source of goods and services advertised, it may not be allowed.
+YouTube does not allow unauthorized impersonation of a person, entity, or channel that may mislead viewers in a way that could harm the YouTube community. Impersonation may include deceptively copying the branding, content, or usernames of individuals, channels or entities. It may also include using AI to copy the voice or likeness of an individual, to make it appear as if the channel is owned or authorized by that individual. YouTube also enforces [trademark](https://support.google.com/youtube/answer/6154218) holder rights.
 
 If you see content that violates this policy, [report it](https://support.google.com/youtube/answer/2802027).
 
-*   If you feel that yours or another creator's channel is being impersonated, you can [report the channel](https://support.google.com/youtube/answer/2802027).
+*   If you feel that yours or another creator's channel is being impersonated, you can [report the channel](https://support.google.com/youtube/contact/impersonation).
+*   If you find your personal information, a video featuring you, or AI-generated content mimicking your likeness or voice without your consent, you can file a [request for removal under our privacy guidelines](https://support.google.com/youtube/answer/7671399).
 
-What these policies mean for you
+We will consider a variety of factors when evaluating removal requests. These factors include whether the material is parody or satire, or whether it features public officials or well-known individuals.
+
+What these policies mean for you
 --------------------------------
 
 #### If you're posting content
 
-Don’t post content on YouTube if it fits any of the descriptions noted below. 
+Don’t post content on YouTube if it fits any of the descriptions noted below:
 
-*   **Channel impersonation:** A channel that copies another channel's profile, background, or overall look and feel in such a way that makes it look like someone else's channel. The channel does not have to be 100% identical, as long as the intent is clear to copy the other channel.
-*   **Personal impersonation:** Content intended to look like someone else is posting it.
+*   Using workarounds like typos, special fonts, or extra punctuation to trick viewers into thinking you are a different creator or entity.
+*   Impersonating an existing creator, entity, or channel by copying their profile pictures, banners, or specific color schemes. The channel does not have to be 100% identical, as long as the intent is clear to copy the other channel.
+*   Using someone's AI-generated likeness or voice to falsely imply they own or authorize your channel’s content.
 
-If you operate a fan channel, make sure you state so explicitly in your channel name or [handle](https://support.google.com/youtube/answer/11585688). It should be obvious to your viewers that your channel doesn't represent the original creator, artist or entity your channel is celebrating.
+If you operate a fan channel, make sure you state so explicitly in your channel name or [handle](https://support.google.com/youtube/answer/11585688). It should be obvious to your viewers that your channel doesn't represent the original creator, artist, or entity.
 
 Examples
 --------
 
-Here are some examples of content that’s not allowed on YouTube.
+Here are some examples of content that is not allowed on YouTube:
 
-*   Channels with the same identifier (channel name or handle) and image as another channel, with the only difference being a space inserted into the name or a zero replacing the letter O.
-*   Using someone else's real name, user name, image, brand, logo, or other personal information to trick people into believing you are that person. 
-*   Setting up a channel using the same identifier (channel name or handle) and image of a person, and then pretending that person is posting content to the channel.
-*   Setting up a channel using the name and image of a person, and then posting comments on other channels as if they were posted by the person.
-*   Channels claiming to be a 'fan account' in the channel description, but not stating so clearly in the channel name or handle, or posing as another’s channel and reuploading their content.
-*   Channels impersonating an existing news channel.
+*   Putting “Real” or “Official” into your channel name to pretend you are the authentic version of another person’s channel.
+*   Pretending to be a backup channel by adding words like "Backup," "Shorts," or "Live" to a creator’s name.
+*   Using AI to make it look like a famous person is willfully participating in your video or endorsing a product
+*   Misrepresenting an individual by using an AI version of their voice and false metadata to pass off a fake speech as real.
+*   Posting comments that make people falsely think you are another person or entity.
+*   Copying someone else’s videos and reposting them as your own without changing anything or adding significant original commentary.
+*   Using a channel name or handle that is phonetically identical or visually similar to an established entity. This includes the use of deceptive misspellings.
 
 Remember these are just some examples, and don't post content if you think it might violate this policy.
 
 What happens if content violates this policy
 --------------------------------------------
 
-If your content violates this policy, we may terminate your channel or account. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
+If we determine that a channel was established to impersonate another person or entity, the channel may be removed to protect our community.
 
 - - -
 
@@ -359,7 +295,7 @@ Don’t post links in your content on YouTube if they direct users to content th
 
 This policy applies to video, audio, channel, comments, pinned comments, live streams, and any other YouTube product or feature. Links can take any form that would direct a user to a site off YouTube. These links include: clickable URLs, showing text of URLs in videos or images, and obfuscated URLs (such as writing “dot com” instead of “.com”). These links can also include verbally directing users to other sites, encouraging viewers to visit creator profiles or pages on other sites, or promising violative content on other sites. This list is not complete.
 
-**Note:** Affiliate content doesn't violate YouTube’s Terms of Use. Excessively posting affiliate content in dedicated accounts may violate our policies around spam. You can learn more about what's allowed in our [Spam, deceptive practices & scams policies](https://support.google.com/youtube/answer/2801973).
+**Note:** Affiliate content doesn't violate YouTube’s Terms of Use. Excessively posting affiliate content in dedicated accounts may violate our policies around spam. You can learn more about what's allowed in our [Spam policy](https://support.google.com/youtube/answer/2801973).
 
 Examples
 --------
@@ -396,11 +332,11 @@ The safety of our creators, viewers, and partners is our highest priority. We lo
 
 YouTube doesn’t allow anything that artificially increases the number of views, likes, comments, or other metrics either by using automatic systems or serving up videos to unsuspecting viewers. Also, content that solely exists to incentivize viewers for engagement (views, likes, comments, etc) is prohibited.
 
-Content and channels that don't follow this policy may be terminated and removed from YouTube.
+Content and channels that don't follow this policy may be terminated and removed from YouTube.
 
-**Important:**  If you hire someone to promote your channel, their decisions may impact your channel. Any method that violates our policies may result in content removal or a channel takedown, whether it's an action taken by you or someone you've hired.
+**Important:** If you hire someone to promote your channel, their decisions may impact your channel. Any method that violates our policies may result in content removal or a channel takedown, whether it's an action taken by you or someone you've hired.
 
-We consider engagement to be legitimate when a human user’s primary intent is to authentically interact with the content. We consider engagement illegitimate, for example, when it results from coercion or deception, or when the sole purpose of the engagement is financial gain.  
+We consider engagement to be legitimate when a human user’s primary intent is to authentically interact with the content. We consider engagement illegitimate, for example, when it results from coercion or deception, or when the sole purpose of the engagement is financial gain.
 
 If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found a few videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel).
 
@@ -414,7 +350,7 @@ Don’t post content on YouTube if it fits any of the descriptions noted below.
 *   Links to or promotes third-party services that artificially inflate metrics like views, likes, and subscribers
 *   Content linking to or promoting third-party view count or subscriber gaming websites or services
 *   Offering to subscribe to another creator’s channel only if they subscribe to your channel (“sub4sub”)
-    *   **Note**: You're allowed to encourage viewers to subscribe, hit the like button, share, or leave a comment
+    *   **Note:** You're allowed to encourage viewers to subscribe, hit the like button, share, or leave a comment
 *   Content featuring a creator purchasing their views from a third party with the intent of promoting the service
 
 This policy applies to videos, video descriptions, comments, live streams, and any other YouTube product or feature. Keep in mind that this isn't a complete list.
@@ -429,9 +365,9 @@ Subscriber numbers displayed in the following places update in real time:
 *   Video watch page
 *   Third-party sites and apps using the [YouTube Data API](https://developers.google.com/youtube/v3/)
 
-The number of subscribers in YouTube Analytics may be different than the subscriber count on your YouTube channel. The number in YouTube Analytics is approximately 48 hours behind. The delay lets us perform extra verification and spam reviews so the numbers are accurate.
+The number of subscribers in YouTube Analytics may be different than the subscriber count on your YouTube channel. The number in YouTube Analytics is approximately 48 hours behind. The delay lets us perform extra verification and spam reviews so the numbers are accurate.
 
-Page traffic found to be artificial will not be counted on YouTube and can lead to strikes on your account. Terminated accounts and subscribers that are identified as spam will not count toward your total number of subscribers or views. These aren't active viewers, so their removal shouldn’t impact your views or watch time.
+Page traffic found to be artificial will not be counted on YouTube and can lead to strikes on your account. Terminated accounts and subscribers that are identified as spam will not count toward your total number of subscribers or views. These aren't active viewers, so their removal shouldn’t impact your views or watch time.
 
 If you've had a video removed for view count gaming, check out [this page](https://support.google.com/youtube/contact/tou_removal_appeal) in the Help Center to learn more.
 
@@ -440,10 +376,11 @@ Examples
 
 Here are some examples of content that’s not allowed on YouTube.
 
-*   A video testimonial in which a creator shows themselves successfully purchasing artificial page traffic from a third party
+*   A video testimonial in which a creator shows themselves successfully purchasing artificial page traffic from a third party.
 *   A video in which a creator links to a third party artificial page traffic provider in a promotional or supportive context. For example: “I got 1 million subscribers on this video in a day and you can too!”
-*   A video that tries to force or trick viewers into watching another video through deceptive means (for example: a misleadingly labeled info card)
-*   Channels dedicated to artificial channel engagement traffic or promoting businesses that exist for this sole purpose
+*   A video that tries to force or trick viewers into watching another video through deceptive means (for example: a misleadingly labeled info card).
+*   Channels dedicated to artificial channel engagement traffic or promoting businesses that exist for this sole purpose.
+*   Any content that knowingly uses a service to artificially inflate live traffic (‘viewbotting’).
 
 Remember these are just some examples, and don't post content if you think it might violate this policy.
 
@@ -1390,6 +1327,7 @@ Here are some examples of content that’s not allowed on YouTube.
 *   Footage filmed by the perpetrator during a deadly or major violent event, in which weapons, violence, or injured victims are visible or audible
 *   Links to external sites that contain manifestos of violent attackers
 *   Video game content which has been developed or modified (“modded”) to glorify a violent event, its perpetrators, or support violent criminal or terrorist organizations
+*   Inciting others to commit violent acts against individuals or a defined group of people
 *   Glorifying violence against civilians
 *   Fundraising for violent criminal, extremist, or terrorist organizations
 
