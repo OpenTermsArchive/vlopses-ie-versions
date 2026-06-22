@@ -3,6 +3,8 @@ Google Play Terms of Service
 
 July 1, 2024 ([View archived version](https://play.google.com/intl/en_US/about/play-terms/archive/))
 
+We’re updating our Play Terms of Service on July 22, 2026. Until then, the Terms below continue to apply. [See a preview of the upcoming Terms.](https://play.google.com/intl/ALL_us/about/play-terms/index-update.html)
+
 **1\. Introduction**
 --------------------
 
@@ -159,8 +161,6 @@ Payments
 
 8.  Developers serving users in [eligible countries/regions](https://support.google.com/googleplay/android-developer/answer/13821247) may offer users an alternative billing system within the app if they enrol in the [applicable programme](https://support.google.com/googleplay/android-developer/topic/16471708) and agree to the additional terms and programme requirements.
     
-
-  ↵
 
 9.  Developers may lead users in eligible countries/regions outside the app [subject to programme requirements](https://support.google.com/googleplay/android-developer/topic/16470499), provided that they enrol in the applicable programme and agree to the additional terms and [programme requirements](https://support.google.com/googleplay/android-developer/topic/16470499).
     
