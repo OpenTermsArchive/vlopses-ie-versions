@@ -25,7 +25,7 @@ For any inquiries, requests, or complaints related to the Digital Services Act (
 If your request is not related to the Digital Services Act, please do not use the above DSA-specific contact details.
 
 *   For general inquiries, use [support@pornhub.com](mailto:support@pornhub.com), or visit our Support page at [https://www.pornhub.com/support](https://www.pornhub.com/support) for further information.(This email address must not be used to report illegal content under the DSA. For DSA content reporting, please use our [Content Removal Form](https://www.pornhub.com/content-removal)).
-*   For data and privacy inquiries, please visit our privacy policy at [https://www.pornhub.com/information/privacy](https://www.pornhub.com/information/privacy) for more information. (This page must not be used to report illegal content under the DSA. For DSA content reporting, please use our [Content Removal Form](https://www.pornhub.com/content-removal)).
+*   For data and privacy inquiries, please visit our privacy notice at [https://www.pornhub.com/information/privacy](https://www.pornhub.com/information/privacy) for more information. (This page must not be used to report illegal content under the DSA. For DSA content reporting, please use our [Content Removal Form](https://www.pornhub.com/content-removal)).
 
 ### **Researchers**
 
