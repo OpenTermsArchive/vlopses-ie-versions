@@ -20,7 +20,7 @@ Contents
 Return and Refund Policy
 ========================
 
-Last Updated: Apr 12, 2026 IST
+Last Updated: Jun 18, 2026 IST
 
 *   English
 _|_*   Gaeilge
@@ -33,7 +33,7 @@ I. As a consumer located in the European Economic Area, you have a statutory rig
 
 II. To exercise your Statutory Right of Withdrawal, you should send your request to exercise the Statutory Right of Withdrawal before the Withdrawal Period has expired and return the item(s) to the indicated address within 14 days after you submit your withdrawal request.
 
-III. You can submit your withdrawal request to the seller by using the model withdrawal form as set out here, or by making any other unequivocal statement setting out your decision to withdraw from the contract, or clicking on the “Return/Refund” option for the relevant order in “Your Orders” page, or using the Online Return Page. If you submit your withdrawal request electronically, you will receive an acknowledgement of receipt of the withdrawal request by email without undue delay.
+III. You can submit your withdrawal request to the seller by using the model withdrawal form as set out here, or by making any other unequivocal statement setting out your decision to withdraw from the contract, or clicking on the “Withdraw your order” option for the relevant order in “Your Orders” page, or using the Online Return Page. If you submit your withdrawal request electronically, you will receive an acknowledgement of receipt of the withdrawal request by email without undue delay.
 
 IV. You may be liable if the value of the goods returned diminishes due to your handling of the goods (except when it was necessary to establish the nature, characteristics and functioning of the goods).
 
