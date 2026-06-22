@@ -411,7 +411,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -442,9 +442,9 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 Account disapproval
 
-For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue.However, we may not issue a warning for egregious policy violations.
+For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -479,7 +479,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -537,7 +537,7 @@ Depending on the content you’re listing and the countries where your ads appea
 
 * * *
 
-**Need help?** Our [guided troubleshooter](https://support.google.com/merchants/troubleshooter/14812568) can help you resolve Healthcare and Medicine item-level disapprovals related to:
+**Need help?** Our [guided troubleshooter](https://support.google.com/merchants/troubleshooter/14812568) can help you resolve Healthcare and Medicine item-level disapprovals related to:
 
 *   Over-the-counter medication
 *   Prescription drugs
@@ -550,11 +550,11 @@ For guidance on other Healthcare and Medicine-related disapprovals, (such as tho
 
 * * *
 
-#### On this page
+**On this page**
 
 *   [Examples of what's allowed in some circumstances](#examples)
 *   [How does this policy differ from country to country?](#country)
-*   [What you can do if your product or account is disapproved](#disapproved)
+*   [What you can do if your product or account is disapproved](#disapproved)
 
 Examples of what's allowed in some circumstances
 ------------------------------------------------
@@ -563,13 +563,13 @@ Here are some of the kinds of content that we restrict under this policy:
 
 Prescription and behind-the-counter drugs
 
-> Google allows the listing of prescription and behind-the-counter drugs in the United States. In Canada, retailers are allowed to list prescription drugs. Online pharmacies listing prescription drugs must be accredited by the LegitScript [Healthcare Merchant Certification and Monitoring Program](https://www.legitscript.com/certification/healthcare-certification) or the National Association of Boards of Pharmacy’s (NABP) [VIPPS program](https://nabp.pharmacy/programs/vipps/) or .[pharmacy Verified Websites Program](https://www.safe.pharmacy/), and certified by Google. If you have already been certified by LegitScript or the NABP, apply for certification with Google by filling out our [online pharmacy application form](https://support.google.com/merchants/contact/pharmacyapplication). See a [non-exhaustive list of prescription drugs or active ingredients](https://support.google.com/merchants/answer/6165956) that are monitored under this policy. The promotion of prescription opioid painkillers is not allowed, per the policy below.
+> Google allows the listing of prescription and behind-the-counter drugs in the United States. In Canada, retailers are allowed to list prescription drugs. Online pharmacies listing prescription drugs must be accredited by the LegitScript [Healthcare Merchant Certification and Monitoring Program](https://www.legitscript.com/certification/healthcare-certification) or the National Association of Boards of Pharmacy’s (NABP) [VIPPS program](https://nabp.pharmacy/programs/vipps/) or .[pharmacy Verified Websites Program](https://www.safe.pharmacy/), and certified by Google. If you have already been certified by LegitScript or the NABP, apply for certification with Google by filling out our [online pharmacy application form](https://support.google.com/merchants/contact/pharmacyapplication). Check this [non-exhaustive list of prescription drugs or active ingredients](https://support.google.com/merchants/answer/6165956) that are monitored under this policy. The promotion of prescription opioid painkillers is not allowed, per the policy below.
 
 Over-the-counter medication
 
 > In some countries [listed below](#country), only online pharmacies may list over-the-counter medication products, provided that certification is available for the country involved and they meet the associated certification requirements. In the United States, no certification is required for the listing of over-the-counter medication. In other countries, if no certification process is available for a country, these products can’t be listed.
 > 
-> For variations of this policy, see [How does this policy differ from country to country.](#country)
+> For variations of this policy, check [How does this policy differ from country to country.](#country)
 
 Unapproved pharmaceuticals and supplements
 
@@ -577,7 +577,7 @@ Unapproved pharmaceuticals and supplements
 > 
 > *   Anything identified on the non-exhaustive list of [prohibited pharmaceuticals and supplements](https://support.google.com/merchants/answer/6165956).
 > *   Products that contain ephedra.
-> *   DHEA and melatonin products, unless specifically mentioned as allowed in an individual country. Please see the [How does this policy differ from country to country](#country) section for more information.
+> *   DHEA and melatonin products, unless specifically mentioned as allowed in an individual country. Check the [How does this policy differ from country to country](#country) section for more information.
 > *   Human chorionic gonadotropin (hCG) in relation to weight loss/weight control, or when promoted in conjunction with anabolic steroids.
 > *   Herbal and dietary supplements with active pharmaceutical or dangerous ingredients.
 > *   Products that make false or misleading health claims or sites whose primary purpose is to sell products that claim to be as effective as anabolic steroids, prescription weight-loss drugs, controlled substances and prescription erectile dysfunction drugs.
@@ -593,7 +593,7 @@ Unapproved pharmaceuticals and supplements
 > *   Calis, cealis or "herbal cialis" (which are similar to the prescription drug "Cialis")
 > *   D-Bol, Dinabol, or dianibol (which are similar to the anabolic steroid "Dianabol")
 > 
-> See the [How does this policy differ from country to country](#country) section below for variations of this policy.
+> Check the [How does this policy differ from country to country](#country) section below for variations of this policy.
 
 Prescription opioid painkillers
 
@@ -601,11 +601,11 @@ Prescription opioid painkillers
 
 Abortion
 
-> Google restricts the listing of abortion-related content, including abortion-inducing drugs. We have different requirements for listing these products based on the country you’re targeting. See below for details about these country requirements. Unless specifically mentioned in the country requirements below, Google allows the listing of abortion-related content.
+> Google restricts the listing of abortion-related content, including abortion-inducing drugs. We have different requirements for listing these products based on the country you’re targeting. Check below for details about these country requirements. Unless specifically mentioned in the country requirements below, Google allows the listing of abortion-related content.
 > 
 > Google doesn't allow abortion-related content that uses violent language or gruesome imagery.
 > 
-> See the [How does this policy differ from country to country](#country) section below for variations of this policy.
+> Check the [How does this policy differ from country to country](#country) section below for variations of this policy.
 
 Pet prescriptions and pharmacies
 
@@ -634,7 +634,7 @@ Medical test kits
 How does this policy differ from country to country?
 ----------------------------------------------------
 
-In addition to the requirements above, there may be further restrictions based on your target country. Click a country below to see additional requirements that you must meet in order for your listings to target that country.
+In addition to the requirements above, there may be further restrictions based on your target country. Click a country below to view additional requirements that you must meet in order for your listings to target that country.
 
 |     |     |     |
 | --- | --- | --- |
@@ -685,7 +685,7 @@ In addition to the requirements above, there may be further restrictions based o
 
 | **Product type** | **Details** |
 | --- | --- |
-| Online pharmacies listing over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered in the Bundesamt für Sicherheit im Gesundheitswesen ([Federal Agency for Safety and Health Care](https://versandapotheken.basg.gv.at/)). Merchants must also be certified by Google.<br><br>Additionally, non-Austrian online pharmacies established within the EU/EEA who are registered as law requires in their home countries and are certified by Google ([see country specifics](#country)) can target cross-border over-the-counter drug sale listings at Austria. |
+| Online pharmacies listing over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered in the Bundesamt für Sicherheit im Gesundheitswesen ([Federal Agency for Safety and Health Care](https://versandapotheken.basg.gv.at/)). Merchants must also be certified by Google.<br><br>Additionally, non-Austrian online pharmacies established within the EU/EEA who are registered as law requires in their home countries and are certified by Google (check [country specifics](#country)) can target cross-border over-the-counter drug sale listings at Austria. |
 
 ### Bahrain
 
@@ -1119,7 +1119,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1150,9 +1150,9 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 Account disapproval
 
-For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue.However, we may not issue a warning for egregious policy violations.
+For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1187,7 +1187,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1257,7 +1257,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1288,9 +1288,9 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 Account disapproval
 
-For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue.However, we may not issue a warning for egregious policy violations.
+For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1325,7 +1325,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1398,7 +1398,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1429,9 +1429,9 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 Account disapproval
 
-For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue.However, we may not issue a warning for egregious policy violations.
+For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1466,7 +1466,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1542,7 +1542,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1573,9 +1573,9 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 Account disapproval
 
-For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue.However, we may not issue a warning for egregious policy violations.
+For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1610,7 +1610,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1729,7 +1729,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1760,9 +1760,9 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 Account disapproval
 
-For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue.However, we may not issue a warning for egregious policy violations.
+For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1797,7 +1797,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1941,7 +1941,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1972,9 +1972,9 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 Account disapproval
 
-For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue.However, we may not issue a warning for egregious policy violations.
+For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2009,7 +2009,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2244,7 +2244,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2275,9 +2275,9 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 Account disapproval
 
-For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue.However, we may not issue a warning for egregious policy violations.
+For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2312,7 +2312,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2439,7 +2439,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2470,9 +2470,9 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 Account disapproval
 
-For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue.However, we may not issue a warning for egregious policy violations.
+For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2507,7 +2507,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2613,7 +2613,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2644,9 +2644,9 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 Account disapproval
 
-For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue.However, we may not issue a warning for egregious policy violations.
+For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2681,7 +2681,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2756,7 +2756,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2787,9 +2787,9 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 Account disapproval
 
-For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue.However, we may not issue a warning for egregious policy violations.
+For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2824,7 +2824,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2962,7 +2962,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2993,9 +2993,9 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 Account disapproval
 
-For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue.However, we may not issue a warning for egregious policy violations.
+For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -3030,7 +3030,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -3101,7 +3101,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -3132,9 +3132,9 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 Account disapproval
 
-For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue.However, we may not issue a warning for egregious policy violations.
+For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -3169,7 +3169,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our Shopping [policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -3242,9 +3242,7 @@ Demand Gen product ads requirements
 To assess any asset-level disapprovals in your account:
 
 1.  In your [Merchant Center account](https://merchants.google.com/), click **Products** from the navigation menu on the left.
-2.  Click **All products**.
-    *   **Note:** If you’re using Merchant Center Next, clicking **Products** automatically redirects you to the “All products” tab.
-3.  Locate your product on the page, and check the "Status" column of the table to view that product's current approval status.
+2.  Locate your product on the page, and check the "Status" column of the table to view that product's current approval status.
 
 Prohibited categories
 ---------------------
@@ -4139,10 +4137,31 @@ If you’re working with a third-party platform, some of these instructions may 
 
 - - -
 
-Vehicle ads policies (Beta)
-===========================
+Vehicle ads policies
+====================
 
-Vehicle ads are a performance focused, omnichannel, ad format which allows vehicle advertisers to promote their entire inventory of new and used vehicles to interested customers shopping for vehicles online. This format is relevant for any vehicle advertiser that wants to promote vehicle inventory for sale. Vehicle advertisers can participate by uploading their vehicle feeds to Merchant Center and running Performance Max campaigns in Google Ads to serve vehicle ads. Learn more about how to set up [vehicle ads](https://support.google.com/merchants/answer/11192503).
+Vehicle ads are a performance focused, omnichannel, ad format that allows vehicle advertisers to promote their entire inventory of new and used vehicles to interested customers shopping for vehicles online. This format is relevant for any vehicle advertiser that wants to promote vehicle inventory for sale.
+
+**On this page**
+
+*   [Important considerations for vehicle ads](#Important)
+*   [Requirements to participate in vehicle ads](#requirements)
+*   [Exceptions to shopping ads policies](#Exceptions)
+*   [Understanding issues in Merchant Center](#Understanding)
+*   [Vehicle ads beta features](#beta)
+
+Important considerations for vehicle ads
+----------------------------------------
+
+*   **Program targeting**: Ensure your feed settings in Merchant Center are configured to target only “Vehicle Ads”' Targeting Shopping Ads or Free Listings is not supported for vehicle sales and can lead to product disapproval or limited visibility.
+*   **Data accuracy**: Product disapprovals or 'Limited' status can also occur due to incorrect feed data. Pay close attention to:
+*   **Pricing**: The price in your feed and structured data must exactly match the price on your website landing page.
+*   **Landing pages**: Verify that landing page URLs are correct, accessible, and accurately reflect the vehicle being advertised.
+*   **Link templates**: If using link templates, ensure they include “?store={store\_code}” and redirect to the specific product landing page.
+*   **Mileage**: Use supported units (For example, ‘miles’ or ‘km’) and ensure accuracy on both the landing page and in the feed.
+*   **Required attributes**: All necessary attributes, such as image links and availability, must be present and correct.
+*   **Store codes**: The store code in your feed must match the store code provided in your store data. Learn more about [How to fix: Missing valid store code](https://support.google.com/merchants/answer/11355151)
+*   **Review process**: After submitting your feed or making updates, allow 24-48 hours for the changes to sync and for the review to complete. Products may initially appear as 'Pending initial data quality review' or 'Under Review'. Ensure your website has also passed the website eligibility review for the Vehicle Ads program for a smooth review process.
 
 To participate in our vehicle ads program, you must adhere to the [Shopping ads policies](https://support.google.com/merchants/answer/6149970) with the following requirements and exceptions.
 
@@ -4151,9 +4170,9 @@ Requirements to participate in vehicle ads
 
 **Note**: Exceptions to the requirements below may apply based on participation in [beta features](#beta).
 
-*   **Allowed vehicle types**: Non-commercial and passenger vehicles including recreational vehicles and campers
+*   **Allowed vehicle types**: Non-commercial and passenger vehicles including recreational vehicles **ATV’s, UTV’s, RV’s, non-motorized trailers** and campers
     *   Any vehicle that requires a special license to operate, permission to be bought, or aren’t equipped and licensed for use on public roads are excluded.
-    *   Examples of excluded vehicle types: ATV, motorcycles, motor bikes, boats, planes, farm vehicles, go-karts, race cars, and any vehicle requiring a commercial license.
+    *   Examples of excluded vehicle types: Motorcycles, motor bikes, boats, planes, farm vehicles, go-karts, race cars, and any vehicle requiring a commercial license.
 *   **For sale or lease only**: Vehicles available for subscription aren't supported
 *   **Vehicle auctions**: Vehicle auctions and auction pricing aren't supported
 *   **Vehicle parts**: Vehicle parts, accessories, tires, and services aren't supported
@@ -4163,13 +4182,13 @@ Requirements to participate in vehicle ads
     *   Examples are state vehicle dealer license, sales license, permit information, or business registration.
     *   A driver's license or sales receipts aren’t valid documentation to meet this requirement.
 *   **Direct sellers only**: Brokers aren't allowed to participate
-*   **Aggregators and original equipment manufacturers (OEMs)**: Aggregators and OEMs may only upload vehicles from dealerships with valid licenses in the required market.
-*   **Online delivery of vehicles**: Currently isn't supported
+*   **Aggregators and original equipment manufacturers (OEMs)**: Aggregators and OEMs may only upload vehicles from dealerships with valid licenses in the required market.
+*   **Online delivery of vehicles**: The program for advertisers offering online delivery of vehicles is in beta. Fill out this [form](https://support.google.com/merchants/contact/cuf_vehicle_ads_troubleshooting) to submit your interest.
 *   **Location**: You must have a brick and mortar business location for customers to physically visit, review, and/or purchase the vehicle in the state you are listing the vehicle for purchase
 *   **One account per state**: You may only list vehicles for sale in a single state within a single Merchant Center account
-*   **Image feed:** Vehicle ads have additional image feed specification and image requirements. Learn more about [vehicle ads policies and guidelines](https://support.google.com/merchants/answer/11190670)
+*   **Image feed**: Vehicle ads have additional image feed specification and image requirements. Learn more about [vehicle ads policies and guidelines](https://support.google.com/merchants/answer/11190670)
 
-Exceptions to Shopping ads policies
+Exceptions to shopping ads policies
 -----------------------------------
 
 The following Shopping ads policies don’t apply to vehicle ads:
@@ -4177,7 +4196,12 @@ The following Shopping ads policies don’t apply to vehicle ads:
 *   **[Unsupported shopping content](https://support.google.com/merchants/answer/6150006) \[vehicles\]**: Light passenger cars and trucks may be advertised using vehicle ads.
 *   **[Promote only products available for direct purchase](https://support.google.com/merchants/answer/6363310#promote-only-products-available-for-direct-purchase)**: Vehicle ads may lead a customer to complete a vehicle purchase in person and thus the policy for “Links promoted in Shopping ads and free listings need to lead users directly to a page that allows them to buy the advertised product” isn’t required for vehicle ads.
 *   **[Website requirements regarding online checkout](https://support.google.com/merchants/answer/6363310#website-requirements)**: The requirement for online payment and transaction requirements don’t apply to vehicle ads.
-*   **[Shipping](https://support.google.com/merchants/answer/7050921):** Given that vehicle ads require an in-store purchase and pickup, no shipping information is required.
+*   **[Shipping](https://support.google.com/merchants/answer/7050921)**: Given that vehicle ads require an in-store purchase and pickup, no shipping information is required.
+
+Understanding issues in Merchant Center
+---------------------------------------
+
+If your vehicle data and website don't comply with our policies, your offers might get disapproved or your account could be suspended. These issues can prevent your products from showing on Google. Learn more about i[ssues in Merchant Center](https://support.google.com/merchants/answer/12153802) and request a review.
 
 Vehicle ads beta features
 -------------------------
@@ -4359,6 +4383,8 @@ Refer to the following non-exhaustive list of targeting features and how persona
 2\. ZIP code location targeting cannot be used for Housing, Employment, and Consumer Finance Ads in the United States and Canada.  
 3\. Users under the age of 18 are not eligible for personalized advertising of any kind, including serving based on Predefined Google Audiences. Advertisers using advertiser-curated audiences are prohibited from uploading customer information from viewers of child-directed content.  
 4\. Custom Segment audiences using sensitive creative assets or pointing to sensitive landing pages will only serve with Display campaigns to non-sensitive audiences or contextually. All other campaigns using Custom Segment audiences with sensitive creative assets or landing pages will not be eligible to serve.
+
+**Note**: Discovery and Demand Gen campaigns use advertiser-curated audiences by default and may be restricted from serving if targeting products and services that fall within sensitive interest categories.
 
 * * *
 
@@ -4606,6 +4632,8 @@ Refer to the following non-exhaustive list of targeting features and how persona
 3\. Users under the age of 18 are not eligible for personalized advertising of any kind, including serving based on Predefined Google Audiences. Advertisers using advertiser-curated audiences are prohibited from uploading customer information from viewers of child-directed content.  
 4\. Custom Segment audiences using sensitive creative assets or pointing to sensitive landing pages will only serve with Display campaigns to non-sensitive audiences or contextually. All other campaigns using Custom Segment audiences with sensitive creative assets or landing pages will not be eligible to serve.
 
+**Note**: Discovery and Demand Gen campaigns use advertiser-curated audiences by default and may be restricted from serving if targeting products and services that fall within sensitive interest categories.
+
 * * *
 
 Targeting restrictions to Access to opportunities categories (US and Canada)
@@ -4740,7 +4768,7 @@ Google provides translated versions of the Advertising Policies Help Center, tho
 
 [About Google Ads policy account suspensions](https://www.youtube.com/watch?v=S2FOyZ5Vzs8)
 
-For subtitles in your language, turn on YouTube captions. Select the **Settings** icon at the bottom of the video player, then select **Subtitles/CC** and choose your language.
+For subtitles in your language, turn on YouTube captions. Select the Settings icon found in the video player, then select **Subtitles/CC** and choose your language.
 
 * * *
 
