@@ -1,12 +1,7 @@
 X Developer Agreement
 =====================
 
-> Documentation Index
-> -------------------
-> 
-> Fetch the complete documentation index at: [https://docs.x.com/llms.txt](https://docs.x.com/llms.txt)
-> 
-> Use this file to discover all available pages before exploring further.
+The X Developer Agreement sets the legal terms for using the X API and developer platform, covering licensing, restrictions, and compliance obligations.
 
 Last Updated: April 27, 2026 By clicking “Accept & Subscribe”, continuing to pay the recurring subscription fee for Paid Services, or by otherwise accessing or using any Licensed Material, you agree to the terms of our Agreement. Subscriptions auto-renew until canceled, as described below. A verified phone number is required to subscribe. If you’ve subscribed through another platform, manage your subscription through that platform. This X Developer Agreement (“**Agreement**”) is a binding legal agreement between you (referred to in this Agreement as “**you**”) and X and governs your access to and use of the Licensed Material (defined below), including any Paid Services (defined below). By accessing or using any Licensed Material (defined below), or clicking on a button to accept the terms of this Agreement or recurring subscription payment for Paid Services, you agree to be bound by the terms of this Agreement. If you do not understand the terms herein or do not accept any part of them, then you may not use or access any Licensed Material. You may not use the Licensed Material or accept this Agreement if you are not of legal age to form a binding contract with X or if you are barred from using or receiving the Licensed Material under applicable law. To purchase and use a Paid Service you must: (i) be at least 18 years old or the age of majority as determined by the laws of the jurisdiction in which you live or (ii) have the express consent of your parent or guardian to purchase and use that Paid Service. If you are a parent or legal guardian and you allow your child (or a child that you are a guardian of) to purchase or use a Paid Service, you agree that the terms of this Agreement apply to you, you will abide by this Agreement, and you are responsible for the child’s activity on the Paid Services and for ensuring that the child also abides by the terms of this Agreement. In any case, as stated in the Who May Use the Services section of the [**X Terms of Service**](https://x.com/tos), you must be at least 13 years old to use the “Services” as defined in the X Terms of Service. If you are accepting this Agreement or using the Licensed Material on behalf of a company, organization, government, or other legal entity, you represent and warrant that you have the authority to bind such company, organization, government, or other legal entity to this Agreement, in which case the words “you” and “your” as used in this Agreement shall refer to such entity. If you do not agree to the terms of this Agreement, you may not (and you may not allow any of your personnel to) access or use the Licensed Material.\*\*\*\* **I. Definitions.** In this Agreement, the following definitions apply:
 
@@ -74,12 +69,7 @@ If you are a federal, state, or local government entity in the United States usi
 X Developer Policy
 ==================
 
-> Documentation Index
-> -------------------
-> 
-> Fetch the complete documentation index at: [https://docs.x.com/llms.txt](https://docs.x.com/llms.txt)
-> 
-> Use this file to discover all available pages before exploring further.
+The X Developer Policy outlines acceptable use of the X API, including rules around content, automation, privacy, security, and prohibited behaviors.
 
 [​](#x-+-developers)
 
@@ -336,15 +326,10 @@ X passwords
 
 - - -
 
-More about restricted uses of the X APIs
-========================================
+Restricted uses of the X API
+============================
 
-> Documentation Index
-> -------------------
-> 
-> Fetch the complete documentation index at: [https://docs.x.com/llms.txt](https://docs.x.com/llms.txt)
-> 
-> Use this file to discover all available pages before exploring further.
+Details on restricted use cases for the X API, including off-platform tracking, government surveillance, sensitive data handling, and prohibited tools.
 
 Use of our developer platform requires that you review and agree to our [Developer Agreement and Policy](https://docs.x.com/developer-terms/agreement), as well as our related policies, including the [Display Requirements](https://docs.x.com/developer-terms/display-requirements) and [Automation Rules](https://help.x.com/en/rules-and-policies/twitter-automation). Among other things, our agreements and policies provide guidance about several restricted use cases. We’ve provided additional information about some of these restrictions below.
 
@@ -398,7 +383,7 @@ Off-X matching involves associating X content, including a X username or user ID
 Redistribution of X content
 ----------------------------------------------------------------
 
-If you need to share X content you obtained via the X APIs with another party, the best way to do so is by sharing Post IDs, Direct Message IDs, and/or User IDs, which the end user of the content can then rehydrate (i.e. request the full Post, User, or Direct Message content) using the X APIs. This helps ensure that end users of X content always always get the most current information directly from us. We permit limited redistribution of hydrated X content via non-automated means. If you choose to share hydrated X content with another party in this way, you may only share up to 50,000 hydrated public Post Objects and/or User Objects per recipient, per day, and should not make this data publicly available (for example, as an attachment to a blog post or in a public Github repository). There are a few other points to keep in mind about redistributing X content:
+If you need to share X content you obtained via the X APIs with another party, the best way to do so is by sharing Post IDs, Direct Message IDs, and/or User IDs, which the end user of the content can then rehydrate (i.e. request the full Post, User, or Direct Message content) using the X APIs. This helps ensure that end users of X content always get the most current information directly from us. We permit limited redistribution of hydrated X content via non-automated means. If you choose to share hydrated X content with another party in this way, you may only share up to 50,000 hydrated public Post Objects and/or User Objects per recipient, per day, and should not make this data publicly available (for example, as an attachment to a blog post or in a public Github repository). There are a few other points to keep in mind about redistributing X content:
 
 *   You may only distribute up to a total of 1,500,000 Post IDs to a single entity within a 30 day period unless you’ve received prior express written permission from X.
 *   Individuals redistributing Post IDs and/or User IDs on behalf of an academic institution for the sole purpose of non-commercial research are permitted to redistribute an unlimited number of Post IDs and/or User IDs.
@@ -446,12 +431,7 @@ These policies apply to all users of our APIs. Any misuse of the X APIs for thes
 Geo guidelines
 ==============
 
-> Documentation Index
-> -------------------
-> 
-> Fetch the complete documentation index at: [https://docs.x.com/llms.txt](https://docs.x.com/llms.txt)
-> 
-> Use this file to discover all available pages before exploring further.
+Guidelines for handling geotagged Posts and location data from the X API, including geo features, place objects, and user privacy considerations.
 
 Last Update: October 22, 2014.
 
@@ -464,14 +444,14 @@ Posting With Location is the geotagging feature in the X API. This feature helps
 
 [​](#user-privacy-and-user-control-of-their-location-information)
 
-User Privacy And User Control Of Their Location Information
+User privacy and user control of their location information
 --------------------------------------------------------------------------------------------------------------------------------
 
 To ensure a good and safe experience, developers should be sensitive to user privacy when dealing with their location as well as provide baseline consistency in the “Posting with Location” experience. Here are some key things to keep in mind that help protect user privacy and ensure users understand the impact of their actions:
 
 [​](#general-guidelines)
 
-General Guidelines
+General guidelines
 ----------------------------------------------
 
 *   Users must opt-in to use the Posting With Location feature (turn location “on”).
@@ -483,7 +463,7 @@ General Guidelines
 
 [​](#specific-examples)
 
-Specific Examples
+Specific examples
 --------------------------------------------
 
 Example 1: _No addition of explicit latitude and longitude (this is the current X Web Client UI)_
@@ -499,12 +479,12 @@ Example 2: _Existing geotagging implementations_ A number of X client apps have 
 
 [​](#x-storage-of-user-location-data)
 
-X Storage Of User Location Data
+X storage of user location data
 ------------------------------------------------------------------------
 
 X will store data passed by the client as follows:
 
-*   X will save all the data that a user chooses to publicly display to his/her followers. This is similar to how X stores the time stamp that says when the post was made, meaning if a user posts with their exact coordinates, X will store this exact location along with the post for as long as the post exists. Users can clear location data from their posts by clicking the “clear my location history” button on the Settings page as described [here](https://support.twitter.com/articles/122236-how-to-tweet-with-your-location)).
+*   X will save all the data that a user chooses to publicly display to his/her followers. This is similar to how X stores the time stamp that says when the post was made, meaning if a user posts with their exact coordinates, X will store this exact location along with the post for as long as the post exists. Users can clear location data from their posts by clicking the “clear my location history” button on the Settings page as described [here](https://support.twitter.com/articles/122236-how-to-tweet-with-your-location).
 
 [​](#summary)
 
@@ -520,12 +500,7 @@ The addition of location to a post adds an enormous amount of context and value 
 Ads API Agreement
 =================
 
-> Documentation Index
-> -------------------
-> 
-> Fetch the complete documentation index at: [https://docs.x.com/llms.txt](https://docs.x.com/llms.txt)
-> 
-> Use this file to discover all available pages before exploring further.
+The X Ads API Agreement governs use of X advertising endpoints, including allowed integrations, restrictions, and obligations for advertising partners.
 
 We have updated our Ads API Agreement. The changes below are effective as of February 23, 2025.
 
@@ -854,7 +829,7 @@ Notwithstanding anything to the contrary set forth in Section 1.1 hereinabove, a
 Exhibit C: Individual Product Terms/X Marketing Partner (TMP) Program
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
-Capitalized terms not defined in these Individual Product Terms have the meaning set forth in the main body of the Agreement. To the extent that Company participates in the “X Marketing Partner program (the “**TMP**”), the following terms and conditions of this Exhibit C (including Exhibit C-1) will apply:
+Capitalized terms not defined in these Individual Product Terms have the meaning set forth in the main body of the Agreement. To the extent that Company participates in the “X Marketing Partner program” (the “**TMP**”), the following terms and conditions of this Exhibit C (including Exhibit C-1) will apply:
 
 ### 
 
@@ -950,19 +925,14 @@ X reserves the rights, exercisable at its sole discretion, to modify the terms a
 Display requirements: Posts
 ===========================
 
-> Documentation Index
-> -------------------
-> 
-> Fetch the complete documentation index at: [https://docs.x.com/llms.txt](https://docs.x.com/llms.txt)
-> 
-> Use this file to discover all available pages before exploring further.
+Display requirements for showing X Posts in your app, including branding, attribution, anatomy of a Post, interactivity, and metadata to render.
 
 [​](#general-principles-and-post-anatomy)
 
 General principles and Post anatomy
 --------------------------------------------------------------------------------
 
-Posts are one of our most visible brand elements, so it’s important that they are presented correctly. You should comply with the display requirements below when you display posts, timelines, and other X content. If you follow these guidelines merely to display a post, you may not need to contact X for any additional display or trademark permissions. However, you may still want to submit your proposed use and context for X review. (Note that, in some cases, permission from the original content creator may still be necessary, as X does not provide permission to use third party/user content.) The following general principles apply to all display mediums. Please note, medium-specific requirements do apply, and are are outlined in the sections below. The image below shows all the main components of a post. ![Post Anatomy](https://mintcdn.com/x-preview/bp5F-UotxPjZVbxj/images/post_anatomy.png?fit=max&auto=format&n=bp5F-UotxPjZVbxj&q=85&s=b2201fb7dfc97422364f6ad58cf9d69d)
+Posts are one of our most visible brand elements, so it’s important that they are presented correctly. You should comply with the display requirements below when you display posts, timelines, and other X content. If you follow these guidelines merely to display a post, you may not need to contact X for any additional display or trademark permissions. However, you may still want to submit your proposed use and context for X review. (Note that, in some cases, permission from the original content creator may still be necessary, as X does not provide permission to use third party/user content.) The following general principles apply to all display mediums. Please note, medium-specific requirements do apply, and are outlined in the sections below. The image below shows all the main components of a post. ![Post Anatomy](https://mintcdn.com/x-preview/bp5F-UotxPjZVbxj/images/post_anatomy.png?fit=max&auto=format&n=bp5F-UotxPjZVbxj&q=85&s=b2201fb7dfc97422364f6ad58cf9d69d)
 
 ### 
 
@@ -1145,12 +1115,7 @@ Make sure to include a reference to X when mentioning X hashtags. For example, �
 Display requirements: Replies
 =============================
 
-> Documentation Index
-> -------------------
-> 
-> Fetch the complete documentation index at: [https://docs.x.com/llms.txt](https://docs.x.com/llms.txt)
-> 
-> Use this file to discover all available pages before exploring further.
+Display requirements for showing replies to Posts in apps that use the X API, including thread structure, attribution, and reply context rules.
 
 [​](#reply)
 
@@ -1190,12 +1155,7 @@ For a Quote:
 X Developer PPU Agreement
 =========================
 
-> Documentation Index
-> -------------------
-> 
-> Fetch the complete documentation index at: [https://docs.x.com/llms.txt](https://docs.x.com/llms.txt)
-> 
-> Use this file to discover all available pages before exploring further.
+The X Developer Pay-Per-Use Agreement covers terms for purchasing and using credits on paid X API services, including billing and usage rules.
 
 By clicking “Pay,” and purchasing credits for use on Paid Services, or by otherwise accessing or using any Licensed Material, you agree to the terms of our Agreement. Credits do not expire unless otherwise specified, and are not transferable or refundable except as required by law. A verified phone number is required to purchase Credits. This X Developer PPU Agreement (“**Agreement**”) is a binding legal agreement between you (referred to in this Agreement as “**you**”) and X and governs your access to and use of the Licensed Material (defined below), including any Paid Services (defined below). By accessing or using any Licensed Material (defined below), or clicking on a button to accept the terms of this Agreement or purchase credits for Paid Services, you agree to be bound by the terms of this Agreement. If you do not understand the terms herein or do not accept any part of them, then you may not use or access any Licensed Material. You may not use the Licensed Material or accept this Agreement if you are not of legal age to form a binding contract with X or if you are barred from using or receiving the Licensed Material under applicable law. To purchase and use a Paid Service you must: (i) be at least 18 years old or the age of majority as determined by the laws of the jurisdiction in which you live or (ii) have the express consent of your parent or guardian to purchase and use that Paid Service. If you are a parent or legal guardian and you allow your child (or a child that you are a guardian of) to purchase or use a Paid Service, you agree that the terms of this Agreement apply to you, you will abide by this Agreement, and you are responsible for the child’s activity on the Paid Services and for ensuring that the child also abides by the terms of this Agreement. In any case, as stated in the Who May Use the Services section of the [**X Terms of Service**](https://x.com/tos), you must be at least 13 years old to use the “Services” as defined in the X Terms of Service. If you are accepting this Agreement or using the Licensed Material on behalf of a company, organization, government, or other legal entity, you represent and warrant that you have the authority to bind such company, organization, government, or other legal entity to this Agreement, in which case the words “you” and “your” as used in this Agreement shall refer to such entity. If you do not agree to the terms of this Agreement, you may not (and you may not allow any of your personnel to) access or use the Licensed Material. I. **Definitions**. In this Agreement, the following definitions apply:
 
