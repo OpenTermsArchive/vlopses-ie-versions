@@ -169,17 +169,15 @@ We welcome your questions and comments about our privacy practices or these Term
 
 Shein’s Terms and Conditions – All you need to know about the fine prints!
 
-Za hrvatsku verziju, molimo kliknite [ovdje](https://files-c.ltwebstatic.com/ccc/2026/04/02/17751014681726101104.pdf). (Crotian)
+Lietuvišką versiją rasite spustelėję[čia](https://files-c.ltwebstatic.com/ccc/2026/06/08/17808857822558587475.pdf). (Lithuanian)
 
-Lietuvišką versiją rasite spustelėję[čia](https://files-c.ltwebstatic.com/ccc/2026/04/02/1775101514224291445.pdf). (Lithuanian)
+Lai skatītu versiju latviešu valodā, lūdzu, noklikšķiniet[šeit](https://files-c.ltwebstatic.com/ccc/2026/06/08/17808857141853813069.pdf). (Latvian)
 
-Lai skatītu versiju latviešu valodā, lūdzu, noklikšķiniet[šeit](https://files-c.ltwebstatic.com/ccc/2026/04/02/17751015021529154628.pdf). (Latvian)
+Eestikeelse versiooni vaatamiseks palun klõpsake [siin](https://files-c.ltwebstatic.com/ccc/2026/06/08/1780885695911977604.pdf). (Estonian)
 
-Eestikeelse versiooni vaatamiseks palun klõpsake [siin](https://files-c.ltwebstatic.com/ccc/2026/04/02/17751015433120737636.pdf). (Estonian)
+Za slovensko različico kliknite [tukaj](https://files-c.ltwebstatic.com/ccc/2026/06/08/17808857452605077186.pdf). (Slovene)
 
-Za slovensko različico kliknite [tukaj](https://files-c.ltwebstatic.com/ccc/2026/04/02/17751015551337041270.pdf). (Slovene)
-
-For den danske version, klik venligst [her](https://files-c.ltwebstatic.com/ccc/2026/04/02/17751015701607886633.pdf). (Danish)
+For den danske version, klik venligst [her](https://files-c.ltwebstatic.com/ccc/2026/06/08/1780885668740293391.pdf). (Danish)
 
 Welcome to Shein Marketplace!
 
@@ -211,7 +209,7 @@ Our marketplace policies are also an integral part of these Ts and Cs
 
 Please review these carefully before you use the Site and make a purchase as such use and purchase are subject to these Ts &Cs
 
-We recommend that you [print](https://files-c.ltwebstatic.com/ccc/2026/04/02/1775118361624801276.pdf) a version or save the applicable Ts &Cs.
+We recommend that you [print](https://files-c.ltwebstatic.com/ccc/2026/06/05/17806506902596674933.pdf) a version or save the applicable Ts &Cs.
 
 Overview of T&Cs
 
@@ -233,15 +231,15 @@ Overview of T&Cs
 
 SHEIN MARKETPLACE’ S GENERAL CONDITIONS OF USE
 
-Version of April 2, 2026
+**Version of June 5th, 2026**
 
 Welcome to the Shein EUR Marketplace.
 
 Infinite Styles Services Co., Ltd operates the website eur.shein.com and/or the relevant mobile application (hereinafter, the **“Site”** ) which provide an online marketplace (hereinafter, the **“Marketplace”** ) that allows customers to purchase products ( **“Products”** ) from professional traders (the **“Sellers”** ). SHEIN provides the Marketplace and facilitates these sales and use of the Marketplace by making the Marketplace platform available to Sellers and customers and performing technical platform activities on the Site (or fulfilment services where applicable) ( **“Services”** ), therefore SHEIN does not produce nor alter the Product Content displayed on the Site, does not offer the Products and it is not in any other way involved in the sale of the Products.
 
-These General Conditions of Use ( **“GCU”** ) govern the contractual relationship between (a) **Infinite Styles Services Co, Ltd.** whose registered office is at 2nd Floor, 1-2 Victoria Buildings, Haddington Road, Dublin 4, Dublin, D04 XN32, Ireland (hereinafter, **“SHEIN”** or **“we”** ) and (b) **you** (hereinafter **“You”** or the **“Customer”** ), regarding your use of the Marketplace within Bulgaria, Croatia (local name: Hrvatska), Cyprus, Estonia, Finland, Ireland, Iceland, Norway, Latvia, Lithuania, Malta, Slovenia (hereinafter the **“Territory”** ).
+These General Conditions of Use ( **“GCU”** ) govern the contractual relationship between (a) **Infinite Styles Services Co, Ltd.** whose registered office is at The Sidings, 4th Floor, Grand Canal Quay, Dublin 2, D02 E7K8, Ireland (hereinafter, **“SHEIN”** or **“we”** ) and (b) **you** (hereinafter **“You”** or the **“Customer”** ), regarding your use of the Marketplace within Bulgaria, Croatia (local name: Hrvatska), Cyprus, Estonia, Finland, Ireland, Iceland, Norway, Latvia, Lithuania, Malta, Slovenia (hereinafter the **“Territory”** ).
 
-Before using the Marketplace, please read carefully these GCU and either [print](https://files-c.ltwebstatic.com/ccc/2026/04/02/1775118387624801276.pdf) them or, to save them electronically before accepting them. The fact that you use the Site implies your acceptance, without reservation, of these GCU, unless legally prohibited. These GCU may be modified at any time by SHEIN and the applicable GCU shall be those in force at the time the Customer uses the Marketplace. The Customer is responsible for checking these GCU for any changes whenever uses the Site.
+Before using the Marketplace, please read carefully these GCU and either [print](https://files-c.ltwebstatic.com/ccc/2026/06/05/17806507312596674933.pdf) them or, to save them electronically before accepting them. The fact that you use the Site implies your acceptance, without reservation, of these GCU, unless legally prohibited. These GCU may be modified at any time by SHEIN and the applicable GCU shall be those in force at the time the Customer uses the Marketplace. The Customer is responsible for checking these GCU for any changes whenever uses the Site.
 
 The Customer understands and agrees that the following policies form an integral part of the T&Cs (as defined in clause 1.3 below):
 
@@ -411,7 +409,7 @@ The Site, Content and Products Content are protected by copyright, trademark rig
 
 (5) The Customer agrees not to (a) circumvent, disable, or otherwise interfere with the security features of the Site or the restrictions/limitations on the use of the Site, Content and the Products Content; (b) perform any data recovery on the Site; (c) interfere with or damage the Site by introducing malicious or harmful material.
 
-(6) By accessing or using the Site, the Customer agrees not to engage in, facilitate, authorise, or permit any form of data mining, data scraping, data harvesting, or any other data collection from the Site, other than to the extent such conduct is authorised by law (including Article 40(12) of Regulation (EU) 2022/2065) or is undertaken with the prior written consent of SHEIN. This includes, but is not limited to, the use of automated or manual methods such as robots, bots, spiders, scrapers, or any other devices, programmes, algorithms, or processes, as well as any automated analytical techniques aimed at analysing collected data to generate information.  
+(6) By accessing or using the Site, the Customer agrees not to engage in, facilitate, authorise, or permit any form of data mining, data scraping, data harvesting, or any other data collection from the Site, other than to the extent such conduct is authorised by law (including Article 40(12) of Regulation (EU) 2022/2065) or is undertaken with the prior written consent of SHEIN. This includes, but is not limited to, the use of automated or manual methods such as robots, bots, spiders, scrapers, or any other devices, programmes, algorithms, or processes, as well as any automated analytical techniques aimed at analysing collected data to generate information.
 
   
 
@@ -645,7 +643,7 @@ We encourage customers to report illegal content whenever they consider it neces
 
 Company name: Infinite Styles Services Co., Ltd
 
-Address: 2nd Floor, 1-2 Victoria Buildings, Haddington Road, Dublin 4, Dublin, D04 XN32, Ireland
+Address: The Sidings, 4th Floor, Grand Canal Quay, Dublin 2, D02 E7K8, Ireland
 
 Email: eurcsteam@shein.com
 
@@ -657,9 +655,9 @@ Company number: 732881
 
 GENERAL CONDITIONS OF SALE
 
-**Version of February 11, 2026**
+**Version of June 5th, 2026**
 
-Welcome to eur.shein.com and/or the mobile application (the **“Marketplace”** ) operated by Infinite Styles Services Co., Ltd (address at 2nd Floor, 1-2 Victoria Buildings, Haddington Road, Dublin 4, Dublin, D04 XN32, Ireland, and registration number 732881) ( **“Shein”** or **“the Operator”** ).
+Welcome to eur.shein.com and/or the mobile application (the **“Marketplace”** ) operated by Infinite Styles Services Co., Ltd (address at The Sidings, 4th Floor, Grand Canal Quay, Dublin 2, D02 E7K8, Ireland, and registration number 732881) ( **“Shein”** or **“the Operator”** ).
 
 Your use of the Marketplace and of the Operator’s facilitation services ( **“Services”** ) is governed by our [General Conditions of Use](javascript:;) . Please ensure that you have reviewed them and agreed with them before you use or continue using the Marketplace.
 
@@ -682,7 +680,7 @@ If you wish to order from another country outside of the Territory you will be r
 
 In order to place an order on the Marketplace, the Customer declares that he/she is at least 18 years old. It is specified **that the Products are intended for the domestic and personal use by the Customer,** without any direct connection with his/her professional activity. The Customer undertakes not to purchase Products with a view to reselling them.
 
-Before making a purchase, the Customer will be invited to read carefully these GCS to [print](https://files-c.ltwebstatic.com/ccc/2026/04/02/1775118469624801276.pdf) them or to save them electronically and to accept them. The fact that a Customer places an order implies his/her express acceptance, without reservation, of both these General Conditions of Sale and the General Conditions of Use applicable to the use of the Marketplace (both hereinafter jointly referred as **“T&Cs”** ), unless legally prohibited. The T&CS may be modified at any time by SHEIN. In any event, the applicable T&CS shall be those in force at the time the Customer places an order. The Customer is responsible for checking the T&Cs for any changes whenever the Customer uses the Marketplace.
+Before making a purchase, the Customer will be invited to read carefully these GCS to [print](https://files-c.ltwebstatic.com/ccc/2026/06/05/17806507552596674933.pdf) them or to save them electronically and to accept them. The fact that a Customer places an order implies his/her express acceptance, without reservation, of both these General Conditions of Sale and the General Conditions of Use applicable to the use of the Marketplace (both hereinafter jointly referred as **“T&Cs”** ), unless legally prohibited. The T&CS may be modified at any time by SHEIN. In any event, the applicable T&CS shall be those in force at the time the Customer places an order. The Customer is responsible for checking the T&Cs for any changes whenever the Customer uses the Marketplace.
 
 The Customer understands and agrees that the following Marketplace policies form an integral part of the T&Cs:
 
@@ -1069,7 +1067,7 @@ The Customer confirms that he/she has read and understood [Marketplaces Privacy 
 
 13.1 **Sellers:** The name and details of each Seller shall be displayed in each Product specifications on the Site before the Customer confirms its order.
 
-13.2 **Operator:** Infinite Styles Services Co, Ltd with address at 2nd Floor, 1-2 Victoria Buildings, Haddington Road, Dublin 4, Dublin, D04 XN32, Ireland.
+13.2 **Operator:** Infinite Styles Services Co, Ltd with address at The Sidings, 4th Floor, Grand Canal Quay, Dublin 2, D02 E7K8, Ireland.
 
 Email: eurcsteam@shein.com
 
