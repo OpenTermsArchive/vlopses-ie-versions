@@ -8,7 +8,7 @@ Infinite Styles Services, Co. Ltd.
 
 Registered Address:
 
-2nd Floor, 1-2 Victoria Buildings,Haddington Road, Dublin 4, Dublin, D04 XN32, Ireland
+The Sidings, 4th Floor, Grand Canal Quay, Dublin 2, D02 E7K8, Ireland
 
 Company Registration Number: 732881
 
@@ -22,9 +22,9 @@ Correspondence Address:
 
 SHEIN, Floor 2, Glendenning House, 6-8 Wicklow Street, Dublin 2, D02 AX90
 
-Telephone number: +35312636262  
+Telephone number: +35312636262
 
-Email: [Contact-ISSL@shein.com](mailto:Contact-ISSL@shein.com)  
+Email: [Contact-ISSL@shein.com](mailto:Contact-ISSL@shein.com)
 
 Customer Services: For general inquiries orassistance, please contact us via the SHEIN Customer Service Portal by clicking [here](https://eur.shein.com/robot).
 
