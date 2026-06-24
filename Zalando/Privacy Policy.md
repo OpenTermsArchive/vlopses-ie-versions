@@ -2749,20 +2749,20 @@ Privacy Policy
 
 * * *
 
-Zalando Privacy Notice
-----------------------
+**Zalando Privacy Notice**
+--------------------------
 
-This Data Protection Declaration gives you an overview of how Zalando processes your data in connection with Zalando Partner University website. (As at: 02/2021)
+This Data Protection Declaration gives you an overview of how Zalando processes your data in connection with the Zalando Partner University website (as of: 09/2026)
 
-### How You Can Read These Data Protection Declarations:
+### **How you can read this Data Protection Declaration:**
 
-We offer you various options for reading this Data Protection Declarations. Firstly, you can find very basic information in this section. Then we have sorted this Data Protection Declaration into topics relevant for you and divided it accordingly into individual chapters.
+We offer you various options for reading this Data Protection Declaration. Firstly, you can find very basic information in this section. Then we have sorted this Data Protection Declaration into topics relevant for you and divided it accordingly into individual chapters.
 
-We have prefixed each chapter with a short overview. This overview briefly summarizes the content of the chapter. If you just want a quick high-level overview of all data processing, it is advisable to read the overviews. If you want to familiarize yourself with the details, you can read the complete contents of the chapter below the relevant overview.
+We have prefixed each chapter with a short overview. This overview briefly summarises the content of the chapter. If you just want a quick, high-level overview of all data processing, it is advisable to read the overviews. If you want to familiarise yourself with the details, you can read the complete contents of the chapter below the relevant overview.
 
 We have avoided cross-references wherever possible. That way you get all information coherently explained, regardless of which chapter you are currently reading. If you read this Data Protection Declaration from start to finish, you may find that parts of the text are repeated.
 
-### What You Will Learn in This Data Protection Declaration:
+**What you will learn in this Data Protection Declaration:**
 
 *   Which data Zalando stores.
     
@@ -2773,14 +2773,14 @@ We have avoided cross-references wherever possible. That way you get all informa
 *   Which tracking technologies we use.
     
 
-If you have a question regarding this Data Protection Declaration or the topic of data protection at Zalando in general, you can contact our [data protection officer](https://www.google.com/url?q=https://en.zalando.de/zalando-privacy-policy/%23chapter-14&sa=D&ust=1603408561280000&usg=AOvVaw0TuK7-RyvTEct4UgVoDee5) or [Zalando customer service](https://www.google.com/url?q=https://www.zalando.co.uk/faq/&sa=D&ust=1603408561280000&usg=AOvVaw2SrLQrfzH_MZBj2spUuGOk) at any time.
+If you have a question regarding this Data Protection Declaration or the topic of data protection at Zalando in general, you can contact our [data protection officer](https://en.zalando.de/zalando-privacy-policy/#chapter-14) or [Zalando customer support](https://www.zalando.co.uk/faq/) at any time.
 
-The entity responsible for collecting, processing, and using your personal data in accordance with data protection law is the Zalando SE, Valeska-Gert-Str. 5, 10243 Berlin, Germany.
+The entity responsible for collecting, processing, and using your personal data in accordance with data protection law is Zalando SE, Valeska-Gert-Str. 5, 10243 Berlin, Germany.
 
-1\. Which Data Does Zalando Process?
-------------------------------------
+**1\. Which data does Zalando process?**
+----------------------------------------
 
-Zalando offers you a wide range of services, which you can also use in a wide range of ways. Depending on whether you contact us online, by phone or otherwise and on which services you use, various data from different sources may come into play. Much of the data we process is provided by you yourself when you use our services or contact us, for example when you register and provide your name or email address or address. We do, however, also receive technical device and access data which is automatically collected when you interact with our services. This may, for example, be information on which device you are using.
+Zalando offers you a wide range of services, which you can also use in a wide range of ways. Depending on whether you contact us online, by phone or otherwise, and which services you use, various data from different sources may come into play. Much of the data we process is provided by you yourself when you use our services or contact us, for example when you register and provide your name or email address or address. We do, however, also receive technical device and access data which is automatically collected when you interact with our services. This may, for example, be information on which device you are using.
 
 When we talk about “your data”, we are referring to personal data. This includes all information which allows us to identify you straight away or by combining it with other information.
 
@@ -2794,56 +2794,56 @@ If we request that you share particular personal information with us, you may of
 
 If particular information is required in connection with a service (mandatory information), we will inform you by marking it accordingly.
 
-### **1.1 Profile Information**
+### **1.1 Profile information**
 
-*   Profile information is personal and demographic information on your person (so-called master data), along with your individual interests, which you share with us when registering for an user account (i.e. Partner Program)Brand Hub. Your profile data includes, for example:
+Profile information is personal and demographic information on your person (so-called master data), along with your individual interests, which you share with us when registering for an user account (i.e. Partner Program) Brand Hub. Your profile data includes, for example:
+
+*   Your first and last names
     
-    *   Your first and last names
-        
-    *   Your contact details
-        
-    *   Mandatory information is usually your name, your email address and a password you choose yourself. Your user name and the password will later constitute your login details.
-        
+*   Your contact details
+    
 
-Tip
+Mandatory information is usually your name, your email address and a password you choose yourself. Your username and the password will later constitute your login details.
+
+Good to know
 
 If you are logged into your user account Brand Hub, you can view your personal data there and can usually edit it directly there, e.g. in order to update your email address after a move.
 
-### **1.2 Contact Details**
+### **1.2 Contact details**
 
-If you contact us, we collect your data. Depending on how you contact us (e.g. by phone or by email), your contact details may include your name, postal addresses, telephone numbers, fax numbers, email addresses, detail on your social network profiles (for example we receive your Facebook ID if you contact us via Facebook), user names and similar contact details.
+If you contact us, we collect your data. Depending on how you contact us (e.g. by phone or by email), your contact details may include your name, postal addresses, telephone numbers, fax numbers, email addresses, detail on your social network profiles (for example, we receive your Facebook ID if you contact us via Facebook), usernames and similar contact details.
 
-### **1.3 Messages, Conversation Content**
+### **1.3 Messages, conversation content**
 
-If you communicate with us or other users regarding our services or products (e.g. product evaluations) and other topics by phone, post, social media, contact forms or any other medium, we collect the content of your messages.
+If you communicate with us or other users regarding our services or products (e.g. product evaluations) and other topics by phone, post, social media, contact forms, AI chatbots (such as the Partner Assistant), or any other medium, we collect the content of your messages.
 
 We may forward your messages to the office responsible for your concerns, perhaps to partner companies or manufacturers. If your messages are forwarded to another company (e.g. if you provide us with feedback on the manufacturer of a product), you of course have the option to tell us that the data should only be used by Zalando. If so, we will not forward your information to the responsible office, or will only do so without your personal information, provided that your concerns can be processed in this way.
 
 If you transmit messages to us for other users via functions provided for this purpose (e.g. product evaluations), we may publish these within the scope of our services.
 
-Zalando also uses social network services such as Facebook, Instagram and Twitter to communicate with customers and users. We use these popular platforms to offer you further contact and information options beyond our in-house communication channels. Please bear in mind, however, that we do not have any influence on the terms of use for social networks and the services they offer, and only limited influence on their data processing. We therefore ask you to carefully check which personal data you share with us via social networks. We cannot influence the behaviour of social media operators, other users or third parties who may work with the operators of the social networks or also use these services.
+Zalando also uses social network services such as Facebook, Instagram and X (formerly Twitter) to communicate with customers and users. We use these popular platforms to offer you further contact and information options beyond our in-house communication channels. Please bear in mind, however, that we do not have any influence on the terms of use for social networks and the services they offer, and only limited influence on their data processing. We therefore ask you to carefully check which personal data you share with us via social networks. We cannot influence the behaviour of social media operators, other users or third parties who may work with the operators of the social networks or also use these services.
 
-### **1.4 Social Network Data**
+**1.4 Social network data**
 
 Zalando maintains profile pages (also called "fan pages") on various social networks. Additionally, Zalando services may incorporate social networking features. These can be social links.
 
-Please also refer to the notes on the processing of social network data related to social network features under 3. Info on websites and 4. Information about Social Media Fan Pages.
+Please also refer to the notes on the processing of social network data related to social network features under [3\. Information on websites](https://partner.zalando.com/privacy-policy#3-information-on-websites) and [4\. Information about social media fan pages](https://partner.zalando.com/privacy-policy#4-information-about-social-media-fan-pages).
 
 Zalando currently uses the Facebook messenger service and social links for the following social networks:
 
-*   Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, IrelandFacebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (“Facebook”). The link to Facebook's privacy policy is available here: [Facebook's Data Policy](https://www.google.com/url?q=https://www.facebook.com/about/privacy/&sa=D&ust=1603408561283000&usg=AOvVaw2Sm8lpP4lNiJDQJpAuIKxn).
+*   Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland 
     
-*   Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA (“Twitter”). The link to the Twitter's privacy policy is available here:[Twitter’s privacy policy](https://www.google.com/url?q=https://twitter.com/privacy&sa=D&ust=1603408561283000&usg=AOvVaw1gdArJYKD48axhYUJC2SJc).
+*   Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (“Facebook”). The link to Facebook's privacy policy is available here: [Facebook's Data Policy](https://www.facebook.com/about/privacy/).
     
-*   LinkedIn Corp., 1000 W. Maude Ave., Sunnyvale, California 94085, USA (“LinkedIn”). The link to LinkedIn’s privacy policy is available here: [LinkedIn’s Privacy Policy.](https://www.google.com/url?q=https://www.linkedin.com/legal/privacy-policy&sa=D&ust=1603408561284000&usg=AOvVaw16qCUMURQ3FGwwDiHRxY4Q)
+*   X Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA (“X”). The link to X's privacy policy is available here: [X’s privacy policy](https://x.com/en/privacy).
     
-*   Pinterest Inc., 635 High Street, Palo Alto, CA, USA (“Pinterest”). The link to Pinterest's privacy policy is available here: [Pinterest’s Privacy Policy.](https://www.google.com/url?q=https://policy.pinterest.com/en/privacy-policy&sa=D&ust=1603408561284000&usg=AOvVaw0IKjrh6z5H5DRjMoTfPcfl)
+*   LinkedIn Corp., 1000 W. Maude Ave., Sunnyvale, California 94085, USA (“LinkedIn”). The link to LinkedIn’s privacy policy is available here: [LinkedIn’s Privacy Policy.](https://www.linkedin.com/legal/privacy-policy)
     
-*   Instagram by Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland (“Instagram”). The link to Instagram’s privacy policy is available here:
+*   Pinterest Inc., 635 High Street, Palo Alto, CA, USA (“Pinterest”). The link to Pinterest's privacy policy is available here: [Pinterest’s Privacy Policy.](https://policy.pinterest.com/en/privacy-policy)
     
-    [Instagram’s Privacy Policy.](https://www.google.com/url?q=https://help.instagram.com/519522125107875&sa=D&ust=1603408561284000&usg=AOvVaw0egJIsFHmL2FLpRFbfjUNL)
+*   Instagram by Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland (“Instagram”). The link to Instagram’s privacy policy is available here: [Instagram’s Privacy Policy.](https://help.instagram.com/519522125107875)
     
-*   YouTube by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. The link to Google’s privacy policy is available here: [Google’s Privacy Policy](https://www.google.com/url?q=https://policies.google.com/privacy&sa=D&ust=1603408561285000&usg=AOvVaw2y17BseLtsFGOGSrx19i4H)
+*   YouTube by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland. The link to Google’s privacy policy is available here: [Google’s Privacy Policy](https://policies.google.com/privacy)
     
 
 ### **1.5 Device and Access Data**
@@ -2861,7 +2861,7 @@ When using online and mobile services, it is inevitable that technical data will
 *   Location-based services
     
 
-Zalando collects device and access data for online and mobile services offered by Zalando itself (e.g. Zalando Shop). Additional information is available under 4. Information about Social Media Fan Pages. Device and access data includes the following categories:
+Zalando collects device and access data for online and mobile services offered by Zalando itself (e.g. Zalando Shop). Additional information is available under 4. Information about social media fan pages. Device and access data includes the following categories:
 
 *   General device information, such as information on the device type, operating system version, configuration settings (e.g. language settings, system authorisations), information on internet connection (e.g. name of the mobile data network, connection speed) and on the app used (e.g. name and version of the app).
     
@@ -2870,14 +2870,14 @@ Zalando collects device and access data for online and mobile services offered b
 *   Access data automatically transmitted by apps and web browsers whenever you access web servers and databases (within the framework of so-called HTTP requests). This is standardised information on the required content (such as the name and file type of a retrieved file) as well as further information on server access (such as amount of data transferred and error codes), on your device (e.g. device type, operating system, software versions, device identifications, IP address, the site previously visited and the time of access).
     
 
-2\. What does Zalando use my data for?
---------------------------------------
+**2\. What does Zalando use my data for?**
+------------------------------------------
 
 Zalando processes your data in accordance with all applicable data protection laws. Of course, we observe the principles of data protection law for the processing of personal data. We therefore generally only process your data for the purposes explained to you in this Data Protection Declaration or shared when we collect the data.
 
-In this chapter, we also inform you of the legal basis on which we process data for the individual purposes. Depending on the legal basis for our processing of your data, you may have additional data protection rights alongside your permanent rights such as the right to information. For example, in individual cases you have the right to object to the processing of your data. You can find further information under 7. Which data protection rights do I have?
+In this chapter, we also inform you of the legal basis on which we process data for the individual purposes. Depending on the legal basis for our processing of your data, you may have additional data protection rights alongside your permanent rights such as the right to information. For example, in individual cases you have the right to object to the processing of your data. You can find further information under [7\. Which data protection rights do I have?](https://partner.zalando.com/privacy-policy#7-which-data-protection-rights-do-i-have)
 
-### **2.1 Provision of Online Services**
+### **2.1 Provision of online services**
 
 We process your data in the necessary scope to fulfil contracts and to provide and execute further services requested by you, as described in this Data Protection Declaration. The purposes of the necessary data processing therefore depend on the purpose of the contract agreed with you (including our General Terms and Conditions and any service-specific terms and conditions or terms of use) or services requested by you. The most important purposes are:
 
@@ -2888,23 +2888,23 @@ We process your data in the necessary scope to fulfil contracts and to provide a
 *   Non-promotional communication with you on technical, security-related and contractually relevant subjects (e.g. fraud warnings or account blocking).
     
 
-Legal Basis:
+**Legal basis:**
 
 Insofar as the purpose relates to the execution of a contract agreed with you or the provision of a service requested by you, the legal basis is Article 6 (1) b GDPR. Otherwise, the legal basis is Article 6 (1) f GDPR, whereby we may use your personal data for the above purposes if we deem it necessary to do so for our legitimate interests.
 
-### **2.2 Fraud Prevention**
+### **2.2 Fraud prevention**
 
-In order to combat the risk of data security breaches, data pertaining to users of our services is encrypted in transmission. This applies both to ordering and to registering for a customer account. For this we use the coding system SSL (Secure Socket Layer). Encryption prevents third parties from viewing the data. To provide additional protection from external attacks, we rely on special security technologies which constantly check our systems and identify and report anomalies. We also use technical and organisational measures to secure our systems against loss, destruction, unauthorised access or distribution of customer data by unauthorised persons. In this manner we wish to keep the risk of unauthorised access as low as possible, because protecting your data is our top priority. However, we - like other companies - cannot guarantee absolute protection.
+In order to combat the risk of data security breaches, data pertaining to users of our services is encrypted in transmission. This applies both to ordering and to registering for a customer account. For this we use the coding system SSL (Secure Socket Layer). Encryption prevents third parties from viewing the data. To provide additional protection from external attacks, we rely on special security technologies which constantly check our systems and identify and report anomalies. We also use technical and organisational measures to secure our systems against loss, destruction, unauthorised access or distribution of customer data by unauthorised persons. In this manner we wish to keep the risk of unauthorised access as low as possible, because protecting your data is our top priority. However, we—like other companies—cannot guarantee absolute protection.
 
-Legal Basis:
+**Legal basis:**
 
 If your data is processed to prevent fraud at your expense, the legal basis is Article 6 (1) b GDPR. This processing of your data otherwise occurs on the basis of Article 6 (1) f GDPR, based on our legitimate interest and that of other users in the identification and prevention of fraud and clarification of criminal offences.
 
-### 2.3 Business Management and Business Optimisation
+### **2.3 Business management and business optimisation**
 
 We transmit and process your data where necessary for administrative and logistical processes and to optimise business processes within Zalando Group in order to design these in a more efficient and legally secure way and to fulfil our contractual and legal obligations (e.g. retention obligations under commercial and tax law). Many systems and technologies are shared within Zalando Group. This allows us to offer a more economical, secure, unified and personalised service. Therefore, various companies within Zalando Group have access to your data in so far as this is necessary for the fulfilment of the purposes named in this Data Protection Declaration.
 
-#### Example:
+**Example:**
 
 If you contact Zalando customer service, your request is forwarded to Zalando Customer Care DACH SE & Co. KG and processed there. Zalando Customer Care DACH SE & Co. KG is responsible for customer service in the German-speaking area within Zalando Group. If this is necessary for the processing of your concern, a customer service employee from Zalando Customer Care DACH SE & Co. KG may access the data stored on you by other Zalando companies, for example your order data (e.g. in order to clarify your questions regarding a return).
 
@@ -2917,11 +2917,11 @@ Data processing for business management and business optimisation also includes,
 *   Guaranteeing the security and operability of our IT systems.
     
 
-Legal Basis:
+**Legal basis:**
 
 The legal basis for the processing of your data for business management and optimisation is Article 6 (1) f GDPR, whereby our legitimate interests are in the above purposes. Where we process your data on the basis of legal specifications, e.g. retention obligations and money laundering tests under tax law, the legal basis is Article 6 (1) c GDPR.
 
-### 2.4 On the Basis of Your Consent
+### **2.4 On the basis of your consent**
 
 If you have given us your consent for the processing of personal data, your consent is the primary basis of our data processing. Which of your data we process on the basis of your consent depends on the purpose of your consent. Typical purposes include:
 
@@ -2935,92 +2935,84 @@ If you have given us your consent for the processing of personal data, your cons
     
 *   The transmission of your data to third parties or to a country outside the European Union.
     
-*   Notices of Withdrawal
+*   Notices of withdrawal
     
 
-You can withdraw consent at any time with effect for the future, e.g. by e-mail, letter or fax.
+You can withdraw consent at any time with effect for the future, e.g. by e-mail, letter or fax. If the relevant service supports this function, you can adjust and withdraw consent to receive newsletters and other notifications in the preference centre. You can find the link to the preference centre in each newsletter. Each newsletter also contains a corresponding unsubscribe link.
 
-If the relevant service supports this function, you can adjust and withdraw consent to receive newsletters and other notifications in the preference centre. You can find the link to the preference centre in each newsletter. Each newsletter also contains a corresponding unsubscribe link.
+You can find further instructions under [7\. Which data protection rights do I have?](https://partner.zalando.com/privacy-policy#7-which-data-protection-rights-do-i-have)
 
-You can find further instructions under 7. Which data protection rights do I have?
-
-### 2.5 Other Purposes
+### **2.5 Other purposes**
 
 If data protection law allows it, we can use your data for new purposes such as carrying out data analyses and developing our services and content without your consent. It is a prerequisite for this that these new purposes which the data is to be used for were not fixed or foreseeable when the relevant data was collected and the new purposes are compatible with the purposes for which the relevant data was originally collected. For example, new developments in the legal or technical sphere and new business models and services may lead to new processing purposes.
 
-3\. Info on Websites
---------------------
+**3\. Information on websites**
+-------------------------------
 
 We use your data to provide access to the Zalando websites. Along with the device and access data collected whenever you use these services, the type of data processed as well as the processing purposes depend especially on how you use the functions and services provided via our services. We also use the data collected when you use our services to find out how our online offering is used. We use this information to improve our services.
 
-### 3.1 Providers
+### **3.1 Providers**
 
 You can find the responsible service provider in the imprint of the relevant website.
 
-### 3.2 Which Data is Collected?
+### **3.2 Which data is collected?**
 
 We generally collect all the data which you directly share with us via our services.
 
-Device and Access Data
+**Device and Access Data**
 
 Whenever you access our services and databases, we collect device and access data and record it in so-called server log files. The IP address it contains is anonymised shortly after the end of the relevant session, as soon as storage is no longer required to maintain the functionality of the relevant website.
 
 If it is available and activated on your device, we also collect a device-specific ID number (e.g. a so-called “promo ID” if you are using an Android device or an “ad ID” if you are using an Apple device). This device ID is issued by the manufacturer of your operating system and can be read by websites and apps and used to present content on the basis of your usage habits. If you do not want this, you can deactivate it at any time in your device’s browser settings or system settings.
 
-#### Login
+**Login**
 
-We set up password-protected personal access for users who register for a usercustomer account or another service. If you do not log out again after logging in with your login details, most services automatically keep you logged in. Depending on the type of service, a cookie or similar technology is used for this. This function allows you to use part of our services without having to log in again every time. For security reasons, however, you will be asked to enter your password again if, for example, you want to change your profile information.
+We set up password-protected personal access for users who register for a user/customer account or another service. If you do not log out again after logging in with your login details, most services automatically keep you logged in. Depending on the type of service, a cookie or similar technology is used for this. This function allows you to use part of our services without having to log in again every time. For security reasons, however, you will be asked to enter your password again if, for example, you want to change your profile information.
 
-#### Social Links
+**Social links**
 
 Our services may include social links from various social networks. With the help of these hyperlinks you can, for example, share content or recommend products. By clicking on the link, the social network receives the information that you have visited the corresponding website and collects your access and device data. If you are logged in to the social network, this can also assign the visit to your account in the respective social network. The purpose and scope of the data collection, and the further processing and use of the data by the particular social networks and your rights and configuration options concerning this to protect your privacy, can be found in the privacy notices of the respective social networks and websites. You can find the links to these below.
 
-#### Facebook Social Links
+**Facebook social links**
 
-We use social links by the social network facebook.com, operated by Facebook Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland (“Facebook”), on several websites. You can find the link to Facebook’s Data Protection Declaration here: [Facebook’s privacy policy](https://www.google.com/url?q=https://www.facebook.com/about/privacy/&sa=D&ust=1603408561290000&usg=AOvVaw08rqTc2TPoD6CQVt7vbKey).
+We use social links by the social network facebook.com, operated by Facebook Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland (“Facebook”), on several websites. You can find the link to Facebook’s Data Protection Declaration here: [Facebook’s privacy policy](https://www.facebook.com/about/privacy/).
 
-#### Twitter Social Links
+**X social links**
 
-We use social links by the social network Twitter, operated by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA (“Twitter”), on several websites. You can find the link to Twitter’s privacy policy here: [Twitter’s privacy policy](https://www.google.com/url?q=https://twitter.com/en/privacy&sa=D&ust=1603408561291000&usg=AOvVaw1CwUvojvp0sfEeaTKz8bE1).
+We use social links by the social network X (formerly Twitter), operated by X Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA (“X”), on several websites. You can find the link to X’s privacy policy here: [X’s privacy policy](https://x.com/en/privacy).
 
-#### LinkedIn Social Links
+**LinkedIn social links**
 
-We use social links by the social network LinkedIn Corp., 1000 W. Maude Ave., Sunnyvale, California 94085, USA (“LinkedIn”), on several websites. You can find the link to LinkedIn’s Data Protection Declaration here: [LinkedIn’s Privacy Policy.](https://www.google.com/url?q=https://www.linkedin.com/legal/privacy-policy&sa=D&ust=1603408561291000&usg=AOvVaw3GugVrkYIGDIS18-Gb5jvr)
+We use social links by the social network LinkedIn Corp., 1000 W. Maude Ave., Sunnyvale, California 94085, USA (“LinkedIn”), on several websites. You can find the link to LinkedIn’s Data Protection Declaration here: [LinkedIn’s Privacy Policy.](https://www.linkedin.com/legal/privacy-policy) 
 
-#### Pinterest social links
+**Pinterest social links**
 
-We use social links by the social network Pinterest, operated Pinterest Inc., 635 High Street, Palo Alto, CA, USA (“Pinterest”), on several websites. You can find the link to Pinterest’s privacy policy here: [Pinterest’s Privacy Policy.](https://www.google.com/url?q=https://policy.pinterest.com/en/privacy-policy&sa=D&ust=1603408561291000&usg=AOvVaw0oRi8V2Alk2UwE0BujMplS)
+We use social links by the social network Pinterest, operated by Pinterest Inc., 635 High Street, Palo Alto, CA, USA (“Pinterest”), on several websites. You can find the link to Pinterest’s privacy policy here: [Pinterest’s Privacy Policy.](https://policy.pinterest.com/en/privacy-policy)
 
-#### Instagram social links
+**Instagram social links**
 
-We use social links by the social network Instagram by Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland (“Instagram”), on several websites, on several websites. You can find the link to Instagram’s Data Protection Declaration here: [Instagram’s Privacy Policy.](https://www.google.com/url?q=https://help.instagram.com/519522125107875&sa=D&ust=1603408561291000&usg=AOvVaw3_lJSUKtYo2h91VDuwKZ3d)
+We use social links by the social network Instagram by Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland (“Instagram”), on several websites, on several websites. You can find the link to Instagram’s Data Protection Declaration here: [Instagram’s Privacy Policy.](https://help.instagram.com/519522125107875) 
 
-#### YouTube social links
+**YouTube social links**
 
-We use social links by YouTube by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland (“YouTube”). You can find the link to Google’s Data Protection Declaration here: [Google’s Privacy Policy.](https://www.google.com/url?q=https://policies.google.com/privacy&sa=D&ust=1603408561292000&usg=AOvVaw34UyMbyK_zMIWaUcUaPX1V)
+We use social links by YouTube by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland (“YouTube”). You can find the link to Google’s Data Protection Declaration here: [Google’s Privacy Policy.](https://policies.google.com/privacy) 
 
 Info on website cookies and comparable technologies
 
 Our websites use cookies and comparable technologies, which are provided either by Zalando or by third-party service providers.
 
-### What are Cookies?
+### **What are cookies?**
 
 Cookies are small text files which are saved by your web browser and which save particular settings and data for exchange with our web server. Cookies are not used to execute programs or load viruses onto your computer. The primary purpose of cookies is to provide an offer tailored to you and to make our services as time-efficient as possible.
 
 This website uses the following cookies:
 
-*   Necessary / essential cookies: These cookies are required for optimal navigation and operation of the website. The data these services collect is necessary for basic functionalities and technical performance of the website, for optimal navigation and operation of the website as well as for security and fraud prevention purposes.For example, these cookies are used to implement the basket function, such that the goods in your basket stay saved while you continue with the purchase. The necessary cookies also serve to save particular inputs and settings which you have made so that you don’t have to constantly repeat them, and to adapt Zalando content to your individual interests. No or Oonly limited use of the website is possible without necessary cookies.
+*   Necessary / essential cookies: These cookies are required for optimal navigation and operation of the website. The data these services collect is necessary for basic functionalities and technical performance of the website, for optimal navigation and operation of the website as well as for security and fraud prevention purposes. For example, these cookies are used to implement the basket function, such that the goods in your basket stay saved while you continue with the purchase. The necessary cookies also serve to save particular inputs and settings which you have made so that you don’t have to constantly repeat them, and to adapt Zalando content to your individual interests. No or only limited use of the website is possible without necessary cookies.
     
 *   BrandHub login cookie: Zalando uses BrandHub login cookie which is a necessary first-party one-session cookie that allows users to give consent when registering for the BrandHub.
     
 
-###### 
-
-Cookie
-
-###### 
-
-Description / Data Purpose
+**Cookie description/Data purpose**
 
 sfdc-stream
 
@@ -3056,17 +3048,13 @@ If users close their browser during a session, regardless of whether the Force l
 
 cookieSettingVerified
 
-Used to create popup message telling users cookies are required.
+Used to create popup messages telling users cookies are required.
 
-The following Cookies can be used only if you are logged in (user account):
-
-###### 
+The following cookies can be used only if you are logged in (user account):
 
 inst
 
-###### 
-
-Used to optimize routing to the user's instance.
+Used to optimise routing to the user's instance.
 
 oid
 
@@ -3108,9 +3096,9 @@ sid: Used to validate user session. Used for authenticating the user.
 
 sid\_Client: Used to validate orgid and userid on the client side. Used for authenticating the user.
 
-Data Collected: IP address, BrowserID, unique IDs, device information
+Data collected: IP address, BrowserID, unique IDs, device information
 
-Data Recipients / Processors:
+**Data recipients/processors:**
 
 *   Zalando SE
     
@@ -3125,9 +3113,9 @@ Salesforce Live Agent (Server)
 
 Necessary to offer customer support via chat agent in user account (logged in status only)
 
-#### Data Purposes: Customer Communication in user account (logged in status only)
+Data purposes: Customer communication in user account (logged in status only)
 
-Data Collected:
+Data collected:
 
 *   Browser ID
     
@@ -3144,161 +3132,190 @@ Data Collected:
 *   User Agent
     
 
-Data Recipients / Processors:
+**Data recipients/processors:**
 
 *   Zalando SE
     
 *   salesforce.com, inc., 415 Mission Street, 3rd Floor San Francisco, CA 94105
     
 
-Location of Processing: European Union, United States of America
+Location of processing: European Union, United States of America
 
-Retention Period: Session, the data will be deleted as soon as they are no longer needed for the processing purposes.
+Retention period: Session, the data will be deleted as soon as they are no longer needed for the processing purposes.
 
-#### Vimeo
+### **Partner Assistant (AI-enabled function)** 
 
-On this website, we make use of embedded videos hosted by Vimeo (Vimeo Inc., 555 West 18th Street, New York, New York 10011). On this website, we have implemented the privacy-friendly Vimeo "do-no-track" (dnt=1) parameter, which blocks Vimeo player from tracking any session data, including all cookies and statistics. This will have the same effect as enabling a Do Not Track setting in your device´s browser. If you are signed in to Vimeo, this may not apply and data on your interactions with other users (e.g., comments, "likes," private messages) may be collected. For more information, see Vimeo´s [Privacy Policy](https://www.google.com/url?q=https://vimeo.com/privacy&sa=D&ust=1603408561309000&usg=AOvVaw1boNQdtxjv6c2dw_kYS1PX) and [Terms of Service](https://www.google.com/url?q=https://vimeo.com/terms&sa=D&ust=1603408561309000&usg=AOvVaw1o9V-yD46oNWrYCLx5pjXz).
+Artificial intelligence is currently used within the website in the following function: the Partner Assistant, which responds to queries by retrieving relevant information from platform documentation and generating text-based responses. When you use the Partner Assistant, we process data from this interaction to provide the response, maintain session continuity, and monitor for security events. The Partner Assistant does not independently access individual merchant transaction records or financial data beyond what you enter in the conversation.
 
-Legal basis:
+**Note on AI-generated output:** 
+
+AI services are identified as such. Generated responses may be inaccurate or incomplete and should be reviewed against the relevant information and circumstances before being relied upon for operational or business decisions. Where an AI-enabled function is operated by another provider under its own responsibility, that provider's privacy information applies to the processing within that function.
+
+Data purposes: 
+
+Providing efficient and scalable AI-enabled support functions, maintaining session continuity, and monitoring for security events. (Legal Basis: Article 6 (1) f GDPR - legitimate interests). 
+
+Data collected:
+
+*   AI Interaction Data (messages and follow-up questions, AI generated responses, retrieved platform documentation passages, conversation history including tool calls and results)
+    
+*   Technical identifiers linking the conversation to your account and session
+    
+*   Device and connection data (e.g., timestamps and security-event data) 
+    
+
+Data recipients/processors: Zalando SE, Third-party service providers supporting AI model operations 
+
+Location of processing: European Union, United States of America 
+
+Retention period: Conversation histories are kept for the period needed for session continuity, response quality, and security. Conversation continuity is ensured for 12 months. After that, the conversation will be deleted automatically.
+
+### **Vimeo**
+
+On this website, we make use of embedded videos hosted by Vimeo (Vimeo Inc., 555 West 18th Street, New York, New York 10011). On this website, we have implemented the privacy-friendly Vimeo "do-no-track" (dnt=1) parameter, which blocks Vimeo player from tracking any session data, including all cookies and statistics. This will have the same effect as enabling a Do Not Track setting in your device's browser. If you are signed in to Vimeo, this may not apply and data on your interactions with other users (e.g. comments, "likes," private messages) may be collected. For more information, see Vimeo’s [Privacy Policy](https://vimeo.com/privacy) and [Terms of Service](https://vimeo.com/terms).
+
+**Legal basis:**
 
 The legal basis for the processing of your data under “website cookies and comparable technologies” is Article 6 (1) f GDPR, to enable use of our website and communication functions. In certain cases, these tools may also be required for the fulfilment of a contract or for the execution of pre-contractual measures, in which case processing is carried out in accordance with Art. 6 (1) b GDPR.
 
-4\. Information about Social Media Fan Pages
---------------------------------------------
+**4\. Information about social media fan pages**
+------------------------------------------------
 
 Zalando maintains social media profiles on the social networks of Facebook and Instagram (so-called "fan pages"). We regularly publish and share content, offers and product recommendations on our fan pages. The operators of the social networks record your usage behaviour via cookies and similar technologies upon every interaction on our fan pages or other Facebook or Instagram websites. Fan page operators can view general statistics about the interests and demographic characteristics (e.g. age, gender, region) of fan page visitors. When you use social networks, the nature, scope and purposes of processing social network data are determined primarily by the social network operators.
 
-### 4.1 Provider / Responsible Party
+### **4.1 Provider/responsible party**
 
-The responsible Zalando company, which acts as the content provider responsible of a fan page, is visible in the Legal Info of the respective fan page.
+The responsible Zalando company, which acts as the content provider responsible for a fan page, is visible in the Legal Info of the respective fan page.
 
 The Facebook and Instagram social networks are both provided by Facebook Ireland Ltd., 4 Grand Canal Square, Dublin 2, Ireland ("Facebook").
 
 Insofar as you communicate directly with us via our fan pages or share personal content with us, Zalando shall be responsible for processing your data. An exception applies to the data processing for usage analysis (Page Insights) which is described in the following; in this case, we are jointly responsible with Facebook.
 
-Processing of Your Data by Facebook Please note that Facebook also processes your data when you use our fan pages for their own purposes, which are not covered in the Privacy Policy. We have no influence over these data processing operations of Facebook. In this regard, we refer you to the privacy policy of the respective social networks:
+**Processing of your data by Facebook** 
 
-*   [Facebook’s Data Policy](https://www.google.com/url?q=https://www.facebook.com/about/privacy/&sa=D&ust=1603408561310000&usg=AOvVaw2xPO1hTJ4qvKxPYzd2f0LX)
+Please note that Facebook also processes your data when you use our fan pages for their own purposes, which are not covered in the Privacy Policy. We have no influence over these data processing operations of Facebook. In this regard, we refer you to the privacy policy of the respective social networks:
+
+*   [Facebook’s Data Policy](https://www.facebook.com/about/privacy/)
     
-*   [Instagram’s Privacy Policy](https://www.google.com/url?q=https://instagram.com/legal/privacy/&sa=D&ust=1603408561311000&usg=AOvVaw3d6rV8svyhHR9jeYx3oztm).
+*   [Instagram’s Privacy Policy](https://instagram.com/legal/privacy/).
     
 
-### 4.2 Which data is collected?
+### **4.2 Which data is collected?**
 
-When you visit our fan pages, Zalando collects all communications, content and other information that you provide us directly, e.g. when you post something on a fan page or send us a private message. Of course, if you have an account on the social network, we can also see your public information, such as your username, information in your public profile, and content that you share with a public audience. For more information, see 1. Which data does Zalando process? Usage Analysis (Page Insights)
+When you visit our fan pages, Zalando collects all communications, content and other information that you provide us directly, e.g. when you post something on a fan page or send us a private message. Of course, if you have an account on the social network, we can also see your public information, such as your username, information in your public profile, and content that you share with a public audience. For more information, see 1. Which data does Zalando process? 
 
-henever you interact with fan pages, Facebook uses cookies and similar technologies to track the usage behaviour of fan page visits. On this basis, fan page operators receive so-called "Page Insights". Page insights contain only statistical, depersonalised (anonymised) information about visitors to the fan page, which can therefore not be assigned to a specific person. We do not have access to the personal information Facebook uses to create Page Insights ("Page Insights data"). Selection and processing of Page Insights data is performed exclusively by Facebook.
+**Usage analysis (Page Insights):**
+
+Whenever you interact with fan pages, Facebook uses cookies and similar technologies to track the usage behaviour of fan page visits. On this basis, fan page operators receive so-called "Page Insights". Page insights contain only statistical, depersonalised (anonymised) information about visitors to the fan page, which can therefore not be assigned to a specific person. We do not have access to the personal information Facebook uses to create Page Insights ("Page Insights data"). Selection and processing of Page Insights data is performed exclusively by Facebook.
 
 Page insights offer us information about how our fan pages are used, what interests visitors to our fan pages have, and what topics and content are particularly popular. This allows us to optimise our fan page activities, e.g. by better tailoring to the interests and usage habits of our audience when planning and selecting content.
 
 Zalando and Facebook share responsibility for processing your data for providing Page Insights. For this purpose, we and Facebook have defined an agreement about which company fulfils the data protection obligations under the GDPR with regard to Page Insights data processing.
 
-#### More about Page Insights
+**More about Page Insights**
 
-*   You can view the agreement with Facebook here: [https://www.facebook.com/legal/terms/page\_controller\_addendum](https://www.google.com/url?q=https://www.facebook.com/legal/terms/page_controller_addendum&sa=D&ust=1603408561311000&usg=AOvVaw2JbyhmQEKqMBo8oBJ8ZCaW)
+*   You can view the agreement with Facebook here: [Information about Page Insights](https://www.facebook.com/legal/terms/page_controller_addendum) 
     
-*   Facebook has summarised the important parts of this agreement (including a list of Page Insights data) for you here: [https://www.facebook.com/legal/terms/information\_about\_page\_insights\_data](https://www.google.com/url?q=https://www.facebook.com/legal/terms/information_about_page_insights_data&sa=D&ust=1603408561312000&usg=AOvVaw0wwFJXP0BJzLgKzny8-bN0)
+*   Facebook has summarised the important parts of this agreement (including a list of Page Insights data) for you here: [Information about Page Insights Data](https://www.facebook.com/legal/terms/information_about_page_insights_data)
     
 
-Legal bases:
+**Legal bases:**
 
 If you have given consent to the creation of Page Insights data to Facebook, the legal basis is Article 6 (1) a GDPR (Consent). Otherwise, the legal basis is Article 6 (1) f GDPR, whereby our legitimate interests are in the above purposes.
 
-### 4.3 Which Data Protection Rights do I Have?
+### **4.3 Which data protection rights do I have?**
 
-Of course, your privacy rights described in 7. Which data protection rights do I have?also apply to the processing of your data in connection with our fan pages.
+Of course, your privacy rights described in [7\. Which data protection rights do I have?](https://partner.zalando.com/privacy-policy#7-which-data-protection-rights-do-i-have) also apply to the processing of your data in connection with our fan pages.
 
-For the purposes of processing your Page Insights data with Facebook, we have agreed with Facebook that Facebook is primarily responsible for providing you with information about the processing of your Page Insights data and for enabling you to exercise your privacy rights under the GDPR (e.g. right to object). You can find more information about your data protection rights in connection with Page Insights and how you can exercise them directly with regard to Facebook: [https://www.facebook.com/legal/terms/information\_about\_page\_insights\_data](https://www.google.com/url?q=https://www.facebook.com/legal/terms/information_about_page_insights_data&sa=D&ust=1603408561312000&usg=AOvVaw0wwFJXP0BJzLgKzny8-bN0).
+For the purposes of processing your Page Insights data with Facebook, we have agreed with Facebook that Facebook is primarily responsible for providing you with information about the processing of your Page Insights data and for enabling you to exercise your privacy rights under the GDPR (e.g. right to object). You can find more information about your data protection rights in connection with Page Insights and how you can exercise them directly with regard to Facebook: [Information about Page Insights Data](https://www.facebook.com/legal/terms/information_about_page_insights_data).
 
-Tip
-
-You can also address your enquiry to Zalando; we will then forward your enquiry to Facebook.
+Good to know
 
 You can also address your enquiry to Zalando; we will then forward your enquiry to Facebook.
 
-### 5\. Newsletter
+**5\. Newsletter**
+------------------
 
 We offer you various newsletter services. When you register for a newsletter service you will receive information on the topics dealt with by the individual newsletters. When you use our newsletters we also connect device and access data.
 
-### 5.1 How do I register?
+### **5.1 How do I register?**
 
 When sending out our notifiable newsletters (such as the Zalando shop newsletter), we use the so-called double opt-in procedure or single opt-in procedure (country-dependent), i.e. we will only send you the newsletter if you have given explicit prior consent to us activating the newsletter. If a double opt-in is required in your country, you must also have confirmed that the email address you have shared with us belongs to you. For this purpose we will send you a notification email and ask you to confirm by clicking on one of the links in this email that you are the owner of the email address you have shared with us. We may waive this measure if you have already confirmed to us in this way for another purpose that you are the owner of this email address.
 
-### 5.2 Unsubscribing
+### **5.2 Unsubscribing**
 
 If you no longer wish to receive emails from us, you can withdraw your consent at any time without incurring any costs other than the transmission costs according to basic tariffs. A notification in text form (e.g. email, fax, letter) to the Zalando company responsible for the relevant newsletter is sufficient for this. Of course, you will also find an unsubscribe link in every newsletter.
 
-### 5.3 Which data is collected?
+### **5.3 Which data is collected?**
 
 If you subscribe to a newsletter, we automatically save your IP address and the time of your subscription and confirmation. This way we can prove that you actually subscribed and identify any unauthorised use of your email address.
 
 We collect device and access data which arise when you interact with a newsletter. However, this data will not be evaluated.
 
-6\. Who is my data forwarded to?
---------------------------------
+**6\. Who is my data forwarded to?**
+------------------------------------
 
 Zalando only forwards your data if this is allowed by German or European law. We work particularly closely with certain service providers, for example in the area of customer service (e.g. hotline service providers), with technical service providers (e.g. running computer centres). These service providers may generally only process your data on our behalf under special conditions. Where we use them to process orders, the service providers only receive access to your data in the scope and for the time period required for provision of the relevant service.
 
-### 6.1 Zalando group companies
+### **6.1 Zalando group companies**
 
 Many systems and technologies are shared within Zalando Group. This allows us to offer you a more economical, secure, unified and personalised service. Therefore, companies within Zalando group which require access to your data to fulfil our contractual and legal obligations, or to fulfil their respective functions within Zalando group, receive this access.
 
-#### Examples
+**Examples**
 
 When you contact Zalando customer service, your request is forwarded to Zalando Customer Care DACH SE & Co. KG or Zalando Customer Care International Se & Co. KG and processed there. Both these Zalando companies are responsible for customer service within Zalando group. Where this is necessary to process your concerns, these two Zalando companies may access your data stored by other Zalando companies, for example your order data.
 
-### 6.2 Technical service providers
+### **6.2 Technical service providers**
 
 We work with technical service providers in order to be able to provide our services. These service providers include, for example, Telekom Deutschland GmbH, Salesforce.com EMEA Ltd. and Amazon Web Services, Inc. If they process your data outside the European Union, this may mean that your data is transmitted to a country with a lower data protection standard than the European Union. In such cases Zalando will ensure that the relevant service providers contractually or otherwise guarantee an equivalent data protection level.
 
-### 6.3 Authorities and other third parties
+### **6.3 Authorities and other third parties**
 
 If we are obliged by an official or court decision or it is for prosecution purposes, we will if necessary forward your data to prosecution authorities or other third parties.
 
-7\. Which Data Protection rights do I have?
--------------------------------------------
+**7\. Which Data Protection rights do I have?**
+-----------------------------------------------
 
 You have the following legal data protection rights under the relevant legal conditions: Right to information (Article 15 GDPR), right to deletion (Article 17 GDPR), right to correction (Article 16 GDPR), right to restriction of processing (Article 18 GDPR), right to data portability (Article 20 GDPR), right to lodge a complaint with a supervisory authority (Article 77 GDPR), right to withdraw consent (Article 7 (3) GDPR) as well as the right to object to particular data processing measures (Article 21 GDPR). You can find the contact details for your applications under “Point of contact”.
 
-Important information
+**Important information:**
 
 In order to ensure that your data is not disclosed to third parties in the course of requests for information, please attach sufficient proof of identity to your request by email or post.
 
-Tip
+Important
 
 It is generally sufficient for this if you send your request to us using the email address saved to your account.
 
-*   You can change most of your information yourself in your customer account. For other cases please contact customer service.
-    
-*   The responsibilities of the data protection authorities depend on the seat of the competent authorities. You may, however, contact the data protection authority, which will then forward your complaint to the responsible authority. The authority responsible for Zalando is the Berlin Commissioner for Data Protection and Freedom of Information, Friedrichstr. 219 b, 10969 Berlin, Germany.
-    
-*   If you have given consent for the processing of your data, you may withdraw it at any time. Withdrawal has no effect on the admissibility of the processing of your data which took place before the withdrawal.
-    
-*   You may object to the processing of your data for advertising purposes, including direct marketing (including in the form of data analysis) at any time without giving reasons.
-    
-*   If we are processing your data on the basis of balancing of interests according to Article 6 (1) f GDPR (e.g. the reporting of creditworthiness to an external credit agency), you may object to the processing. When asserting your objection, we ask you to give the reasons why you do not wish us to continue processing your data. In the event of a justified objection, we will check the state of affairs and either stop or adjust the processing, or inform you of the urgent reasons worthy of protection why we are entitled to continue the processing.
-    
+You can change most of your information yourself in your customer account. For other cases please contact customer support.
 
-8\. When will my data be deleted?
----------------------------------
+The responsibilities of the data protection authorities depend on the seat of the competent authorities. You may, however, contact the data protection authority, which will then forward your complaint to the responsible authority. The authority responsible for Zalando is the Berlin Commissioner for Data Protection and Freedom of Information, Friedrichstrasse 219b, 10969 Berlin, Germany.
+
+If you have given consent for the processing of your data, you may withdraw it at any time. Withdrawal has no effect on the admissibility of the processing of your data which took place before the withdrawal.
+
+You may object to the processing of your data for advertising purposes, including direct marketing (including in the form of data analysis) at any time without giving reasons.
+
+If we are processing your data on the basis of balancing of interests according to Article 6 (1) f GDPR (e.g. the reporting of creditworthiness to an external credit agency), you may object to the processing. When asserting your objection, we ask you to give the reasons why you do not wish us to continue processing your data. In the event of a justified objection, we will check the state of affairs and either stop or adjust the processing, or inform you of the urgent reasons worthy of protection why we are entitled to continue the processing.
+
+**8\. When will my data be deleted?**
+-------------------------------------
 
 We will store your personal data as long as is necessary for the purposes named in this Data Protection Declaration, especially for the fulfilment of our contractual and legal obligations. We may also store your personal data for other purposes if or as long as the law allows us to store it for particular purposes, including for defence against legal claims.
 
-If you close your customeruser account, we will delete all the data we have stored regarding you. If it is not possible or necessary to completely delete your data for legal reasons, the relevant data will be blocked for further processing.
+If you close your customer/user account, we will delete all the data we have stored regarding you. If it is not possible or necessary to completely delete your data for legal reasons, the relevant data will be blocked for further processing.
 
-#### What Does Blocking Mean?
+### **What does blocking mean?**
 
 If data is blocked, restriction of access rights and other technical and organisational measures are used to ensure that only a few employees can access the relevant data. These employees may also only use the blocked data for the above purposes (e.g. for submission to the tax office in the event of tax audit).
 
 Deletion may be waived in the cases allowed by law if the data is anonymous or pseudonymous and deletion would rule out or seriously hinder processing for scientific research or statistical purposes.
 
-9\. How does Zalando protect my data?
--------------------------------------
+**9\. How does Zalando protect my data?**
+-----------------------------------------
 
 We transmit your personal data securely using encryption. This applies to your order and your customer login. We do this using the coding system SSL (Secure Socket Layer). We also use technical and organisational measures to secure our website and other systems against loss, destruction, access, change or dissemination by unauthorised persons.
 
-10\. Changes to this Data Protection Declaration and Points of Contact
-----------------------------------------------------------------------
+**10\. Changes to this Data Protection Declaration and points of contact**
+--------------------------------------------------------------------------
 
 Further development of our websites and apps and the implementation of new technologies to improve our service for you may require changes to this privacy policy. We therefore recommend that you re-read this Data Protection Declaration from time to time.
 
@@ -3316,7 +3333,7 @@ Valeska-Gert-Straße 5
 
 Telefax: +49 (0)30 2759 46 93
 
-E-Mail: datenschutz@zalando.de
+E-mail: datenschutz@zalando.de
 
 - - -
 
