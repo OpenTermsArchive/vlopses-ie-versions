@@ -1792,7 +1792,7 @@ Updated June 15, 2026
 
 Important
 
-Version 12 of the Platform Rules is valid until 30 June 2026. Version 13 will come into effect on 1 July 2026.
+Version 13 of the Platform Rules came into effect on 1 July 2026.
 
 **What are the Platform Rules?**
 --------------------------------
