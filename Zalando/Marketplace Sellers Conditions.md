@@ -1794,8 +1794,8 @@ Important
 
 Version 12 of the Platform Rules is valid until 30 June 2026. Version 13 will come into effect on 1 July 2026.
 
-**What are the Platform Rules?** 
----------------------------------
+**What are the Platform Rules?**
+--------------------------------
 
 The Platform Rules transparently set out how our platform works. Our aim is to provide you with a clear overview so that you have all the information you need to be successful on Zalando.
 
