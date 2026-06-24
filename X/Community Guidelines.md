@@ -745,154 +745,87 @@ Post
 Suicide and Self-harm policy
 ============================
 
-Overview  
- 
+March 2026
 
-**You may not promote or encourage suicide or self-harm.**
+**You may share content that seeks support, discusses recovery, raises awareness, or builds communities for mental health support. However, content that encourages, promotes, actively engages in, or depicts self-harm behaviors is against our Rules.**
 
-At X, we recognize that suicide and self-harm are significant social & public health challenges that require collaboration between all stakeholders – public, private, and civil society – and that we have a role and responsibility to help people access and receive support when they need it.  
+At X, we believe in fostering open conversations about mental health, recovery, and support. We also recognize the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.
 
-When developing this policy, we consulted extensively with experts to ensure that people who have engaged in self-harm or experienced suicidal thoughts can share their personal experiences. We also recognized the need to protect people from the potential harm caused by exposure to content that could promote or encourage self-harm – intentionally or inadvertently. That’s why our policy prohibits content that promotes or encourages self-harming behaviors and provides support to those undergoing experiences with self-harm or suicidal thoughts.  
- 
+**How we define Self-harm**
 
-### What is in violation of this policy? 
+Self-harm is any material depicting, encouraging/promoting, actively engaging in or expressing desire or intent to engage in Self-harm Behaviors. 
 
-Under this policy, you can’t promote, or otherwise encourage, suicide or self-harm. We define promotion and encouragement to include statements such as “the most effective”, “the easiest”, “the best”, “the most successful”, “you should”, “why don’t you”. Violations of this policy can occur via Posts, images or videos, including live video. 
+We define Self-harm Behaviors as any self-inflicted act that may result in harm, including risk of death or injury. This includes:
 
-We define suicide to be the act of taking one’s own life. We define self-harm to include:
-
-*   self-inflicted physical injuries e.g., cutting; and
+*   Self-inflicted physical harm (e.g., cutting, burning, scratching or re-opening wounds, inserting needles)
     
-*   eating disorders e.g., bulimia, anorexia.  
-     
+*   Suicide methods
     
-
-Violations of this policy include, but are not limited to:  
-
-*   encouraging someone to physically harm or kill themselves;
+*   Disordered eating behaviors such as starvation or bulimic behaviors
     
-*   asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games; and
+*   Dangerous challenges or stunts
     
-*   sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide.  
-     
-
-### What is not a violation of this policy? 
-
-Some examples of behavior that are not considered a violation of this policy include: 
-
-*   sharing personal stories and experiences related to self-harm or suicide;
-    
-*   sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts; and
-    
-*   discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention.  
-     
+*   Harmful drug use or substance abuse
     
 
-**Note**: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.  
- 
+### Learn more about our enforcement
 
-### Who can report violations of this policy? 
+**What's Not Allowed** 
 
-Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.twitter.com/forms/suicide). These reports are routed to a dedicated team who evaluate each case individually. 
+We will remove promoting, encouraging, depicting or actively engaging in Self-harm Behaviors. 
 
-Note: if we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support).  
- 
+Violations of this policy include, but are not limited to:
 
-### How to report violations of this policy 
-
-To ensure that we handle reports sensitively, our in-app reporting provides separate options for people who may be expressing an intention to harm themselves, and content that is encouraging or promoting self-harm or suicide.  
- 
-
-### Expressing intentions of self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1.  Select Report Post from drop-down menu
-2.  Select “It expresses intentions of self-harm or suicide”
-3.  Submit your report  
-     
-
-**Desktop**
-
-You can report this content for review on desktop as follows:
-
-1.  Select Report Post from drop-down menu
+*   Encouraging someone to physically harm or kill themselves
     
-2.  Select “It expresses intentions of self-harm or suicide”
+*   Asking others for encouragement to engage in self-harm or suicide, including seeking partners for group suicides or suicide games
     
-3.  Submit your report  
-     
+*   Sharing information, strategies, methods or instructions that would assist people to engage in self-harm and suicide
+    
+*   Suggesting that certain wounds or methods of self-harm are insufficiently severe
+    
+*   Describing self-harm as a healthy way of coping with problems or as a sophisticated or artistic response to problems
+    
+*   Content that discourages recovery or help seeking
+    
+*   Content (mainly media) depicting Self-harm Behaviors shared without recovery context
     
 
-**Reporting form**
+Content or accounts exhibiting predatory behavior targeting children (especially ones exhibiting Self-harm Behaviors) is not allowed. If minors appear to be interacting with known predators, we may suspend their accounts as a protective measure. If you believe a child is at immediate risk of harm or death, please reach out to your local law enforcement
 
-You can also report this content for review via [our dedicated report form](https://help.twitter.com/forms/report_self_harm).  
- 
+Violations of this policy can occur via posts, images or videos. You also can’t include this content within areas that are highly visible on X, including in live video, profile pictures, headers, List banners, or Community cover photos. Such content must be removed and subsequent violations may result in the account being placed in read-only mode or suspended. 
 
-**In-App**
+**Allowed (No Action, With Support)**
 
-You can report content for review in-app as follows:
+We support discussions that help users process experiences or seek help to foster support and awareness, provided it does not promote, encourage, or glorify harm. We respond by offering resources (e.g., access to locally available hotlines) and encouraging professional help, without removing the post unless it violates other rules. This includes:
 
-1.  Select Report Post from drop-down menu
-2.  Select “It expresses intentions of self-harm or suicide”
-3.  Submit your report  
-     
-
-### Encouraging self-harm or suicide 
-
-**In-App**
-
-You can report content for review in-app as follows:
-
-1.  Select Report Post from drop-down menu  
+*   Personal disclosures about ongoing or past self-harm, suicidal ideation, emotional distress, or recovery experiences
     
-2.  Select “It’s abusive or harmful”
+*   Media relating to scars with recovery context (not graphic such as healed scars)
     
-3.  Select “They’re  encouraging self-harm or suicide”
+*   Sharing coping mechanisms and resources for addressing self-harm or suicidal thoughts
     
-4.  Submit your report  
-     
+*   Discussions that are focused on research, advocacy, and education related to self-harm or suicide prevention
     
 
-**Desktop**
+Note: people can share their personal experiences, but should avoid sharing detailed information about specific strategies or methods related to self-harm, as this could inadvertently encourage this behavior.
 
-You can report this content for review on desktop as follows:
+**Crisis Support and Law Enforcement**
 
-1.  Select Report Post from drop-down menu
+If we receive a report that someone has expressed an intention to engage in self-harm or suicide, we will contact them directly, encourage them to seek support, and provide information about dedicated online and hotline resources. 
+
+We may also work with law enforcement officials where appropriate, for example, if we receive a valid emergency disclosure request as defined in our [Law Enforcement Guidelines](https://help.x.com/rules-and-policies/x-law-enforcement-support).
+
+**How to Report**  
+
+*   Anyone can report content that may encourage or promote suicide or self-harm via our in-app reporting or our [specialized reporting form](https://help.x.com/forms/safety-and-sensitive-content/self-harm). These reports are routed to a dedicated team who evaluate each case individually. 
     
-2.  Select “It’s abusive or harmful”
-    
-3.  Select “They’re encouraging self-harm or suicide”
-    
-4.  Submit your report  
-     
+*   [Learn more](https://help.x.com/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide. 
     
 
-### What happens if you violate this policy? 
+**Appeals**
 
-Our enforcement approach depends on the type of content being shared, whether or not the reported account is encouraging or promoting self-harm or suicide, and the account’s previous history of violations. 
-
-If you violate this policy by sharing content that intentionally encourages others to harm themselves, ask others to encourage you to harm yourself, or share detailed information or instructions related to self-harm or suicide methods, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. If you continue to violate this policy, or if your account is dedicated to promoting or encouraging self-harm or suicide, your account will be permanently suspended. If cases include images or videos related to self-harm or suicide, we will also evaluate this content under [our sensitive media policy](https://help.twitter.com/rules-and-policies/media-policy). If you believe that your account was suspended in error, [you can submit an appeal](https://help.twitter.com/forms/general?subtopic=suspended).  
-
-We may also take steps to prevent the spread of instructional material hosted on third-party websites by [marking such links as unsafe](https://help.twitter.com/en/safety-and-security/phishing-spam-and-malware-links).   
-  
-
-Additional resources  
-  
-
-==========================
-
-Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
-
-[Learn more](https://help.twitter.com/en/safety-and-security/self-harm-and-suicide) about how you can support someone experiencing thoughts of self-harm or suicide.   
-
-Visit our Safety Center for a list of local [mental health resources](https://about.twitter.com/en_us/safety/safety-partners.html#mental-health) and read [our blog on suicide prevention](https://blog.twitter.com/en_sea/topics/events/2019/Supporting-suicide-prevention-across-the-world.html) to learn more about our work.
-
-#### Share this article
-
-Post
+If you believe we made a mistake, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals).
 
 - - -
 
@@ -1132,9 +1065,9 @@ All merchants who list their merchandise through X Shopping must comply with the
 Private Content
 ===============
 
-### Overview 
+### Overview
 
-**March 2024**
+### **March 2024**
 
 **You may not threaten to expose, incentivize others to expose, or publish or post other people's private information without their express authorization and permission, or share private media of individuals without their consent.**  
 
@@ -1259,7 +1192,7 @@ The following are not in violation of this policy:
 
 *   the media is publicly available or is being covered by mainstream media
     
-*   the media and the accompanying tweet text add value to the public discourse or are shared in public interest
+*   the media and the accompanying Post text add value to the public discourse or are shared in public interest
     
 *   the media contains eyewitness accounts or on the ground reports from developing events
     
@@ -2940,7 +2873,7 @@ Limits alleviate some of the strain on the behind-the-scenes part of X and reduc
 The current technical limits for accounts are:
 
 *   **Direct Messages (daily)**: The limit is 500 messages sent per day.
-*   **posts**: 2,400 per day. The daily update limit is further broken down into smaller limits for semi-hourly intervals. Reposts are counted as posts.
+*   **Posts**: 50 original posts and 200 replies per day for unverified accounts. The daily update limit is further broken down into smaller limits for semi-hourly intervals.
 *   **Changes to account email**: 4 per hour.
 *   **Following (daily)**: The technical follow limit is 400 per day. Please note that this is a technical account limit only, and there are additional rules prohibiting aggressive following behavior. 
 *   **Following (account-based)**: Once an account is following 5,000 other accounts, additional follow attempts are limited by account-specific ratios. 
@@ -3330,41 +3263,44 @@ European Union
 
 X's purpose is to serve the public conversation. Violence, harassment and other similar types of behaviour discourage people from expressing themselves, and ultimately diminish the value of global public conversation. 
 
-Our [Rules](https://help.x.com/en/rules-and-policies/x-rules) are to ensure all people can participate in the public conversation freely and safely. We have a [range of enforcement options](https://help.x.com/en/rules-and-policies/enforcement-options), which we take to reduce the risk of harm to our users, in a proportionate manner. Users can also appeal account suspensions if they believe we made an error. They can do this through the platform interface or by [filing a report](https://help.x.com/en/forms/account-access/appeals.html).
+Our [Rules](https://help.x.com/rules-and-policies/x-rules) are to ensure all people can participate in the public conversation freely and safely. We have a [range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options), which we take to reduce the risk of harm to our users, in a proportionate manner. Users can also appeal account suspensions if they believe we made an error. They can do this through the platform interface or by [filing a report](https://help.x.com/forms/account-access/appeals.html).
 
-X is a place to share ideas and information, connect with your communities, and see the world around you. In order to protect the very best parts of that experience, we provide tools designed to help you control what you see and what others can see about you, so that you can express yourself on X with confidence and to make sure your experience using the X platform is safe and secure. Please refer to: [https://help.x.com/en/safety-and-security/control-your-x-experience](https://help.x.com/en/safety-and-security/control-your-x-experience) for further information.
+X is a place to share ideas and information, connect with your communities, and see the world around you. In order to protect the very best parts of that experience, we provide tools designed to help you control what you see and what others can see about you, so that you can express yourself on X with confidence and to make sure your experience using the X platform is safe and secure. Please refer to: [https://help.x.com/safety-and-security/control-your-x-experience](https://help.x.com/safety-and-security/control-your-x-experience) for further information.
 
-We suggest staying informed about [account safety and security](https://help.x.com/en/safety-and-security), safeguarding your privacy, avoiding spam and scams, and consider [controlling what you see](https://help.x.com/en/safety-and-security/control-your-x-experience). Our Help Center provides answers to the most [common questions](https://help.twitter.com/en); but if you need account support, submitting a [support form](http://support.x.com/forms) ensures your request is routed to the appropriate team.
+We suggest staying informed about [account safety and security](https://help.x.com/safety-and-security), safeguarding your privacy, avoiding spam and scams, and consider [controlling what you see](https://help.x.com/safety-and-security/control-your-x-experience). Our Help Center provides answers to the most [common questions](https://help.x.com/); but if you need account support, submitting a [support form](https://help.x.com/forms) ensures your request is routed to the appropriate team.
 
 **Information for Parents and Children**
 ========================================
 
-X, as a service, is not primarily for children, but anyone above the age of 13 can sign up for the service. We recognise that minors are a more vulnerable group by virtue of their age. The [X Rules](https://help.x.com/en/rules-and-policies/x-rules) enable minors to participate in the public conversation freely and safely, and minors should rely on the X Rules (and report to X) in order to protect themselves. For minors under the age of 18, who sign up for X in the EU, we have measures in place to make sure their experience using the platform is safe and secure. 
+X, as a service, is not primarily for children, but anyone above the age of 13 can sign up for the service. We recognise that minors are a more vulnerable group by virtue of their age. The [X Rules](https://help.x.com/rules-and-policies/x-rules) enable minors to participate in the public conversation freely and safely, and minors should rely on the X Rules (and report to X) in order to protect themselves. For minors under the age of 18, who sign up for X in the EU, we have measures in place to make sure their experience using the platform is safe and secure. 
 
 You can find the following resources to keep your child’s account and experience on X safe, secure and welcoming:
 
-*   [Information for Parents and Minor Users](https://help.x.com/en/rules-and-policies/information-for-parents-and-minor-users)
+*   [Information for Parents and Minor Users](https://help.x.com/rules-and-policies/information-for-parents-and-minor-users)
     
-*   [Staying safe on X](https://help.x.com/en/forms/safety-and-sensitive-content/underage-user/x) 
+*   [Staying safe on X](https://help.x.com/forms/safety-and-sensitive-content/underage-user/x) 
     
 *   [How to protect your personal information](https://help.x.com/safety-and-security/x-privacy-settings)
     
 
-*   [General information on safety and security related to your X account](https://help.x.com/en/safety-and-security) 
+*   [General information on safety and security related to your X account](https://help.x.com/safety-and-security) 
     
-*   [Information on what content is permitted, prohibited and/or restricted under our Rules](https://help.x.com/en/rules-and-policies)
+*   [Information on what content is permitted, prohibited and/or restricted under our Rules](https://help.x.com/rules-and-policies)
     
-*   [How to report violation of X’s Rules](https://help.x.com/en/rules-and-policies/x-report-violation)
-    
-*   [About parental consent on X](https://help.x.com/en/using-x/parental-consent)
-    
-*   [X account restoration](https://help.x.com/en/managing-your-account/account-restoration)
+
+*   [How to report violation of X’s Rules](https://help.x.com/rules-and-policies/x-report-violation)
+
+*   [About parental consent on X](https://help.x.com/using-x/parental-consent)
+
+*   [Parental controls on X](https://help.x.com/rules-and-policies/parental-controls)
+
+*   [X account restoration](https://help.x.com/managing-your-account/account-restoration)
     
 
 **Online Safety in the European Union (EU)**
 ============================================
 
-The European legal framework, including national laws, requires X to restrict certain categories of content within the EU. This framework includes, for example, Ireland's Online Safety Code and the EU Digital Services Act (DSA). The European legal framework requires platforms to address not only illegal content but also certain types of content considered harmful or unsafe, such as bullying and humiliating content, content that promotes or encourages feeding or eating disorders, as well as content that encourages or makes available knowledge of methods of self-harm and suicide. Consistent with Section 3 of our [Terms](https://x.com/en/tos), users are responsible for sharing only content that complies with applicable laws and that they are comfortable sharing publicly. As a result of these legal requirements, EU based users may find restrictions on content that is permissible and available elsewhere.
+The European legal framework, including national laws, requires X to restrict certain categories of content within the EU. This framework includes, for example, Ireland's Online Safety Code and the EU Digital Services Act (DSA). The European legal framework requires platforms to address not only illegal content but also certain types of content considered harmful or unsafe, such as bullying and humiliating content, content that promotes or encourages feeding or eating disorders, as well as content that encourages or makes available knowledge of methods of self-harm and suicide. Consistent with Section 3 of our [Terms](https://x.com/tos), users are responsible for sharing only content that complies with applicable laws and that they are comfortable sharing publicly. As a result of these legal requirements, EU based users may find restrictions on content that is permissible and available elsewhere.
 
 Below, we provide information on how EU based users can report illegal or otherwise restricted content under the applicable EU legal framework, as well as details regarding the appeal process. We also provide information on how EU based users can submit complaints about the implementation of certain measures under the Online Safety Code, published by Coimisiún na Meán (Ireland's Media Commission).
 
@@ -3378,7 +3314,7 @@ You can make a complaint about the implementation of measures relating to age as
 
 **Reporting a Post, List or Direct Message**
 
-Learn more [here](https://help.x.com/en/rules-and-policies/x-report-violation#directly) about how you can submit a report about illegal content on a post, list or direct message.
+Learn more [here](https://help.x.com/rules-and-policies/x-report-violation#directly) about how you can submit a report about illegal content on a post, list or direct message.
 
 **Reporting Flow Process**
 
@@ -3390,15 +3326,15 @@ In the case of a report about content that is illegal and/or that X is legally r
 
 Users can appeal an Illegal Content Decision if they believe we made an error. They can do this through this form.
 
-To learn more about other redress options in the European Union, please visit [https://help.x.com/en/rules-and-policies/digital-services-act](https://help.x.com/en/rules-and-policies/digital-services-act). 
+To learn more about other redress options in the European Union, please visit [https://help.x.com/rules-and-policies/digital-services-act](https://help.x.com/rules-and-policies/digital-services-act). 
 
 **Withholding a post or account in a country**
 
-We may withhold access to certain content in a particular country if we receive a valid and properly scoped request from an authorized entity in that country. Read more about [country withheld content](https://help.x.com/en/rules-and-policies/tweet-withheld-by-country.html).
+We may withhold access to certain content in a particular country if we receive a valid and properly scoped request from an authorized entity in that country. Read more about [country withheld content](https://help.x.com/rules-and-policies/post-withheld-by-country).
 
 Note: If you are a member of law enforcement or government, please note that the most expeditious way to submit your request is through our Legal Request Submissions site (https://t.co/lr or [https://legalrequests.x.com](https://legalrequests.twitter.com/forms/landing_disclaimer)). Find more information in our [Guidelines for Law Enforcement](https://help.x.com/rules-and-policies/x-law-enforcement-support).
 
-In compliance with the European Digital Services Act (DSA), X provides the following contact point through which users covered by the DSA can communicate with X directly through this [form](https://help.x.com/en/forms/dsa/question).
+In compliance with the European Digital Services Act (DSA), X provides the following contact point through which users covered by the DSA can communicate with X directly through this [form](https://help.x.com/forms/dsa/question).
 
 #### Share this article
 
