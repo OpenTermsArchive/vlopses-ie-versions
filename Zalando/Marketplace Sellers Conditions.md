@@ -1778,21 +1778,13 @@ Related Resources:
 
 ### Downloads
 
-*   [Platform Rules - Version 12](https://assets.ctfassets.net/6h1o1uyhbb7c/YM8ELQDH1f3SJRUBmadHQ/d6fe043876fb8e829cbdf256821c8d5a/Platform_Rules_-_Version_12.pdf)
 *   [Platform Rules - Version 13](https://assets.ctfassets.net/6h1o1uyhbb7c/3sq3siB6Ppa9n81ID3LxHe/5ee4a27cc0ead7c08fd8127d840d305c/Platform_Rules_-_Version_13.pdf)
-*   [Platform Rules - version 13 with highlighted changes](https://assets.ctfassets.net/6h1o1uyhbb7c/1ShOhdqOb4I1mYc8nv6emt/9e414718c3442a2122e91cf883d0f141/Platform_Rules_-_Version_13_with_highlighted_changes.pdf)
-
-Download all
 
 Updated June 15, 2026
 
 ### Downloads
 
-*   [Platform Rules - Version 12](https://assets.ctfassets.net/6h1o1uyhbb7c/YM8ELQDH1f3SJRUBmadHQ/d6fe043876fb8e829cbdf256821c8d5a/Platform_Rules_-_Version_12.pdf)
 *   [Platform Rules - Version 13](https://assets.ctfassets.net/6h1o1uyhbb7c/3sq3siB6Ppa9n81ID3LxHe/5ee4a27cc0ead7c08fd8127d840d305c/Platform_Rules_-_Version_13.pdf)
-*   [Platform Rules - version 13 with highlighted changes](https://assets.ctfassets.net/6h1o1uyhbb7c/1ShOhdqOb4I1mYc8nv6emt/9e414718c3442a2122e91cf883d0f141/Platform_Rules_-_Version_13_with_highlighted_changes.pdf)
-
-Download all
 
 * * *
 
