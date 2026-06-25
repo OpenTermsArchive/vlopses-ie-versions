@@ -130,33 +130,33 @@ CHANGE LOG
 
 Today
 
-Sep 27, 2024
+Sep 28, 2024
 
-Aug 29, 2024
+Aug 30, 2024
 
-Aug 13, 2024
+Aug 14, 2024
 
-Jul 2, 2024
+Jul 3, 2024
 
-Apr 25, 2024
+Apr 26, 2024
 
-Sep 28, 2023
+Sep 29, 2023
 
-Sep 22, 2023
+Sep 23, 2023
 
 Jan 27, 2023
 
 Nov 24, 2022
 
-Sep 29, 2022
+Sep 30, 2022
 
 Feb 25, 2022
 
 Nov 25, 2021
 
-Oct 28, 2021
+Oct 29, 2021
 
-May 4, 2021
+May 5, 2021
 
 Feb 9, 2021
 
@@ -164,33 +164,33 @@ Jan 29, 2021
 
 Nov 19, 2020
 
-Sep 3, 2020
+Sep 4, 2020
 
-Jun 26, 2020
+Jun 27, 2020
 
-May 28, 2020
+May 29, 2020
 
 Dec 17, 2019
 
 Dec 1, 2019
 
-Sep 29, 2019
+Sep 30, 2019
 
-Jul 30, 2019
+Jul 31, 2019
 
-Jul 10, 2019
+Jul 11, 2019
 
-Jul 1, 2019
+Jul 2, 2019
 
-Apr 26, 2019
+Apr 27, 2019
 
 Dec 29, 2018
 
-Oct 15, 2018
+Oct 16, 2018
 
-Jul 27, 2018
+Jul 28, 2018
 
-May 25, 2018
+May 26, 2018
 
 Policy Rationale
 
@@ -309,37 +309,37 @@ CHANGE LOG
 
 Today
 
-Mar 19, 2026
+Mar 20, 2026
 
-Feb 8, 2024
+Feb 9, 2024
 
-Dec 29, 2023
+Dec 30, 2023
 
-Aug 29, 2023
+Aug 30, 2023
 
-Apr 27, 2023
+Apr 28, 2023
 
-Dec 23, 2021
+Dec 24, 2021
 
-Nov 24, 2021
+Nov 25, 2021
 
-Oct 15, 2021
+Oct 16, 2021
 
-Aug 26, 2021
+Aug 27, 2021
 
-Jun 23, 2021
+Jun 24, 2021
 
-Oct 22, 2020
+Oct 23, 2020
 
-Aug 27, 2020
+Aug 28, 2020
 
-Feb 27, 2020
+Feb 28, 2020
 
-Oct 10, 2019
+Oct 11, 2019
 
-Sep 27, 2019
+Sep 28, 2019
 
-Dec 28, 2018
+Dec 29, 2018
 
 Policy Rationale
 
@@ -569,9 +569,9 @@ CHANGE LOG
 
 Today
 
-Mar 26, 2026
+Mar 27, 2026
 
-Jun 26, 2025
+Jun 27, 2025
 
 Feb 28, 2025
 
@@ -579,11 +579,11 @@ Dec 6, 2023
 
 Jan 27, 2023
 
-Sep 29, 2022
+Sep 30, 2022
 
-May 4, 2022
+May 5, 2022
 
-Apr 28, 2022
+Apr 29, 2022
 
 Feb 25, 2022
 
@@ -595,11 +595,11 @@ Jan 29, 2021
 
 Nov 19, 2020
 
-Sep 3, 2020
+Sep 4, 2020
 
-Aug 27, 2020
+Aug 28, 2020
 
-Jun 26, 2020
+Jun 27, 2020
 
 Dec 17, 2019
 
@@ -770,65 +770,65 @@ CHANGE LOG
 
 Today
 
-May 14, 2025
+May 15, 2025
+
+Feb 28, 2025
 
 Feb 27, 2025
 
-Feb 26, 2025
+Jun 27, 2024
 
-Jun 26, 2024
+Dec 1, 2023
 
-Nov 30, 2023
+Jul 28, 2023
 
-Jul 27, 2023
+Apr 28, 2023
 
-Apr 27, 2023
+Dec 23, 2022
 
-Dec 22, 2022
+Oct 28, 2022
 
-Oct 27, 2022
+Dec 24, 2021
 
-Dec 23, 2021
+Nov 25, 2021
 
-Nov 24, 2021
+Oct 1, 2021
 
-Sep 30, 2021
+Aug 27, 2021
 
-Aug 26, 2021
+Jul 30, 2021
 
-Jul 29, 2021
+Jan 29, 2021
 
-Jan 28, 2021
+Sep 25, 2020
 
-Sep 24, 2020
+Jul 31, 2020
 
-Jul 30, 2020
+Jun 23, 2020
 
-Jun 22, 2020
+May 1, 2020
 
-Apr 30, 2020
+Dec 1, 2019
 
-Nov 30, 2019
+Oct 11, 2019
 
-Oct 10, 2019
+Sep 25, 2019
 
-Sep 24, 2019
+Sep 4, 2019
 
-Sep 3, 2019
+Jul 31, 2019
 
-Jul 30, 2019
+Jul 25, 2019
 
-Jul 24, 2019
+Jul 2, 2019
 
-Jul 1, 2019
+Apr 27, 2019
 
-Apr 26, 2019
+Mar 21, 2019
 
-Mar 20, 2019
+Dec 1, 2018
 
-Nov 30, 2018
-
-Aug 31, 2018
+Sep 1, 2018
 
 Policy Rationale
 
@@ -1635,7 +1635,7 @@ CHANGE LOG
 
 Today
 
-Feb 27, 2026
+Feb 26, 2026
 
 May 14, 2025
 
@@ -1647,7 +1647,7 @@ Jul 2, 2024
 
 May 1, 2024
 
-Dec 30, 2023
+Dec 29, 2023
 
 Apr 28, 2022
 
@@ -1655,9 +1655,9 @@ Sep 30, 2021
 
 May 4, 2020
 
-Dec 18, 2020
+Dec 17, 2020
 
-Nov 19, 2020
+Nov 18, 2020
 
 Jul 30, 2020
 
@@ -1756,41 +1756,41 @@ CHANGE LOG
 
 Today
 
-Jul 31, 2025
+Aug 1, 2025
 
-Jul 17, 2025
+Jul 18, 2025
 
 Dec 27, 2024
 
-Oct 2, 2024
+Oct 3, 2024
 
-Jul 25, 2024
+Jul 26, 2024
 
-Jul 8, 2024
+Jul 9, 2024
 
 Jan 12, 2024
 
 Dec 6, 2023
 
-Aug 2, 2023
+Aug 3, 2023
 
 Dec 23, 2022
 
-Apr 28, 2022
+Apr 29, 2022
 
 Nov 25, 2021
 
-Oct 28, 2021
+Oct 29, 2021
 
-Aug 26, 2021
+Aug 27, 2021
 
-May 4, 2021
+May 5, 2021
 
 Jan 29, 2021
 
 Nov 19, 2020
 
-Jun 22, 2020
+Jun 23, 2020
 
 Dec 29, 2018
 
@@ -2125,37 +2125,37 @@ Today
 
 Jan 23, 2025
 
-Jul 2, 2024
+Jul 3, 2024
 
 Dec 14, 2023
 
-Sep 28, 2023
+Sep 29, 2023
 
-Jun 29, 2023
+Jun 30, 2023
 
-Mar 30, 2023
+Mar 31, 2023
 
 Jan 27, 2023
 
-Sep 29, 2022
+Sep 30, 2022
 
 Dec 24, 2021
 
-Oct 13, 2021
+Oct 14, 2021
 
-Aug 26, 2021
+Aug 27, 2021
 
-May 4, 2021
+May 5, 2021
 
-Apr 2, 2021
+Apr 3, 2021
 
 Jan 29, 2021
 
 Nov 19, 2020
 
-Jul 30, 2020
+Jul 31, 2020
 
-May 28, 2020
+May 29, 2020
 
 Feb 28, 2020
 
@@ -2163,13 +2163,13 @@ Jan 31, 2020
 
 Dec 17, 2019
 
-Sep 29, 2019
+Sep 30, 2019
 
-Jul 30, 2019
+Jul 31, 2019
 
-Jul 1, 2019
+Jul 2, 2019
 
-Apr 26, 2019
+Apr 27, 2019
 
 Policy Rationale
 
@@ -2398,17 +2398,17 @@ Aug 28, 2025
 
 Jul 31, 2025
 
-Dec 27, 2024
+Dec 26, 2024
 
 Sep 27, 2024
 
-Jan 13, 2024
+Jan 12, 2024
 
 Aug 31, 2023
 
-Dec 8, 2022
+Dec 7, 2022
 
-Nov 25, 2021
+Nov 24, 2021
 
 Sep 3, 2019
 
@@ -2476,29 +2476,29 @@ CHANGE LOG
 
 Today
 
-Apr 30, 2026
+May 1, 2026
 
-Oct 2, 2024
+Oct 3, 2024
 
-Jun 26, 2024
+Jun 27, 2024
 
-Jun 29, 2023
+Jun 30, 2023
 
 Feb 24, 2023
 
-Sep 29, 2022
+Sep 30, 2022
 
 Feb 25, 2022
 
 Nov 25, 2021
 
-Sep 30, 2021
+Oct 1, 2021
 
 Nov 19, 2020
 
 Dec 1, 2018
 
-Jun 29, 2018
+Jun 30, 2018
 
 Policy Rationale
 
@@ -3106,43 +3106,43 @@ CHANGE LOG
 
 Today
 
-Aug 29, 2025
+Aug 28, 2025
 
-Jun 27, 2025
+Jun 26, 2025
 
-May 15, 2025
+May 14, 2025
 
-Sep 18, 2024
+Sep 17, 2024
 
-Aug 30, 2024
+Aug 29, 2024
 
-Jul 26, 2024
+Jul 25, 2024
 
-May 2, 2024
+May 1, 2024
 
-Mar 1, 2024
+Feb 29, 2024
 
-Sep 30, 2022
+Sep 29, 2022
 
-Apr 29, 2022
+Apr 28, 2022
 
-Dec 24, 2021
+Dec 23, 2021
 
-Nov 25, 2021
+Nov 24, 2021
 
-Aug 27, 2021
+Aug 26, 2021
 
-Nov 20, 2020
+Nov 19, 2020
 
-Mar 21, 2019
+Mar 20, 2019
 
-Oct 16, 2018
+Oct 15, 2018
 
-Jul 28, 2018
+Jul 27, 2018
 
-Jun 30, 2018
+Jun 29, 2018
 
-May 26, 2018
+May 25, 2018
 
 Policy Rationale
 
@@ -3314,21 +3314,21 @@ Oct 2, 2024
 
 Aug 29, 2024
 
-Mar 1, 2024
+Feb 29, 2024
 
-Dec 6, 2023
+Dec 5, 2023
 
-Nov 24, 2022
+Nov 23, 2022
 
-Dec 24, 2021
+Dec 23, 2021
 
-Nov 25, 2021
+Nov 24, 2021
 
 Oct 28, 2021
 
-Feb 26, 2021
+Feb 25, 2021
 
-Nov 19, 2020
+Nov 18, 2020
 
 May 28, 2020
 
@@ -3336,7 +3336,7 @@ Aug 26, 2019
 
 Jul 30, 2019
 
-Dec 29, 2018
+Dec 28, 2018
 
 Oct 15, 2018
 
@@ -3429,21 +3429,21 @@ May 28, 2026
 
 Mar 27, 2025
 
-Dec 27, 2024
+Dec 26, 2024
 
 Sep 25, 2024
 
 Mar 28, 2024
 
-Jan 26, 2024
+Jan 25, 2024
 
 Aug 31, 2023
 
-Dec 23, 2022
+Dec 22, 2022
 
 Oct 27, 2022
 
-Feb 25, 2022
+Feb 24, 2022
 
 Oct 28, 2021
 
@@ -3451,9 +3451,9 @@ Jul 29, 2021
 
 Mar 25, 2021
 
-Dec 18, 2020
+Dec 17, 2020
 
-Nov 19, 2020
+Nov 18, 2020
 
 May 28, 2020
 
@@ -3689,19 +3689,19 @@ CHANGE LOG
 
 Today
 
-Jun 26, 2025
+Jun 27, 2025
 
-Oct 2, 2024
+Oct 3, 2024
 
-Jun 26, 2024
+Jun 27, 2024
 
-Jun 30, 2022
+Jul 1, 2022
 
-Mar 26, 2021
+Mar 27, 2021
 
-Dec 17, 2020
+Dec 18, 2020
 
-Oct 30, 2019
+Oct 31, 2019
 
 Policy Rationale
 
@@ -3756,7 +3756,7 @@ CHANGE LOG
 
 Today
 
-Dec 12, 2025
+Dec 11, 2025
 
 Oct 2, 2024
 
@@ -3764,9 +3764,9 @@ Jul 18, 2024
 
 Apr 25, 2022
 
-Dec 18, 2020
+Dec 17, 2020
 
-Nov 8, 2019
+Nov 7, 2019
 
 Oct 10, 2019
 
@@ -3820,27 +3820,27 @@ CHANGE LOG
 
 Today
 
-Apr 8, 2025
+Apr 7, 2025
 
-Mar 14, 2025
+Mar 13, 2025
 
-Jan 8, 2025
+Jan 7, 2025
 
-Jul 19, 2024
+Jul 18, 2024
 
-Jul 10, 2024
+Jul 9, 2024
 
-Jun 11, 2024
+Jun 10, 2024
 
-May 21, 2024
+May 20, 2024
 
-Feb 7, 2024
+Feb 6, 2024
 
-Dec 6, 2023
+Dec 5, 2023
 
-Sep 30, 2023
+Sep 29, 2023
 
-Jul 15, 2023
+Jul 14, 2023
 
 Policy Rationale
 
@@ -3954,15 +3954,15 @@ Oct 9, 2024
 
 Jul 31, 2024
 
-Nov 24, 2022
+Nov 23, 2022
 
-Nov 19, 2020
+Nov 18, 2020
 
-Jan 31, 2020
+Jan 30, 2020
 
-Dec 17, 2019
+Dec 16, 2019
 
-Dec 1, 2019
+Nov 30, 2019
 
 Apr 26, 2019
 
@@ -4019,7 +4019,7 @@ CHANGE LOG
 
 Today
 
-Aug 27, 2024
+Aug 26, 2024
 
 Policy Rationale
 
@@ -4173,9 +4173,9 @@ CHANGE LOG
 
 Today
 
-Mar 1, 2024
+Feb 29, 2024
 
-Nov 20, 2020
+Nov 19, 2020
 
 We comply with:
 
@@ -4267,6 +4267,31 @@ We generally do not recommend accounts (including Profiles and Page admins) or e
 We may let people know when they're about to engage with an entity that meets any of the above criteria to help them make informed decisions.
 
 A similar set of these guidelines applies to recommendations on Instagram. Those guidelines can be found [in the Instagram Help Centre.](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F313829416281232%3Fhelpref%3Dfaq_content)
+
+Related articles
+----------------
+
+[Turn Recommendations on or off for your business Page](https://www.facebook.com/help/548274415377576/?helpref=related_articles)
+
+[How Page review count and recommendation score are determined](https://www.facebook.com/help/500762053364226/?helpref=related_articles)
+
+[See your Facebook Page's recommendations](https://www.facebook.com/help/153159431903167/?helpref=related_articles)
+
+[Recommend a business on Facebook](https://www.facebook.com/help/271128916342286/?helpref=related_articles)
+
+[Learn about and manage suggested content in your Facebook Feed](https://www.facebook.com/help/485502912850153/?helpref=related_articles)
+
+Related articles
+
+[Turn Recommendations on or off for your business Page](https://www.facebook.com/help/548274415377576/?helpref=related_articles)
+
+[How Page review count and recommendation score are determined](https://www.facebook.com/help/500762053364226/?helpref=related_articles)
+
+[See your Facebook Page's recommendations](https://www.facebook.com/help/153159431903167/?helpref=related_articles)
+
+[Recommend a business on Facebook](https://www.facebook.com/help/271128916342286/?helpref=related_articles)
+
+[Learn about and manage suggested content in your Facebook Feed](https://www.facebook.com/help/485502912850153/?helpref=related_articles)
 
 - - -
 
