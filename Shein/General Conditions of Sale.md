@@ -67,13 +67,13 @@ Return requirements for returnable items：
 | Items must be returned in new, unworn, undamaged condition with the original branded boxes and all accessories (shoe-buckles, shoe laces, and dust bags, etc). Shoes must have been tried only on a soft, clean surface. |
 | Furniture |
 | --- |
-| Items must be new, unused, undamaged and in the original packaging (including all accessories, manuals, and parts included). |
+| Items must be new, unused, and undamaged (including all accessories, manuals, and parts included). |
 | Cell Phones, laptops, projectors, tablets and other electronics |
 | --- |
-| Items must be returned in their original sealed and non-activated condition. Please erase all personal information from the product and place it in the original packaging along with any manuals, accessories, and any "free" gifts supplied with the product. If the product has missing parts or is in unsellable condition when returned, we cannot provide you with a refund. If you want to claim a manufacturer's warranty, we will help you contact the manufacturer. |
+| Items must be returned in their original sealed and non-activated condition. Please erase all personal information from the product and include any manuals, accessories, and any "free" gifts supplied with the product. If the product has missing parts or is in unsellable condition when returned, we cannot provide you with a refund. If you want to claim a manufacturer's warranty, we will help you contact the manufacturer. |
 | Other categories |
 | --- |
-| The items must be returned in brand new condition with the original packaging. |
+| The items must be returned in brand new condition. |
 
 3\. How Can I Return Items?
 
