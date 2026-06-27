@@ -1,6 +1,10 @@
 Community guidelines
 ====================
 
+Deals, drops and trends  
+Straight to your inbox
+================================================
+
 Effective: 1 May 2026
 
 **Summary**
