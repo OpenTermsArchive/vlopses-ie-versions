@@ -50,13 +50,13 @@ We gladly accept, under certain conditions, returns within **thirty (30) days of
 
 2\. What Items Can I Return?
 
-| ![](//img.ltwebstatic.com/images3_ach/2024/09/10/e4/1725956456114362647537af5bf069fb298d29a35b.webp) Non-Returnable Items:<br><br>This product is returnable within 14 days withdrawal right return period but not in the extended commercial return period |
+| ![](//img.ltwebstatic.com/images3_ach/2024/09/10/e4/1725956456114362647537af5bf069fb298d29a35b.avif) Non-Returnable Items:<br><br>This product is returnable within 14 days withdrawal right return period but not in the extended commercial return period |
 | --- |
 | • **Bodysuits, lingerie, jewelry, beauty, underwear, Event & Party Supplies, DIY Supplies, Pet Supplies and accessories** (except scarves, bags, and mermaid blankets).<br><br>• **Cosmetics** if the seal has been broken.<br><br>• **Items marked as non-returnable.**<br><br>• **Free gifts** (This depends on the status of the item at the time of payment).<br><br>• **Customized items.** In addition, order cancellation for customized items is not supported. |
 
 Return requirements for returnable items：
 
-| ![](//img.ltwebstatic.com/images3_ach/2024/09/10/c4/1725956463fda8ca1c288d2b3c875280c5796ea0bf.webp) Wedding Dresses, Suits and other Apparel |
+| ![](//img.ltwebstatic.com/images3_ach/2024/09/10/c4/1725956463fda8ca1c288d2b3c875280c5796ea0bf.avif) Wedding Dresses, Suits and other Apparel |
 | --- |
 | Items must be in new, unworn, unwashed, undamaged, and unaltered condition and have the original tags attached and the hygiene sticker (if applicable) intact. |
 | Human Hair Wigs |
