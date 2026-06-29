@@ -209,7 +209,7 @@ Our marketplace policies are also an integral part of these Ts and Cs
 
 Please review these carefully before you use the Site and make a purchase as such use and purchase are subject to these Ts &Cs
 
-We recommend that you [print](https://files-c.ltwebstatic.com/ccc/2026/06/05/17806506902596674933.pdf) a version or save the applicable Ts &Cs.
+We recommend that you [print](https://files-c.ltwebstatic.com/ccc/2026/06/29/17827127282063687941.pdf) a version or save the applicable Ts &Cs.
 
 Overview of T&Cs
 
@@ -231,7 +231,7 @@ Overview of T&Cs
 
 SHEIN MARKETPLACE’ S GENERAL CONDITIONS OF USE
 
-**Version of June 5th, 2026**
+****Version**** ****of**** ****July 1********, 2026****
 
 Welcome to the Shein EUR Marketplace.
 
@@ -239,7 +239,7 @@ Infinite Styles Services Co., Ltd operates the website eur.shein.com and/or the 
 
 These General Conditions of Use ( **“GCU”** ) govern the contractual relationship between (a) **Infinite Styles Services Co, Ltd.** whose registered office is at The Sidings, 4th Floor, Grand Canal Quay, Dublin 2, D02 E7K8, Ireland (hereinafter, **“SHEIN”** or **“we”** ) and (b) **you** (hereinafter **“You”** or the **“Customer”** ), regarding your use of the Marketplace within Bulgaria, Croatia (local name: Hrvatska), Cyprus, Estonia, Finland, Ireland, Iceland, Norway, Latvia, Lithuania, Malta, Slovenia (hereinafter the **“Territory”** ).
 
-Before using the Marketplace, please read carefully these GCU and either [print](https://files-c.ltwebstatic.com/ccc/2026/06/05/17806507312596674933.pdf) them or, to save them electronically before accepting them. The fact that you use the Site implies your acceptance, without reservation, of these GCU, unless legally prohibited. These GCU may be modified at any time by SHEIN and the applicable GCU shall be those in force at the time the Customer uses the Marketplace. The Customer is responsible for checking these GCU for any changes whenever uses the Site.
+Before using the Marketplace, please read carefully these GCU and either [print](https://files-c.ltwebstatic.com/ccc/2026/06/29/17827127802063687941.pdf) them or, to save them electronically before accepting them. The fact that you use the Site implies your acceptance, without reservation, of these GCU, unless legally prohibited. These GCU may be modified at any time by SHEIN and the applicable GCU shall be those in force at the time the Customer uses the Marketplace. The Customer is responsible for checking these GCU for any changes whenever uses the Site.
 
 The Customer understands and agrees that the following policies form an integral part of the T&Cs (as defined in clause 1.3 below):
 
@@ -341,7 +341,7 @@ The use of the Marketplace is free of charge (except for possible connection cos
 
 5.1 SHEIN Electronic Wallet (« Wallet »)
 
-The creation of a User Account automatically includes the creation of a SHEIN electronic wallet (the **"Wallet"** ). The latter allows you to collect and view your coupons, bonus points, wallet credits (offered where applicable when placing orders) and where applicable, your gift cards. These various credits or discounts can be accessed at any time via the Site in the "My Assets" section.
+The creation of a User Account automatically includes the creation of a SHEIN electronic wallet (the **"Wallet"** ). The latter allows you to collect and view your coupons, bonus points, wallet credits (offered where applicable when placing orders) and where applicable, your gift cards. These various credits or discounts can be accessed at any time via the Site in the "My Assets" section.Coupons, Bonus points, Wallet credit, and Gift cards can be issued by Infinite Styles Services Co., Ltd and/or its affiliates.
 
 (1) **Coupons:** Discount coupons ( **"Coupons"** ) may be obtained from SHEIN where this service is offered or may be granted by SHEIN in its sole discretion. Coupons may be stored in the "My Assets" section. They have a validity date, after which they can no longer be used. Coupons that have been purchased can only be redeemed at the Site where they were purchased or obtained. For more information on coupons, please refer to the [Coupon Policy](https://eur.shein.com/Coupon-Policy-a-1302.html) which applies to their use. Notwithstanding the foregoing, any Coupons which are specifically designated for the sole purpose of purchasing products exclusively distributed by Sellers cannot be used for purchasing products sold by SHEIN and vice versa.
 
@@ -655,7 +655,7 @@ Company number: 732881
 
 GENERAL CONDITIONS OF SALE
 
-**Version of June 5th, 2026**
+****Version of**** ****July 1********, 2026****
 
 Welcome to eur.shein.com and/or the mobile application (the **“Marketplace”** ) operated by Infinite Styles Services Co., Ltd (address at The Sidings, 4th Floor, Grand Canal Quay, Dublin 2, D02 E7K8, Ireland, and registration number 732881) ( **“Shein”** or **“the Operator”** ).
 
@@ -671,16 +671,20 @@ These General Conditions of Sale ( **“GCS”** ) govern the contractual relati
 
 through the Marketplace, within Bulgaria, Croatia (local name: Hrvatska), Cyprus, Estonia, Finland, Ireland, Iceland, Norway, Latvia, Lithuania, Malta, Slovenia (hereinafter, the **“Territory”** ).
 
+If you wish to order from another country outside of the Territory you will be redirected to the appropriate Shein site and your purchases via that local site will be subject to its terms and conditions.
+
 Please note that:
 
 *   All Sellers on this Marketplace are professional traders.
 *   In some instances, companies within the SHEIN group may be acting as a Seller – and as such will be bound by these GCS – however, Infinite Styles Services Co., Ltd is the Operator and is not part of the contractual relationship between you and the Sellers.
-
-If you wish to order from another country outside of the Territory you will be redirected to the appropriate Shein site and your purchases via that local site will be subject to its terms and conditions.
+*   Products sold on this Marketplace could be either:
+*   EU Shipped Products: Products that are physically located within the European Union (“EU”) at the time of your purchase (meaning the time payment is taken). EU Shipped Products will be identifiable with a “EU Warehouse” tag in the Product page, as well as in the Order page before check-out.
+*   Worldwide Shipped Products: Products that are physically located outside of the EU at the time of your purchase (meaning the time payment is taken) and may therefore be subject to customs, import, VAT and other regulatory requirements applicable to the importation of goods into the EU.
+*   Your statutory consumer rights are not affected by whether a Product is an EU Shipped Product or a Worldwide Shipped Product.
 
 In order to place an order on the Marketplace, the Customer declares that he/she is at least 18 years old. It is specified **that the Products are intended for the domestic and personal use by the Customer,** without any direct connection with his/her professional activity. The Customer undertakes not to purchase Products with a view to reselling them.
 
-Before making a purchase, the Customer will be invited to read carefully these GCS to [print](https://files-c.ltwebstatic.com/ccc/2026/06/05/17806507552596674933.pdf) them or to save them electronically and to accept them. The fact that a Customer places an order implies his/her express acceptance, without reservation, of both these General Conditions of Sale and the General Conditions of Use applicable to the use of the Marketplace (both hereinafter jointly referred as **“T&Cs”** ), unless legally prohibited. The T&CS may be modified at any time by SHEIN. In any event, the applicable T&CS shall be those in force at the time the Customer places an order. The Customer is responsible for checking the T&Cs for any changes whenever the Customer uses the Marketplace.
+Before making a purchase, the Customer will be invited to read carefully these GCS to [print](https://files-c.ltwebstatic.com/ccc/2026/06/29/17827129092063687941.pdf) them or to save them electronically and to accept them. The fact that a Customer places an order implies his/her express acceptance, without reservation, of both these General Conditions of Sale and the General Conditions of Use applicable to the use of the Marketplace (both hereinafter jointly referred as **“T&Cs”** ), unless legally prohibited. The T&CS may be modified at any time by SHEIN. In any event, the applicable T&CS shall be those in force at the time the Customer places an order. The Customer is responsible for checking the T&Cs for any changes whenever the Customer uses the Marketplace.
 
 The Customer understands and agrees that the following Marketplace policies form an integral part of the T&Cs:
 
@@ -732,11 +736,11 @@ INDEX
 
 (3) The Seller is also responsible for the accurate description of the Product and the conformity of the Product with the contract.
 
-**2.2 Fulfilment and Delivery**
+**2.2 Fulfilment and Delivery** Except where the Seller elects to fulfil orders itself, fulfilment, shipping and delivery services are provided by a SHEIN group entity on behalf of the Seller.
 
-(1) Except where the Seller opts to do its own fulfilment (in which case the Seller will be responsible for shipping and delivery, including meeting service level standards imposed by us), order fulfilment is provided to the Seller by a SHEIN group entity.
+Where the Seller elects to fulfil orders itself, the Seller shall be responsible for fulfilment, shipping and delivery to the Customer, including compliance with any applicable service level standards imposed by us.
 
-(2) SHEIN contracts with local third-party delivery companies who conduct deliveries on SHEIN's behalf.
+For the avoidance of doubt, where a SHEIN group entity provides fulfilment, shipping or delivery services, such services are provided solely on behalf of the Seller and shall not affect the contractual relationship between the Customer and the Seller. The Seller remains responsible for the performance of the sales contract with the Customer, and remains responsible for any associated risks and liabilities, shall remain borne by the Seller until delivery to the Customer, in accordance with Section 3.3.SHEIN contracts with local third-party delivery companies who conduct deliveries on SHEIN's behalf.
 
 **2.3 Platform Services.** The Operator operates the online marketplace and provides the following services: hosting the platform, including the provision of online services on the platform; managing your SHEIN account; online payment processing (via a third-party payment services provider) on behalf of the Seller, and reimbursement in the case of product return; and providing after-sales support as the first point of contact for post-purchase queries.
 
@@ -748,7 +752,7 @@ INDEX
 
 (2) The Operator will either resolve the issue directly, or coordinate with the Seller.
 
-(3) If the Seller and Customer cannot reach a solution, we may intervene to offer a solution, which may include goodwill refunds.
+(3) If the Seller and Customer cannot reach a solution, the Operator may intervene to offer a solution, which may include goodwill refunds.
 
 3\. CHARACTERISTICS OF THE PRODUCTS
 
@@ -756,7 +760,13 @@ INDEX
 
 3.2 The photographs, which are not contractual, are intended to provide the Customer with the best possible information. However, the Customer acknowledges that, due to the colour quality of the photographs, there may be some differences between the presentation of the Product on the Marketplace and the Product delivered due to, among others, the calibration of the monitor used. Once the Product is received by the Customer and he/she is not satisfied with the Product, the Customer can proceed to the return of such product according to our [Returns Policy](https://eur.shein.com/Return-Policy-a-281.html) . For the avoidance of doubt, the discrepancies of colours or presentation of the Product do not imply defect or lack of conformity.
 
-**3.3 Risk and Title.** Subject to section 7.2 below, the purchased Products will be at the Customer’s risk from the time of delivery. Title to any purchased Products will transfer from the respective Seller to the Customer over ‘international waters’ (i.e., not within the jurisdiction of any country). Please note that when ordering from this Site, Customers are deemed the importer of record and must comply with all laws and regulations of the country in which the Customer is receiving the Products.
+**3.3 Risk and Title.** Subject to section 7.2 below, the purchased Products will be at the Customer’s risk from the time of delivery to the Customer or to a third party indicated by the Customer, other than the carrier.
+
+**3.3.1. For EU Shipped Products:** Title will transfer from the respective Seller to the Customer or a third party indicated by him/her, other than the carrier, on dispatch.
+
+**3.3.2. For Worldwide Shipped Products:** Depending on the importation arrangement applicable for the relevant transaction, title transfer can occur either (1) prior to importation into the destination country,or (2) on delivery to the Customer or a third party indicated by him/her, other than the carrier.
+
+Where title transfers prior to importation, the Customer shall act as importer of record and the provisions set out in section 6.4 shall apply.
 
 4\. PRICES AND FEES
 
@@ -770,17 +780,17 @@ INDEX
 
 4.2 Delivery costs
 
-(1) The amount of the delivery costs depends on the amount of the order and the type of delivery option selected by the Customer at the time it selects a Product. The Delivery Options are: (a) express delivery within the European Union, known as “express delivery” or **“quickship”** or (b) international delivery.
+(1) The amount of the delivery costs depends on the amount of the order and the type of delivery option selected by the Customer at the time it selects a Product. The Delivery Options are: (a) express delivery within the European Union, known as “express delivery” or “quickship” , (b) standard delivery within the European Union (c) international delivery.
 
 (2) It is specified that for some Products, the choice of the Option of delivery is not possible.
 
 4.3 Additional charges
 
-For International delivery orders exceeding certain amounts, a handling fee will apply. The exact amount of such handling fee will vary depending on the total value of the order. The handling fee applicable to each order will be clearly displayed at checkout before you place your order (and is included in the "Grand Total" amount shown on the order summary page).
+For Worldwide Shipped Products Orders, handling fees may apply. The exact amount of such handling fee will vary depending on the total value of the order. The handling fee applicable to each order will be clearly displayed at checkout before you place your order.
 
 4.4 General
 
-(1) In any case, the amount of the delivery costs and additional costs will be indicated to the Customer before the “Validation” of the order.
+(1) In any case, the amount of the delivery costs and additional costs will be indicated to the Customer on the order summary page, as well as before its payment.
 
 (2) The Seller reserves the right not to charge delivery costs depending on the amount of the order.
 
@@ -826,7 +836,7 @@ b) Then, the Customer will be asked to finalise the order by clicking on the “
 
 6.1 Terms of delivery
 
-(1) Delivery Options: Depending on the Products ordered and, if applicable, the Delivery Option selected by the Customer, delivery shall either be organised on a local ( **"Quickship"** ) or international basis depending on where the Products or the order to be placed by the Customer are located.
+(1) Delivery Options: Depending on the Products ordered and, if applicable, the Delivery Option selected by the Customer, delivery shall either be organised on a standard local, express local ( "Quickship" ) or international basis depending on where the Products are located.
 
 (a) Delivery method: The Customer chooses one of the delivery methods offered on the Marketplace (Please see [Delivery Policy](https://eur.shein.com/Shipping-Info-a-280.html) when placing the order. The home delivery service is available in the Territory.
 
@@ -850,7 +860,15 @@ b) Then, the Customer will be asked to finalise the order by clicking on the “
 
 6.4. Customs Authorisation.
 
-When ordering from this Site, Customers are deemed the ‘importer of record’ and agree to and its affiliates SHEIN acting on the Customer’s behalf for the sole and limited purpose of carrying out customs declarations, including for example the appointment of a customs broker (to act on behalf of the Customer), as may be required to ensure timely customs clearance and delivery of products.For the purposes of this Clause 6.4, “SHEIN and its affiliates” means (i) the entity operating the Marketplace, and (ii) any entity that directly or indirectly controls, is controlled by, or is under common control with such entity, including its parent companies, subsidiaries, and other entities within the same corporate group (each, an “Affiliate”).
+For the purposes of customs clearance, the importer of record may be the Customer, the Operator, an Affiliate of the Operator, the relevant Seller, or a customs representative acting on behalf of any of them, depending on the applicable importation structure applied to the relevant transaction.
+
+The applicable importation structure shall be determined by the Operator in accordance with its logistics, fulfilment and customs compliance framework, taking into account applicable law, the nature of the transaction, and the relevant cross-border shipping arrangement.
+
+Where the Customer is required to be identified for customs purposes in connection with a Product purchased through the Site, the Customer authorises the Operator and its Affiliates to take, or procure the taking of, actions reasonably required in connection with the importation, customs clearance, delivery and regulatory compliance of Products purchased through the Marketplace.
+
+Such actions may include, without limitation, preparing and submitting customs declarations, providing customs-related information, and appointing customs brokers, customs representatives or other service providers.
+
+For the purposes of this Clause 6.4, “Affiliate” means any entity that directly or indirectly controls, is controlled by, or is under common control with the Operator.
 
 7\. CHECKING THE ORDER ON ARRIVAL
 
@@ -860,7 +878,7 @@ The Customer is obliged to check the condition of the Products upon receipt of t
 
 7.2 Damaged parcel on receipt of delivery
 
-(1) Any risk of loss or damage to the Products passes to the Customer at the time the Customer takes physical possession of the Products.
+(1) Any risk of loss or damage to the Products passes to the Customer at the time the Customer or a third party indicated by him/her, other than the carrier, takes physical possession of the Products.
 
 (2) It is the Customer's responsibility to refuse the package if it is obviously damaged or to make any reservations and claims about the package being damaged deemed necessary within 24 hours of receiving the Products, this does not affect your statutory rights. The said reservations and claims must be addressed in writing to the carrier selected by the Customer when choosing the delivery method. The carrier chosen will also be set out on the order summary sent to the Customer once the order has been placed. The Customer must also send a copy of this letter or document to the [customer service](https://eur.shein.com/robot) ( **“Customer Service”** ).
 
@@ -870,11 +888,11 @@ The Customer is obliged to check the condition of the Products upon receipt of t
 
 (2) The Customer must submit to the Seller, via [Customer Service](https://eur.shein.com/robot) , any claim of delivery error and/or mistake and/or non-conformity of the Products in kind or in quality with respect to the order, this does not affect the Customer’s statutory rights.
 
-(3) The costs of returning the Products are to be borne by the Seller, who will refund the Customer within fourteen (14) days after receipt of the returned goods.
+(3) The costs of returning the Products are to be borne by the Seller and/or the Operator, who will refund the Customer, via the Operator, within fourteen (14) days after receipt of the returned goods.
 
 7.4 Damaged items
 
-For any queries regarding Products that are damaged and product warranty, please refer to Section 7 below.
+For any queries regarding Products that are damaged and product warranty, please refer to Section 8 below.
 
 7.5. Fraudulent behaviour
 
@@ -988,7 +1006,7 @@ The Customer also benefits from the legal guarantee for hidden defects for a per
 
 \- In the event that the Customer chooses to exercise the right of withdrawal by means of a postal notification to the address indicated above (SHEIN-1C3TE0UNPE, DC-1,Logistyczna 1A 55-080 kąty wrocławskie, Poland), the Customer must return the Product to that same address at the Customer’s own cost.
 
-\- The Customer shall bear the cost of returning the Products.
+\- The Customer shall bear the cost of returning the Products when exercising the right of withdrawal.
 
 \- Please note that the package must not be returned to the sender’s address which does not correspond to the return address. Otherwise, the package will be lost.
 
@@ -1024,7 +1042,7 @@ Date :
 
 (2) Accordingly, during the period between the 15th and 30th day of receipt of the Product, the Customer can also obtain a refund for the Products purchased, subject to the conditions set out in the Return Policy available at the following link: https://eur.shein.com/Return-Policy-a-281.html. In particular, the Product must be returned in their original packaging, undamaged and unused.
 
-(3) The shipping fee and handling fee are non-refundable.
+(3) Unless otherwise required by applicable law, the shipping fee and handling fee are non-refundable.
 
 11\. LIABILITY
 
