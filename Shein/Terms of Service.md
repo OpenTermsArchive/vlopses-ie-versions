@@ -169,15 +169,17 @@ We welcome your questions and comments about our privacy practices or these Term
 
 Shein’s Terms and Conditions – All you need to know about the fine prints!
 
-Lietuvišką versiją rasite spustelėję[čia](https://files-c.ltwebstatic.com/ccc/2026/06/08/17808857822558587475.pdf). (Lithuanian)
+Lietuvišką versiją rasite spustelėję [čia](https://files-c.ltwebstatic.com/ccc/2026/06/30/1782808762844691394.pdf). (Lithuanian)
 
-Lai skatītu versiju latviešu valodā, lūdzu, noklikšķiniet[šeit](https://files-c.ltwebstatic.com/ccc/2026/06/08/17808857141853813069.pdf). (Latvian)
+Lai skatītu versiju latviešu valodā, lūdzu, noklikšķiniet [šeit](https://files-c.ltwebstatic.com/ccc/2026/06/30/17828087903020396311.pdf). (Latvian)
 
-Eestikeelse versiooni vaatamiseks palun klõpsake [siin](https://files-c.ltwebstatic.com/ccc/2026/06/08/1780885695911977604.pdf). (Estonian)
+Eestikeelse versiooni vaatamiseks palun klõpsake [siin](https://files-c.ltwebstatic.com/ccc/2026/06/30/17828088172028845355.pdf). (Estonian)
 
-Za slovensko različico kliknite [tukaj](https://files-c.ltwebstatic.com/ccc/2026/06/08/17808857452605077186.pdf). (Slovene)
+Za slovensko različico kliknite [tukajtukaj](https://files-c.ltwebstatic.com/ccc/2026/06/30/17828088332326932089.pdf). (Slovene)
 
-For den danske version, klik venligst [her](https://files-c.ltwebstatic.com/ccc/2026/06/08/1780885668740293391.pdf). (Danish)
+For den danske version, klik venligst [her](https://files-c.ltwebstatic.com/ccc/2026/06/30/17828088672790374840.pdf). (Danish)
+
+For den danske version, klik venligst [her](https://files-c.ltwebstatic.com/ccc/2026/06/30/17828088672790374840.pdf). (Danish)
 
 Welcome to Shein Marketplace!
 
