@@ -130,33 +130,33 @@ CHANGE LOG
 
 Today
 
-Sep 28, 2024
+Sep 27, 2024
 
-Aug 30, 2024
+Aug 29, 2024
 
-Aug 14, 2024
+Aug 13, 2024
 
-Jul 3, 2024
+Jul 2, 2024
 
-Apr 26, 2024
+Apr 25, 2024
 
-Sep 29, 2023
+Sep 28, 2023
 
-Sep 23, 2023
+Sep 22, 2023
 
 Jan 27, 2023
 
 Nov 24, 2022
 
-Sep 30, 2022
+Sep 29, 2022
 
 Feb 25, 2022
 
 Nov 25, 2021
 
-Oct 29, 2021
+Oct 28, 2021
 
-May 5, 2021
+May 4, 2021
 
 Feb 9, 2021
 
@@ -164,33 +164,33 @@ Jan 29, 2021
 
 Nov 19, 2020
 
-Sep 4, 2020
+Sep 3, 2020
 
-Jun 27, 2020
+Jun 26, 2020
 
-May 29, 2020
+May 28, 2020
 
 Dec 17, 2019
 
 Dec 1, 2019
 
-Sep 30, 2019
+Sep 29, 2019
 
-Jul 31, 2019
+Jul 30, 2019
 
-Jul 11, 2019
+Jul 10, 2019
 
-Jul 2, 2019
+Jul 1, 2019
 
-Apr 27, 2019
+Apr 26, 2019
 
 Dec 29, 2018
 
-Oct 16, 2018
+Oct 15, 2018
 
-Jul 28, 2018
+Jul 27, 2018
 
-May 26, 2018
+May 25, 2018
 
 Policy Rationale
 
@@ -1637,37 +1637,37 @@ Today
 
 Feb 27, 2026
 
-May 15, 2025
+May 14, 2025
 
-Oct 3, 2024
+Oct 2, 2024
 
-Jul 26, 2024
+Jul 25, 2024
 
-Jul 3, 2024
+Jul 2, 2024
 
-May 2, 2024
+May 1, 2024
 
 Dec 30, 2023
 
-Apr 29, 2022
+Apr 28, 2022
 
-Oct 1, 2021
+Sep 30, 2021
 
-May 5, 2020
+May 4, 2020
 
 Dec 18, 2020
 
 Nov 19, 2020
 
-Jul 31, 2020
+Jul 30, 2020
 
-Jul 2, 2019
+Jul 1, 2019
 
-Apr 27, 2019
+Apr 26, 2019
 
-Mar 21, 2019
+Mar 20, 2019
 
-Sep 1, 2018
+Aug 31, 2018
 
 Policy Rationale
 
@@ -1756,41 +1756,41 @@ CHANGE LOG
 
 Today
 
-Aug 1, 2025
+Jul 31, 2025
 
-Jul 18, 2025
+Jul 17, 2025
 
 Dec 27, 2024
 
-Oct 3, 2024
+Oct 2, 2024
 
-Jul 26, 2024
+Jul 25, 2024
 
-Jul 9, 2024
+Jul 8, 2024
 
 Jan 12, 2024
 
 Dec 6, 2023
 
-Aug 3, 2023
+Aug 2, 2023
 
 Dec 23, 2022
 
-Apr 29, 2022
+Apr 28, 2022
 
 Nov 25, 2021
 
-Oct 29, 2021
+Oct 28, 2021
 
-Aug 27, 2021
+Aug 26, 2021
 
-May 5, 2021
+May 4, 2021
 
 Jan 29, 2021
 
 Nov 19, 2020
 
-Jun 23, 2020
+Jun 22, 2020
 
 Dec 29, 2018
 
@@ -2123,53 +2123,53 @@ CHANGE LOG
 
 Today
 
-Jan 22, 2025
+Jan 23, 2025
 
-Jul 2, 2024
+Jul 3, 2024
 
-Dec 13, 2023
+Dec 14, 2023
 
-Sep 28, 2023
+Sep 29, 2023
 
-Jun 29, 2023
+Jun 30, 2023
 
-Mar 30, 2023
+Mar 31, 2023
 
-Jan 26, 2023
+Jan 27, 2023
 
-Sep 29, 2022
+Sep 30, 2022
 
-Dec 23, 2021
+Dec 24, 2021
 
-Oct 13, 2021
+Oct 14, 2021
 
-Aug 26, 2021
+Aug 27, 2021
 
-May 4, 2021
+May 5, 2021
 
-Apr 2, 2021
+Apr 3, 2021
 
-Jan 28, 2021
+Jan 29, 2021
 
-Nov 18, 2020
+Nov 19, 2020
 
-Jul 30, 2020
+Jul 31, 2020
 
-May 28, 2020
+May 29, 2020
 
-Feb 27, 2020
+Feb 28, 2020
 
-Jan 30, 2020
+Jan 31, 2020
 
-Dec 16, 2019
+Dec 17, 2019
 
-Sep 29, 2019
+Sep 30, 2019
 
-Jul 30, 2019
+Jul 31, 2019
 
-Jul 1, 2019
+Jul 2, 2019
 
-Apr 26, 2019
+Apr 27, 2019
 
 Policy Rationale
 
@@ -2392,25 +2392,25 @@ CHANGE LOG
 
 Today
 
-Sep 20, 2025
+Sep 19, 2025
 
-Aug 29, 2025
+Aug 28, 2025
 
-Aug 1, 2025
+Jul 31, 2025
 
 Dec 27, 2024
 
-Sep 28, 2024
+Sep 27, 2024
 
 Jan 13, 2024
 
-Sep 1, 2023
+Aug 31, 2023
 
 Dec 8, 2022
 
 Nov 25, 2021
 
-Sep 4, 2019
+Sep 3, 2019
 
 Policy Rationale
 
@@ -2683,59 +2683,59 @@ CHANGE LOG
 
 Today
 
-Jan 8, 2025
+Jan 7, 2025
 
-Mar 1, 2024
+Feb 29, 2024
 
-Dec 6, 2023
+Dec 5, 2023
 
-May 26, 2023
+May 25, 2023
 
-Nov 24, 2022
+Nov 23, 2022
 
-Jul 29, 2022
+Jul 28, 2022
 
-Jul 1, 2022
+Jun 30, 2022
 
-Nov 25, 2021
+Nov 24, 2021
 
-Oct 29, 2021
+Oct 28, 2021
 
-Jun 24, 2021
+Jun 23, 2021
 
-Jan 29, 2021
+Jan 28, 2021
 
-Nov 19, 2020
+Nov 18, 2020
 
-Oct 13, 2020
+Oct 12, 2020
 
-Sep 24, 2020
+Sep 23, 2020
 
-Aug 12, 2020
+Aug 11, 2020
 
-Jul 31, 2020
+Jul 30, 2020
 
-Jun 23, 2020
+Jun 22, 2020
 
-Mar 27, 2020
+Mar 26, 2020
 
-Feb 28, 2020
+Feb 27, 2020
 
-Dec 17, 2019
+Dec 16, 2019
 
-Oct 31, 2019
+Oct 30, 2019
 
-Aug 27, 2019
+Aug 26, 2019
 
-Jul 31, 2019
+Jul 30, 2019
 
-Jul 2, 2019
+Jul 1, 2019
 
-Mar 21, 2019
+Mar 20, 2019
 
-Sep 1, 2018
+Aug 31, 2018
 
-May 26, 2018
+May 25, 2018
 
 Policy Rationale
 
@@ -2864,7 +2864,7 @@ CHANGE LOG
 
 Today
 
-Nov 25, 2025
+Nov 26, 2025
 
 Jun 26, 2025
 
@@ -2876,23 +2876,23 @@ Aug 29, 2024
 
 Jun 26, 2024
 
-Feb 29, 2024
+Mar 1, 2024
 
-Nov 29, 2023
+Nov 30, 2023
 
 Oct 17, 2023
 
 May 25, 2023
 
-Dec 22, 2022
+Dec 23, 2022
 
-Nov 23, 2022
+Nov 24, 2022
 
 Sep 29, 2022
 
 Oct 28, 2020
 
-Nov 18, 2020
+Nov 19, 2020
 
 Aug 27, 2020
 
@@ -2902,11 +2902,11 @@ May 28, 2020
 
 Apr 30, 2020
 
-Feb 27, 2020
+Feb 28, 2020
 
-Dec 16, 2019
+Dec 17, 2019
 
-Nov 30, 2019
+Dec 1, 2019
 
 Jul 30, 2019
 
@@ -2916,7 +2916,7 @@ Apr 26, 2019
 
 Mar 20, 2019
 
-Nov 30, 2018
+Dec 1, 2018
 
 Jul 27, 2018
 
@@ -3314,21 +3314,21 @@ Oct 2, 2024
 
 Aug 29, 2024
 
-Feb 29, 2024
+Mar 1, 2024
 
-Dec 5, 2023
+Dec 6, 2023
 
-Nov 23, 2022
+Nov 24, 2022
 
-Dec 23, 2021
+Dec 24, 2021
 
-Nov 24, 2021
+Nov 25, 2021
 
 Oct 28, 2021
 
-Feb 25, 2021
+Feb 26, 2021
 
-Nov 18, 2020
+Nov 19, 2020
 
 May 28, 2020
 
@@ -3336,7 +3336,7 @@ Aug 26, 2019
 
 Jul 30, 2019
 
-Dec 28, 2018
+Dec 29, 2018
 
 Oct 15, 2018
 
@@ -3608,13 +3608,13 @@ CHANGE LOG
 
 Today
 
-Jun 27, 2024
+Jun 26, 2024
 
-Jul 1, 2022
+Jun 30, 2022
 
-Dec 18, 2020
+Dec 17, 2020
 
-Oct 31, 2019
+Oct 30, 2019
 
 Policy Rationale
 
@@ -3756,7 +3756,7 @@ CHANGE LOG
 
 Today
 
-Dec 11, 2025
+Dec 12, 2025
 
 Oct 2, 2024
 
@@ -3764,9 +3764,9 @@ Jul 18, 2024
 
 Apr 25, 2022
 
-Dec 17, 2020
+Dec 18, 2020
 
-Nov 7, 2019
+Nov 8, 2019
 
 Oct 10, 2019
 
@@ -3824,7 +3824,7 @@ Apr 7, 2025
 
 Mar 13, 2025
 
-Jan 7, 2025
+Jan 8, 2025
 
 Jul 18, 2024
 
@@ -3834,9 +3834,9 @@ Jun 10, 2024
 
 May 20, 2024
 
-Feb 6, 2024
+Feb 7, 2024
 
-Dec 5, 2023
+Dec 6, 2023
 
 Sep 29, 2023
 
@@ -4146,7 +4146,7 @@ CHANGE LOG
 
 Today
 
-Jun 27, 2024
+Jun 26, 2024
 
 Policy Rationale
 
@@ -4173,9 +4173,9 @@ CHANGE LOG
 
 Today
 
-Feb 29, 2024
+Mar 1, 2024
 
-Nov 19, 2020
+Nov 20, 2020
 
 We comply with:
 
@@ -4197,60 +4197,59 @@ About recommendations on Facebook
 
 Copy link
 
-We make personalised recommendations to the people who use our services to help them discover new communities and content. Both Facebook and Instagram may recommend content, accounts and entities (such as Pages, groups or events) that people do not already follow. Some examples of our recommendations experiences include Pages you may like, "Suggested for you" posts in Feed, People you may know or Groups you should join. Some entities might have limited or no access to features that encourage engagement, and might not be as widely recommended on Facebook as other entities.
+We make personalised recommendations to the people who use our services to help them discover new communities and content. Both Facebook and Instagram may recommend content, accounts and entities (such as Pages, Groups or Events) that people do not already follow. Some examples of our recommendation experiences include Pages you may like, "Suggested for you" posts in Feed, People you may know or Groups you should join.
 
 Our goal is to make recommendations that are relevant and valuable to each person who sees them. We work towards our goal by personalising recommendations, which means making unique recommendations for each person. For example, if you and another person have Facebook friends in common, we may suggest that person as a potential new friend for you.
 
 Facebook's baseline standards for recommendations
 -------------------------------------------------
 
-At Facebook, we have guidelines about what content we will recommend to people. Those guidelines fit into a strategy we have used to manage problematic content on Facebook since 2016, called "[remove, reduce and inform](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2F2018%2F05%2Finside-feed-reduce-remove-inform%2F)". This strategy involves removing content that violates our [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), reducing the spread of problematic content that does not violate our standards and informing people with additional information so that they can choose what to click, read or share. Discussion of our "reduce" work on Facebook has often centred on Feed and how we rank posts within it. However, our Recommendations Guidelines are another important tool that we use to reduce the spread of problematic content on our platform.
+At Facebook, we have guidelines that govern what content we will recommend to people. Through our Recommendations Guidelines, we work to avoid making recommendations that could be low-quality, objectionable or particularly sensitive. For users under 18, Facebook has additional [age-appropriate content guidelines](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fage-appropriate-content%2F). Our Recommendations Guidelines are designed to maintain a higher standard than our Community Standards, because recommended content and connections are from accounts or entities that you haven't chosen to follow. Therefore, not all content allowed on our platform will be eligible for recommendation. We use technology to detect content, accounts and entities that don't meet these Recommendations Guidelines and to help us avoid recommending them. As always, more severe violations of our [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F) will be removed from Facebook.
 
-Through our Recommendations Guidelines, we work to avoid making recommendations that could be low quality, objectionable or particularly sensitive, and we also avoid making recommendations that may be inappropriate for younger viewers. Our Recommendations Guidelines are designed to maintain a higher standard than our Community Standards, because recommended content and connections are from accounts or entities that you haven't chosen to follow. Therefore, not all content allowed on our platform will be eligible for recommendation.
-
-In developing these guidelines, we sought input from 50 leading experts specialising in recommender systems, expression, safety and digital rights. Those consultations are part of our constant efforts to improve these guidelines and provide people with a safe and positive experience when they receive recommendations on our platform.
+In developing these guidelines, we sought input from 50 leading experts specialising in recommender systems, expression, safety and digital rights. Those consultations are part of our constant efforts to improve these guidelines and provide people with a safe and positive experience when they receive recommendations on our platform. We've worked with youth experts around the world to understand what types of content may be appropriate for adults, but too mature for teens. Our guidelines are designed to ensure that recommendations are appropriate for our global community while providing enhanced protections for teen users.
 
 We want to provide you with more information about the types of content, accounts and entities that we try to avoid recommending, both to keep our community more informed and to provide guidance for content creators about recommendations.
 
 Content recommendations
 -----------------------
 
-There are five categories of content that are allowed on our platforms, but that may not be eligible for recommendations. These categories are listed below, as are some illustrative examples of content within each category.
+There are three categories of content that are allowed on our platforms, but that may not be eligible for recommendations. These categories are listed below, as are some illustrative examples of content within each category.
 
 **Content that impedes our ability to foster a safe community, such as:**
 
-1.  Content that discusses self-harm, suicide or eating disorders, as well as content that depicts or trivialises themes around death or depression. (We remove content that [encourages suicide or self-injury, or any graphic imagery](https://www.facebook.com/communitystandards/suicide_self_injury_violence).)
-2.  Content that may depict violence, such as people fighting. (We remove [graphically violent](https://www.facebook.com/communitystandards/graphic_violence) content.)
-3.  Content that may be sexually explicit or suggestive, such as pictures of people in see-through clothing. (We remove content that contains [adult nudity or sexual activity](https://www.facebook.com/communitystandards/adult_nudity_sexual_activity).)
-4.  Content that promotes the use of certain regulated products, such as tobacco or vaping products, adult products and services, or pharmaceutical drugs. (We remove content that attempts to [sell or trade most regulated goods](https://www.facebook.com/communitystandards/regulated_goods).)
-5.  Content shared by any unrecommendable account or entity (e.g. groups or Pages, as outlined below).
-
-**Sensitive or low-quality content about health or finance, such as:**
-
-1.  Content that promotes or depicts cosmetic procedures.
-2.  Content containing exaggerated health claims, such as "miracle cures".
-3.  Content attempting to sell products or services based on health-related claims, such as promoting a supplement to help a person lose weight.
-4.  Content that promotes misleading or deceptive business models, such as payday loans or "risk-free" investments.
-
-**Content that users broadly tell us they dislike, such as:**
-
-1.  Content that promotes a contest or giveaway.
-2.  Content that includes links to low-quality or deceptive landing pages or domains, such as landing pages filled with click-through or malicious ads.
+1.  Content that discusses self-harm, suicide or eating disorders, as well as content that depicts or trivialises themes around death or depression. (We remove content that [encourages suicide or self-injury, or any graphic imagery.](https://www.facebook.com/communitystandards/suicide_self_injury_violence)) We hide certain suicide and self-injury related content to protect teens from potentially distressing or sensitive material. For example, we would age restrict:
+    
+    *   A post where someone is describing their own personal experiences with suicide, self-injury or eating disorders, except in the context of recovery.
+    *   A photo or video showing people in a hospital engaging in euthanasia or assisted suicide.
+    *   A story where someone is talking about their own extreme weight loss behaviour.
+    
+2.  Content that may depict violence, such as people fighting. (We remove [graphically violent content.](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Fviolent-graphic-content%2F%3Fsource%3Dhttps%253A%252F%252Fwww.facebook.com%252Fcommunitystandards%252Fgraphic_violence)) We hide most graphic and disturbing imagery from teens, even if we'd allow it behind a warning screen for adults. For example, we would age restrict:
+    
+    *   A photo of a severely burned person, which we'd cover with a warning screen for adults.
+    *   A photo or video of shootings, brutality or deadly car crashes.
+    
+3.  Content that may be sexually explicit or suggestive, such as pictures of people in see-through clothing. (We remove content that contains [adult nudity or sexual activity](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Fadult-nudity-sexual-activity%2F%3Fsource%3Dhttps%253A%252F%252Fwww.facebook.com%252Fcommunitystandards%252Fadult_nudity_sexual_activity).) We hide additional content from teens that doesn't contain explicit nudity or sexual activity, but could be considered sexually suggestive. For example, we would age restrict:
+    
+    *   A post with near nudity, such as nudity covered by digital overlay.
+    *   A photo zoomed in on someone's buttocks.
+    *   A story with sexually suggestive language describing sexual encounters, including the use of sexual metaphors.
+    
+4.  Content that promotes the use of certain regulated products, such as tobacco or vaping products, adult products and services, or pharmaceutical drugs. (We remove content that attempts to [sell or trade most regulated goods.](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Frestricted-goods-services%2F%3Fsource%3Dhttps%253A%252F%252Fwww.facebook.com%252Fcommunitystandards%252Fregulated_goods)) We hide content from teens that could influence them to engage in activities that are potentially harmful. For example, we would age restrict:
+    
+    *   A post offering to sell tobacco, nicotine products, alcohol or firearms when shared by a legitimate brick-and-mortar business.
+    *   A story encouraging people to take psychedelic drugs (also known as entheogens) or cannabis products.
+    *   Images with recipes for alcoholic drinks.
+    *   A post selling weight loss products or services.
+    
+5.  Content that promotes or favourably depicts the use of weight loss products or services and cosmetic surgeries.
+6.  Content shared by any non-recommendable account or entity (e.g. Groups or Pages, as outlined below).
 
 **Content that is associated with low-quality publishing, such as:**
 
 1.  Unoriginal content that is largely repurposed from another source [without adding material value](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2019%2F04%2Fpeople-publishers-the-community%2F).
-2.  [Content from websites that get a disproportionate number of clicks from Facebook versus other places on the web.](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2019%2F04%2Fremove-reduce-inform-new-steps%2F)
-3.  News content that does not include transparent information about authorship or the publisher's editorial staff.
-4.  Long captions unrelated to the underlying content and coordinated comment networks intended to artificially drive engagement and distribution.
+2.  Long captions unrelated to the underlying content and coordinated comment networks intended to artificially drive engagement and distribution.
 
-**False or misleading content, such as:**
-
-1.  Content including claims that have been found false by independent fact-checkers. (We remove misinformation that [could cause physical harm or suppress voting](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F).)
-2.  [Vaccine-related misinformation](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2019%2F03%2Fcombatting-vaccine-misinformation%2F) that has been widely debunked by leading global health organisations.
-3.  Content that promotes the use of fraudulent documents, such as someone sharing a post about using a fake ID. (We remove content attempting to sell [fraudulent documents](https://www.facebook.com/communitystandards/fraud_deception), such as medical prescriptions).
-
-As noted above, we take additional steps to avoid recommending certain types of sensitive content to minors on Facebook. For example, we strive to build our systems so as to not recommend content that promotes the sale or use of alcohol to users who are minors.
+**False or misleading content, such as:** In countries where Meta supports third-party fact-checking, content including claims that have been found to be false by independent fact-checkers. (We remove misinformation that could cause physical harm or suppress voting.)
 
 Account and entity recommendations
 ----------------------------------
@@ -4258,15 +4257,15 @@ Account and entity recommendations
 We generally do not recommend accounts (including Profiles and Page admins) or entities (such as Pages, groups or events) that:
 
 1.  Recently violated our Community Standards. This does not include accounts or entities that we otherwise remove from our platforms for violating our Community Standards.
-2.  Repeatedly and/or recently shared content (including the names or cover photos associated with groups or Pages) we try not to recommend across the categories described in the Content recommendations section above.
-3.  Repeatedly posted [vaccine-related misinformation](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2019%2F03%2Fcombatting-vaccine-misinformation%2F) that has been widely debunked by leading global health organisations.
-4.  Repeatedly engaged in misleading practices to build followings, such as purchasing "likes".
-5.  Recently and repeatedly posted false information as determined by independent third-party fact-checkers or certain expert organisations.
-6.  [Are associated with offline movements or organisations that are tied to violence](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2020%2F08%2Faddressing-movements-and-organizations-tied-to-violence%2F).
+2.  Repeatedly and/or have recently shared content (including the names or cover photos associated with groups or Pages) that we try not to recommend across the categories described in the Content Recommendations section above.
+3.  Repeatedly engaged in misleading practices to build followings, such as purchasing "likes".
+4.  In countries where Meta supports third-party fact-checking, have recently and repeatedly posted "False" and "Altered" information as determined by independent third-party fact-checkers.
+5.  [Are associated with offline movements or organisations that are tied to violence.](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2020%2F08%2Faddressing-movements-and-organizations-tied-to-violence%2F)
+6.  Teens will not be recommended accounts that we've found regularly share age-inappropriate content, or if their name or bio suggests that the account is inappropriate for teens.
 
 We may let people know when they're about to engage with an entity that meets any of the above criteria to help them make informed decisions.
 
-A similar set of these guidelines applies to recommendations on Instagram. Those guidelines can be found [in the Instagram Help Centre.](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F313829416281232%3Fhelpref%3Dfaq_content)
+A similar set of these guidelines applies to recommendations on Instagram. Those guidelines can be found in the [Instagram Help Centre](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F313829416281232%3Fhelpref%3Dfaq_content).
 
 Related articles
 ----------------
