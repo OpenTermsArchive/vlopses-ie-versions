@@ -5,7 +5,7 @@ With regard to Article 6(4) of the Commission Delegated Regulation supplementing
 
 Point of Contact
 
-Vetted researchers may contact AliExpress regarding DSA data access via the following dedicated email address: **openresearchers@aliexpress.com**
+Vetted researchers may contact AliExpress regarding DSA data access via the following dedicated email address: **openresearch@aliexpress.com**
 
 Please note that this contact point is exclusively for queries related to the DSA data access process and not for customer or seller support.
 
