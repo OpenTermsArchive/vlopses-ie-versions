@@ -1,4 +1,4 @@
-SHEIN Return Policy
+Right of withdrawal & Return Policy
 
 Za hrvatsku verziju, molimo kliknite [ovdje](https://files-c.ltwebstatic.com/ccc/2025/12/22/1766372649720304468.pdf). (Crotian)
 
@@ -12,19 +12,79 @@ Za slovensko različico kliknite [tukaj](https://files-c.ltwebstatic.com/ccc/20
 
 For den danske version, klik venligst [her](https://files-c.ltwebstatic.com/ccc/2025/12/22/1766372809749673399.pdf). (Danish)
 
-IMPORTANT INFORMATION:
+We hope you like what you’ve ordered! However, should you wish to return an item you’ve ordered, there are two ways to do so:
 
-The Return Policy is a commercial policy allowing Customers, under certain conditions and in accordance with the terms and conditions set out below, to return items that are no longer eligible for the right of withdrawal, in order to obtain a refund. This policy is in addition to, and distinct from, the statutory right of withdrawal which applies during the first fourteen (14) days of receipt of the product.
+**\- [The right of withdrawal](javascript:;):**this is a statutory right which allows you, within the first fourteen (14) days of receiving the product, to return an item without having to give any reason. This period applies to all products, subject to the exceptions listed below, and to all sellers.
 
-This means that, if you want to return any ordered products:
+**\- [SHEIN’s Return Policy](javascript:;):**this is a commercial policy we have voluntarily put in place to offer you additional terms **beyond the fourteen (14) days**, because your satisfaction is our priority. This policy allows Customers, subject to certain conditions and in accordance with the terms set out below, to return items that are no longer eligible for the statutory right of withdrawal, to obtain a refund. This policy therefore supplements the statutory right of withdrawal.
 
-— between the 1st and the 14th day of receipt, you can exercise your right of withdrawal and the conditions described in section 9 of the GCS [https://eur.shein.com/Terms-and-Conditions-a-399.html](https://eur.shein.com/Terms-and-Conditions-a-399.html) will apply.
+We have simplified the returns process as much as possible. Please note that Infinite Styles Services Co. Ltd ("SHEIN") will process any returns on behalf of the relevant seller (please see our [information on the allocation of obligations](https://eur.shein.com/information-and-obligations-of-the-seller-a-3174.html)). ONLY FOR Customers in the Netherlands/Poland: Your return is also subject to the Fair Use Policy. (See our [SHEIN Fair Use Returns Policy](https://eur.shein.com/shein-fair-use-policy-for-returns-a-3642.html).)
 
-— between the 15th and 30th day of receipt, the conditions set out below will apply.
+1\. Right of withdrawal
 
-Please note that Infinite Styles Services Co. Ltd ("SHEIN") will process any returns on behalf of the relevant seller (please see our [information on the allocation of obligations](https://eur.shein.com/information-and-obligations-of-the-seller-a-3174.html)).
+Between the 1st and the 14th day following receipt, you may exercise your right of withdrawal in accordance with the conditions set out in section 9 of the Terms and Conditions. They are reproduced below for ease of reference.
 
-ONLY FOR Customers in the Netherlands/Poland: Your return is also subject to the Fair Use Policy. (See our [SHEIN Fair Use Returns Policy](https://eur.shein.com/shein-fair-use-policy-for-returns-a-3642.html).)
+(1) General: The Customer, who is a consumer purchasing from a professional trader, has the right to withdraw from all or part of his or her order, without giving any reason, within (14) days after receipt of the order (date of delivery or collection of the order, depending on the Products and the option chosen by the Customer). In the case of different delivery times for the same order, the above period shall run from the day on which the Customer or a third party indicated by him/her, other than the carrier, acquires the physical possession of the last parcel of the order. Exceptions to the right of withdrawal are set out in subsection (2) below.
+
+(2) Exceptions: Certain Products are not subject to the right of withdrawal. This is the case for Products (i) which have been personalized for the Customer or (ii) that have been unsealed (cases where protective seals have been removed) by the Customer after delivery and that cannot be resold for reasons of hygiene or health protection, which is the case for the following products for instance:
+
+\- lingerie and swimwear,
+
+\- cosmetic products,
+
+\-intimate products (for example razors, brushes (toothbrushes, body brushes, etc.)),
+
+\- piercings and earrings without clips.
+
+(3) Exercise of the right: In order for the withdrawal period to be respected, it is sufficient for the Customer to send the communication relating to the exercise of this right (as explained below) before the expiry of the period of fourteen (14) days after receipt of the ordered Products. The Customer can inform us of his/her decision to exercise this right by different means:
+
+\- Via the Customer account, by clicking on "My orders", then "Return the item".
+
+\- By informing us of his/her decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post to SHEIN, an e-mail to eurcsteam@shein.com, by phone, or via our Customer Service; returns should be sent to different warehouses depending on the country of the shipping address on the order. Please refer to the corresponding return address below: for Ireland, Recipient: Yun Express-IE, Address: Block 662, Jordanstown View, Greenogue Business Park, Rathcoole, Co. Dublin; for Bulgaria, Croatia, Cyprus, Estonia, Finland, Latvia, Lithuania, Malta and Slovenia, Recipient: SHEIN, Address: DC-1, Logistyczna 1A 55-080 kąty wrocławskie, Poland). The Customer may use the model withdrawal form provided at the end of this section, but this is not mandatory. Upon receipt of a withdrawal notification by any of the means described above, we will acknowledge receipt of such a withdrawal on a durable medium (e.g. by e-mail) without delay.
+
+(4) Return of Products: If the Customer uses this right of withdrawal the Products must be returned within fourteen (14) days of the communication of the exercise of the right of withdrawal, properly packaged and accompanied by all accessories and user manuals. Please note that:
+
+\- The Customer must use the return label available in the Customer account (by going to section "My Orders", and clicking on “Return item” and selecting the Products concerned by the return).
+
+\- The return label must be printed and stuck on the return package.
+
+\- The return package must be returned to the nearest point of return according to the logistics company corresponding to the return label. The Customer shall send the return package to the address indicated on the return label.
+
+\- In the event that the Customer chooses to exercise the right of withdrawal by means of a postal notification to the address indicated above (returns should be sent to different warehouses depending on the country of the shipping address on the order. Please refer to the corresponding return address below: for Ireland, Recipient: Yun Express-IE, Address: Block 662, Jordanstown View, Greenogue Business Park, Rathcoole, Co. Dublin; for Bulgaria, Croatia, Cyprus, Estonia, Finland, Latvia, Lithuania, Malta and Slovenia, Recipient: SHEIN, Address: DC-1, Logistyczna 1A 55-080 kąty wrocławskie, Poland), the Customer must return the Product to that same address at the Customer’s own cost.
+
+\- The Customer shall bear the cost of returning the Products.
+
+\- Please note that the package must not be returned to the sender’s address which does not correspond to the return address. Otherwise, the package will be lost.
+
+(5) The returned Products must not have been worn or used in any way or handled in any way other than to establish the nature, characteristics, and proper functioning of the Products. For example, Products may be tried on, as would be permitted in a physical store, but not worn for extended periods or used, and the tag must not be removed. The Customer is in this regard informed that he/she will be liable for any diminished value of the Products returned damaged, soiled or incomplete, or more generally in an unsellable condition. In such a case, the refund may be reduced by an amount corresponding to the loss of value of that Product.
+
+(6) Effects of withdrawal: The Customer shall be refunded of all payments made, including the standard delivery charges paid. If the Customer has expressly chosen a more expensive delivery method than the standard delivery method offered by the Seller, only the standard shipping cost will be refunded, unless otherwise indicated. It should be noted that in the event of withdrawal of only part of the order, the refund of the delivery costs and additional costs will be equal to the amount of the costs that would not have been charged to the Customer if the said products had not been purchased.
+
+(7) We will make the refund on behalf of the Seller, without undue delay, using the same means of payment used by the Customer for the payment of the order, and at the latest fourteen (14) days from the day on which we are informed of the Customer’s decision to withdraw from the contract. The Customer is informed that the refund will be withheld until the Products have been received or until the Customer has supplied evidence of having sent back the Products, whichever is the earliest.
+
+(8) Please note that the Customer may also choose to receive a refund in Wallet Credits. These credits may give rise to a refund of the balance via the original payment method used when placing a new order. A digital wallet credit granted by the Operator throughout other means, as described in the GCU, which is not linked to a returned item, cannot however give rise to a cash refund.
+
+(9) In accordance with the GCU, Wallet credits can only be redeemed on the website where the credit was granted (e.g. if the Customer ordered and then returned a product on the eur.shein.com website and chose to receive a credit, this credit can only be redeemed on the eur.shein.com website).
+
+Model withdrawal form
+
+To Infinite Styles Services Co, Ltd, (and, if sent by the post, returns should be sent to different warehouses depending on the country of the shipping address on the order. Please refer to the corresponding return address below: for Ireland, Recipient: Yun Express-IE, Address: Block 662, Jordanstown View, Greenogue Business Park, Rathcoole, Co. Dublin; for Bulgaria, Croatia, Cyprus, Estonia, Finland, Latvia, Lithuania, Malta and Slovenia, Recipient: SHEIN, Address: DC-1, Logistyczna 1A 55-080 kąty wrocławskie, Poland) on behalf of \[INSERT NAME OF SELLER\]
+
+I/We hereby give notice that I/We withdraw from my/our Contract of sale of the following goods:
+
+Ordered on / received on:
+
+Name of consumer:
+
+Consumer's address:
+
+Signature of consumer(s) (only if this form is notified on paper):
+
+Date:
+
+2\. SHEIN Return Policy
+
+The Return Policy is a commercial policy allowing Customers, under certain conditions and in accordance with the terms and conditions set out below, to return items that are no longer eligible for the right of withdrawal, in order to obtain a refund.
 
 Table of Contents
 
@@ -50,13 +110,13 @@ We gladly accept, under certain conditions, returns within **thirty (30) days of
 
 2\. What Items Can I Return?
 
-| ![](//img.ltwebstatic.com/images3_ach/2024/09/10/e4/1725956456114362647537af5bf069fb298d29a35b.webp) Non-Returnable Items:<br><br>This product is returnable within 14 days withdrawal right return period but not in the extended commercial return period |
+| Non-Returnable Items:<br><br>This product is returnable within 14 days withdrawal right return period but not in the extended commercial return period |
 | --- |
 | • **Bodysuits, lingerie, jewelry, beauty, underwear, Event & Party Supplies, DIY Supplies, Pet Supplies and accessories** (except scarves, bags, and mermaid blankets).<br><br>• **Cosmetics** if the seal has been broken.<br><br>• **Items marked as non-returnable.**<br><br>• **Free gifts** (This depends on the status of the item at the time of payment).<br><br>• **Customized items.** In addition, order cancellation for customized items is not supported. |
 
 Return requirements for returnable items：
 
-| ![](//img.ltwebstatic.com/images3_ach/2024/09/10/c4/1725956463fda8ca1c288d2b3c875280c5796ea0bf.webp) Wedding Dresses, Suits and other Apparel |
+| Wedding Dresses, Suits and other Apparel |
 | --- |
 | Items must be in new, unworn, unwashed, undamaged, and unaltered condition and have the original tags attached and the hygiene sticker (if applicable) intact. |
 | Human Hair Wigs |
@@ -107,7 +167,7 @@ NOTE:
 
 | Return Method | Return Documentation | Printer Required | Return Fees |
 | --- | --- | --- | --- |
-| Anpost  <br>Store drop-off | Return Label | Yes | **Return shipping is free on your first return** of one or multiple returnable items for **EVERY order** within the Voluntary Return Window.<br><br>  <br><br>For the second and subsequent refunds from the same order, a **4.50 EUR** shipping fee will be deducted from your refund for each return. |
+| Anpost  <br>Store drop-off | Return Label | Yes | **Return shipping is free on your first return** of one or multiple returnable items for **EVERY order** within the Voluntary Return Window.<br><br>For the second and subsequent refunds from the same order, a **4.50 EUR** shipping fee will be deducted from your refund for each return. |
 | Self-Return | Depends on your logistics provider |     | You need to pay the return fee directly to your logistics provider, and we Do Not reimburse the costs. |
 
   
