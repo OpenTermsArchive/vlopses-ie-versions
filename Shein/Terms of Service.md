@@ -179,8 +179,6 @@ Za slovensko različico kliknite [tukajtukaj](https://files-c.ltwebstatic.com/cc
 
 For den danske version, klik venligst [her](https://files-c.ltwebstatic.com/ccc/2026/06/30/17828088672790374840.pdf). (Danish)
 
-For den danske version, klik venligst [her](https://files-c.ltwebstatic.com/ccc/2026/06/30/17828088672790374840.pdf). (Danish)
-
 Welcome to Shein Marketplace!
 
 **Our business model has changed!**  We are passionate about fashion and try to build the best marketplace for our customers. In order to bring you more choice, we will now be allowing third party sellers to offer you their products through our Site, the Marketplace!
