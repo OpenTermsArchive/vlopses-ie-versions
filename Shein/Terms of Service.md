@@ -219,19 +219,17 @@ Overview of T&Cs
 
 \- So, your contract with us as Shein the operator is the [General Conditions of Use](javascript:;) .
 
-\- And your contract for your purchases is with the Seller(s) and is the [General Conditions of Sale](javascript:;) .
+\- And your contract for your purchases is with the Seller(s) and is the  [General Conditions of Sale](javascript:;) .
 
 \- Your statutory consumer rights apply as all Sellers on the Marketplace are professional traders, check the T&Cs for details.
 
 \- Each Seller is responsible to you for your purchases, and we are responsible to make the Marketplace services available to you.
 
-  
-
 \- You can click [here](https://eur.shein.com/tc-overview-a-3172.html)  for a summarised version of the T&C’s.
 
 SHEIN MARKETPLACE’ S GENERAL CONDITIONS OF USE
 
-****Version**** ****of**** ****July 1********, 2026****
+****Version of July 1, 2026****
 
 Welcome to the Shein EUR Marketplace.
 
@@ -655,7 +653,7 @@ Company number: 732881
 
 GENERAL CONDITIONS OF SALE
 
-****Version of**** ****July 1********, 2026****
+****Version of July 1, 2026****
 
 Welcome to eur.shein.com and/or the mobile application (the **“Marketplace”** ) operated by Infinite Styles Services Co., Ltd (address at The Sidings, 4th Floor, Grand Canal Quay, Dublin 2, D02 E7K8, Ireland, and registration number 732881) ( **“Shein”** or **“the Operator”** ).
 
