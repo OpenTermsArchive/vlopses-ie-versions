@@ -120,6 +120,24 @@ Google Play is meant to entertain and inform, not attack and offend.
 Child endangerment
 ==================
 
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
+**Changes are coming to this article**
+
+This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
+
+We're expanding our [child safety standards](https://support.google.com/googleplay/android-developer/answer/17122524#child_safety) policy to apply to anonymous chat and random chat apps.
+
+(effective from 26 August 2026)
+
+To preview the updated 'Child endangerment' article, visit [this page](https://support.google.com/googleplay/android-developer/answer/17122524).
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+Google Play has a zero-tolerance policy for child sexual abuse and exploitation (CSAE). All apps must not contain or promote content that endangers children. This includes apps that appeal to children but contain adult themes. Further, social and dating apps must follow the child safety standards policy. Failure to comply will result in immediate removal. Please review the full policy to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
+
 Apps that do not prohibit users from creating, uploading or distributing content that facilitates the exploitation or abuse of children will be subject to immediate removal from Google Play. This includes all child sexual abuse material. To report content on a Google product that may exploit a child, click **[Report abuse](https://support.google.com/googleplay/contact/rap_family)**. If you find content elsewhere on the Internet, please contact [the appropriate agency in your country](https://support.google.com/websearch/answer/148666) directly. 
 
 We prohibit the use of apps to endanger children. This includes, but is not limited to the use of apps to promote predatory behaviour towards children, such as:
@@ -153,6 +171,16 @@ These apps must:
 
 Learn more here about these requirements and how to comply in our [Help Centre](https://support.google.com/googleplay/android-developer/answer/14747720) article.
 
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Ensure your app does not contain or facilitate child sexual abuse material (CSAM) or endanger children. | Don't allow the creation, upload, or distribution of content that facilitates child exploitation. |
+| Remove inappropriate content such as adult themes, excessive violence, or content that promotes negative body image. | Don't use your app to befriend a child for sexual purposes or to exchange sexual imagery. |
+| Comply with Child Safety Standards, including social or dating apps. | Don't fail to comply with the Child Safety Standards policy. |
+| Report abuse. If you find content that exploits children, report it to authorities. | Don't ignore reports. You must take appropriate action on all reports of CSAE and CSAM. |
+
 Choose a section to give feedback on
 
 - - -
@@ -160,11 +188,28 @@ Choose a section to give feedback on
 Inappropriate Content
 =====================
 
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
 To ensure that Google Play remains a safe and respectful platform, we've created standards defining and prohibiting content that is harmful or inappropriate for our users.
 
 #### [COLLAPSE ALL](https://support.google.com/googleplay/android-developer/answer/9878810) [EXPAND ALL](#1&2&3&4&5&6&7&8&9)
 
-### Sexual content and profanity
+* * *
+
+Sexual content and profanity
+----------------------------
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+We don't allow apps on Google Play that contain or promote sexual content or profanity. This includes pornography and content or services intended to be sexually gratifying or to solicit sexual acts for compensation. You must ensure your apps are not promoting or facilitating such activities or material. 
+
+We grant an exemption for apps containing nudity if the primary objective is educational, documentary, scientific, or artistic (EDSA), provided the content is contextually justified and non-gratuitous. 
+
+The catalog apps that primarily offer books or videos may be exempted. These apps can distribute a minor fraction of sexual content as long as it is not actively promoted and access is restricted to minors. 
+
+Please review the full policy to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 We don't allow apps that contain or promote sexual content or profanity, including pornography, or any content or services intended to be sexually gratifying. We don’t allow apps or app content that appear to promote or solicit a sexual act in exchange for compensation. We don’t allow apps that contain or promote content associated with sexually predatory behaviour or distribute non-consensual sexual content. Content that contains nudity may be allowed if the primary purpose is educational, documentary, scientific or artistic, and is not gratuitous.
 
@@ -188,7 +233,26 @@ Examples of common violations
 *   Apps that degrade or objectify people, such as apps that claim to undress people or see through clothing, even if labelled as prank or entertainment apps. 
 *    Content or behaviour that attempts to threaten or exploit people in a sexual manner, such as creepshots, hidden camera, non-consensual sexual content created via deepfake or similar technology or assault content.
 
-### Hate speech
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Protect minors by restricting access to sexual content. | Don't include depictions of sexual nudity, sexually suggestive poses, or sex acts. |
+| Ensure sexual content is a minor fraction of the overall catalog. | Don't distribute content associated with predatory behavior, illegal themes, or bestiality. |
+| Distribute sexual content only within a book/video catalog app. | Don't have content that is lewd, profane, or includes explicit text in your store listing. |
+| Avoid actively promoting sexual titles in the app. | Don't promote services interpreted as soliciting sexual acts or non-consensual sexual content. |
+
+* * *
+
+Hate speech
+-----------
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+Google Play does not allow apps that incite hatred or promote violence against individuals or protected groups. Apps with educational, artistic or associated content related to Nazism may be blocked in some countries according to local laws. Please review the full policy to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 We don't allow apps that promote violence or incite hatred against individuals or groups based on race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender, gender identity, caste, immigration status or any other characteristic that is associated with systemic discrimination or marginalisation.
 
@@ -201,7 +265,26 @@ Examples of common violations
 *   Content or speech trying to encourage others to believe that people should be hated or discriminated against because they are a member of a protected group.
 *   Content that promotes hate symbols such as flags, symbols, insignias, paraphernalia or behaviours associated with hate groups.
 
-### Violence
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Familiarize yourself with what constitutes a protected group. | Don't publish apps that incite hatred or violence against individuals or groups. |
+| Review local laws regarding EDSA (Educational, Documentary, Scientific, or Artistic) content related to Nazism. | Don't include content that suggests a protected group is evil, corrupt, or a threat. |
+| Remove any content that promotes hate symbols, slurs or stereotypes. | Don't encourage others to discriminate against any individual or group. |
+| Ensure your app does not assert that any group is inferior or inhuman. | Don't use flags, symbols, or insignia associated with hate groups. |
+
+* * *
+
+Violence
+--------
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+Apps that contain gratuitous violence or dangerous activities are prohibited. You must not promote representation or encouragement of such material. Apps that depict fictional violence in the context of a game, such as cartoons, hunting or fishing, are generally allowed.Please review the full policy to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 We don't allow apps that depict or facilitate gratuitous violence or other dangerous activities. Apps that depict fictional violence in the context of a game, such as cartoons, hunting or fishing, are generally allowed.   
  
@@ -211,23 +294,54 @@ Examples of common violations
 *   Graphic depictions or descriptions of realistic violence or violent threats to any person or animal.
 *   Apps that promote self harm, suicide, eating disorders, choking games, or other acts where serious injury or death may result.
 
-#### Violent extremism
+* * *
+
+Violent extremism
+-----------------
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+We don't allow apps from dangerous organizations or those with content that promote or glorifies violent extremism. You must provide EDSA context to attain an exception. Please review the full policy to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 We do not permit terrorist organisations, or other dangerous organisations or movements that have engaged in, prepared for or claimed responsibility for acts of violence against civilians to publish apps on Google Play for any purpose, including recruitment.
 
 We don't allow apps with content related to violent extremism, or content related to planning, preparing or glorifying violence against civilians, such as content that promotes terrorist acts, incites violence or celebrates terrorist attacks. If posting content related to violent extremism for an educational, documentary, scientific or artistic purpose, be mindful to provide relevant EDSA context.
 
-### Sensitive events
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Provide relevant EDSA (Educational, Documentary, Scientific, or Artistic) context for any content related to violent extremism. | Don't publish apps from terrorist or other dangerous organizations. |
+| Ensure your app and its content do not belong to or promote a terrorist or dangerous organization. | Don't include content that promotes or incites violence. |
+| Review your app to ensure it doesn't glorify, plan, or celebrate acts of violence. | Don't use your app for recruitment into dangerous organizations. |
+| Adhere to all local laws regarding sensitive content. | Don't post content that glorifies or prepares for violent acts. |
+
+* * *
+
+Sensitive events
+----------------
 
 We don't allow apps that capitalise on or are insensitive towards a sensitive event with significant social, cultural or political impact, such as civil emergencies, natural disasters, public health emergencies, conflicts, deaths or other tragic events. Apps with content related to a sensitive event are generally allowed if that content has EDSA (educational, documentary, scientific or artistic) value or intends to alert users to or raise awareness for the sensitive event. 
 
-Examples of violations
+Examples of common violations
 
 *   Lacking sensitivity regarding the death of a real person or group of people due to suicide, overdose, natural causes, etc.
 *   Denying the occurrence of a well-documented, major tragic event.
 *   Appearing to profit from a sensitive event with no discernible benefit to the victims.
 
-### Bullying and harassment
+* * *
+
+Bullying and harassment
+-----------------------
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+You must not create apps containing or facilitating harassment, exploitation or bullying of any kind. Please review the full policy and examples to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 We don't allow apps that contain or facilitate threats, harassment or bullying.
 
@@ -238,7 +352,16 @@ Examples of common violations
 *   Posting content in order to humiliate someone publicly.
 *   Harassing victims, or their friends and families, of a tragic event.
 
-### Dangerous products
+* * *
+
+Dangerous products
+------------------
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+The sale of explosives, firearms, ammunition or certain firearms accessories through your app is forbidden. You must not provide these services. Please review the full policy to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 We don't allow apps that facilitate the sale of explosives, firearms, ammunition or certain firearms accessories.
 
@@ -246,7 +369,25 @@ We don't allow apps that facilitate the sale of explosives, firearms, ammunition
 
 We don't allow apps that provide instructions for the manufacture of explosives, firearms, ammunition, restricted firearm accessories or other weapons. This includes instructions on how to convert a firearm to automatic, or simulated automatic, firing capabilities.
 
-### Marijuana
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Ensure your app does not facilitate the sale of restricted firearms accessories. | Don't publish an app that facilitates the sale of explosives, firearms, or ammunition. |
+| Remove any instructions on converting firearms to automatic firing capabilities. | Don't allow the sale of firearm accessories that simulate or enable automatic fire. |
+|     | Don't include instructions for creating weapons or restricted firearm accessories. |
+
+* * *
+
+Marijuana
+---------
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+Apps that facilitate the sale of marijuana or its products are not allowed irrespective of legality. You must not allow users to order marijuana through an in-app shopping cart feature . Please review the full policy and common violations to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 We don't allow apps that facilitate the sale of marijuana or marijuana products, regardless of legality.
 
@@ -256,7 +397,16 @@ Examples of common violations
 *   Assisting users in arranging delivery or collection of marijuana.
 *   Facilitating the sale of products containing THC (tetrahydrocannabinol), including products such as CBD oils containing THC.
 
-### Tobacco and alcohol
+* * *
+
+Tobacco and alcohol
+-------------------
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+Apps that facilitate the sale of tobacco or products containing nicotine (such as e-cigarettes, vape pens and nicotine pouches) OR encourage the illegal or inappropriate use of alcohol, tobacco, or nicotine are not allowed. Please review the full policy to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 We don't allow apps that facilitate the sale of tobacco or products containing nicotine (such as e-cigarettes, vape pens and nicotine pouches) or encourage the illegal or inappropriate use of alcohol, tobacco or nicotine.
 
@@ -268,6 +418,17 @@ Additional information
 *   Advertisements, promotions or the prominent feature of tobacco products (including ads, banners, categories and links to tobacco-selling sites) are not allowed.
 *   We may allow the limited sale of tobacco products in food/grocery delivery apps, in certain regions, subject to age-verification safeguards (such as ID checks at delivery).
 *   We may allow the sale of products marketed as nicotine cessation aids subject to age-verification safeguards.
+
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Provide age-gating safeguards for the sale of alcohol and for limited sale of tobacco in food/grocery apps. | Don't facilitate the sale of tobacco, e-cigarettes, or nicotine pouches. |
+|     | Don't encourage the use of alcohol or tobacco by minors. |
+|     | Don't advertise or promote tobacco products, including links to selling sites. |
+|     | Don't imply that using tobacco improves social, professional, or intellectual standing. |
+|     | Don't portray excessive drinking favorably. |
 
 Choose a section to give feedback on
 
@@ -282,7 +443,7 @@ _**Disclaimer:** Policy summaries and key considerations are overviews only; alw
 
 Apps must target a recent Android API level to provide users with security and performance improvements. For new apps and app updates, you _must_ target an API level within one year of the latest major Android release; otherwise, Google Play will prevent your new app or app update submission. Existing apps that are not updated need to target an API level within two years of the latest major Android release to be visible to new users on newer Android versions. For exact timelines and exceptions, please refer to the [Help Centre](https://support.google.com/googleplay/android-developer/answer/11926878) article.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 To provide users with a safe and secure experience, Google Play requires the following target API levels for **all apps**:
 
@@ -294,7 +455,7 @@ For technical advice on how to meet the target API level requirement, please con
 
 For exact timelines and exceptions, please refer to this [Help Centre article](https://support.google.com/googleplay/android-developer/answer/11926878).
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -310,6 +471,8 @@ Choose a section to give feedback on
 Financial services
 ==================
 
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
 We don't allow apps that expose users to deceptive or harmful financial products and services.
 
 For the purposes of this policy, we consider financial products and services to be those related to the management or investment of money and cryptocurrencies, including personalised advice.
@@ -318,16 +481,48 @@ If your app contains or promotes financial products and services, you must compl
 
 Any app that contains any financial features must complete the Financial features declaration form within [Play Console](https://play.google.com/console/app/app-content/financial-features).
 
-### Binary options
+Binary options
+--------------
 
 We don't allow apps that provide users with the ability to trade binary options.
 
-#### Loans
+* * *
+
+Loans
+-----
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+Apps that offer personal loans must meet specific requirements to protect users from predatory or misleading practices. You must clearly disclose all loan terms in your app's store listing, including the maximum annual percentage rate (APR) and the minimum and maximum repayment period. Loans must not require full repayment in 60 days or less from the date the loan is issued. You also cannot offer loans in the United States with an APR of 36% or higher. Additionally, lending apps are prohibited from accessing sensitive user data such as contacts or photos. You are responsible for complying with all applicable local laws and regulations. Please review the full policy to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 Personal loans: We define personal loans as lending money from one individual, organisation or entity to an individual consumer on a non-recurring basis, not for the purpose of financing purchase of a fixed asset or education. Personal loan consumers require information about the quality, features, fees, repayment schedule, risks and benefits of loan products in order to make informed decisions about whether to undertake the loan.
 
-*   Examples: Personal loans, payday loans, peer-to-peer loans, title loans
+*   Examples: Personal loans, payday loans, peer-to-peer loans, logbook loans
 *   Examples not included: Mortgages, car loans, revolving lines of credit (such as credit cards, personal lines of credit)
+
+Apps that provide personal loans, including, but not limited to apps which offer loans directly, lead generators and those who connect consumers with third-party lenders, must have the app category set to 'Finance' in Play Console and disclose the following information in the app metadata:
+
+*   Minimum and maximum period for repayment.
+*   Maximum annual percentage rate (APR), which generally includes interest rate plus fees and other costs for a year, or similar other rate calculated consistently with local law.
+*   A representative example of the total cost of the loan, including the principal and all applicable fees.
+*   A privacy policy that comprehensively discloses the access, collection, use and sharing of personal and sensitive user data, subject to the restrictions outlined in this policy.
+
+We do not allow apps that promote personal loans which require repayment in full in 60 days or less from the date that the loan is issued (we refer to these as 'short-term personal loans').
+
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Provide clear and accurate disclosure of all loan terms in your app's description. | Don't mislead users with false or unclear loan terms. |
+| Be properly licensed and registered to provide loans in all regions where your app is available. | Don't use your app to access or collect sensitive user data. |
+| Protect user privacy by not accessing sensitive user data. |     |
+
+* * *
+
+#### Earned wage access
 
 Earned wage access: We define earned wage access loans (EWA) as a financial service that allows individuals to access a portion of their wages that have already been earned but not yet paid by their employer. Unlike traditional loans, EWA services are characterised by the following features:
 
@@ -336,77 +531,71 @@ Earned wage access: We define earned wage access loans (EWA) as a financial serv
 *   Fee structure: EWA services charge no interest and instead charge a low, flat fee or a percentage-based transaction fee for usage. A reasonable fee would be minimal and transparent, reflecting the actual cost of providing the service without burdening the user, likely in the range of $1–$5 per transaction or 1–5% of the advance.
 *   No debt creation: EWA services typically do not report transactions to credit bureaus, ensuring that they do not impact the user's credit score or contribute to long-term debt accumulation.
 
-Apps that provide personal loans, including, but not limited to apps which offer loans directly, lead generators and those who connect consumers with third-party lenders, must have the app category set to 'Finance' in Play Console and disclose the following information in the app metadata:
-
-*   Minimum and maximum period for repayment.
-*   Maximum annual percentage rate (APR), which generally includes interest rate plus fees and other costs for a year, or similar other rate calculated consistently with local law
-*   A representative example of the total cost of the loan, including the principal and all applicable fees.
-*   A privacy policy that comprehensively discloses the access, collection, use and sharing of personal and sensitive user data, subject to the restrictions outlined in this policy
-
-We do not allow apps that promote personal loans which require repayment in full in 60 days or less from the date the loan is issued (we refer to these as 'short-term personal loans').
-
-Apps that provide Earned wage access loans, including but not limited to apps which offer these loans directly, lead generators and those who connect consumers with third-party lenders, must have the app category set to 'Finance' in Play Console and disclose the following information in the app metadata:
+Apps that provide earned wage access loans, including, but not limited to apps which offer these loans directly, lead generators and those who connect consumers with third-party lenders, must have the app category set to 'Finance' in Play Console and disclose the following information in the app metadata:
 
 *   Repayment Terms and Conditions
 *   All fees, including subscription fees, transaction fees and all other fees related to providing the loan.
 *   A representative example of the total cost of the loan, including all fees.
-*   A privacy policy that comprehensively discloses the access, collection, use and sharing of personal and sensitive user data, subject to the restrictions outlined in this policy
+*   A privacy policy that comprehensively discloses the access, collection, use and sharing of personal and sensitive user data, subject to the restrictions outlined in this policy.
 
-We must be able to establish a connection between your developer account and any provided licences or documentation proving your ability to service personal loans. Additional information or documents may be requested to confirm that your account is in compliance with all local laws and regulations.
+* * *
 
-Personal loan apps, apps with the primary purpose of facilitating access to personal loans (for example, lead generators or facilitators) or lines of credit, accessory loan or credit apps (loan calculators, loan guides, etc.) and earned wage access (EWA) apps are prohibited from accessing sensitive data, such as photos and contacts. The following permissions are prohibited:
+#### General requirements
 
-*   Read\_external\_storage
-*   Read\_media\_images
-*   Read\_contacts
-*   Access\_fine\_location
-*   Read\_phone\_numbers
-*   Read\_media\_videos
-*   Query\_all\_packages
-*   Write\_external\_storage
+Personal loan apps, apps with the primary purpose of facilitating access to personal loans (for example, lead generators or facilitators) or lines of credit, accessory loan or credit apps (loan calculators, loan guides, etc.) and earned wage access (EWA) apps are prohibited from accessing sensitive data, such as photos and contacts. The following permissions are prohibited:
 
-Apps that utilise sensitive information or APIs are subject to additional restrictions and requirements. Please see the [Permissions policy](https://support.google.com/googleplay/android-developer/answer/9888170) for additional information.
+*   `READ_EXTERNAL_STORAGE`
+*   `READ_MEDIA_IMAGES`
+*   `READ_CONTACTS`
+*   `ACCESS_FINE_LOCATION`
+*   `READ_PHONE_NUMBERS`
+*   `READ_MEDIA_VIDEO`
+*   `QUERY_ALL_PACKAGES`
+*   `WRITE_EXTERNAL_STORAGE`
 
-#### **High APR personal loans**
+Apps that utilise sensitive information or APIs are subject to additional restrictions and requirements. Please see the [permissions policy](https://support.google.com/googleplay/android-developer/answer/9888170) for additional information.
 
-In the United States, we do not allow apps for personal loans where the Annual Percentage Rate (APR) is 36% or higher. Apps for personal loans in the United States must display their maximum APR, calculated consistently with the [Truth in Lending Act (TILA)](https://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&tpl=/ecfrbrowse/Title12/12cfr1026_main_02.tpl).
+We must be able to establish a connection between your developer account and any provided licences or documentation proving your ability to provide financial products. Additional information or documents may be requested to confirm that your account is in compliance with all local laws and regulations.
 
-This policy applies to apps which offer loans directly, lead generators, and those who connect consumers with third-party lenders.
+* * *
 
-#### **Country-specific requirements**
+#### Country-specific requirements
 
 Personal loan apps targeting the listed countries must comply with additional requirements and provide supplementary documentation as part of the Financial features declaration within [Play Console](https://play.google.com/console/app/app-content/finance-declaration). Apps that provide EWA loans are subject to these requirements to the extent applicable in the relevant jurisdictions. You must, upon Google Play's request, provide additional information or documents relating to your compliance with the applicable regulatory and licensing requirements.
 
-1.  **India**
-    *   Only apps that submit a licence and are on the 'Digital lending apps (DLAs) deployed by Regulated Entities' list of the Reserve Bank of India (RBI) may submit personal loan apps to Google Play for review (see this [Help Centre article](https://support.google.com/googleplay/android-developer/answer/16604194) for guidance).
-    *   If you are not directly engaged in money lending activities and are only providing a platform to facilitate money lending by registered non-banking financial companies (NBFCs) or banks to users, you will need to accurately reflect this in the declaration.
-        *   In addition, the names of all registered NBFCs and banks must be prominently disclosed in your app’s description.
-2.  **Indonesia**
-    *   If your app is engaged in the activity of information technology-based money lending services in accordance with OJK regulation no. 77/POJK.01/2016 (as may be amended from time to time), you must submit a copy of your valid licence for our review.
-3.  **Philippines**
-    *   All financing and lending companies offering loans via online lending platforms (OLP) must obtain an SEC registration number and a certificate of authority (CA) number from the Philippines Securities and Exchanges Commission (PSEC).
-        *   In addition, you must disclose your corporate name, business name, PSEC registration number and certificate of authority to operate a financing/lending company (CA) in your app’s description.
-    *   Apps engaged in lending-based crowdfunding activities, such as peer-to-peer (P2P) lending, or as defined under the rules and regulations governing crowdfunding (CF rules), must process transactions through PSEC-registered CF intermediaries.
-4.  **Nigeria**
-    *   Digital money lenders (DML) must adhere to and complete the LIMITED INTERIM REGULATORY/REGISTRATION FRAMEWORK AND GUIDELINES FOR DIGITAL LENDING, 2022 (as may be amended from time to time) by the Federal Competition and Consumer Protection Commission (FCCPC) of Nigeria and obtain a verifiable approval letter from the FCCPC.
-    *   Loan aggregators must provide documentation and/or certification for digital lending services and contact details for every partnered DML.
-5.  **Kenya**
-    *   Digital credit providers (DCP) should complete the DCP registration process and obtain a licence from the Central Bank of Kenya (CBK). You must provide a copy of your licence from the CBK as part of your declaration.
-    *   If you are not directly engaged in money lending activities and are only providing a platform to facilitate money lending by registered DCP(s) to users, you will need to accurately reflect this in the declaration and provide a copy of the DCP licence of your respective partner(s).
-    *   Currently, we only accept declarations and licences from entities published under the Directory of Digital Credit Providers on the official website of the CBK.
-6.  **Pakistan**
-    *   Each non-banking finance company (NBFC) lender can only publish one digital lending app (DLA). Developers who attempt to publish more than one DLA per NBFC risk the termination of their developer account and any other associated accounts.
-    *   You must submit proof of approval from the SECP to offer or facilitate digital lending services in Pakistan. In addition, short-term loan apps are not permitted; however, rare exceptions may be considered when explicitly permitted by laws and regulations in Pakistan.
-7.  **Thailand**
-    *   Personal loan apps targeting Thailand, with interest rates at or above 15%, must obtain a valid licence from the Bank of Thailand (BoT) or the Ministry of Finance (MoF). Developers must provide documentation that proves their ability to provide or facilitate personal loans in Thailand. This documentation should include:
-        *   A copy of their licence issued by the Bank of Thailand to operate as a personal loan provider or nano finance organisation.
-        *   A copy of their Pico-finance business licence issued by the Ministry of Finance to operate as a Pico or Pico-plus lender.
-    *   All personal loan apps targeting Thailand must display the following details in the Google Play listing:
-        *   The name of the loan service provider(s) licensed by the Bank of Thailand (BoT) or the Fiscal Policy Office (FPO). 
-        *   Legal entity name for the developer.
-        *   Maximum interest rates and all fees.
-    *   In addition to the above information, personal loan apps targeting Thailand, with interest rates below 15%, must also include the following:
-        *   The statement 'This is a non-regulated loan provider under the BoT/FPO'.
+1.  **United States**
+    1.  In the United States, we do not allow apps for personal loans where the Annual Percentage Rate (APR) is 36% or higher. Apps for personal loans in the United States must display their maximum APR, calculated consistently with the [Truth in Lending Act (TILA)](https://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&tpl=/ecfrbrowse/Title12/12cfr1026_main_02.tpl).
+    2.  This policy applies to apps which offer loans directly, lead generators and those who connect consumers with third-party lenders.
+2.  **India**
+    1.  Only apps that submit a licence and are on the 'Digital lending apps (DLAs) deployed by Regulated Entities' list of the Reserve Bank of India (RBI) may submit personal loan apps to Google Play for review (see this [Help Centre article](https://support.google.com/googleplay/android-developer/answer/16604194) for guidance).
+    2.  If you are not directly engaged in money-lending activities and are only providing a platform to facilitate money lending by registered non-banking financial companies (NBFCs) or banks to users, you will need to accurately reflect this in the declaration.
+        1.  The names of all registered NBFCs and banks must also be disclosed prominently in your app's description.
+3.  **Indonesia**
+    1.  If your app is engaged in the activity of information technology-based money lending services in accordance with OJK regulation no. 77/POJK.01/2016 (as may be amended from time to time), you must submit a copy of your valid licence for our review.
+4.  **Philippines**
+    1.  All financing and lending companies offering loans via online lending platforms (OLP) must obtain an SEC registration number and a certificate of authority (CA) number from the Philippines Securities and Exchanges Commission (PSEC).
+        1.  In addition, you must disclose your corporate name, business name, PSEC registration number and certificate of authority to operate a financing/lending company (CA) in your app’s description.
+    2.  Apps engaged in lending-based crowdfunding activities, such as peer-to-peer (P2P) lending, or as defined under the rules and regulations governing crowdfunding (CF rules), must process transactions through PSEC-registered CF intermediaries.
+5.  **Nigeria**
+    1.  Digital money lenders (DML) must adhere to and complete the LIMITED INTERIM REGULATORY/REGISTRATION FRAMEWORK AND GUIDELINES FOR DIGITAL LENDING, 2022 (as may be amended from time to time) by the Federal Competition and Consumer Protection Commission (FCCPC) of Nigeria and obtain a verifiable approval letter from the FCCPC.
+    2.  Loan aggregators must provide documentation and/or certification for digital lending services and contact details for every partnered DML.
+6.  **Kenya**
+    1.  Digital credit providers (DCP) should complete the DCP registration process and obtain a licence from the Central Bank of Kenya (CBK). You must provide a copy of your licence from the CBK as part of your declaration.
+    2.  If you are not directly engaged in money lending activities and are only providing a platform to facilitate money lending by registered DCP(s) to users, you will need to accurately reflect this in the declaration and provide a copy of the DCP licence of your respective partner(s).
+    3.  Currently, we only accept declarations and licences from entities published under the Directory of Digital Credit Providers on the official website of the CBK.
+7.  **Pakistan**
+    1.  Each non-banking finance company (NBFC) lender can only publish one digital lending app (DLA). Developers who attempt to publish more than one DLA per NBFC risk the termination of their developer account and any other associated accounts.
+    2.  You must submit proof of approval from the SECP to offer or facilitate digital lending services in Pakistan. In addition, short-term loan apps are not permitted; however, rare exceptions may be considered when explicitly permitted by laws and regulations in Pakistan.
+8.  **Thailand**
+    1.  Personal loan apps targeting Thailand, with interest rates at or above 15%, must obtain a valid licence from the Bank of Thailand (BoT) or the Ministry of Finance (MoF). Developers must provide documentation that proves their ability to provide or facilitate personal loans in Thailand. This documentation should include:
+        1.  A copy of their licence issued by the Bank of Thailand to operate as a personal loan provider or nano finance organisation.
+        2.  A copy of their Pico-finance business licence issued by the Ministry of Finance to operate as a Pico or Pico-plus lender.
+    2.  All personal loan apps targeting Thailand must display the following details in the Google Play listing:
+        1.  The name of the loan service provider(s) licensed by the Bank of Thailand (BoT) or the Fiscal Policy Office (FPO).
+        2.  Legal entity name for the developer.
+        3.  Maximum interest rates and all fees.
+    3.  In addition to the above information, personal loan apps targeting Thailand, with interest rates below 15%, must also include the following:
+        1.  The statement 'This is a non-regulated loan provider under the BoT/FPO'.
 
 Examples of common violations
 
@@ -418,6 +607,14 @@ Choose a section to give feedback on
 
 Real money gambling, games and contests
 =======================================
+
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+While Google Play generally prohibits apps from facilitating real-money gambling and gaming, an exception is made for those that are licensed and approved by Google. All approved apps must be free to download, must not use In-app Billing, and must prevent access for minors and unauthorized locations. Please review the full policy to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 We allow real money gambling apps, ads related to real money gambling, loyalty programmes with gamified outcomes and daily fantasy sports apps that meet certain requirements.
 
@@ -526,6 +723,17 @@ We only allow daily fantasy sports (DFS) apps, as defined by applicable local la
 *   App must prevent use from US states or US territories in which the developer does not hold a licence required for daily fantasy sport apps; and
 *   App must prevent use from US states or US territories where daily fantasy sport apps are not legal.
 
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Check the markets and game types that Google allows for real-money gambling and gaming. | Don't let minors access the app or incorrectly age-rate your app. |
+| Ensure you have a valid license for each game type and each country where you want your app distributed. | Don't allow users in unapproved locations to use the app or access unapproved game types. |
+| Submit an application with all the relevant and required documentation. | Don't distribute an app that facilitates real-money gambling or gaming without submitting an application and being approved. |
+| Ensure your app is rated correctly, provides age verification and is restricted to users where the app is authorized by Google Play for distribution. | Don't charge users to download a real-money gambling or gaming app from Google Play. |
+| Provide information about responsible real-money gambling and gaming on your app's store listing. | Don't use Google Play's In-app Billing for payments within your app. |
+
 Choose a section to give feedback on
 
 - - -
@@ -547,6 +755,14 @@ Choose a section to give feedback on
 
 User-generated content
 ======================
+
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+Apps with user-generated content must have robust moderation to ensure a safe environment. You must provide clear terms of use, an in-app system for reporting objectionable content, and a function for users to block others. Incidental sexual content must be filtered by default and restricted from minors. Please review the full policy to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 User-generated content (UGC) is content that users contribute to an app, and which is visible to or accessible by at least a subset of the app's users.
 
@@ -579,6 +795,16 @@ Examples of common violations
 *   Apps with user-generated content (UGC) that lack sufficient safeguards against threats, harassment or bullying, particularly toward minors.
 *   Posts, comments or photos within an app that are primarily intended to harass or single out another person for abuse, malicious attack or ridicule.
 *   Apps that continually fail to address user complaints about objectionable content.
+
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Require users to accept your app's terms of use before they create or upload UGC. | Don't allow objectionable content to go unmoderated or unaddressed. |
+| Provide a user-friendly, in-app system for reporting objectionable content and users. | Don't promote or recommend sexual content in your app. |
+| Implement a user-blocking function for one-on-one interactions. | Don't allow minors to access apps that may contain sexual content. |
+| Hide incidental sexual content behind a filter that is on by default and requires multiple actions to disable. | Don't build an app whose primary purpose is to host objectionable UGC. |
 
 Choose a section to give feedback on
 
@@ -699,7 +925,7 @@ _**Disclaimer:** Policy summaries and key considerations are overviews only; alw
 
 Google Play prohibits your app (or any third-party SDKs in your app) from unauthorised access or interference with the user's device, other devices, network, API or service, other apps on the device, any Google service or an authorised operator's network. This encompasses a range of harmful, high-risk or disruptive behaviours, such as performing self-updates outside the Play Store, downloading unauthorised executable code, exploiting security vulnerabilities, facilitating hacking or creating game cheats that affect other apps. Protecting the integrity of the user's device and the broader ecosystem is paramount. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 We don’t allow apps that interfere with, disrupt, damage or access in an unauthorised manner the user’s device, other devices or computers, servers, networks, application programming interfaces (APIs) or services, including but not limited to other apps on the device, any Google service or an authorised operator network.
 
@@ -726,7 +952,7 @@ We don’t allow code that introduces or exploits security vulnerabilities. Revi
 *   Apps that use the [full-screen intent permission](https://developer.android.com/about/versions/14/behavior-changes-14?hl=en-gb#secure-fsi) to force user interaction with disruptive ads or notifications.
 *   Apps that circumvent [Android sandbox protections](https://source.android.com/docs/security/app-sandbox) in order to derive user activity or user identity from other apps.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -747,7 +973,7 @@ Foreground service use
 
 The foreground service permission policy ensures user transparency, privacy and optimal device performance. For apps targeting Android 14+, you must declare valid foreground service (FGS) types in the manifest and Play Console, providing descriptions, user impact and a demo video justifying their use based on user-initiated, perceptible actions. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 The foreground service permission ensures the appropriate use of user-facing foreground services. For apps targeting Android 14 and above, you must specify a valid foreground service type for each foreground service used in your app and declare the [foreground service permission](https://support.google.com/googleplay/android-developer/answer/13392821) that is appropriate for that type. For example, if your app's use case requires map geolocation, you must declare the [FOREGROUND\_SERVICE\_LOCATION](https://developer.android.com/reference/android/Manifest.permission#FOREGROUND_SERVICE_LOCATION) permission in your app's manifest.
 
@@ -766,7 +992,7 @@ The following foreground service use cases are exempt from the above criteria:
 
 The use of foreground service is further explained [here](https://support.google.com/googleplay/android-developer/answer/13392821).
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -784,7 +1010,7 @@ User-initiated data transfer jobs
 
 To maintain user control and prevent prolonged background activity, Google Play provides strict guidelines for apps using the user-initiated, data-transfer jobs API. Data transfers must be directly prompted by the user, ensuring that the app executes a command rather than initiating transfers independently. These transfers are exclusively for network data-transfer tasks and must only operate for the duration required to complete the requested action. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 Apps are only allowed to use the [user-initiated data transfer jobs](https://developer.android.com/partners/android-14/changes/user-initiated-data-transfers) API if the use is:
 
@@ -794,7 +1020,7 @@ Apps are only allowed to use the [user-initiated data transfer jobs](https://dev
 
 The usage of user-initiated data transfer APIs is further explained [here](https://developer.android.com/partners/android-14/changes/user-initiated-data-transfers).
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -812,7 +1038,7 @@ Flag secure requirements
 
 FLAG\_SECURE is an app-declared display flag indicating sensitive data in the UI should be limited to secure surfaces, preventing screenshots and non-secure display viewing and capturing. Developers use this when content shouldn't be broadcast or viewed outside the app/device. Google Play requires all apps to respect other apps' FLAG\_SECURE declarations and not bypass them for security and privacy. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 [FLAG\_SECURE](https://developer.android.com/reference/android/view/WindowManager.LayoutParams#FLAG_SECURE) is a display flag declared in an app’s code to indicate that its UI contains sensitive data intended to be limited to a secure surface while using the app. This flag is designed to prevent the data from appearing in screenshots or from being viewed on non-secure displays. Developers declare this flag when the app’s content should not be broadcast, viewed or otherwise transmitted outside of the app or users’ device.
 
@@ -820,7 +1046,7 @@ For security and privacy purposes, all apps distributed on Google Play are requi
 
 Apps that qualify as an [accessibility tool](https://support.google.com/googleplay/android-developer/answer/10964491?hl=en) are exempt from this requirement, as long as they do not transmit, save or cache FLAG\_SECURE protected content for access outside of the user's device.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -837,7 +1063,7 @@ Apps that run on-device Android containers
 
 To prevent security and privacy concerns, developers can use a 'REQUIRE\_SECURE\_ENV' flag in their app manifest when on-device Android container apps lack the full security features of Android OS. The flag indicates that the app should not run in a simulated environment. Apps providing these containers are required to respect this flag by not loading apps that declare it and are prohibited from bypassing this security measure. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 On-device Android container apps provide environments that simulate whole or portions of an underlying Android OS. The experience within these environments may not reflect the full suite of [Android security features](https://source.android.com/docs/security/features), which is why developers can choose to add a secure environment manifest flag to communicate to on-device Android containers that they must not operate in their simulated Android environment.
 
@@ -852,7 +1078,7 @@ On-device Android container apps provide environments that simulate whole or por
 
 Learn more about this policy in our [Help Centre](https://support.google.com/googleplay/android-developer/answer/13609005).
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -875,7 +1101,7 @@ _**Disclaimer:** Policy summaries and key considerations are overviews only; alw
 
 To protect users and ensure that they can trust an app's true identity and purpose, Google Play prohibits apps and developer accounts from misrepresenting or concealing their ownership, or primary purpose, or faking their country of origin to target users. This policy also strictly forbids coordinating with other apps, sites or accounts to mislead users by hiding an app's true identity or other material details, especially when the content involves politics, social issues or matters of public concern. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 We do not allow apps or developer accounts that:
 
@@ -883,7 +1109,7 @@ We do not allow apps or developer accounts that:
 *   that engage in coordinated activity to mislead users. This includes, but isn’t limited to, apps or developer accounts that misrepresent or conceal their country of origin and that direct content at users in another country.
 *   coordinate with other apps, sites, developers or other accounts to conceal or misrepresent developer or app identity or other material details, where app content relates to politics, social issues or matters of public concern.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -906,7 +1132,7 @@ _**Disclaimer:** Policy summaries and key considerations are overviews only; alw
 
 To maintain a safe Android ecosystem, Google Play prohibits any malicious code, including third-party SDKs integrated into apps, that could put users, their data or their devices at risk. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 Our malware policy is simple: the Android ecosystem including the Google Play Store and user devices should be free from malicious behaviours (for example, malware). Through this fundamental principle we strive to provide a safe Android ecosystem for our users and their Android devices.
 
@@ -929,7 +1155,7 @@ The malware categories below reflect our foundational belief that users should u
 
 Visit [Google Play Protect](https://developers.google.com/android/play-protect/potentially-harmful-applications) for more information.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -948,13 +1174,13 @@ Backdoors
 
 To protect your users, you must remove any code that acts as a backdoor, which is defined as code facilitating unwanted or harmful remote-controlled operations. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 Code that allows the execution of unwanted, potentially harmful, remote-controlled operations on a device.
 
 These operations may include behaviour that would place the app, binary or framework modification into one of the other malware categories if executed automatically. In general, backdoor is a description of how a potentially harmful operation can occur on a device and is therefore not completely aligned with categories like billing fraud or commercial spyware. As a result, a subset of backdoors, under some circumstances, are treated by Google Play Protect as a vulnerability.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -972,7 +1198,7 @@ Billing fraud
 
 To avoid billing fraud, you must remove any code that deceptively charges users without their explicit consent. This includes SMS fraud, call fraud and toll fraud, which trick users into unwanted payments or subscriptions. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 Code that automatically charges the user in an intentionally deceptive way.
 
@@ -991,7 +1217,7 @@ Code that tricks users into subscribing to or purchasing content via their mobil
 
 Toll fraud includes any type of billing except premium SMS and premium calls. Examples of this include direct operator billing, wireless application protocol (WAP) and mobile airtime transfer. WAP fraud is one of the most prevalent types of toll fraud. WAP fraud can include tricking users into clicking a button on a silently loaded, transparent WebView. Upon performing the action, a recurring subscription is initiated, and the confirmation SMS or email is often hijacked to prevent users from noticing the financial transaction.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -1009,7 +1235,7 @@ Stalkerware
 
 Google Play prohibits apps from monitoring another individual by collecting and transmitting personal and sensitive user data, unless the app is exclusively designed and marketed for parents to monitor their children or for enterprise management to monitor individual employees, provided that they fully comply with strict requirements. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 Code that collects personal or sensitive user data from a device and transmits the data to a third party (enterprise or another individual) for monitoring purposes.
 
@@ -1030,7 +1256,7 @@ Monitoring apps must comply with these requirements:
 
 Please reference the [Use of the isMonitoringTool flag](https://support.google.com/googleplay/android-developer/answer/12955211) Help Centre article for more information.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -1050,13 +1276,13 @@ Denial of service (DoS)
 
 To protect your app and other systems, you must remove any code that, without user knowledge, attacks other systems or generates excessive network load without user knowledge. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 Code that, without the knowledge of the user, executes a denial-of-service (DoS) attack or is part of a distributed DoS attack against other systems and resources.
 
 For example, this can happen by sending a high volume of HTTP requests to produce excessive load on remote servers.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -1085,7 +1311,7 @@ Major browsers and file-sharing apps aren't considered hostile downloaders as lo
 *   They don't drive downloads without user interaction; and
 *   All PHA downloads are initiated by consenting users.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -1112,13 +1338,13 @@ Phishing
 
 You must remove any code that engages in phishing by deceptively requesting a user's credentials or billing information and sending it to a third party. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 Code that pretends to come from a trustworthy source, requests a user's authentication credentials or billing information, and sends the data to a third party. This category also applies to code that intercepts the transmission of user credentials in transit.
 
 Common targets of phishing include banking credentials, credit card numbers and online account credentials for social networks and games.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -1136,7 +1362,7 @@ Elevated privilege abuse
 
 To avoid elevated privilege abuse violations, your app must not contain code that gains elevated privileges or breaks the Android security sandbox. This includes code that steals credentials from other apps, circumvents the Android permissions model or disables core security features. Your app must also respect the user's control over their device. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 Code that compromises the integrity of the system by breaking the app sandbox, gaining elevated privileges or changing or disabling access to core security-related functions.
 
@@ -1148,7 +1374,7 @@ Examples include:
 
 Privilege escalation apps that root devices without user permission are classified as rooting apps.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -1165,7 +1391,7 @@ Ransomware
 
 Ransomware is malicious software that takes a user's device or data hostage and demands payment or another action to restore control. You must not lock users out, encrypt data or prevent uninstallation. This policy protects users from extortion. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 Code that takes partial or extensive control of a device or data on a device and demands that the user make a payment or perform an action to release control.
 
@@ -1177,7 +1403,7 @@ Some ransomware encrypts data on the device and demands payment to decrypt the d
 
 Code distributed with the device whose primary purpose is for subsidised device management may be excluded from the ransomware category provided that they successfully meet requirements for secure lock and management, as well as adequate user disclosure and consent requirements.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -1195,7 +1421,7 @@ Rooting
 
 Google Play staat niet-schadelijke rooting toe, maar verbiedt schadelijke rootingcode. U moet gebruikers van tevoren informeren over rooten en zorgen dat uw app geen andere schadelijke acties uitvoert. Het doel is ervoor te zorgen dat gebruikers toestemming geven voor deze ingrijpende apparaatwijziging en niet worden blootgesteld aan aanvullend schadelijk gedrag. Neem het volledige beleid door om er zeker van te zijn dat u hieraan voldoet.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 Code that roots the device.
 
@@ -1203,7 +1429,7 @@ There's a difference between non-malicious and malicious rooting code. For examp
 
 Malicious rooting apps don't inform the user that they're going to root the device, or they inform the user about the rooting in advance but also execute other actions that apply to other PHA categories.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -1228,7 +1454,7 @@ Spyware
 
 Google Play prohibits the malicious collection or sharing of user or device data. Regardless of user consent or disclosure, data collection and sharing must be related to policy-compliant functionality. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 Spyware is a malicious application, code or behaviour that collects, exfiltrates or shares user or device data that is not related to policy-compliant functionality.
 
@@ -1242,7 +1468,7 @@ For example, spyware violations include, but are not limited to:
 
 All apps must also comply with all Google Play Developer Programme Policies, including user and device data policies, such as [mobile unwanted software](https://support.google.com/googleplay/android-developer/answer/9970222), [user data](https://support.google.com/googleplay/android-developer/answer/10144311), [permissions and APIs that access sensitive information](https://support.google.com/googleplay/android-developer/answer/9888170) and [SDK requirements](https://support.google.com/googleplay/android-developer/answer/13323374).
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -1261,13 +1487,13 @@ Trojan
 
 A trojan is code that contains a hidden, malicious component. This policy prohibits apps that perform undesirable actions against the user without their knowledge. As a developer, you must ensure that your app's code is transparent and free of any hidden, harmful functionality. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 Code that appears to be benign, such as a game that claims only to be a game, but that performs undesirable actions against the user.
 
 This classification is usually used in combination with other PHA categories. A trojan has an innocuous component and a hidden harmful component. For example, a game that sends premium SMS messages from the user's device in the background and without the user’s knowledge.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -1285,11 +1511,11 @@ A note on uncommon apps
 
 If Google Play Protect lacks sufficient information to verify your new app's safety, it may be classified as 'uncommon'. This status doesn't mean that your app is harmful, but that it needs further review. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 New and rare apps can be classified as uncommon if Google Play Protect doesn't have enough information to clear them as safe. This doesn't mean that the app is necessarily harmful, but without further review it can't be cleared as safe either.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -1306,13 +1532,13 @@ A note on the backdoor category
 
 A backdoor is code that enables malicious behaviour. If dynamic code loading is used to perform harmful actions, your app will be in violation. You must ensure that your app's code does not enable any hidden, malicious functionality. If a vulnerability is found without malicious intent, you will be asked to patch it. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 The backdoor malware category classification relies on how the code acts. A necessary condition for any code to be classified as a backdoor is that it enables behaviour that would place the code into one of the other malware categories if executed automatically. For example, if an app allows dynamic code loading and the dynamically loaded code is extracting text messages, it will be classified as a backdoor malware.
 
 However, if an app allows arbitrary code execution and we don’t have any reason to believe that this code execution was added to perform a malicious behaviour, the app will be treated as having a vulnerability, rather than being backdoor malware, and the developer will be asked to patch it.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -1330,13 +1556,13 @@ Riskware
 
 Riskware is an app that uses evasion techniques to hide malicious functionality. It masks itself as a legitimate app, using methods like obfuscation or dynamic code loading to reveal harmful content later. You must ensure that your app is transparent and does not use such techniques to deceive reviewers or users. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 An application that utilises a variety of evasion techniques in order to serve the user different or fake application functionality. These apps mask themselves as legitimate applications or games to appear innocuous to app stores and users and use techniques such as obfuscation, dynamic code loading or cloaking to reveal potentially harmful content.
 
 Riskware is similar to other PHA categories, specifically Trojan, with the main difference being the techniques used to obfuscate the malicious activity.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -1352,6 +1578,14 @@ Choose a section to give feedback on
 Impersonation
 =============
 
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+Google Play prohibits apps and developer accounts that impersonate or misrepresent their identity, ownership, or primary purpose. You must not coordinate with others to mislead users. Please review the full policy to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
+
 We don’t allow apps that mislead users by impersonating someone else (for example, another developer, company or entity) or another app. Don’t imply that your app is related to or authorised by someone when it isn’t.  Be careful not to use app icons, descriptions, titles or in-app elements that could mislead users about your app’s relationship to someone else or another app.  
  
 
@@ -1364,16 +1598,16 @@ Examples of common violations
     
     ① The Developer name listed for this app suggests an official relationship with Google, even though such a relationship doesn’t exist.
     
-*   Apps whose icons and titles are falsely implying a relationship with another company/developer/entity/organisation.![](//storage.googleapis.com/support-kms-prod/wgtqYG99hfVov68y6R4ZbDsxdkJtij89hPUR)
+*   Apps whose icons and titles are falsely implying a relationship with another company/developer/entity/organisation.![](//lh3.googleusercontent.com/9YaUMsBSUZS4cLPNlZoSO7KZwWhFdEIjerDvjByO9h7ZX22NM5IQgL0U0gQUZWm7dUwf=w895-h488)
     
     ①The app is using a national emblem and misleads users into believing it is affiliated with the government.  
     ②The app is copying the logo of a business entity to falsely suggest it is an official app of the business.
     
 *   App titles and icons that are so similar to those of existing products or services that users may be misled.
     
-    ![](//storage.googleapis.com/support-kms-prod/sBVNnPnyoJOXaPHtBkDxjpytXq8Lu3V3aDke)
+    ![](//lh3.googleusercontent.com/LZX6TV-iDyWln2dD0tMgoaAuSPwPYOZJ1m8y5Gi6xciZ7CphUc6uRjSdZXqn9xV1UQ=w895)
     
-    ![](//storage.googleapis.com/support-kms-prod/lKN7LHSddGjHbZPBB3CSL43PftsuvJjsMcOn)  
+    ![](//lh3.googleusercontent.com/Bo8M3WczaEopk_lO8kflrPJpRAsYDS2c259R2z8S21Ri_GLl0f-wQuBSYmsumSVO9Q=w895-h350)  
     ①The app is using the logo of a popular cryptocurrency website in its app icon to suggest it is the official website.  
     ②The app is copying the character and title of a famous TV show in its app icon and misleading users to think that it is affiliated with a TV show.
     
@@ -1382,6 +1616,15 @@ Examples of common violations
 *   Apps that violate the [Android brand guidelines](https://developer.android.com/distribute/tools/promote/brand.html).
 
 For frequently asked questions about the impersonation policy, see this [Help Centre](https://support.google.com/googleplay/android-developer/answer/16341334) article.
+
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Accurately represent your identity as a developer and your app's purpose. | Don't conceal your identity or app's primary purpose. |
+| Ensure your ownership details are truthful. | Don't coordinate with others to mislead users, especially for political or social content. |
+|     | Don't falsely imply an affiliation or relationship with another company, developer, entity, or organization. |
 
 Choose a section to give feedback on
 
@@ -1399,7 +1642,7 @@ Mobile unwanted software
 
 To ensure a safe and great user experience, this policy builds on the Google [unwanted software policy](https://www.google.com/about/unwanted-software-policy.html) by outlining principles for the [Android ecosystem](https://www.android.com/mobile-unwanted-software-policy/) and the Google Play Store. Apps that violate these principles are potentially harmful to the user experience and we will take actions to protect users from them. Your app must deliver its promised value, be transparent about its functions and clearly disclose any bundled software. It must not misrepresent the device's state, impersonate others or generate fake ad traffic. You must handle all user data securely and in compliance with our [user data](https://support.google.com/googleplay/android-developer/answer/10144311?visit_id=638967622926708071-1089367679&rd=1) policies. Apps that interfere with device usability, show disruptive ads or mimic system prompts are prohibited. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 At Google, we believe that if we focus on the user, everything else will follow. In our [Software principles](https://www.google.com/about/software-principles.html) and the [Unwanted software policy](https://www.google.com/about/unwanted-software-policy.html), we provide general recommendations for software that delivers a great user experience. This policy builds on the Google unwanted software policy by outlining principles for the [Android ecosystem](https://www.android.com/mobile-unwanted-software-policy) and the Google Play Store. Software that violates these principles is potentially harmful to the user experience, and we will take steps to protect users from it.
 
@@ -1454,7 +1697,7 @@ Example violations:
 *   Disruptive ads
 *   Unauthorised use or imitation of system functionality
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -1481,7 +1724,7 @@ Hostile downloaders
 
 Google Play prohibits 'hostile downloaders' – apps that download other mobile unwanted software (MUwS). An app is flagged as a hostile downloader if it's believed to be designed to spread MUwS or if at least 5% of its downloads are determined to be MUwS. This policy does not apply to major browsers or file-sharing apps, as long as they only download software with the user's explicit consent and initiation. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 Code that isn't in itself unwanted software, but downloads other mobile unwanted software (MUwS).
 
@@ -1495,7 +1738,7 @@ Major browsers and file-sharing apps aren't considered hostile downloaders as lo
 *   They don't drive downloads without user interaction; and
 *   All software downloads are initiated by consenting users.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -1520,7 +1763,7 @@ Ad fraud
 
 To maintain the mobile ad ecosystem trust, Google Play strictly prohibits ad fraud, which is a form of [invalid traffic](https://support.google.com/admob/answer/3342054), and defined as any ad interaction that tricks an ad network into believing that traffic is from real user interest. This includes showing hidden ads, auto-clicking ads, faking install attributions, showing ads outside the app or misrepresenting your app's identity (like its package name or device type) to ad networks. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 Ad fraud is strictly prohibited. Ad interactions generated for the purpose of tricking an ad network into believing traffic is from authentic user interest is ad fraud, which is a form of [invalid traffic](https://support.google.com/admob/answer/3342054?hl=en-GB&ref_topic=2745287). Ad fraud may be the byproduct of developers implementing ads in disallowed ways, such as showing hidden ads, automatically clicking ads, altering or modifying information and otherwise leveraging non-human actions (spiders, bots, etc.) or human activity designed to produce invalid ad traffic. Invalid traffic and ad fraud is harmful to advertisers, developers and users, and leads to long-term loss of trust in the mobile ads ecosystem.
 
@@ -1532,7 +1775,7 @@ Ad fraud is strictly prohibited. Ad interactions generated for the purpose of tr
 *   An app that makes ads pop up when the user is not within the app interface.
 *   False representations of the ad inventory by an app, for example, an app that communicates to ad networks that it is running on an iOS device when it is in fact running on an Android device, or an app that misrepresents the package name that is being monetised.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -1556,7 +1799,7 @@ Unauthorised use or imitation of system functionality
 
 Users trust system notifications and warnings to be timely, relevant and important. Our policy protects this trust by prohibiting apps or ads from imitating or interfering with system functionality. Please review the full policy to ensure compliance.
 
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 We don’t allow apps or ads that mimic or interfere with system functionality, such as notifications or warnings. System level notifications may only be used for an app’s integral features, such as an airline app that notifies users of special deals, or a game that notifies users of in-game promotions.
 
@@ -1572,7 +1815,7 @@ Examples of common violations
 
 For additional examples involving ads, please refer to the [Ads policy](https://https//support.google.com/googleplay/android-developer/answer/9857753).
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
 |     |     |
 | --- | --- |
@@ -1616,7 +1859,7 @@ Examples of common violations
 *   Ads that are inappropriate for the content rating of the app
 
 ![](//lh3.googleusercontent.com/PBa67hgzNg4f1FflV7_Y4KX5Jc41bGZ-sEtXILC02F6kGkMJsqvrYeKbCCrWTIDoe0s=h659)  
-![](//storage.googleapis.com/support-kms-prod/5xy4IkVMxNbFd5K7vDp8ufRvk1wTqiag6SNy)
+![](//lh3.googleusercontent.com/LiX8C7nTTAM4LDOLHd9X8rzpWi37MVRAX3VwDtWY5qJYd2-dgkfmRREgZNmmpLbZ9D-X=h900)
 
 ① This ad is inappropriate (Teenager) for the content rating of the app (Everyone)  
 ② This ad is inappropriate (Mature) for the content rating of the app (Teenager)  
@@ -1646,7 +1889,7 @@ Examples of common violations
     
     ① ② The examples above illustrate ads mimicking various system notifications.  
       
-    ![](//storage.googleapis.com/support-kms-prod/KPNa22eFRLufTiGj6KpKen4FEIBG70Nzh0Dz)  
+    ![](//lh3.googleusercontent.com/f6KaL8pbIhvnMWeUU5YFpohrjYVM8JZj7vZk39Me68JMVOv9RJoDlx6mdIk0NOzqIJqu=w600-h1200)  
     ① The example above illustrates a feature section that mimics other features but only leads the user to an ad or ads.
     
 
@@ -1676,13 +1919,13 @@ Examples of common violations
     
 *   Ads that display outside of the app serving them:
     
-    ![](//storage.googleapis.com/support-kms-prod/pvRi7rBu3Nfi2q8Pf4pj1fyCwaX5o7SnLtQU)
+    ![](//lh3.googleusercontent.com/x3HtN39-9jWC0kt4MLebrhB_PuuaCKkbUYR5FtPKXOR5Pcx2wfOTu3C9yMiI05N53OI=h1000)
     
     ① The user navigates to the home screen from this app, and suddenly an ad appears on the home screen.
     
 *   Ads that are triggered by the home button or other features explicitly designed for exiting the app:
     
-    ![](//storage.googleapis.com/support-kms-prod/8lGGyFJs5DCTzYoyXID9gGCIPdWfpKmXzQzX)
+    ![](//lh3.googleusercontent.com/DJXodl7QIixTOBBGZVn_d5PrNxjtE-q2RkTsMxZgqu_EcE1GWeCTCkHT3Xx6guaGAMkv=h1000)
     
     ① The user attempts to exit the app and navigate to the home screen, but instead, the expected flow is interrupted by an ad.
     
@@ -1703,9 +1946,9 @@ These guidelines are inspired by the [Better Ads Standards – mobile apps exper
 Examples of common violations
 
 *   Unexpected ads that appear during gameplay or during the beginning of a content segment (for example, after a user has clicked on a button, and before the action intended by the button click has taken effect). These ads are unexpected for users, as users expect to begin a game or engage in content instead.  
-    ![](//storage.googleapis.com/support-kms-prod/rJ1QH4O7L9Y0M6oowyUp0lxJL4sYjhP0iUH7)  
+    ![](//lh3.googleusercontent.com/uyD_zGbGG9fwaeLYllQ-lehliVVEu-BC9XIYVawyWwZLkYelkkNPAdHoB4qN8iuhI8E=w237)  
     ① Unexpected static ad appears during gameplay at the beginning of a level.  
-    ![](//storage.googleapis.com/support-kms-prod/2w6koURCQNygQL43lkbCg3v6G8Nau8pdV46A)  
+    ![](//lh3.googleusercontent.com/IT36kn0UkxU9MgoCl3gBRGWcJatKCBcJVYt9XA5lSz9SI-NhJz9gDneijnn3x9qI=w237)  
     ② Unexpected video ad appears during the beginning of a content segment.
 *   A full-screen ad that appears during gameplay and cannot be closed after 15 seconds.  
     ![](//storage.googleapis.com/support-kms-prod/NBioy9uf8nqdAXXolKCR4q8u8EGxX02PSuwW)  
@@ -1720,11 +1963,11 @@ Examples of common violations
 
 *   Apps where an interstitial ad is placed after a user action (including, but not limited to clicks, swipes, etc.) in a consecutive manner.
     
-    ![](//storage.googleapis.com/support-kms-prod/6N76HWDiB0xLD4mTNiQBkb6WozvInE0MffL9)
+    ![](//lh3.googleusercontent.com/WqWKoTdbF-LFSDVAP_d1ZLVgPAI-RdAHavwbiOnkVhtzDCe3LcfIdAhpdK5U56nYTO8=w237)
     
     ① The first in-app page has multiple buttons to interact with. When the user clicks **Start app** to use the app, an interstitial ad pops up. After the ad is closed, the user returns to the app and clicks **Service** to start using the service, but another interstitial ad appears.  
       
-    ![](//storage.googleapis.com/support-kms-prod/ewpzgReDq8OpLTyYmSJMp8Suu62UPpNYnC1D)  
+    ![](//lh3.googleusercontent.com/5e-geqn3e1bQzKS3Jd7wgATX7QEv-J4Lr9DFziaJlfZ4h0CNml42pbtWWg3nTp-nMg=w895)  
     ② On the first page, the user is led to click **Play** as it is the only button available to use the app. When the user clicks it, an interstitial ad appears. After the ad is closed, the user clicks **Launch** as it is the only button to interact with, and another interstitial ad pops up.
     
 
@@ -1767,6 +2010,14 @@ Choose a section to give feedback on
 App promotion
 =============
 
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+We don't allow deceptive or harmful promotion practices, including misleading ads and forced installs. You are responsible for the actions of your ad networks and affiliates. You must ensure all app promotion is transparent and fully compliant with all Google Play policies. Please review the full policy to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
+
 We don’t allow apps that directly or indirectly engage in, or benefit from promotion practices (such as ads) that are deceptive or harmful to users or the developer ecosystem. Promotion practices are deceptive or harmful if their behaviour or content violate our Developer Programme Policies.
 
 Examples of common violations
@@ -1780,12 +2031,29 @@ Examples of common violations
 
 It is your responsibility to ensure that any ad networks, affiliates or ads associated with your app comply with these policies.
 
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Ensure all ads and promotional content are honest and clearly labeled. | Don't use promotion tactics that force a user to download your app. |
+| Vet your ad networks and affiliates to ensure they comply with policies. | Don't use misleading text or imagery in your ad to elicit downloading your app. |
+| Use only transparent promotion methods that require informed user action. |     |
+
 Choose a section to give feedback on
 
 - - -
 
 Metadata
 ========
+
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+App metadata like titles, icons, and descriptions must be honest, relevant, and suitable for all audiences. We prohibit deceptive claims, spammy keywords, and inappropriate content such as profanity or graphic violence. You must ensure your app's metadata accurately reflects its functionality and is appropriate for all users. Please review the full policy to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 Users depend on descriptions of your app to help them understand its functionality and purpose. We don't allow apps with misleading, improperly formatted, non-descriptive, irrelevant, excessive or inappropriate metadata, including, but not limited to, the app's description, developer name, title, icon, screenshots and promotional images. Developers must provide a clear and well-written description of their app. We also don't allow unattributed or anonymous user testimonials in the app's description.
 
@@ -1802,7 +2070,7 @@ Examples of common violations
         ② Data comparison of apps or brands  
         ③ Word blocks and vertical/horizontal word lists
 
-![](//storage.googleapis.com/support-kms-prod/snqMKpSiIwucg3NBKnhgJdSr64PNLyv4feQh)
+![](//lh3.googleusercontent.com/7rXxXfkKW3bWh9alKklLmxlO5OXFpFKwswFLlHEROLnojZZxwzyV7NwLt5p7uKDzAOQ=w497)
 
         ① ALL CAPS although not part of brand name  
         ② Special character sequences that are irrelevant to the app  
@@ -1812,15 +2080,15 @@ Examples of common violations
 
 *   Images or text that indicate store performance or ranking, such as 'App of the year', 'No.1', 'Best of Play 20XX', 'Popular', award icons, etc.
     
-    ![](//storage.googleapis.com/support-kms-prod/GNHXjV918PUAaNXl7zxx3pYBqSM0jE6QaKlf)
+    ![](//lh3.googleusercontent.com/eXdbzLCyLl-mJCTGRcUGlakC0WZQUNsUghz0c6U_wK_-L8LeiJxSijezBjGxL_xmhBe5=w300)
     
 *   Images or text that indicate price and promotional information, such as '10% off', '£50 cash back', 'free for limited time only', etc.
     
-    ![](//storage.googleapis.com/support-kms-prod/bBxivNbx2CigaJHoXAVOU0G5BGEXOwboMHkl)
+    ![](//lh3.googleusercontent.com/lRr4QnTHM6ngx4ygJ-Lh96HhxOsQhL59pvzcghTAjJS201OPJXT-DDx6P_PDVGEIc_c=w300)
     
 *   Images or text that indicate Google Play programmes, such as 'Editor’s choice', 'New', etc.
     
-    ![](//storage.googleapis.com/support-kms-prod/SfxN1csctVHjVIsezB6AqSO7Ua82imlJ4iaa)
+    ![](//lh3.googleusercontent.com/8iGlIKnD9kTg9pMI0yY6fWn5EzP4rWpjOUYD8E9iVIHP9NDbUWcuJVBfthE0PmVFdA=w300)
     
 
 #### Here are some examples of inappropriate text, images or videos within your listing:
@@ -1838,12 +2106,30 @@ Examples of common violations
 *   Keep your app’s description succinct and straightforward. Shorter descriptions tend to result in a better user experience, especially on devices with smaller displays. Excessive length, detail, improper formatting or repetition can result in a violation of this policy.
 *   Remember that your listing should be suitable for a general audience. Avoid using inappropriate text, images or videos in your listing and adhere to the guidelines above.
 
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Highlight what's great about your app with facts. | Don't use sexually suggestive content, profanity, or graphic violence. |
+| Ensure your app's title and description accurately describe its functionality. | Don't use repetitive keywords or deceptive claims like "best game ever." |
+| Keep your app's description succinct and straightforward. | Don't use special characters or all caps to manipulate search ranking. |
+| Provide screenshots and videos that reflect your app's actual experience. | Don't use a celebrity's name or a brand's logo without permission. |
+
 Choose a section to give feedback on
 
 - - -
 
 User ratings, reviews and installs
 ==================================
+
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+We prohibit any manipulation of ratings, reviews, or install counts. This includes incentivizing feedback, using forced pop-ups, or paying for fake reviews. You must earn your ratings and installs through a high-quality app and a genuine user experience. Please review the full policy to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 Developers must not attempt to manipulate the placement of any apps on Google Play. This includes, but is not limited to, inflating product ratings, reviews or install counts by illegitimate means, such as fraudulent or incentivised reviews and ratings, or incentivising users to install other apps as the app’s main functionality.
 
@@ -1870,12 +2156,29 @@ Examples of common violations in ratings and reviews
      
 *   Include references to helpful resources such as a support address or FAQ page.
 
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Earn positive ratings and reviews with an excellent user experience. | Don't offer rewards or incentives for ratings or reviews. |
+| Prompt users to leave a rating in a clear, non-deceptive way. | Don't use deceptive pop-ups or force users to rate your app. |
+| Encourage honest feedback and engage with your community. | Don't use automated services to inflate installs or ratings. |
+
 Choose a section to give feedback on
 
 - - -
 
 News and magazines
 ==================
+
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+If your app is a news or magazine app, you must declare it in the Play Console. You must provide a source for each article and update content regularly. You must ensure your app is transparent with users about content sources and your contact information. Please review the full policy to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 All news and magazine apps must declare themselves in the Google Play Console and complete a self declaration. 
 
@@ -1894,6 +2197,16 @@ In addition, news and magazine apps must:
 *   Provide users with clear information about the publishing sources of third-party content (such as when provided by news and magazine aggregator apps). 
 *   Provide users with an in-app content preview prior to purchase (if membership or subscription is required).
 *   Not have affiliate marketing or ad revenue as its primary purpose.
+
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Declare your app as a news or magazine app and complete the self-declaration in Play Console. | Don't have affiliate marketing or ad revenue as your app's primary purpose. |
+| Provide up-to-date and easy-to-find contact information for your new or magazine app. | Don't provide static content or content without a source. |
+| Provide the original publisher or author for every article. | Don't require a subscription without offering an in-app preview. |
+| Update your app's content regularly. |     |
 
 Choose a section to give feedback on
 
@@ -1948,11 +2261,20 @@ Choose a section to give feedback on
 Functionality, content and user experience
 ==========================================
 
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+Apps must be stable, functional, and provide meaningful content. We don't allow apps that crash, have no purpose, or offer a poor user experience. Please review the full policy to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
+
 Apps should provide a stable, responsive and engaging user experience. Apps that crash, do not have the basic degree of adequate utility as mobile apps, lack engaging content or exhibit other behaviour that is not consistent with a functional and engaging user experience are not allowed on Google Play.
 
-#### [COLLAPSE ALL](https://support.google.com/googleplay/android-developer/answer/9898783) [EXPAND ALL](#1&2&3&4&5&6&7&87&9)
+#### [COLLAPSE ALL](https://support.google.com/googleplay/android-developer/answer/9898783) [EXPAND ALL](#1&2&3&4&5&6&7&8&9)
 
-#### Limited functionality and content
+1\. Limited functionality and content
+-------------------------------------
 
 We do not allow apps that only have limited functionality and content.
 
@@ -1964,7 +2286,8 @@ Examples of common violations
 
 ![](//play-kmt.teams.x20web.corp.google.com/no_crawl/arhc/images/minimum_funct1.png)
 
-### Broken functionality
+2\. Broken functionality
+------------------------
 
 We don’t allow apps that crash, force close, freeze or otherwise function abnormally.
 
@@ -1974,12 +2297,39 @@ Examples of common violations
 *   Apps that install, but don't load ![](//lh3.googleusercontent.com/8Stc92Uebx_6XLNG0-cE6IlFertNFab0nNjhdKrihRS3teDiGk1ePWnAcC5w6W_qIg=h839)
 *   Apps that load, but are not responsive ![](//lh3.googleusercontent.com/VG3exQhozTq3qrIuen3HBMeLGDWBtedEkseEgSlyBMVtuYGJQ-OD3gruKvXogAozuDA=h839)
 
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Test your app thoroughly to prevent crashes and bugs. | Don't publish apps that have very little user functionality. |
+| Ensure your app provides unique and meaningful functionality. | Don't publish apps that don't install or install but don't load or respond to the user. |
+| Focus on a seamless and intuitive user experience. |     |
+
 Choose a section to give feedback on
 
 - - -
 
 Google Play Families policies
 =============================
+
+_**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
+**Changes are coming to this article**
+
+This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
+
+We're expanding our [Families Policy Requirements](https://support.google.com/googleplay/android-developer/answer/17122218#families-policy) policy to prohibit developers of anonymous chat apps from targeting children.
+
+(effective from 26 August 2026)
+
+To preview the updated 'Google Play families policies' article, visit [this page](https://support.google.com/googleplay/android-developer/answer/17122218).
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+Apps in the Google Play Families programme must protect children's privacy and comply with all applicable laws. This includes using only certified ad SDKs and prohibiting personalised advertising. If your app is for a mixed audience, you must include a neutral age screen to ensure that children only see non-personalised ads. Apps must have a privacy policy that accurately reflects data collection and handling practices. Please review the full policy to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
 The use of technology as a tool for enriching families' lives continues to grow, and parents are looking for safe, high-quality content to share with their children. You may be designing your apps specifically for children, or your app may just attract their attention. Google Play wants to help you make sure that your app is safe for all users, including families.
 
@@ -1989,7 +2339,8 @@ All apps that comply with Google Play Families policies can opt in to be rated 
 
 #### [COLLAPSE ALL](https://support.google.com/googleplay/android-developer/answer/9893335) [EXPAND ALL](#1&2&3&4&5&6&7&87&9)
 
-### Play Console requirements
+Play Console requirements
+-------------------------
 
 **Target audience and content**
 
@@ -2007,7 +2358,10 @@ We strongly recommend that you let your existing users know if you change the ta
 
 Misrepresentation of any information about your app in the Play Console, including in the target audience and content section, may result in removal or suspension of your app, so it is important to provide accurate information.
 
-### Families policy requirements
+* * *
+
+Families policy requirements
+----------------------------
 
 If one of the target audiences for your app is children, you must comply with the following requirements. Failure to satisfy these requirements may result in app removal or suspension.
 
@@ -2046,6 +2400,8 @@ Examples of common violations
 *   Apps that provide dating services or offer sexual or marital advice.
 *   Apps that contain links to websites that present content that violates Google Play’s [Developer Programme Policies](https://play.google.com/about/developer-content-policy/).
 *   Apps that show mature ads (for example, violent content, sexual content, gambling content) to children. 
+
+* * *
 
 Ads and monetisation
 --------------------
@@ -2086,7 +2442,7 @@ Examples of common violations
 
 *   Monetisation and advertising that move away from a user's finger as the user tries to close it
 *   Monetisation and advertising that do not provide a user with a way to exit the offer after five (5) seconds as depicted in the example below:  
-    ![](//storage.googleapis.com/support-kms-prod/Yney83HbD6X1WyFsKQfZSu3R3dZRYRRe24aq)  
+    ![](//lh3.googleusercontent.com/mwrum9RyEI7fCKwsKySiw7QPrxyYnwJK5IZNe2bdzxW3Rk4HXM1Y1QDpa6VxTc_XHA=w600)  
      
 *   Monetisation and advertising that take up the majority or the device screen without providing the user a clear way to dismiss it, as depicted in the example below:
     
@@ -2119,6 +2475,17 @@ Please refer to the [Families Self-Certified Ads SDK Programme](https://support.
 If you use AdMob, refer to the [AdMob Help Centre](https://support.google.com/admob/answer/6223431) for more details on their products.
 
 It is your responsibility to ensure that your app satisfies all requirements concerning advertisements, in-app purchases and commercial content. Contact your ad SDK provider(s) to learn more about their content policies and advertising practices.
+
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Adhere to laws like COPPA and GDPR regarding children's data. | Don't serve personalized ads to children. |
+| Use certified ad SDKs for apps serving ads to children. | Don't collect personal data persistent identifiers (like AAID or IMEI)from children. |
+| Use a neutral age screen if your app's audience is mixed. | Don't use unapproved SDKs that are not certified for use in child-directed services. |
+| Ensure your privacy policy accurately explains your app's data collection and handling practices. | Don't include inappropriate content such as adult themes, excessive violence, or other inappropriate content. |
+| Accurately declare your app's target age group in Play Console. |     |
 
 Choose a section to give feedback on
 
