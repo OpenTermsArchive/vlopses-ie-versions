@@ -71,7 +71,7 @@ products that may deteriorate or expire rapidly.
 
 Get to know us
 
-*   [About Temu](https://www.temu.com/ie/about-temu.html)
+*   [About Temu](https://www.temu.com/ie/about_temu_home.html)
 *   [Affiliate & Influencer Program: Join to Earn](https://www.temu.com/ie/affiliate_influencer_program.html)
 *   [Contact us](https://www.temu.com/ie/contact-us.html)
 *   [Company Details – Imprint](https://www.temu.com/ie/imprint.html)
