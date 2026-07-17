@@ -185,7 +185,18 @@ NOTE:
 
   
 
-**Return from Bulgaria, Croatia, Cyprus, Estonia, Latvia, Lithuania, Malta, Slovenia, Iceland, Norway**
+**Return from Bulgaria, Croatia, Cyprus, Slovenia**
+
+| Return Method | Return Documentation | Printer Required | Return Fees |
+| --- | --- | --- | --- |
+| Boxnow  <br>Parcel Locker | PIN Code | Yes | The cost of each return label is **4.5 EUR** and will be deducted from your refund. |
+| Self-Return | Depends on your logistics provider |     | You need to pay the return fee directly to your logistics provider, and we Do Not reimburse the costs. |
+
+  
+
+  
+
+**Return from Estonia, Latvia, Lithuania, Malta, Iceland, Norway**
 
 | Return Method | Return Documentation | Printer Required | Return Fees |
 | --- | --- | --- | --- |
