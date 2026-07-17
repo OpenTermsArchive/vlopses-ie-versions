@@ -238,9 +238,9 @@ Examples of common violations
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Protect minors by restricting access to sexual content. | Don't include depictions of sexual nudity, sexually suggestive poses, or sex acts. |
-| Ensure sexual content is a minor fraction of the overall catalog. | Don't distribute content associated with predatory behavior, illegal themes, or bestiality. |
-| Distribute sexual content only within a book/video catalog app. | Don't have content that is lewd, profane, or includes explicit text in your store listing. |
+| Protect minors by restricting access to sexual content. | Don't include depictions of sexual nudity, sexually suggestive poses or sex acts. |
+| Ensure that sexual content is a minor fraction of the overall catalogue. | Don't distribute content associated with predatory behaviour, illegal themes or bestiality. |
+| Distribute sexual content only within a book/video catalogue app. | Don't have content that is lewd, profane or includes explicit text in your store listing. |
 | Avoid actively promoting sexual titles in the app. | Don't promote services interpreted as soliciting sexual acts or non-consensual sexual content. |
 
 * * *
@@ -270,10 +270,10 @@ Examples of common violations
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Familiarize yourself with what constitutes a protected group. | Don't publish apps that incite hatred or violence against individuals or groups. |
-| Review local laws regarding EDSA (Educational, Documentary, Scientific, or Artistic) content related to Nazism. | Don't include content that suggests a protected group is evil, corrupt, or a threat. |
+| Familiarise yourself with what constitutes a protected group. | Don't publish apps that incite hatred or violence against individuals or groups. |
+| Review local laws regarding EDSA (educational, documentary, scientific or artistic) content related to Nazism. | Don't include content that suggests that a protected group is evil, corrupt or a threat. |
 | Remove any content that promotes hate symbols, slurs or stereotypes. | Don't encourage others to discriminate against any individual or group. |
-| Ensure your app does not assert that any group is inferior or inhuman. | Don't use flags, symbols, or insignia associated with hate groups. |
+| Ensure that your app does not assert that any group is inferior or inhuman. | Don't use flags, symbols or insignia associated with hate groups. |
 
 * * *
 
@@ -314,9 +314,9 @@ We don't allow apps with content related to violent extremism, or content relate
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Provide relevant EDSA (Educational, Documentary, Scientific, or Artistic) context for any content related to violent extremism. | Don't publish apps from terrorist or other dangerous organizations. |
-| Ensure your app and its content do not belong to or promote a terrorist or dangerous organization. | Don't include content that promotes or incites violence. |
-| Review your app to ensure it doesn't glorify, plan, or celebrate acts of violence. | Don't use your app for recruitment into dangerous organizations. |
+| Provide relevant EDSA (educational, documentary, scientific or artistic) context for any content related to violent extremism. | Don't publish apps from terrorist or other dangerous organisations. |
+| Ensure that your app and its content do not belong to or promote a terrorist or dangerous organisation. | Don't include content that promotes or incites violence. |
+| Review your app to ensure that it doesn't glorify, plan or celebrate acts of violence. | Don't use your app for recruitment into dangerous organisations. |
 | Adhere to all local laws regarding sensitive content. | Don't post content that glorifies or prepares for violent acts. |
 
 * * *
@@ -374,9 +374,9 @@ We don't allow apps that provide instructions for the manufacture of explosives,
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Ensure your app does not facilitate the sale of restricted firearms accessories. | Don't publish an app that facilitates the sale of explosives, firearms, or ammunition. |
-| Remove any instructions on converting firearms to automatic firing capabilities. | Don't allow the sale of firearm accessories that simulate or enable automatic fire. |
-|     | Don't include instructions for creating weapons or restricted firearm accessories. |
+| Ensure that your app does not facilitate the sale of restricted firearms accessories. | Don't publish an app that facilitates the sale of explosives, firearms or ammunition. |
+| Remove any instructions on converting firearms to automatic firing capabilities. | Don't allow the sale of firearms accessories that simulate or enable automatic fire. |
+|     | Don't include instructions for creating weapons or restricted firearms accessories. |
 
 * * *
 
@@ -424,11 +424,11 @@ Additional information
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Provide age-gating safeguards for the sale of alcohol and for limited sale of tobacco in food/grocery apps. | Don't facilitate the sale of tobacco, e-cigarettes, or nicotine pouches. |
+| Provide age-verification safeguards for the sale of alcohol and for limited sale of tobacco in food/grocery apps. | Don't facilitate the sale of tobacco, e-cigarettes or nicotine pouches. |
 |     | Don't encourage the use of alcohol or tobacco by minors. |
 |     | Don't advertise or promote tobacco products, including links to selling sites. |
-|     | Don't imply that using tobacco improves social, professional, or intellectual standing. |
-|     | Don't portray excessive drinking favorably. |
+|     | Don't imply that using tobacco improves social, professional or intellectual standing. |
+|     | Don't portray excessive drinking favourably. |
 
 Choose a section to give feedback on
 
@@ -612,7 +612,7 @@ _**Disclaimer:** Policy summaries and key considerations are overviews only; alw
 
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
-While Google Play generally prohibits apps from facilitating real-money gambling and gaming, an exception is made for those that are licensed and approved by Google. All approved apps must be free to download, must not use In-app Billing, and must prevent access for minors and unauthorized locations. Please review the full policy to ensure compliance.
+While Google Play generally prohibits apps from facilitating real-money gambling and gaming, an exception is made for those that are licensed and approved by Google. All approved apps must be free of charge to download, must not use in-app billing and must prevent access for minors and unauthorised locations. Please review the full policy to ensure compliance.
 
 ![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
@@ -760,7 +760,7 @@ _**Disclaimer:** Policy summaries and key considerations are overviews only; alw
 
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
-Apps with user-generated content must have robust moderation to ensure a safe environment. You must provide clear terms of use, an in-app system for reporting objectionable content, and a function for users to block others. Incidental sexual content must be filtered by default and restricted from minors. Please review the full policy to ensure compliance.
+Apps with user-generated content must have robust moderation to ensure a safe environment. You must provide clear Terms of Use, an in-app system for reporting objectionable content and a function for users to block others. Incidental sexual content must be filtered by default and restricted from minors. Please review the full policy to ensure compliance.
 
 ![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
@@ -801,7 +801,7 @@ Examples of common violations
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Require users to accept your app's terms of use before they create or upload UGC. | Don't allow objectionable content to go unmoderated or unaddressed. |
+| Require users to accept your app's Terms of Use before they create or upload UGC. | Don't allow objectionable content to go unmoderated or unaddressed. |
 | Provide a user-friendly, in-app system for reporting objectionable content and users. | Don't promote or recommend sexual content in your app. |
 | Implement a user-blocking function for one-on-one interactions. | Don't allow minors to access apps that may contain sexual content. |
 | Hide incidental sexual content behind a filter that is on by default and requires multiple actions to disable. | Don't build an app whose primary purpose is to host objectionable UGC. |
@@ -1623,8 +1623,8 @@ For frequently asked questions about the impersonation policy, see this [Help Ce
 | --- | --- |
 | **Do** | **Don't** |
 | Accurately represent your identity as a developer and your app's purpose. | Don't conceal your identity or app's primary purpose. |
-| Ensure your ownership details are truthful. | Don't coordinate with others to mislead users, especially for political or social content. |
-|     | Don't falsely imply an affiliation or relationship with another company, developer, entity, or organization. |
+| Ensure that your ownership details are truthful. | Don't coordinate with others to mislead users, especially for political or social content. |
+|     | Don't falsely imply an affiliation or relationship with another company, developer, entity or organisation. |
 
 Choose a section to give feedback on
 
@@ -2036,8 +2036,8 @@ It is your responsibility to ensure that any ad networks, affiliates or ads ass
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Ensure all ads and promotional content are honest and clearly labeled. | Don't use promotion tactics that force a user to download your app. |
-| Vet your ad networks and affiliates to ensure they comply with policies. | Don't use misleading text or imagery in your ad to elicit downloading your app. |
+| Ensure that all ads and promotional content are honest and clearly labelled. | Don't use promotion tactics that force a user to download your app. |
+| Vet your ad networks and affiliates to ensure that they comply with policies. | Don't use misleading text or imagery in your ad to elicit downloading your app. |
 | Use only transparent promotion methods that require informed user action. |     |
 
 Choose a section to give feedback on
@@ -2051,7 +2051,7 @@ _**Disclaimer:** Policy summaries and key considerations are overviews only; alw
 
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
-App metadata like titles, icons, and descriptions must be honest, relevant, and suitable for all audiences. We prohibit deceptive claims, spammy keywords, and inappropriate content such as profanity or graphic violence. You must ensure your app's metadata accurately reflects its functionality and is appropriate for all users. Please review the full policy to ensure compliance.
+App metadata like titles, icons and descriptions must be honest, relevant and suitable for all audiences. We prohibit deceptive claims, spammy keywords and inappropriate content such as profanity or graphic violence. You must ensure that your app's metadata accurately reflects its functionality and is appropriate for all users. Please review the full policy to ensure compliance.
 
 ![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
@@ -2111,8 +2111,8 @@ Examples of common violations
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Highlight what's great about your app with facts. | Don't use sexually suggestive content, profanity, or graphic violence. |
-| Ensure your app's title and description accurately describe its functionality. | Don't use repetitive keywords or deceptive claims like "best game ever." |
+| Highlight what's great about your app with facts. | Don't use sexually suggestive content, profanity or graphic violence. |
+| Ensure that your app's title and description accurately describe its functionality. | Don't use repetitive keywords or deceptive claims like 'best game ever'. |
 | Keep your app's description succinct and straightforward. | Don't use special characters or all caps to manipulate search ranking. |
 | Provide screenshots and videos that reflect your app's actual experience. | Don't use a celebrity's name or a brand's logo without permission. |
 
@@ -2176,7 +2176,7 @@ _**Disclaimer:** Policy summaries and key considerations are overviews only; alw
 
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
-If your app is a news or magazine app, you must declare it in the Play Console. You must provide a source for each article and update content regularly. You must ensure your app is transparent with users about content sources and your contact information. Please review the full policy to ensure compliance.
+If your app is a news or magazine app, you must declare it in the Play Console. You must provide a source for each article and update content regularly. You must ensure that your app is transparent with users about content sources and your contact information. Please review the full policy to ensure compliance.
 
 ![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
@@ -2204,7 +2204,7 @@ In addition, news and magazine apps must:
 | --- | --- |
 | **Do** | **Don't** |
 | Declare your app as a news or magazine app and complete the self-declaration in Play Console. | Don't have affiliate marketing or ad revenue as your app's primary purpose. |
-| Provide up-to-date and easy-to-find contact information for your new or magazine app. | Don't provide static content or content without a source. |
+| Provide up-to-date and easy-to-find contact information for your news or magazine app. | Don't provide static content or content without a source. |
 | Provide the original publisher or author for every article. | Don't require a subscription without offering an in-app preview. |
 | Update your app's content regularly. |     |
 
@@ -2303,7 +2303,7 @@ Examples of common violations
 | --- | --- |
 | **Do** | **Don't** |
 | Test your app thoroughly to prevent crashes and bugs. | Don't publish apps that have very little user functionality. |
-| Ensure your app provides unique and meaningful functionality. | Don't publish apps that don't install or install but don't load or respond to the user. |
+| Ensure that your app provides unique and meaningful functionality. | Don't publish apps that don't install or install but don't load or respond to the user. |
 | Focus on a seamless and intuitive user experience. |     |
 
 Choose a section to give feedback on
