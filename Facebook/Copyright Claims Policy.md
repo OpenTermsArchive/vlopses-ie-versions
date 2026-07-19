@@ -2267,9 +2267,9 @@ Related articles
 
 [What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
-
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
+
+[What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
@@ -2283,13 +2283,13 @@ Related articles
 
 * * *](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[What information do I need to include in a trademark report to Meta?
-
-* * *](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
-
 [Repeated intellectual property infringement on Facebook
 
 * * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
+
+[What information do I need to include in a trademark report to Meta?
+
+* * *](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
