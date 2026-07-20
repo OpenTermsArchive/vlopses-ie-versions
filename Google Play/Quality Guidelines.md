@@ -36,7 +36,7 @@ If you do not agree with the rating assigned to your app, you can appeal directl
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Be honest and accurate when filling out the questionnaire. | Don't misrepresent your app's content on the rating questionnaire. |
+| Be honest and accurate when filling in the questionnaire. | Don't misrepresent your app's content on the rating questionnaire. |
 | Submit a new questionnaire whenever your app's content changes. | Don't allow ads that are significantly more mature than your app's content. |
 |     | Don't forget to retake the questionnaire if you change the content in your app. |
 
