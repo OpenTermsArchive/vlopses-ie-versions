@@ -19,9 +19,9 @@ If you include third-party code (for example, an SDK) in your app, you must ensu
 | --- | --- |
 | **Do** | **Don't** |
 | Ensure that your app does not link persistent IDs to resettable device identifiers. | Don't link IMEI with a user's location. |
-| Stop third-party SDKs in your app from linking these types of device identifiers within your app. | Don't allow third-party SDKs in your app to associate the Android Advertising ID with a SIM Serial Number. |
+| Stop third-party SDKs in your app from linking these types of device identifiers within your app. | Don't allow third-party SDKs in your app to associate the Android advertising ID with a SIM serial number. |
 | Remove third-party SDKs in your app that cannot be modified to comply with this policy. | Don't collect persistent device identifiers and combine them with sensitive user data. |
-| Prominently disclose your uses to users as specified in the User Data policy if your app qualifies for an exception to this requirement (Telephony linked to a SIM identity or enterprise device management apps using device owner mode). |     |
+| Prominently disclose your uses to users as specified in the user data policy if your app qualifies for an exception to this requirement (telephony linked to a SIM identity or enterprise device management apps using device owner mode). |     |
 
 #### [COLLAPSE ALL](https://support.google.com/googleplay/android-developer/answer/9888076) [EXPAND ALL](#1&2&3&4&5&6&7&87&9)
 
@@ -53,7 +53,7 @@ Personal and sensitive user data includes, but isn't limited to, personally iden
 | Have a valid privacy policy in both the app's store listing and within the app itself. | Don't provide misleading or inaccurate information about your data practices. |
 | Disclose your data collection and sharing practices in the Play Console's Data safety section. | Don't collect data that is not critical to your app's core purpose. |
 | Obtain clear, affirmative user consent before collecting any personal or sensitive data. | Don't sell personal and sensitive user data. |
-| Protect all user data with appropriate security measures, including modern cryptography for data in transit. | Don't violate child safety policies. If your app is for children, you must comply with the [Google Play Families](https://support.google.com/googleplay/android-developer/answer/9893335) policy, which includes specific rules for handling user data. |
+| Protect all user data with appropriate security measures, including modern cryptography for data in transit. | Don't violate child safety policies. If your app is for children, you must comply with the [Google Play families policy](https://support.google.com/googleplay/android-developer/answer/9893335), which includes specific rules for handling user data. |
 | Only collect and use data that is necessary for your app's functionality. | Don't collect data without the user's consent or manipulate them into giving it. |
 | Allow account deletion. This must be available both in-app and on an external web resource. | Don't neglect account deletion. Provide a clear and easy way for users to delete their accounts and data. Account freezing is not a valid substitute. |
 
@@ -116,11 +116,11 @@ Refer to this [article](https://support.google.com/googleplay/android-developer
 | --- | --- |
 | **Do** | **Don't** |
 | Provide prominent, accessible, in-app disclosure of data handling. | Don't handle sensitive data beyond user expectation without prior, prominent in-app disclosure. |
-| Clearly describe all sensitive data access, use, and sharing. | Don't attempt to hide data practices or evade disclosure requirements. |
+| Clearly describe all sensitive data access, use and sharing. | Don't attempt to hide data practices or evade disclosure requirements. |
 | Present disclosure _before_ requesting consent or permissions. | Don't use passive user actions (like backing out) as consent. |
-| Require a clear, affirmative user action to grant consent. | Don't implement auto-dismissing popups for consent purposes. |
-| Ensure disclosure highlights relevant permissions. | Don't request permissions before the user has seen disclosure. |
-| Familiarize yourself with common policy violations related to disclosure/consent. | Don't fail to provide a descriptive and accessible disclosure format. |
+| Require a clear, affirmative user action to grant consent. | Don't implement auto-dismissing pop-ups for consent purposes. |
+| Ensure that disclosure highlights relevant permissions. | Don't request permissions before the user has seen disclosure. |
+| Familiarise yourself with common policy violations related to disclosure/consent. | Don't fail to provide a descriptive and accessible disclosure format. |
 
 * * *
 
@@ -150,8 +150,8 @@ In addition to the requirements above, the table below describes requirements fo
 | --- | --- |
 | **Do** | **Don't** |
 | Handle contacts securely. | Don't publicly disclose any financial information or government ID numbers. |
-| Ensure any SDKs used in child-directed apps are approved for that purpose. | Don't disclose sensitive data publicly. Do not make financial data or government IDs public. |
-| Disclose data use for security apps. If your app has anti-virus or security features, its privacy policy must clearly explain all data collection and sharing. | Don’t publish or share people's non-public contacts without authorization. |
+| Ensure that any SDKs used in child-directed apps are approved for that purpose. | Don't disclose sensitive data publicly. Do not make financial data or government IDs public. |
+| Disclose data use for security apps. If your app has antivirus or security features, its privacy policy must clearly explain all data collection and sharing. | Don't publish or share people's non-public contacts without authorisation. |
 | Only link persistent identifiers (like IMEI) to other user data for specific telephony or enterprise management purposes. | Don't use unapproved SDKs for children's apps. Do not include unapproved SDKs in apps targeting children. |
 | Disclose use of identifiers. All permitted uses of persistent identifiers must be prominently disclosed to users. | Don't link identifiers unnecessarily. Avoid linking persistent identifiers to other user data unless for the two approved use cases. |
 
@@ -177,7 +177,7 @@ Please refer to [this article](https://support.google.com/googleplay/android-dev
 | **Do** | **Don't** |
 | Share your privacy policy in Play Console and within the app itself. | Don't attempt to hide data collection or usage from users. |
 | Provide prominent and accessible in-app data disclosure and obtain user consent via affirmative action when required. Affirmative action means that the user must complete an action in order to indicate that they agree. Update regularly information in your app's Data safety section and your privacy policy as you change how your app handles user data. | Don't request device permissions before users have provided their consent. |
-| Verify data handling procedures of all third parties (SDKs). This is an important opportunity to audit your app, know your code, and what you integrate into it. Many SDKs share their data practices on Play SDK Index. | Don't use auto-dismissing consent popups when affirmative action is required to obtain user consent. |
+| Verify data handling procedures of all third parties (SDKs). This is an important opportunity to audit your app, know your code and what you integrate into it. Many SDKs share their data practices on Play SDK Index. | Don't use auto-dismissing consent pop-ups when affirmative action is required to obtain user consent. |
 
 * * *
 
@@ -207,13 +207,13 @@ Please make sure that your privacy policy is available on an active, publicly ac
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Ensure your comprehensive privacy policy is linked in Play Console. | Don't omit any user or device data handling from your privacy policy. |
+| Ensure that your comprehensive privacy policy is linked in Play Console. | Don't omit any user or device data handling from your privacy policy. |
 | Make your privacy policy accessible from within the app. | Don't fail to include required app/company identification in the privacy policy. |
-| Accurately disclose all data access, collection, use, and sharing in the policy. | Don't present account freezing as a substitute for deletion. |
+| Accurately disclose all data access, collection, use and sharing in the policy. | Don't present account freezing as a substitute for deletion. |
 | Include your app name and company details in the policy. | Don't create any difficulties or hidden steps for users deleting their account. |
 | Implement a clear, accessible process for user account deletion. | Don't fail to permanently delete all user data upon account deletion. |
-| Upon account deletion, ensure all associated user data is deleted. | Don't neglect to complete and maintain the Data safety section accurately. |
-| Ensure your privacy policy is globally accessible. |     |
+| Upon account deletion, ensure that all associated user data is deleted. | Don't neglect to complete and maintain the Data safety section accurately. |
+| Ensure that your privacy policy is globally accessible. |     |
 
 * * *
 
@@ -238,11 +238,11 @@ To learn more about account deletion policy requirements, please review this [He
 | --- | --- |
 | **Do** | **Don't** |
 | Offer a clear account deletion option within your app. | Don't fail to provide both an in-app and external deletion method. |
-| Provide an accessible external web resource for account deletion. | Don't create any hidden patterns or undue rigor in the deletion process. |
-| Ensure the user process for deletion is straightforward and free of obstacles. | Don't use account freezing as a substitute for deletion. |
+| Provide an accessible external web resource for account deletion. | Don't create any hidden patterns or undue rigour in the deletion process. |
+| Ensure that the user process for deletion is straightforward and free of obstacles. | Don't use account freezing as a substitute for deletion. |
 | Upon user request, delete _all_ data associated with their account. | Don't fail to delete _all_ associated user data upon account deletion request. |
 | Clearly disclose any necessary (e.g. regulatory compliance) data retention in your privacy policy. | Don't provide broken or outdated links to the external deletion resource page. |
-| Ensure your deletion resources clearly reference your app/service. | Don't omit necessary data retention information from your privacy policy. |
+| Ensure that your deletion resources clearly reference your app/service. | Don't omit necessary data retention information from your privacy policy. |
 
 * * *
 
@@ -295,11 +295,11 @@ You must monitor your compliance with these conditions on a regular basis. If, a
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Adhere to all applicable privacy, data security, and data protection laws (e.g., GDPR). | Don't ignore privacy laws, as failing to comply with applicable laws is a policy violation. |
+| Adhere to all applicable privacy, data security and data protection laws (e.g. GDPR). | Don't ignore privacy laws, as failing to comply with applicable laws is a policy violation. |
 | Only access and use personal data for purposes consistent with user consent. | Don't access or process personal data for any purpose that a user has not consented to. |
-| Implement technical and organizational measures to secure EU Personal Information. | Don't avoid insecurely handling personal data, which could lead to loss or misuse. |
-| If you are unable to meet these conditions, you must immediately notify Google's data-protection-office@google.com and take corrective action. | Don't fail to notify Google. If you can't comply with these conditions, you must inform Google immediately. |
-| Regularly monitor compliance, ensuring you consistently meet these conditions, especially following regulatory or legal updates to applicable policies. | Don't sell or transfer user data without meeting all legal and policy requirements. |
+| Implement technical and organisational measures to secure EU personal information. | Don't avoid insecurely handling personal data, which could lead to loss or misuse. |
+| If you are unable to meet these conditions, you must immediately notify Google at data-protection-office@google.com and take corrective action. | Don't fail to notify Google. If you can't comply with these conditions, you must inform Google immediately. |
+| Regularly monitor compliance, ensuring that you consistently meet these conditions, especially following regulatory or legal updates to applicable policies. | Don't sell or transfer user data without meeting all legal and policy requirements. |
 
 Choose a section to give feedback on
 
