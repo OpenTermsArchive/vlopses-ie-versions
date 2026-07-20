@@ -176,9 +176,9 @@ Learn more here about these requirements and how to comply in our [Help Centre](
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Ensure your app does not contain or facilitate child sexual abuse material (CSAM) or endanger children. | Don't allow the creation, upload, or distribution of content that facilitates child exploitation. |
-| Remove inappropriate content such as adult themes, excessive violence, or content that promotes negative body image. | Don't use your app to befriend a child for sexual purposes or to exchange sexual imagery. |
-| Comply with Child Safety Standards, including social or dating apps. | Don't fail to comply with the Child Safety Standards policy. |
+| Ensure that your app does not contain or facilitate child sexual abuse material (CSAM) or endanger children. | Don't allow the creation, upload or distribution of content that facilitates child exploitation. |
+| Remove inappropriate content such as adult themes, excessive violence or content that promotes negative body image. | Don't use your app to befriend a child for sexual purposes or to exchange sexual imagery. |
+| Comply with child safety standards, including social or dating apps. | Don't fail to comply with the Child Safety Standards policy. |
 | Report abuse. If you find content that exploits children, report it to authorities. | Don't ignore reports. You must take appropriate action on all reports of CSAE and CSAM. |
 
 Choose a section to give feedback on
@@ -201,11 +201,11 @@ Sexual content and profanity
 
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
-We don't allow apps on Google Play that contain or promote sexual content or profanity. This includes pornography and content or services intended to be sexually gratifying or to solicit sexual acts for compensation. You must ensure your apps are not promoting or facilitating such activities or material. 
+We don't allow apps on Google Play that contain or promote sexual content or profanity. This includes pornography and content or services intended to be sexually gratifying or to solicit sexual acts for compensation. You must ensure that your apps are not promoting or facilitating such activities or material. 
 
-We grant an exemption for apps containing nudity if the primary objective is educational, documentary, scientific, or artistic (EDSA), provided the content is contextually justified and non-gratuitous. 
+We grant an exemption for apps containing nudity if the primary objective is educational, documentary, scientific or artistic (EDSA), provided that the content is contextually justified and non-gratuitous. 
 
-The catalog apps that primarily offer books or videos may be exempted. These apps can distribute a minor fraction of sexual content as long as it is not actively promoted and access is restricted to minors. 
+Catalogue apps that primarily offer books or videos may be exempted. These apps can distribute a minor fraction of sexual content as long as it is not actively promoted and access is restricted to minors. 
 
 Please review the full policy to ensure compliance.
 
@@ -282,7 +282,7 @@ Violence
 
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
-Apps that contain gratuitous violence or dangerous activities are prohibited. You must not promote representation or encouragement of such material. Apps that depict fictional violence in the context of a game, such as cartoons, hunting or fishing, are generally allowed.Please review the full policy to ensure compliance.
+Apps that contain gratuitous violence or dangerous activities are prohibited. You must not promote representation or encouragement of such material. Apps that depict fictional violence in the context of a game, such as cartoons, hunting or fishing, are generally allowed. Please review the full policy to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
@@ -301,7 +301,7 @@ Violent extremism
 
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
-We don't allow apps from dangerous organizations or those with content that promote or glorifies violent extremism. You must provide EDSA context to attain an exception. Please review the full policy to ensure compliance.
+We don't allow apps from dangerous organisations or those with content that promote or glorify violent extremism. You must provide EDSA context to attain an exception. Please review the full policy to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
@@ -385,7 +385,7 @@ Marijuana
 
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
-Apps that facilitate the sale of marijuana or its products are not allowed irrespective of legality. You must not allow users to order marijuana through an in-app shopping cart feature . Please review the full policy and common violations to ensure compliance.
+Apps that facilitate the sale of marijuana or its products are not allowed irrespective of legality. You must not allow users to order marijuana through an in-app shopping basket feature. Please review the full policy and common violations to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
@@ -404,7 +404,7 @@ Tobacco and alcohol
 
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
-Apps that facilitate the sale of tobacco or products containing nicotine (such as e-cigarettes, vape pens and nicotine pouches) OR encourage the illegal or inappropriate use of alcohol, tobacco, or nicotine are not allowed. Please review the full policy to ensure compliance.
+Apps that facilitate the sale of tobacco or products containing nicotine (such as e-cigarettes, vape pens and nicotine pouches) OR encourage the illegal or inappropriate use of alcohol, tobacco or nicotine are not allowed. Please review the full policy to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
@@ -493,7 +493,7 @@ Loans
 
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
-Apps that offer personal loans must meet specific requirements to protect users from predatory or misleading practices. You must clearly disclose all loan terms in your app's store listing, including the maximum annual percentage rate (APR) and the minimum and maximum repayment period. Loans must not require full repayment in 60 days or less from the date the loan is issued. You also cannot offer loans in the United States with an APR of 36% or higher. Additionally, lending apps are prohibited from accessing sensitive user data such as contacts or photos. You are responsible for complying with all applicable local laws and regulations. Please review the full policy to ensure compliance.
+Apps that offer personal loans must meet specific requirements to protect users from predatory or misleading practices. You must clearly disclose all loan terms in your app's store listing, including the maximum annual percentage rate (APR) and the minimum and maximum repayment period. Loans must not require full repayment in 60 days or less from the date that the loan is issued. You also cannot offer loans in the United States with an APR of 36% or higher. Additionally, lending apps are prohibited from accessing sensitive user data such as contacts or photos. You are responsible for complying with all applicable local laws and regulations. Please review the full policy to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
@@ -728,11 +728,11 @@ We only allow daily fantasy sports (DFS) apps, as defined by applicable local la
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Check the markets and game types that Google allows for real-money gambling and gaming. | Don't let minors access the app or incorrectly age-rate your app. |
-| Ensure you have a valid license for each game type and each country where you want your app distributed. | Don't allow users in unapproved locations to use the app or access unapproved game types. |
+| Check the markets and game types that Google allows for real-money gambling and gaming. | Don't let minors access the app or incorrectly age-rate your app. |
+| Ensure that you have a valid licence for each game type and each country where you want your app distributed. | Don't allow users in unapproved locations to use the app or access unapproved game types. |
 | Submit an application with all the relevant and required documentation. | Don't distribute an app that facilitates real-money gambling or gaming without submitting an application and being approved. |
-| Ensure your app is rated correctly, provides age verification and is restricted to users where the app is authorized by Google Play for distribution. | Don't charge users to download a real-money gambling or gaming app from Google Play. |
-| Provide information about responsible real-money gambling and gaming on your app's store listing. | Don't use Google Play's In-app Billing for payments within your app. |
+| Ensure that your app is rated correctly, provides age verification and is restricted to users where the app is authorised by Google Play for distribution. | Don't charge users to download a real-money gambling or gaming app from Google Play. |
+| Provide information about responsible real-money gambling and gaming on your app's store listing. | Don't use Google Play's In-App Billing for payments within your app. |
 
 Choose a section to give feedback on
 
@@ -1582,7 +1582,7 @@ _**Disclaimer:** Policy summaries and key considerations are overviews only; alw
 
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
-Google Play prohibits apps and developer accounts that impersonate or misrepresent their identity, ownership, or primary purpose. You must not coordinate with others to mislead users. Please review the full policy to ensure compliance.
+Google Play prohibits apps and developer accounts that impersonate or misrepresent their identity, ownership or primary purpose. You must not coordinate with others to mislead users. Please review the full policy to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
@@ -2014,7 +2014,7 @@ _**Disclaimer:** Policy summaries and key considerations are overviews only; alw
 
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
-We don't allow deceptive or harmful promotion practices, including misleading ads and forced installs. You are responsible for the actions of your ad networks and affiliates. You must ensure all app promotion is transparent and fully compliant with all Google Play policies. Please review the full policy to ensure compliance.
+We don't allow deceptive or harmful promotion practices, including misleading ads and forced installs. You are responsible for the actions of your ad networks and affiliates. You must ensure that all app promotion is transparent and fully compliant with all Google Play policies. Please review the full policy to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
@@ -2127,7 +2127,7 @@ _**Disclaimer:** Policy summaries and key considerations are overviews only; alw
 
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
-We prohibit any manipulation of ratings, reviews, or install counts. This includes incentivizing feedback, using forced pop-ups, or paying for fake reviews. You must earn your ratings and installs through a high-quality app and a genuine user experience. Please review the full policy to ensure compliance.
+We prohibit any manipulation of ratings, reviews or install counts. This includes incentivising feedback, using forced pop-ups or paying for fake reviews. You must earn your ratings and installs through a high-quality app and a genuine user experience. Please review the full policy to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
@@ -2265,7 +2265,7 @@ _**Disclaimer:** Policy summaries and key considerations are overviews only; alw
 
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
-Apps must be stable, functional, and provide meaningful content. We don't allow apps that crash, have no purpose, or offer a poor user experience. Please review the full policy to ensure compliance.
+Apps must be stable, functional and provide meaningful content. We don't allow apps that crash, have no purpose or offer a poor user experience. Please review the full policy to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
@@ -2481,10 +2481,10 @@ It is your responsibility to ensure that your app satisfies all requirements con
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Adhere to laws like COPPA and GDPR regarding children's data. | Don't serve personalized ads to children. |
-| Use certified ad SDKs for apps serving ads to children. | Don't collect personal data persistent identifiers (like AAID or IMEI)from children. |
+| Adhere to laws like COPPA and GDPR regarding children's data. | Don't serve personalised ads to children. |
+| Use certified ad SDKs for apps serving ads to children. | Don't collect personal data persistent identifiers (like AAID or IMEI) from children. |
 | Use a neutral age screen if your app's audience is mixed. | Don't use unapproved SDKs that are not certified for use in child-directed services. |
-| Ensure your privacy policy accurately explains your app's data collection and handling practices. | Don't include inappropriate content such as adult themes, excessive violence, or other inappropriate content. |
+| Ensure that your privacy policy accurately explains your app's data collection and handling practices. | Don't include inappropriate content such as adult themes, excessive violence or other inappropriate content. |
 | Accurately declare your app's target age group in Play Console. |     |
 
 Choose a section to give feedback on
