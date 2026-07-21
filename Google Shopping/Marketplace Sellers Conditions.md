@@ -4874,7 +4874,7 @@ Google provides translated versions of the Advertising Policies Help Center, tho
 
 [About Google Ads policy account suspensions](https://www.youtube.com/watch?v=S2FOyZ5Vzs8)
 
-For subtitles in your language, turn on YouTube captions. Select the Settings icon found in the video player, then select **Subtitles/CC** and choose your language.
+To see subtitles in your language, [turn on YouTube captions](https://support.google.com/youtube/answer/100078). Select the Settings icon at the bottom of the video player, select "Subtitles," and then specify your language.
 
 * * *
 
