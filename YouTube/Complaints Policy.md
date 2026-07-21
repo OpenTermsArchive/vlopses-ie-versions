@@ -102,10 +102,11 @@ This information is published pursuant to Article 18(2) of the [European Media F
 
 | Channel Name | National Regulatory Authority |
 | --- | --- |
-| ARD Food | SWR Rundfunkrat |
+| ARD Food | SWR Runfunkrat |
 | Adoptivbrüder - mit Hannes und Jeremy | SWR Rundfunkrat |
 | Aleksi Rantamaa - Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| BKTelevizija | Agencija za komunikacijska omrežja in storitve Republike Slovenije (akos) |
+| BKTelevizija | Agencija za komunikacijska omrežja in storitve Republike Slovenije ( akos ) |
+| BussiBlaBla | Kommunikationsbehörde Austria (KommAustria) |
 | C'saint-jo TV | ARCOM |
 | CORDOPOLIS | CNMV |
 | Ca Va Chez vous | ARCOM |
@@ -139,6 +140,12 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | Mikä keissi? – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Mosaïk Cristal | ARCOM |
 | NieuwsbladOnline | Vlaamse Regulator voor de Media |
+| ORFHallowasmachstDu | Kommunikationsbehörde Austria (KommAustria) |
+| ORFKONTEXT | Kommunikationsbehörde Austria (KommAustria) |
+| ORFPodcast/search | Kommunikationsbehörde Austria (KommAustria) |
+| ORFSuedtirol | Kommunikationsbehörde Austria (KommAustria) |
+| ORFZIBerklaert | Kommunikationsbehörde Austria (KommAustria) |
+| ORFZeitimBild | Kommunikationsbehörde Austria (KommAustria) |
 | Observador | ERC - Entidade Reguladora para a Comunicação Social |
 | Pavlovin Rotat | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Poikelus – YleX | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
@@ -151,6 +158,7 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | Radio Študent | Agencija za omrežje in komunikacije Republike Slovenije |
 | Rai | Autorità per le Garanzie nelle Comunicazioni (AGCOM) |
 | RecordPortugal | Entidade Reguladora para a Comunicação Social (ERC) |
+| ReportFan | Kommunikationsbehörde Austria (KommAustria) |
 | Riojacom-oy6nt | Olivia García Pérez |
 | Robomestarit | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | SONG TINDERN | SWR Rundfunkrat |
@@ -158,8 +166,8 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | SWR Aktuell | SWR Rundfunkrat |
 | SWR DRM | SWR Rundfunkrat |
 | SWR Wissen | SWR Rundfunkrat |
-| Siol.net | AKOS |
-| [Svenska.yle.fi](http://svenska.yle.fi/) | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| [Siol.net](https://siol.net/) | AKOS |
+| [Svenska.yle.fi](https://svenska.yle.fi/) | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | TEEN | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Tarmac | Conseil Supérieur de l'Audiovisuel |
 | Tiede-Henkka – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
@@ -224,14 +232,21 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | marjuttuulikki - Yle | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | metinalista1 | Ministry of culture |
 | metronieuws | Commissariaat voor de Media, Raad voor de Journalistiek |
+| navidfragtnach | Kommunikationsbehörde Austria (KommAustria) |
 | now\_canal\_oficial | Entidade Reguladora para a Comunicação Social (ERC) |
 | nrc\_nl | Commissariaat voor de Media, Raad voor de Journalistiek |
 | nsmbl | Commissariaat voor de Media, Raad voor de Journalistiek |
-| orfkontext | Kommunikationsbehörde Austria |
+| oe3hitradio | Kommunikationsbehörde Austria (KommAustria) |
+| orfmy9to5-Jobwahrheiten | Kommunikationsbehörde Austria (KommAustria) |
+| orfon | Kommunikationsbehörde Austria (KommAustria) |
+| orfradiovorarlberg | Kommunikationsbehörde Austria (KommAustria) |
+| orfsport | Kommunikationsbehörde Austria (KommAustria) |
 | petsandcompanyofficial | Entidade Reguladora para a Comunicação Social (ERC) |
 | radio1slovenia | Agencija za komunikacijska omrežja in storitve Republike Slovenije |
+| radiowienchor2310 | Kommunikationsbehörde Austria (KommAustria) |
 | revistasabado | Entidade Reguladora para a Comunicação Social (ERC) |
 | sikkomgroningen2621 | Commissariaat voor de Media, Raad voor de Journalistiek |
+| silviakochtforfans6017/videos | Kommunikationsbehörde Austria (KommAustria) |
 | spilnews | Commissariaat voor de Media, Raad voor de Journalistiek |
 | summeriVLOG | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | telesport300 | Commissariaat voor de Media, Raad voor de Journalistiek |
