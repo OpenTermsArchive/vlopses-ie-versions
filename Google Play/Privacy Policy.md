@@ -251,7 +251,7 @@ Usage of app set ID
 
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
-The App Set ID is intended to support essential non-ads use cases such as analytics and fraud prevention. It must not be used for ads personalization and ads measurement or associated with personally-identifiable information or other device identifiers (for example, Android Advertising ID). You must be transparent, so disclose any collection and usage of App Set ID to users in a legally adequate privacy notification. Please review the full policy to ensure compliance.
+The app set ID is intended to support essential non-ads use cases such as analytics and fraud prevention. It must not be used for ads personalisation and ads measurement or associated with personally identifiable information or other device identifiers (for example, Android advertising ID). You must be transparent, so disclose any collection and usage of app set ID to users in a legally adequate privacy notification. Please review the full policy to ensure compliance.
 
 ![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD)**Full** **Policy**
 
