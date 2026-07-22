@@ -311,17 +311,17 @@ Today
 
 Mar 19, 2026
 
-Feb 8, 2024
+Feb 9, 2024
 
-Dec 29, 2023
+Dec 30, 2023
 
 Aug 29, 2023
 
 Apr 27, 2023
 
-Dec 23, 2021
+Dec 24, 2021
 
-Nov 24, 2021
+Nov 25, 2021
 
 Oct 15, 2021
 
@@ -333,13 +333,13 @@ Oct 22, 2020
 
 Aug 27, 2020
 
-Feb 27, 2020
+Feb 28, 2020
 
 Oct 10, 2019
 
 Sep 27, 2019
 
-Dec 28, 2018
+Dec 29, 2018
 
 Policy Rationale
 
@@ -575,11 +575,11 @@ Mar 26, 2026
 
 Jun 26, 2025
 
-Feb 27, 2025
+Feb 28, 2025
 
-Dec 5, 2023
+Dec 6, 2023
 
-Jan 26, 2023
+Jan 27, 2023
 
 Sep 29, 2022
 
@@ -587,15 +587,15 @@ May 4, 2022
 
 Apr 28, 2022
 
-Feb 24, 2022
+Feb 25, 2022
 
-Jan 27, 2022
+Jan 28, 2022
 
-Feb 5, 2021
+Feb 6, 2021
 
-Jan 28, 2021
+Jan 29, 2021
 
-Nov 18, 2020
+Nov 19, 2020
 
 Sep 3, 2020
 
@@ -603,9 +603,9 @@ Aug 27, 2020
 
 Jun 26, 2020
 
-Dec 16, 2019
+Dec 17, 2019
 
-Nov 30, 2019
+Dec 1, 2019
 
 Policy Rationale
 
@@ -768,6 +768,8 @@ Restricted Goods and Services
 CHANGE LOG
 
 Today
+
+Jul 22, 2025
 
 May 14, 2025
 
@@ -1083,17 +1085,21 @@ Health and Wellness
 
 For the following content, we restrict visibility to adults 18 years of age and older:
 
-Weight loss products or services
+Weight loss or weight gain products or services
 
 Content that:
 
-*   Attempts to buy, sell, trade, donate, gift, mention or ask for weight loss products or services.
+*   Attempts to buy, sell, trade, donate, gift, mention or ask for weight loss or weight gain products or services.
     
-*   Admits to or depicts using a weight loss product, in a favorable context or discusses its side effects.
+*   Admits to or depicts using a weight loss or weight gain product, in a favorable context or discusses its side effects.
     
 *   Shows coordination or promotion (by which we mean speaks positively, encourages the use of or provides instructions to use or make) a diet product.
     
-*   Depict a before and after body-change comparison in the context of weight loss, showcasing weight loss after using a product in a manner that may make people feel bad about their appearance or imply negative self-perception.
+*   Contains statements of inferiority about physical appearance (i.e., terms, descriptions, or questions that are negative and attack an individual’s appearance, specific body parts, or hygiene), or depictions of close ups of a specific body area showing pinched fat.
+    
+*   Claims that results can be achieved solely by using wearable products, such as jewelry or patches.
+    
+*   Employs clickbait tactics in a weight loss or weight gain context, such as sensational language with exaggerated or extreme health claims, or promises of specific outcomes within a set timeframe without disclaimers or qualifiers.
     
 
 Cosmetic Products, Procedures, or Surgeries
@@ -1112,10 +1118,41 @@ Content that:
     
 *   Shows coordination or promotion (by which we mean speaks positively, encourages the use of or provides instructions to use or perform) of a cosmetic procedure or surgery.
     
-*   Depict the before and after transformation of skin conditions after the usage of a cosmetic product, procedure, or surgery in a manner that may make people feel bad about their appearance or imply negative self-perception.
+*   Contains statements of inferiority about physical appearance, (i.e., terms, descriptions, or questions that are negative and attack an individual’s appearance, specific body parts, or hygiene)
     
 
-Note: Fitness services such as Pilates, and temporary cosmetics such as makeup are not covered by this policy.
+Note: The promotion of workout methods (such as Pilates) or temporary cosmetics (such as makeup) are not covered by this policy.
+
+Misleading Health Practices
+
+*   Claims (including those from health professionals or health organizations) to cure, heal, or eliminate any of the following incurable diseases and/or terminal illnesses (exhaustive list): Note: This does not apply to claims about treating or managing symptoms of these conditions.
+    
+
+*   Diabetes
+    
+*   Herpes
+    
+*   Thyroid
+    
+*   Psoriasis
+    
+*   Ebola
+    
+*   Cancer
+    
+*   Autism
+    
+*   Alzheimer's
+    
+*   Parkinson's
+    
+*   Amyotrophic Lateral Sclerosis (ALS)
+    
+*   Human immunodeficiency virus (HIV)
+    
+
+*   Employs clickbait tactics in a health context, such as sensational language with exaggerated or extreme health claims, or promises of specific health-related results within a set timeframe without disclaimers or qualifiers.
+    
 
 Adult sexual arousal products
 
@@ -1139,18 +1176,20 @@ Reproductive Health or Wellness Products
 
 Content that:
 
-*   Attempts to buy, sell, promote, trade, donate, gift or ask for reproductive health or wellness products, where the primary focus is on sexual pleasure and not medical benefits. This includes:
+*   Attempts to buy, sell, promote, trade, donate, gift or ask for reproductive health or wellness products. This includes:
     
 
-*   Reproductive Health or Wellness products when focused on sexual pleasure and containing phallic or yonic objects
+*   Reproductive Health or Wellness products when focused on sexual pleasure and not medical benefits, including those containing phallic or yonic objects
     
-*   Products addressing sexual reproductive disorders, where the primary focus is on sexual pleasure and not medical benefits
+*   Products addressing sexual reproductive disorders
     
 *   Cosmetic genital surgeries
     
 *   Adult genital surgeries
     
 *   Sex education with focus on sexual pleasure
+    
+*   Hormone products (e.g., testosterone boosters)
     
 
 Adult sexual businesses
@@ -1282,6 +1321,8 @@ Fraud, Scams, and Deceptive Practices
 CHANGE LOG
 
 Today
+
+Jul 22, 2026
 
 Jun 6, 2025
 
@@ -1574,21 +1615,6 @@ Content that:
     
     *   Offers or asks for products that facilitate or encourage access to digital content in an unauthorized manner. These include but are not limited to: augmented set top boxes, fully loaded/KODI installed boxes and KODI services.
         
-    
-
-**Deceptive and Misleading Practices**
-
-*   _Misleading Health Practices._ Content that
-    
-    *   Promotes false or misleading health claims or guarantees in a weight loss context by employing click-bait tactics, such as the use of sensational language that make exaggerated or extreme claims
-        
-    
-
-For the following content, we limit the ability to view the content to adults, ages 18 and older:
-
-Content that
-
-*   Promises specific weight-loss results in specific time with no qualifying or disclaimer language.
     
 
 Notwithstanding the above, we do not prohibit content that condemns, raises awareness of or educates others about fraud and scams, without either revealing sensitive information or promoting fraud or scams
@@ -2122,11 +2148,11 @@ CHANGE LOG
 
 Today
 
-Jan 22, 2025
+Jan 23, 2025
 
 Jul 2, 2024
 
-Dec 13, 2023
+Dec 14, 2023
 
 Sep 28, 2023
 
@@ -2134,11 +2160,11 @@ Jun 29, 2023
 
 Mar 30, 2023
 
-Jan 26, 2023
+Jan 27, 2023
 
 Sep 29, 2022
 
-Dec 23, 2021
+Dec 24, 2021
 
 Oct 13, 2021
 
@@ -2148,19 +2174,19 @@ May 4, 2021
 
 Apr 2, 2021
 
-Jan 28, 2021
+Jan 29, 2021
 
-Nov 18, 2020
+Nov 19, 2020
 
 Jul 30, 2020
 
 May 28, 2020
 
-Feb 27, 2020
+Feb 28, 2020
 
-Jan 30, 2020
+Jan 31, 2020
 
-Dec 16, 2019
+Dec 17, 2019
 
 Sep 29, 2019
 
@@ -2483,19 +2509,19 @@ Jun 26, 2024
 
 Jun 29, 2023
 
-Feb 23, 2023
+Feb 24, 2023
 
 Sep 29, 2022
 
-Feb 24, 2022
+Feb 25, 2022
 
-Nov 24, 2021
+Nov 25, 2021
 
 Sep 30, 2021
 
-Nov 18, 2020
+Nov 19, 2020
 
-Nov 30, 2018
+Dec 1, 2018
 
 Jun 29, 2018
 
@@ -3119,19 +3145,19 @@ Jul 25, 2024
 
 May 1, 2024
 
-Feb 29, 2024
+Mar 1, 2024
 
 Sep 29, 2022
 
 Apr 28, 2022
 
-Dec 23, 2021
+Dec 24, 2021
 
-Nov 24, 2021
+Nov 25, 2021
 
 Aug 26, 2021
 
-Nov 19, 2020
+Nov 20, 2020
 
 Mar 20, 2019
 
@@ -3428,21 +3454,21 @@ May 28, 2026
 
 Mar 27, 2025
 
-Dec 26, 2024
+Dec 27, 2024
 
 Sep 25, 2024
 
 Mar 28, 2024
 
-Jan 25, 2024
+Jan 26, 2024
 
 Aug 31, 2023
 
-Dec 22, 2022
+Dec 23, 2022
 
 Oct 27, 2022
 
-Feb 24, 2022
+Feb 25, 2022
 
 Oct 28, 2021
 
@@ -3450,9 +3476,9 @@ Jul 29, 2021
 
 Mar 25, 2021
 
-Dec 17, 2020
+Dec 18, 2020
 
-Nov 18, 2020
+Nov 19, 2020
 
 May 28, 2020
 
@@ -3611,7 +3637,7 @@ Jun 26, 2024
 
 Jun 30, 2022
 
-Dec 17, 2020
+Dec 18, 2020
 
 Oct 30, 2019
 
@@ -3757,17 +3783,17 @@ Today
 
 Dec 12, 2025
 
-Oct 3, 2024
+Oct 2, 2024
 
-Jul 19, 2024
+Jul 18, 2024
 
-Apr 26, 2022
+Apr 25, 2022
 
 Dec 18, 2020
 
 Nov 8, 2019
 
-Oct 11, 2019
+Oct 10, 2019
 
 Policy Rationale
 
