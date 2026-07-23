@@ -266,9 +266,9 @@ Android will introduce a new ID to support essential use cases such as analytics
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Use the App Set ID for essential functions such as analytics and fraud prevention. | Don't use the App Set ID for personalized ads or ad measurement. |
-| Disclose the collection and usage of the App Set ID in a legally adequate privacy notification and your privacy policy. | Don't link the App Set ID to any Android identifiers or personal and sensitive user data for advertising purposes. |
-| Obtain legally valid consent from users where required before collecting and using App Set ID. | Don't omit from your privacy policy. You must be transparent about the use of the App Set ID. |
+| Use the app set ID for essential functions such as analytics and fraud prevention. | Don't use the app set ID for personalised ads or ad measurement. |
+| Disclose the collection and usage of the app set ID in a legally adequate privacy notification and your privacy policy. | Don't link the app set ID to any Android identifiers or personal and sensitive user data for advertising purposes. |
+| Obtain legally valid consent from users where required before collecting and using app set ID. | Don't omit from your privacy policy. You must be transparent about the use of the app set ID. |
 
 * * *
 
