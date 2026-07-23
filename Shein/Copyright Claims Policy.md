@@ -56,33 +56,18 @@ SHEIN Global Marketplace Policy: Anti-Counterfeiting & Intellectual Property Inf
 
 INTELLECTUAL PROPERTY NOTICE
 
-As we ask others to respect our intellectual property rights, we respect the intellectual property rights of others. If you believe that material located on or linked to by SHEIN violates your copyright, trademark, or other intellectual property rights, please submit your complaint through our online intellectual property complaint portal: [www.shein.com/ip-complaint](https://www.shein.com/ip-complaint) .
+SHEIN respects the intellectual property rights of third parties and expects users and sellers to do the same. If you believe that content, products, images or other materials located on or linked to by SHEIN infringe your copyright, trademark, or patent or design rights, please submit a notice through SHEIN's intellectual property complaint portal, SHEInforce. Before submitting an intellectual property notice, users must first create and sign in to their own SHEInforce account. In order to create an account users will need to provide their name, company name, email address, and create a new password. If you are acting as an authorised representative or agent, you are required to provide a Power of Attorney (POA). You can create an account and access the portal here: [SHEInforce](https://eur.shein.com/ip-notice)
 
-Any such notice must include the following information:
+For SHEIN to process and assess your notice efficiently, your submission should include the following information:
 
-*   A physical or electronic signature of a person authorized to act on behalf of the owner of the intellectual property right that has been allegedly infringed.
-*   Identification of intellectual property being infringed, including, if any, the corresponding registration number and corresponding country of registration.
-*   Identification of the material that is claimed to be infringing, including information regarding the location of the infringing materials on the Site or App, with sufficient detail so that SHEIN can find it.
-*   If a design patent is at issue, identify the design patent that you claim has been infringed along with the registration number.
-*   If a utility patent is at issue, identify the utility patent that you claim has been infringed along with a Court Order or Judgment supporting your claim.
-*   Your full legal name, company affiliation (if any), mailing address, telephone number, and email address.
-*   A statement by you that you have a good-faith belief that the use of the allegedly infringing material is not authorized by the intellectual property owner, its agent, or the law.
-*   A statement by you, made under penalty of perjury, that the information in your notice is accurate and that you are the intellectual property owner or authorized to act on the intellectual property owner’s behalf.
+A declaration confirming that you are either the intellectual property rights holder, an employee of the intellectual property rights holder, or an authorised agent acting on behalf of the rights holder.
 
-Upon receipt of such notices, we reserve the right to remove or disable access to the material or disable any links to the material; notify the party accused of infringement that we have removed or disabled access to the applicable material; and terminate access to and use of SHEIN services for any user or third-party seller who repeatedly infringes the intellectual property rights of SHEIN or others, or as otherwise stated in our Terms of Use or policies.
+Identification of intellectual property right allegedly being infringed, including whether the notice relates to copyright, trademark, design rights (registered or unregistered) or patent rights, together with relevant registration details (where applicable) and any supporting documentation evidencing ownership and infringement.
 
-Copyright Announcement
+Identification of the allegedly infringing material including information regarding the location of the infringing materials on the Site or App with sufficient detail so that SHEIN can find it. For guidance on how to find locate the correct product number, refer to the ‘How to find an SKU’
 
-SHEIN or its affiliates owns all intellectual property and other rights, title, and interest in and to the SHEIN website, and related mobile application, including but not limited to copyrights in the website and related mobile application and technologies used to provide you the services available on the website and related mobile application. These copyrights and intellectual properties are protected by international and domestic law.
+A statement by you, confirming that the information, evidence, and allegations provided in the notice are true, accurate, and complete to the best of your knowledge and understanding.
 
-Trademark Announcement
+SHEIN may request additional information, documentation or verification materials to assess and process a notice, including proof of rights ownership, authorisation documents or evidence supporting the infringement allegation. Failure to provide sufficient information may result in the notice being rejected.
 
-Roadget Business PTE. LTD. is the owner of the “SHEIN” trademarks and service marks, which are registered in multiple countries. The “SHEIN” trademarks and service marks may not be used without the prior express written consent of Roadget Business PTE. LTD.
-
-Disclaimer
-
-THIS SERVICE MAY CONTAIN TRANSLATIONS POWERED BY GOOGLE. GOOGLE DISCLAIMS ALL WARRANTIES RELATED TO THE TRANSLATIONS, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTIES OF ACCURACY, RELIABILITY, AND ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-
-The website has been translated for your convenience using translation software powered by Google Translate. Reasonable efforts have been made to provide an accurate translation, however, no automated translation is perfect nor is it intended to replace human translators. Translations are provided as a service to users of the website, and are provided "as is." No warranty of any kind, either expressed or implied, is made as to the accuracy, reliability, or correctness of any translations made from into any other language. Some content (such as images, videos, Flash, etc.) may not be accurately translated due to the limitations of the translation software.
-
-The official text is the version of the website. Any discrepancies or differences created in the translation are not binding and have no legal effect for compliance or enforcement purposes. If any questions arise related to the accuracy of the information contained in the translated website, refer to the version of the website which is the official version.
+Upon receipt of a valid intellectual property notice, SHEIN will review the reported materials and take appropriate action in accordance with applicable law, platform policies and Terms of Use. This may include removing or disabling access to the reported material or links to it, and notifying the party responsible for the material that it has been removed or disabled.
