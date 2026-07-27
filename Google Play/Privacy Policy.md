@@ -628,6 +628,8 @@ All requests for body sensor permissions (both legacy and new granular permissio
 
 For comprehensive policy guidance, including prohibited uses, acceptable use cases and detailed requirements, see the [Android health permissions: Guidance and FAQs](https://support.google.com/googleplay/android-developer/answer/12991134?sjid=16523468427823376810-EU).
 
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
+
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
@@ -753,6 +755,8 @@ Apps that use the VpnService must:
 *   Document use of the VpnService in the Google Play listing, and
 *   Must encrypt the data from the device to VPN tunnel end point, and
 *   Abide by all [Developer Programme Policies](https://support.google.com/googleplay/android-developer/topic/9858052?hl=en-GB) , including the [Ad fraud](https://support.google.com/googleplay/android-developer/answer/9969955?hl=en-GB&ref_topic=9969691#zippy=%2Cexamples-of-common-violations), [Permissions](https://support.google.com/googleplay/android-developer/answer/9888170?hl=en-GB&ref_topic=9877467) and [Malware](https://support.google.com/googleplay/android-developer/answer/9888380?hl=en-GB&ref_topic=9975838) policies.
+
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key considerations**
 
 |     |     |
 | --- | --- |
