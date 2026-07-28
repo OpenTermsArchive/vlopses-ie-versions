@@ -1,57 +1,54 @@
 Accessibility statement
 =======================
 
-Our Commitment to Accessibility  
+Our Commitment to Accessibility
+-------------------------------
 
-----------------------------------
+At Zalando, accessibility is a holistic effort integrated into every stage of our operations, from product development to quality assurance. We follow a "shift-left" approach, meaning that accessibility is treated as a foundational requirement from the very beginning of our design and development processes. We recognize that accessibility is a continuous commitment, and our teams are equipped to ensure that inclusive design remains a priority across our digital shopping experience.
 
-At Zalando, accessibility is a core part of our mission. We believe that everyone should have equitable access to fashion and a seamless online shopping experience. To achieve this, we have integrated accessibility into our internal policies and development processes, ensuring that it remains a priority.
+Compliance Status
+-----------------
 
-Our Accessibility Approach & Process  
+Zalando is dedicated to meeting and exceeding digital accessibility standards. We target compliance with the Web Content Accessibility Guidelines (WCAG) Version 2.2 Level AA and the EN 301 549 v.3.2.1 European standard.
 
----------------------------------------
+Based on an external audit conducted in **May 2026**, the Zalando website is currently **partially in line** with these standards. While many of our core features are fully functional, several criteria are not yet fully met. We are actively addressing these outstanding compliance areas to provide a fully inclusive experience.
 
-Our approach to accessibility is holistic and integrated into every stage of our operations, from product development to quality assurance. We follow a 'shift-left' approach, meaning that accessibility is a foundational requirement from the very beginning of the design and development process, not an afterthought.  
-Our teams are continuously trained on accessibility best practices and are equipped to ensure that inclusive design is a priority. We have also set up a monitoring strategy, including both self-assessments and external audits, to regularly test our services and validate our progress.
+Supported Accessibility Features
+--------------------------------
 
-Compliance Status  
+We prioritize high-impact features that directly benefit our customers' daily shopping experience, ensuring everyone can browse and purchase independently:
 
---------------------
-
-Zalando is dedicated to meeting and exceeding accessibility standards. We are actively working toward compliance with the **Web Content Accessibility Guidelines (WCAG) 2.2 Level AA** and the **EN 301 549** European standard, in accordance with the **European Accessibility Act (EAA)** and respective national implementation.  
-Currently, the Zalando website is **partially compliant** with the aforementioned standards. This means that while most of our content and main features are accessible, some parts do not yet fully comply with the standard.
-
-What is Already Accessible  
-
------------------------------
-
-We have focused on making the most important parts of the shopping journey accessible. Our main user journeys, including **browsing products**, **searching for items**, **adding to cart,** and **checking out**, are accessible to users who rely on screen readers and keyboard navigation.  
-Additionally, we have implemented **descriptive alt text** for all non-decorative images across our website, ensuring that users with screen readers can understand the visual content.  
-We have also made most of our interactive components, such as **product carousels**, **pop-up modals**, and **drop-down menus**, accessible to ensure they can be used with assistive technologies and keyboard navigation.
-
-Areas for Improvement  
-
-------------------------
-
-We are actively working to address remaining accessibility barriers to provide a fully accessible shopping experience. Some of the areas we are currently improving include:  
-
-*   **Error Handling and User Feedback**: We're enhancing form usability by ensuring all fields have proper labels and providing clear, text-based error messages. These messages are programmatically linked to their corresponding fields, making it easy for users with assistive technologies to identify and correct errors.  
+*   **Screen Reader**: We are actively optimizing our interactive elements, including buttons, links, and form fields, with descriptive programmatic labels so their purpose is clear. We continuously audit and update our product images with high-quality alternative text to bring important visual details to life.  
     
-*   **Semantic Structure and Navigation**: We are committed to improving our website's overall structure. We're implementing a logical and consistent heading structure (H1, H2, etc.) across all pages to aid screen reader navigation and improve content comprehension for all users. We are also adding "skip to content" links that become visible upon keyboard focus, allowing users to bypass repetitive navigation elements.  
+*   **Keyboard Navigation**: The main website header and primary navigation structures have been optimized to ensure seamless, logical, and predictable routing for keyboard users throughout their shopping journey.  
     
-*   **Sufficient Contrast**: Beyond just text, we are improving the color contrast of non-text elements such as icons, buttons, and other graphical components. This ensures users with low vision or color vision deficiencies can easily perceive and interact with key parts of the interface.  
+*   **Bypass Navigation (Skip Links)**: A "Skip to main content" link is active at the very top of each page, allowing keyboard and screen reader users to instantly bypass repetitive header menus and jump straight to the action.  
     
-*   **Keyboard and Focus Management**: We are enhancing keyboard navigation for all interactive components to ensure a clear and visible focus indicator.  
+*   **Text Size and Zoom:** Our responsive layouts support browser magnification up to 200%, dynamically reflowing page content to keep text highly readable without truncation, visual overlap, or horizontal scrolling.  
     
-*   **User Preferences**: We are developing support for dynamic text, landscape and a dark mode feature to give users more control over their visual settings.  
+*   **Use of Color and Contrast:** We systematically avoid relying solely on color to convey important information, visual cues, or system feedback, ensuring content is understandable for users with varying visual abilities.
+
+Known Limitations and Areas for Improvement
+-------------------------------------------
+
+As we work toward full compliance, we remain transparent about the existing barriers on our platform. We are actively working to resolve limitations in the following areas of the user experience:
+
+*   **Alternative Text for Linked Images**: We recognize that some images serving as interactive links do not yet have optimized alternative text. We are actively working to update these so that instead of just describing the visual, the alt text clearly states the link's destination or action.  
+    
+*   **Semantic Structure and Heading Hierarchy**: We are restructuring our content to ensure every page follows a logical, sequential heading order (H1, H2, H3, etc.). Correcting misordered or skipped headings is a priority to ensure screen reader users can navigate and comprehend our pages seamlessly.  
+    
+*   **Form Usability and Error Handling**: We are actively addressing forms that lack proper programmatic labels or clear error feedback. Our focus is on providing explicit, text-based error messages that are directly linked to their corresponding fields, making it much easier for assistive technologies to identify and help correct mistakes.  
+    
+*   **Keyboard Focus and Traps**: We are refining keyboard navigation across all interactive components, specifically targeting areas where visible focus indicators are weak or where keyboard focus can become temporarily stuck.  
+    
+*   **User Preferences**: We are developing support for a dark mode feature to give users more control over their visual settings.  
     
 *   **Video Content**: We're actively working to improve the accessibility of our video content. This includes adding captions and audio descriptions for all videos and providing playback controls (play/pause) for all animated content and videos, giving users control over their experience.
 
-Technical Specifications  
+Technical Specifications
+------------------------
 
----------------------------
-
-Zalando's web accessibility relies on the following technologies, which are necessary for full compliance with our target accessibility standards:  
+Zalando's web accessibility relies on the following technologies, which are necessary for full compliance with our target accessibility standards:
 
 *   **HTML**  
     
@@ -59,13 +56,15 @@ Zalando's web accessibility relies on the following technologies, which are nece
     
 *   **CSS**  
     
-*   **JavaScript**  
-    We recommend using modern browsers like **Google Chrome**,\*\* Safari\*\*,or\*\* Edge\*\* for the best experience with assistive technologies such as NVDA, VoiceOver, and Talkback.
+*   **JavaScript**
 
-Feedback  
+We recommend using modern browsers like **Google Chrome**, **Safari**, or **Edge** for the best experience with assistive technologies such as NVDA, VoiceOver, and Talkback.
 
------------
+Feedback
+--------
 
-We welcome your feedback and appreciate you helping us improve. If you encounter an accessibility issue or have suggestions, please [contact our support team](https://zalando.ie/faq/My-Account/what-are-zalandos-accessibility-functionalities.html).  
-We are committed to addressing your concerns promptly. Thank you for helping us make Zalando more accessible for everyone.  
-**This statement was last updated on**: October 20, 2025
+We welcome your feedback and appreciate you helping us improve. If you encounter an accessibility issue or have suggestions, please [contact our support team](https://www.zalando.ie/faq/My-Account/what-are-zalandos-accessibility-functionalities.html).
+
+We are committed to addressing your concerns promptly. Thank you for helping us make Zalando more accessible for everyone.
+
+**This statement was last updated on:** June 5, 2026
