@@ -1851,7 +1851,7 @@ Related articles
 
 [How Facebook determines which videos are "For you"](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
-[Why didn't Facebook remove the content that I reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
+[Ask to edit or remove a video that you were in as a minor (Utah only)](https://www.facebook.com/help/1030666849167835/?helpref=related_articles)
 
 Related articles
 
@@ -1871,7 +1871,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
-[Why didn't Facebook remove the content that I reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
+[Ask to edit or remove a video that you were in as a minor (Utah only)](https://www.facebook.com/help/1030666849167835/?helpref=related_articles)
 
 - - -
 
