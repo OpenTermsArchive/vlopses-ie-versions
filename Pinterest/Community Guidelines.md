@@ -369,13 +369,7 @@ collection\_fields
 
 How can we make this article better?
 
-Additional Response
-
-  
-
-       
-
-Leave this field blank 
+Additional Response         
 
 Pinterest has a long-standing commitment to creating a safer and more positive space online and takes the safety of all users seriously. We continually invest in our policies, products and partnerships to support the safety and well-being of our community, and the Irish Online Safety Code, applicable to designated video-sharing platform services (the **Online Safety Code**), aligns with our commitment to making Pinterest inspiring and welcoming for everyone.
 
@@ -423,9 +417,3 @@ collection\_fields
 How can we make this article better?
 
 Additional Response
-
-  
-
-       
-
-Leave this field blank
