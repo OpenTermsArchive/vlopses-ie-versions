@@ -88,7 +88,7 @@ Learn how privacy settings help you connect and share with people that you know 
 
 *   [Ad choices](https://www.facebook.com/help/568137493302217/)
 
-*   [Careers](https://www.facebook.com/careers/)
+*   [Careers](https://www.facebook.com/)
 
 *   [Cookies](https://www.facebook.com/policies/cookies/)
 
