@@ -284,9 +284,9 @@ Have any questions about the information here or wish to contact our Data Protec
 
 EEA and UK Privacy Notice
 
-**Effective: September 21, 2026**
+**Effective: 6 November 2023**
 
-This notice provides additional information for users in the European Economic Area (EEA) and the United Kingdom (UK). Users in the EEA and UK have certain privacy rights as specified under EU and UK law, including the General Data Protection Regulations (GDPR) and UK Data Protection Act 2018. [Our Privacy Principles](https://values.snap.com/privacy/privacy-principles) and the privacy controls we offer to all users are in line with these laws – this notice makes sure we cover the EEA and UK-specific requirements. For example, all users can request a copy of their data, request deletion and control their privacy settings in the app. For the full picture, check out our [Privacy Policy](https://values.snap.com/privacy/privacy-policy).
+This notice provides additional information for users in the European Economic Area (EEA) and the United Kingdom (UK). Users in the EEA and UK have certain privacy rights as specified under EU and UK law, including the General Data Protection Regulations (GDPR) and UK Data Protection Act 2018. [Our Privacy Principles](https://values.snap.com/privacy/privacy-principles) and the privacy controls we offer to all users are in line with these laws—this notice makes sure we cover the EEA and UK-specific requirements. For example, all users can request a copy of their data, request deletion, and control their privacy settings in the app. For the full picture, check out our [Privacy Policy](https://values.snap.com/privacy/privacy-policy).
 
 ### 
 
@@ -296,30 +296,30 @@ If you’re a user in the EEA or UK, you should know that Snap Inc. is the contr
 
 ### 
 
-Rights of Access, Deletion, Correction, and Portability
+Rights of access, deletion, correction and portability
 
-You can exercise your rights of access, deletion, correction, and portability as described in the [Control Over Your Information](https://values.snap.com/privacy/privacy-policy#control-over-your-information) section of the Privacy Policy. You also have the right to request restriction of processing of your personal information and the right to lodge a complaint with a supervisory authority, as set out below. You may also have the right to request human review, express your view, and contest decisions made solely by automated processing that significantly affect you.
+You can exercise your rights of access, deletion, correction, and portability as described in the [Control Over Your Information](https://values.snap.com/privacy/privacy-policy#control-over-your-information) section of the Privacy Policy.
 
 ### 
 
-Bases for Using Your Information
+Bases for using your information
 
 Your country only allows us to use your personal information when certain conditions apply. These conditions are called “legal bases” and, at Snap, we typically rely on one of four:
 
-*   **Contract**. One reason we might use your information is because you’ve entered into an agreement with us. For instance, when you buy an On-Demand Geofilter and accept our Custom Creative Tools Terms, we need to use some of your information to collect payment and make sure we show your Geofilter to the right people at the right place and time.
+*   **Contract**. One reason we might use your information is because you’ve entered into an agreement with us. For example, when you buy an On-Demand Geofilter and accept our Custom Creative Tools Terms, we need to use some of your information to collect payment and make sure we show your Geofilter to the right people at the right place and time.
     
-*   **Legitimate interest.** Another reason we might use your information is because we have – or a third party has – a legitimate interest in doing so. For instance, we need to use your information to provide and improve our services, including protecting your account, delivering your Snaps, providing customer support and helping you find friends and content we think you’ll like. Because most of our services are free, we also use some information about you to try and show you ads you’ll find interesting. An important point to understand about legitimate interest is that our interests don’t outweigh your right to privacy, so we only rely on legitimate interest when we think the way we are using your data doesn’t significantly impact your privacy or would be expected by you, or there is a compelling reason to do so. We explain our legitimate business reasons for using your information in more detail [here](https://values.snap.com/privacy/your-information).
+*   **Legitimate interest.**  Another reason we might use your information is that we have – or a third party has – a legitimate interest in doing so. For instance, we need to use your information to provide and improve our services, including protecting your account, delivering your Snaps, providing customer support, and helping you find friends and content we think you’ll like. As most of our services are free, we also use some information about you to try and show you ads you’ll find interesting. An important point to understand about legitimate interest is that our interests don’t outweigh your right to privacy, so we only rely on legitimate interest when we think the way we are using your data doesn’t significantly impact your privacy or would be expected by you or there is a compelling reason to do so. We explain our legitimate business reasons for using your information in more detail [here](https://values.snap.com/privacy/your-information).
     
-*   **Consent**. In some cases we’ll ask for consent to use your information for specific purposes. If we do, we’ll make sure you can revoke your consent in our services or through your device permissions. You have the right to withdraw your consent at any time. This will not affect the lawfulness of processing based on consent before its withdrawal. Even if we’re not relying on consent to use your information, we may ask you for permission to access data like contacts and location.
+*   **Consent**. In some cases we’ll ask for consent to use your information for specific purposes. If we do, we’ll make sure you can revoke your consent in our services or through your device permissions. Even if we’re not relying on consent to use your information, we may ask you for permission to access data like contacts and location.
     
-*   **Legal obligation.** We may be required to use your personal information to comply with the law, like when we respond to valid legal process or need to take action to protect our users. Our policy is to notify Snapchatters when we receive legal process seeking their account information, with some exceptions. Learn more [here](https://values.snap.com/privacy/transparency).
+*   **Legal obligation.**  We may be required to use your personal information to comply with the law, such as when we respond to valid legal processing or need to take action to protect our users. Our policy is to notify Snapchatters when we receive legal process seeking their account information, with some exceptions. Learn more [here](https://values.snap.com/privacy/transparency).
     
 
 ### 
 
 Your right to object
 
-You have the right to object to our use of your information. You have the right to object to processing of your personal information based on legitimate interests, including profiling related to such processing, and to object at any time to processing for direct marketing purposes. With many types of data, we’ve provided you with the ability to simply delete it if you don’t want us processing it anymore. For other types of data, we’ve given you the ability to stop the use of your data by disabling the feature altogether. You can do these things in the app. If there are other types of information you don’t agree with us processing, you can [contact us](https://help.snapchat.com/?lang=en-GB). [Learn more](https://help.snapchat.com/hc/articles/22534988598676-Learn-About-Snap-s-Data-Processing-and-How-to-Object?lang=en-GB) about how Snap processes personal data and how to object.
+You have the right to object to our use of your information. With many types of data, we’ve provided you with the ability to simply delete it if you don’t want us processing it any more. For other types of data, we’ve given you the ability to stop the use of your data by disabling the feature altogether. You can do these things in the app. If there are other types of information you don’t agree with us processing, you can [contact us](https://help.snapchat.com/?lang=en-GB).
 
 ### 
 
@@ -327,25 +327,35 @@ International Data Transfers
 
 We may collect your personal information from, transfer it to and store and process it in the United States and other countries outside of where you live. You can find more information on the categories of third parties we share information with [here](https://help.snapchat.com/hc/articles/7012351145364?lang=en-GB).
 
-Whenever we share information with a third party outside of where you live we make sure an adequate transfer mechanism is in place (such as [Standard Contractual Clauses](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) or the [EU-U.S. /UK/Swiss Data Privacy Framework)](https://www.dataprivacyframework.gov/s/). You can request a copy of the relevant safeguards by contacting us.
+Whenever we share information with a third party outside of where you live we make sure an adequate transfer mechanism is in place (such as [Standard Contractual Clauses](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) or the [EU-U.S. /UK/Swiss Data Privacy Framework](https://www.dataprivacyframework.gov/s/)).
 
 ### 
 
 EU-U.S. /UK/Swiss Data Privacy Framework
 
-Snap Inc. complies with the EU-U.S. Data Privacy Framework, Swiss-U.S. Data Privacy Frameworks, and the UK Extension to the EU-U.S. DPF as set forth by the U.S. Department of Commerce (collectively, the “DPF”) when handling your personal information as described in our [Privacy Policy](https://values.snap.com/privacy/privacy-policy) received from third parties in the EEA, Switzerland, and the UK, respectively. Please visit the [DPF website](https://www.dataprivacyframework.gov/s/) to learn more about the DPF program and to view our certification in the [DPF list.](https://www.dataprivacyframework.gov/s/participant-search)
+Snap Inc. complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.
+
+Snap Inc. has certified to the U.S. Department of Commerce that it:
+
+a. adheres to the EU-U.S. DPF Principles with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF.
+
+b. adheres to the Swiss-U.S. DPF Principles with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.
+
+If there is any conflict between the terms in our [Privacy Policy](https://values.snap.com/privacy/privacy-policy) and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  To learn more about the Data Privacy Framework (DPF) Programme, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://urldefense.proofpoint.com/v2/url?u=https-3A__www.dataprivacyframework.gov_&d=DwMFAg&c=ncDTmphkJTvjIDPh0hpF_4vCHvabgGkICC2epckfdiw&r=ITEFgnui8-XoEe0HwdHiYWMaTmiAiT0k2g5pOrGJttQ&m=qGPi6fSae1tek4cwQuig5gGXAQc1vqQXZLlyg5VGDgASCxwAkbKxfdA5kv2l52mS&s=a-PviOWTlGjEeR4ecyvpkHg20ajPcjS5nRbzul1PGgM&e=).
 
 In accordance with the DPF principles, Snap remains liable for failures to comply with the DPF when we share your personal information with third parties working on our behalf under the Onward Transfer Principle (except for failures that are not our responsibility).
 
-[If you have complaints or questions about how we are complying with the DPF’s principles when handling your personal information, please submit your inquiries as explained below.](https://values.snap.com/privacy/privacy-policy) Our compliance with the DPF’s principles is also subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain circumstances, you have the right to invoke binding arbitration to resolve complaints that are not resolved by other means, as described in [Annex I](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2) of the [DPF Framework](https://www.dataprivacyframework.gov/s/framework-text).
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Snap Inc. commits to cooperate and comply respectively with the advice of the panel established by the [EU data protection authorities](https://edpb.europa.eu/about-edpb/board/members_en) (DPAs) and the [UK Information Commissioner's Office](https://ico.org.uk/) (ICO) and the [Swiss Federal Data Protection and Information Commissioner](https://www.edoeb.admin.ch/) (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF.
 
-  
+Our compliance with the DPF's principles is also subject to the investigatory and enforcement powers of the US Federal Trade Commission. In certain circumstances, you have the right to invoke binding arbitration to resolve complaints that are not resolved by other means, as described in [Annex I](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2) of the [DPF Framework](https://www.dataprivacyframework.gov/s/framework-text).
+
+If you have complaints or questions about how we are complying with the DPF's principles when handling your personal information, please submit your inquiries as explained below.
 
 ### 
 
 Complaints or Questions?
 
-We want you to know that you can submit any inquiries to our [privacy support team](https://help.snapchat.com/?lang=en-GB) or Data Protection Officer at dpo \[at\] snap \[dot\] com. You also have the right to file a complaint with your [supervisory authority](https://edpb.europa.eu/about-edpb/board/members_en) in the EEA, the [Federal Data Protection and Information Commissioner](https://www.edoeb.admin.ch/) in Switzerland, and in the UK you can file a complaint with the [Information Commissioner’s Office](https://ico.org.uk/) (or the [Gibraltar Regulatory Authority](https://www.gra.gi/data-protection) where applicable).
+We want you to know that you can submit any inquiries to our [privacy support team](https://help.snapchat.com/?lang=en-GB) or Data Protection Officer at dpo \[at\] snap \[dot\] com.  You also have the right to file a complaint with the [data protection authority](https://edpb.europa.eu/about-edpb/board/members_en) in the EEA, the [Information Commissioner's Office](https://ico.org.uk/) in the UK, or the [Federal Data Protection and Information Commissioner](https://www.edoeb.admin.ch/) in Switzerland.
 
 ### 
 
@@ -447,6 +457,8 @@ Why We Show Personalised Ads
 
 Like most online information services, Snapchat is primarily supported by advertising. Advertisers pay a lot more to show ads to people who are more likely to be interested in them. It is not possible for us to keep Snapchat a fun, safe and innovative online space, without charge, unless we show personalised ads.
 
+Personalised ads allow advertisers, especially small and medium-sized businesses, to reach people who are genuinely interested in their products, which helps reduce advertising costs. By focusing budgets on those most likely to engage, personalised ads empower smaller businesses to maximise their resources and compete effectively.
+
 Most people also prefer ads that are more relevant, fun and interesting – and find irrelevant ads annoying. If you’re on your way to becoming the next top chef, ads about cookware and recipes may enhance your time on Snapchat; ads about trampolines, maybe not so much (unless you also like jumping!).
 
 Your trust in Snap is very important to us. This is as true for advertising as it is for any other part of your experience on Snapchat. We believe personalised advertising can be a win for everyone, provided it is balanced correctly. To achieve this:
@@ -468,7 +480,7 @@ The Information Snap Collects and Receives About You To Provide You Ads
 
 To make our ads relevant, we use information we learn about you and that our advertisers and partners provide to us to try and show you the right ads at the right time. This means that the ads you see are often driven by what we think your interests are, your activity on our platform and information that our partners and advertisers provide to us about you.
 
-Each type of information we collect or receive has an impact on our ads system and some types are more heavily weighted than others. Note that as every ad has its own targeting and optimisation settings made by the advertiser, the weightings (as outlined below) may vary as a result of those settings.
+Each type of information we collect or receive has an impact on our ads system, and some types are more heavily weighted than others. Note that as every ad has its own targeting and optimisation settings made by the advertiser, the weightings (as outlined below) may vary as a result of those settings.
 
 The main types of information we collect, including examples of how they are used, and their general relative weight in our ads systems (which is provided in parentheses), are:
 
@@ -482,7 +494,7 @@ The main types of information we collect, including examples of how they are use
         
     
 
-****Your activity on Snapchat****
+**Your activity on Snapchat**
 
 When you view or engage with the Camera, Stories, the Snap Map, Spotlight Snaps, Lenses, My AI (see below for more details on My AI and ads) and other content and features on Snapchat, we learn (and sometimes guess) what you might be interested in. For example, if you watch or create a lot of Spotlight Snaps about basketball, we may show you an advertisement for professional basketball tickets.
 
@@ -492,12 +504,12 @@ We also make other inferences about you based on your activity on Snapchat, whic
     
 *   _Gender cohort._ (Higher weight) We also infer your gender cohort based on a number of signals, including your Bitmoji, username and display name, friend demographics and your activity on Snapchat. Similar to determining your interests, your inferred gender cohort assists our advertisers in showing you ads that may be relevant to you. For example, an advertiser may want to show ads to Snapchatters with a particular gender expression, and we use inferred gender cohort to assist in showing ads to users who most closely relate to that cohort.
     
-*   _Interests._ (Higher weight) We are always trying to make our ads as relevant to you as possible, so we try to make inferences about your interests. For example, if you follow race car drivers and like watching or creating Stories about new cars or racing or click on Snapchat ads for auto racing gear, then we might guess that you're an "Automotive Enthusiast". Some of these guesses we call "Lifestyle Categories", and you can [review](https://help.snapchat.com/hc/articles/7012345515796?lang=en-GB) the Lifestyle Categories that we've guessed about you in Snapchat, and you can [change or clear](https://help.snapchat.com/hc/articles/7012345515796?lang=en-GB) those Lifestyle Categories at any time. We also make other inferences about your interests that assist us in showing you content that you may be interested in – for example, we have “Snapchat Content Categories,” which categorise the content on Snap that you interact with. You can review these Content Categories by downloading your data as described [here](https://help.snapchat.com/hc/earticles/7012305371156-How-do-I-download-my-data-from-Snapchat-?lang=en-GB).
+*   _Interests._ (Higher weight) We are always trying to make our ads as relevant to you as possible, so we try to make inferences about your interests. For example, if you follow race car drivers and like watching or creating Stories about new cars or racing or click on Snapchat ads for auto racing gear, then we might guess that you're an "Automotive Enthusiast". Some of these guesses we call "Lifestyle Categories", and you can [review](https://help.snapchat.com/hc/articles/7012345515796?lang=en-GB) the Lifestyle Categories that we've guessed about you in Snapchat, and you can [change or clear](https://help.snapchat.com/hc/articles/7012345515796?lang=en-GB) those Lifestyle Categories at any time. We also make other inferences about your interests that assist us in showing you content that you may be interested in – for example, we have “Snapchat Content Categories,” which categorise the content on Snap that you interact with. You can review these Content Categories by downloading your data as described [here](https://help.snapchat.com/hc/articles/7012305371156-How-do-I-download-my-data-from-Snapchat-?lang=en-GB).
     
-*   _Your friends._ (Lower weight) Many friends have similar interests. So, we may use information about your friends' interactions with ads or content to determine whether to show those ads to you. For example, if your friends clicked on an ad for a new pair of shoes, we may use that to prioritise showing the same ad to you.
+*   _Your friends and Snapchatters in your household._ (Lower weight) Many friends have similar interests. So, we may use information about your friends' interactions with ads or content to determine whether to show those ads to you. For example, if your friends clicked on an ad for a new pair of shoes, we may use that to prioritise showing the same ad to you. We also may use similar information from Snapchatters in your household who are over 18 to help us choose which ads to show you.
     
 
-If you are located in the EU, UK, Norway or Switzerland and have a teen account (ages 13-17), we do not use inferences about your gender cohort, interests or friends’ interests to personalise the ads you see.
+If you are located in the EU, UK, Norway or Switzerland and have a teen account (ages 13-17) we do not use inferences about your gender cohort, interests or interests of other people associated with you to personalise the ads you see.
 
 We also use information about what ads you interacted with previously to determine what ads to show you (or not show you) next. It's no secret that no one likes seeing the same advertisement over and over again!
 
@@ -518,7 +530,7 @@ We also use information about what ads you interacted with previously to determi
 *   _Other data we receive from our advertisers and partners._ We may also use other data we receive about you from our advertisers and partners to inform which ads we show, as described in our [Privacy Policy](https://values.snap.com/privacy/privacy-policy).
     
 
-****Information we collect about your context, device and location****
+**Information we collect about your context, device and location**
 
 *   _Device information._ (Lower weight) When you use our products and Services, we collect information about your device, which helps us understand the operating system, screen size, language selection, apps installed and other attributes. This in turn allows us to show you ads that are compatible with your device, in the language you prefer, targeted to specific operating systems and aligned with your interests. For example, if you are using an iPhone, we may show you an ad for an app that is only available on iOS. Similarly, you won't see ads in Mandarin if your device's language is set to Farsi.
     
@@ -532,7 +544,7 @@ Keep in mind that Snap may use data from multiple sources described above to sho
 
 ### 
 
-Controlling the Ads You See
+Controlling the Ads you see
 
 We believe you should have meaningful control over the ads you see. To change the ads you see, please use the settings described [here](https://help.snapchat.com/hc/articles/7012345515796?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB) to:
 
@@ -542,14 +554,42 @@ We believe you should have meaningful control over the ads you see. To change th
     
 *   _Opt-out of third party ad networks._ Use this opt-out if you do not want third-party ad networks to serve you ads.
     
-*   _Opt-out of tracking (iOS users only)._ If you set the privacy controls on your device running iOS 14.5 or later to not allow Snapchat to track you, we will not link your activity on third-party apps and websites collected while using that device with user or device data from Snapchat for targeted advertising or advertising measurement purposes, except on your device. However, we may link this information for advertising purposes in ways that we do not specifically identify you and your activity.
+*   _Opt-out of tracking (iOS users only)._ If you set the privacy controls on your device running iOS 14.5 or later to not allow Snapchat to track you, we will not link your activity on third-party apps and websites collected while using that device with user or device data from Snapchat for targeted advertising or advertising measurement purposes. However, we may link this information for advertising purposes either on your device or where we use technical privacy controls that significantly reduce the risk of specifically identifying you and your activity.
     
 *   _Change the ad topics you see._ This setting allows you to decide whether you want to see certain types of ads about sensitive topics, like political, alcohol or gambling ads. Some of these ads are turned off by default for users under a specific age regardless of how this setting is set.
     
 *   _Make changes to Lifestyle Categories._ This setting allows you to change the lifestyle category inferences Snap has made about you based on your interests and activity on Snapchat. This setting also will be overridden by age gating restrictions on certain types of ads and related categories.
     
 
-If you are in the European Economic Area, the UK or in Switzerland, in addition to the controls above, you can also opt out of personalised content including advertising. You can do this by accessing the “Personalisation Controls” section of the Settings page.
+If you are in the EU, the UK, Norway or in Switzerland, in addition to the controls above, you can also opt out of personalised content including advertising as set out in the section below. You can do this by accessing the “Personalisation Controls” section of the Settings page.
+
+### 
+
+European Contextual Advertising
+
+Personalised advertising is a core element of our service and essential for us to provide you with a fun, safe, and innovative Snapchat without charge. You can read more about why this is the case in the section. 
+
+If you are in the EU, the UK, Norway, or Switzerland, certain laws limit our service and determine whether we can show personalised ads. We are required to display ‘contextual ads’ to you if:
+
+1.  You have a teen account (13-17); or
+    
+2.  You have turned off the “Personalisation Controls” in the Settings page.
+    
+
+Contextual advertising means that the advertising you see will be based on:
+
+*   What public content is displayed around the ad (e.g. a sports video to show you a sport related ad)
+    
+*   The time of day the ad is shown (e.g. morning, afternoon, evening)
+    
+*   Your age
+    
+*   Language your device is set
+    
+*   Location (city level) 
+    
+*   Device information
+    
 
 ### 
 
@@ -561,13 +601,13 @@ We confirm to advertisers which of their ads you have viewed and clicked. Someti
 
 Ads in My AI
 
-Ads that are displayed in My AI work a bit different from other ads on Snapchat: they are determined by context of your My AI conversation and whether, for example, you are looking for recommendations for products or services. We call these “contextual ads.” Another difference from other ads on Snapchat: My AI ads are provided by Snap’s advertising partners, rather than by Snap. Our advertising partners receive your queries (if we determine there’s commercial intent) and additional context, including your age range (i.e. whether you are under 18 or not), country/language, operating system type (i.e. iOS/Android), and IP address to help provide appropriate and relevant ads for you. For example, if you ask My AI "who makes the best electric guitar?" you might see a “sponsored” ad section for a guitar maker. All of this may sound familiar, as My AI ads work a lot like search ads on other platforms.
+Ads that are displayed in My AI work a bit different from other ads on Snapchat: they are determined by context of your My AI conversation and whether, for example, you are looking for recommendations for products or services. Another difference from other ads on Snapchat: My AI ads are contextual advertising and are provided by Snap’s advertising partners, rather than by Snap. Our advertising partners receive your queries (if we determine there’s commercial intent) and additional context, including your age range (i.e. whether you are under 18 or not), country/language, operating system type (i.e. iOS/Android) and IP address to help provide appropriate and relevant ads for you. For example, if you ask My AI "who makes the best electric guitar?" you might see a “sponsored” ad section for a guitar maker. All of this may sound familiar, as My AI ads work a lot like search ads on other platforms.
 
 ### 
 
 Sponsored Snaps
 
-Ads may appear in your Chat feed. These “Sponsored Snaps” will be labelled as an Ad and are another format for advertising on Snapchat. Although Sponsored Snaps are displayed in your Chat feed they **do not** rely on your private communications between friends – we do not use the contents of private communications you send to your friends to personalise your experience, make recommendations or show you ads. The targeting of Sponsored Snaps follows the same logic as other personalised ads on Snapchat, as described on this page.
+Ads may appear in your Chat feed. These “Sponsored Snaps” will be labelled as an Ad and are another format for advertising on Snapchat. Although Sponsored Snaps are displayed in your Chat feed they do not rely on your private communications between friends – we do not use the contents of private communications you send to your friends to personalise your experience, make recommendations or show you ads. The targeting of Sponsored Snaps follows the same logic as other personalised ads on Snapchat, as described on this page. If you are in the EU, Norway, Switzerland or Israel, you can choose how these Sponsored Snaps appear, either in your Chat feed with other chats or outside your Chat feed in a banner style format.  If you are under 18 in these countries, Sponsored snaps will only appear outside of your Chat feed.
 
 - - -
 
