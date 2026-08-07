@@ -209,3 +209,10 @@ When a piece of content has been found to violate our Community Guidelines, othe
 *   Whether a suspension has been applied (e.g. restricting the use of some platform features) and the duration of that suspension;
     
 *   How the user can appeal our decision.
+    
+
+### We can help you better if we know who you are.
+
+Sign in
+
+Log in to get help with your orders and parcels.
