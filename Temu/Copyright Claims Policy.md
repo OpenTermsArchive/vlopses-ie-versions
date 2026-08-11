@@ -47,7 +47,7 @@ We are committed to protecting intellectual property (“IP”) rights and have 
 
 (3) A report must include the following information:
 
-*   **Detailed reason for the report** (e.g., identification of the allegedly infringed IP right, type of infringement, and supporting documentation).
+*   **Detailed reason for the report** (e.g., identification of the allegedly infringed IP right, type of infringement, and any supporting documentation).
     
 *   **A statement confirming your good-faith belief** that the information provided is accurate and complete.
     
