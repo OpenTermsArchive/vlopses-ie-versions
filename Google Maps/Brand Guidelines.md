@@ -34,6 +34,7 @@ Brands Select a brand Google
 *   Google Nest Thermostat
 *   Google News
 *   Google One
+*   Google.org
 *   Google Pay & Google Wallet
 *   Google Photos
 *   Google Pixel
