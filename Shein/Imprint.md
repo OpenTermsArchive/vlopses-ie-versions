@@ -2,7 +2,7 @@ Company Information
 
 **Provider of marketplace services**
 
-SHEIN’s marketplace services are providedby:
+SHEIN’s marketplace services are provided by:
 
 Infinite Styles Services, Co. Ltd.
 
