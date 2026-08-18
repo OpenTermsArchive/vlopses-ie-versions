@@ -1826,630 +1826,541 @@ Related articles
 
 - - -
 
-* * *
+*   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-English (UK)
+A video that I posted on Facebook was removed immediately. What happened, and what are my options?
+==================================================================================================
 
-[Русский](#)
+Copy link
 
-[Українська](#)
+If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else's copyrighted content. This could include video, audio or both.
 
-[Suomi](#)
+If your video was removed for copyright reasons, you'll receive an email and a notification about the removal. Please use the information that you receive to learn more about your options, such as confirming that you have the right to use the copyrighted work and you still wish to post the content.
 
-[中文(简体)](#)
+If you don't see an email from us regarding the removal, please make sure that you are checking the email address that is associated with your Facebook account. You can find your primary address under your [account settings.](https://www.facebook.com/settings) If you still haven't received an email from us, you may also want to review your Facebook [notification settings](https://www.facebook.com/help/154884887910599?helpref=faq_content) as well as your email's spam folder.
 
-[Deutsch](#)
+Related articles
+----------------
 
-[العربية](#)
+[Get a video of you taken down from Facebook](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
 
-[More languages…](#)
+[What happens when Facebook removes my content?](https://www.facebook.com/help/260743102021762/?helpref=related_articles)
 
-[Sign up](https://www.facebook.com/reg/)
+[Why a video that you are looking for may no longer be available](https://www.facebook.com/help/219494491817203/?helpref=related_articles)
 
-[Log in](https://www.facebook.com/login/)
+[How Facebook determines which videos are "For you"](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
-[Messenger](https://l.facebook.com/l.php?u=https%3A%2F%2Fmessenger.com%2F)
+[Ask to edit or remove a video that you were in as a minor (Utah only)](https://www.facebook.com/help/1030666849167835/?helpref=related_articles)
 
-[Facebook Lite](https://www.facebook.com/lite/)
+Related articles
 
-[Video](https://www.facebook.com/watch/)
+[Get a video of you taken down from Facebook
 
-[Meta Pay](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.meta.com%2Ftechnologies%2Fmeta-pay)
+* * *](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
 
-[Meta Store](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2F)
+[What happens when Facebook removes my content?
 
-[Meta Quest](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fquest%2F)
+* * *](https://www.facebook.com/help/260743102021762/?helpref=related_articles)
 
-[Ray-Ban Meta](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fai-glasses%2Fray-ban-meta%2F)
+[Why a video that you are looking for may no longer be available
 
-[Meta AI](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.ai%2F)
+* * *](https://www.facebook.com/help/219494491817203/?helpref=related_articles)
 
-[Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F)
+[How Facebook determines which videos are "For you"
 
-[Threads](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.threads.com%2F)
+* * *](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
-[Privacy Policy](https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer)
-
-[Privacy Centre](https://www.facebook.com/privacy/center/?entry_point=facebook_page_footer)
-
-[About](https://www.facebook.com/about/)
-
-[Create ad](https://www.facebook.com/ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&nav_source=unknown&extra_1=auto)
-
-[Create Page](https://www.facebook.com/pages/create/?ref_type=site_footer)
-
-[Developers](https://developers.facebook.com/?ref=pf)
-
-[Careers](https://www.facebook.com/careers/?ref=pf)
-
-[Cookies](https://www.facebook.com/policies/cookies/)
-
-[AdChoices](https://www.facebook.com/help/568137493302217)
-
-[Terms](https://www.facebook.com/policies?ref=pf)
-
-[Help](https://www.facebook.com/help/?ref=pf)
-
-[Contact uploading and non-users](https://www.facebook.com/help/637205020878504)
-
-Meta © 2026
+[Ask to edit or remove a video that you were in as a minor (Utah only)](https://www.facebook.com/help/1030666849167835/?helpref=related_articles)
 
 - - -
 
-* * *
+*   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-English (UK)
+Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?
+=====================================================================================================================================
 
-[Русский](#)
+Copy link
 
-[Українська](#)
+Computer help
 
-[Suomi](#)
+iPhone App Help
 
-[中文(简体)](#)
+Android App Help
 
-[Deutsch](#)
+Mobile Browser Help
 
-[العربية](#)
+iPad App Help
 
-[More languages…](#)
+Facebook Lite App Help
 
-[Sign up](https://www.facebook.com/reg/)
+More
 
-[Log in](https://www.facebook.com/login/)
+Computer help
 
-[Messenger](https://l.facebook.com/l.php?u=https%3A%2F%2Fmessenger.com%2F)
+iPhone App Help
 
-[Facebook Lite](https://www.facebook.com/lite/)
+Android App Help
 
-[Video](https://www.facebook.com/watch/)
+Mobile Browser Help
 
-[Meta Pay](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.meta.com%2Ftechnologies%2Fmeta-pay)
+iPad App Help
 
-[Meta Store](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2F)
+Facebook Lite App Help
 
-[Meta Quest](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fquest%2F)
+More
 
-[Ray-Ban Meta](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fai-glasses%2Fray-ban-meta%2F)
+When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
-[Meta AI](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.ai%2F)
+If we remove content that you posted because of an intellectual property report submitted through our online form, you'll receive a notification from Meta that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
-[Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F)
+If you're an admin on a Page, and content that another admin posted on the Page was removed due to an intellectual property report, you'll receive a notification with information about the content that was removed, as well as the name of the other admin who posted it.
 
-[Threads](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.threads.com%2F)
+If content you posted in a group was removed due to an intellectual property report, the group admins will also be notified of the removal and the identity of the group member who posted the content that was removed.
 
-[Privacy Policy](https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer)
+Appealing the removal of content
+--------------------------------
 
-[Privacy Centre](https://www.facebook.com/privacy/center/?entry_point=facebook_page_footer)
+If your content was removed because of a copyright report, you can submit an appeal. You'll receive instructions about how to appeal in the message that we send you. Similarly, if the content was removed under the notice and counter-notice procedures of the [United States Digital Millennium Copyright Act (DMCA)](https://www.facebook.com/help/265723950293778?helpref=faq_content), you may be able to file a DMCA counter-notification. Again, instructions will be available for you in the message that we send you. [Learn more](https://www.facebook.com/help/194353905193770?locale=en_US&helpref=faq_content) about our appeals process.
 
-[About](https://www.facebook.com/about/)
+Group admins will be notified about content removed from their group due to intellectual property violations, but only the person who posted it will be able to submit an appeal.
 
-[Create ad](https://www.facebook.com/ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&nav_source=unknown&extra_1=auto)
+Related articles
+----------------
 
-[Create Page](https://www.facebook.com/pages/create/?ref_type=site_footer)
+[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/1900735080058381/?helpref=related_articles)
 
-[Developers](https://developers.facebook.com/?ref=pf)
+[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
-[Careers](https://www.facebook.com/careers/?ref=pf)
+[How do I appeal the removal of content on Facebook for copyright reasons?](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
 
-[Cookies](https://www.facebook.com/policies/cookies/)
+[How do I appeal the removal of content on Facebook for trademark reasons?](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
 
-[AdChoices](https://www.facebook.com/help/568137493302217)
+[Why didn't Facebook remove the content that I reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[Terms](https://www.facebook.com/policies?ref=pf)
+Related articles
 
-[Help](https://www.facebook.com/help/?ref=pf)
+[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?
 
-[Contact uploading and non-users](https://www.facebook.com/help/637205020878504)
+* * *](https://www.facebook.com/help/1900735080058381/?helpref=related_articles)
 
-Meta © 2026
+[Repeated intellectual property infringement on Facebook
+
+* * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
+
+[How do I appeal the removal of content on Facebook for copyright reasons?
+
+* * *](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
+
+[How do I appeal the removal of content on Facebook for trademark reasons?
+
+* * *](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+
+[Why didn't Facebook remove the content that I reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
 - - -
 
-* * *
+*   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-English (UK)
+How does Meta process United States Digital Millennium Copyright Act (DMCA) counter-notifications?
+==================================================================================================
 
-[Русский](#)
+Copy link
 
-[Українська](#)
+Meta complies with the notice-and-takedown procedures set out in section 512(c) of the United States Digital Millennium Copyright Act (DMCA), which applies to content reported and removed for violating US copyrights.
 
-[Suomi](#)
+If your content is removed under the DMCA, you'll receive instructions about how to file a counter-notification in the message that we send you. You should only submit a counter-notification if the content was removed because of a mistake or misidentification. Please note that if your content was removed for reasons unrelated to a copyright report, you may not receive a response from us.
 
-[中文(简体)](#)
+When we receive a valid DMCA counter-notification, we forward it to the party that reported the content. The information they receive includes your contact information, which they can use to contact you.
 
-[Deutsch](#)
+If we provide your counter-notification to the party that reported the content, and they don't notify us that they have filed a court action seeking an order to keep the content down, we will restore or cease disabling eligible content under the DMCA. This process can take up to 14 working days. Please note, in rare instances, we may not be able to restore content because of technical limitations. If this happens, we'll send you an update letting you know you may repost the content at your discretion.
 
-[العربية](#)
+Content that is restored based on a valid DMCA counter-notification will not be counted against you under our [Repeat Infringer policy](https://www.facebook.com/help/350712395302528?helpref=faq_content).
 
-[More languages…](#)
+Related articles
+----------------
 
-[Sign up](https://www.facebook.com/reg/)
+[How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent?](https://www.facebook.com/help/190268144407210/?helpref=related_articles)
 
-[Log in](https://www.facebook.com/login/)
+[About e-invoicing for Taiwan](https://www.facebook.com/help/210051233703663/?helpref=related_articles)
 
-[Messenger](https://l.facebook.com/l.php?u=https%3A%2F%2Fmessenger.com%2F)
+[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[Facebook Lite](https://www.facebook.com/lite/)
+[Japan Information Distribution Platform (Measurement) Act](https://www.facebook.com/help/1269666141338507/?helpref=related_articles)
 
-[Video](https://www.facebook.com/watch/)
+[How dispute settlement bodies work in the EU for Facebook](https://www.facebook.com/help/2345573922310411/?helpref=related_articles)
 
-[Meta Pay](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.meta.com%2Ftechnologies%2Fmeta-pay)
+Related articles
 
-[Meta Store](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2F)
+[How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent?
 
-[Meta Quest](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fquest%2F)
+* * *](https://www.facebook.com/help/190268144407210/?helpref=related_articles)
 
-[Ray-Ban Meta](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fai-glasses%2Fray-ban-meta%2F)
+[About e-invoicing for Taiwan
 
-[Meta AI](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.ai%2F)
+* * *](https://www.facebook.com/help/210051233703663/?helpref=related_articles)
 
-[Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F)
+[Copyright
 
-[Threads](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.threads.com%2F)
+* * *](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[Privacy Policy](https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer)
+[Japan Information Distribution Platform (Measurement) Act
 
-[Privacy Centre](https://www.facebook.com/privacy/center/?entry_point=facebook_page_footer)
+* * *](https://www.facebook.com/help/1269666141338507/?helpref=related_articles)
 
-[About](https://www.facebook.com/about/)
-
-[Create ad](https://www.facebook.com/ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&nav_source=unknown&extra_1=auto)
-
-[Create Page](https://www.facebook.com/pages/create/?ref_type=site_footer)
-
-[Developers](https://developers.facebook.com/?ref=pf)
-
-[Careers](https://www.facebook.com/careers/?ref=pf)
-
-[Cookies](https://www.facebook.com/policies/cookies/)
-
-[AdChoices](https://www.facebook.com/help/568137493302217)
-
-[Terms](https://www.facebook.com/policies?ref=pf)
-
-[Help](https://www.facebook.com/help/?ref=pf)
-
-[Contact uploading and non-users](https://www.facebook.com/help/637205020878504)
-
-Meta © 2026
+[How dispute settlement bodies work in the EU for Facebook](https://www.facebook.com/help/2345573922310411/?helpref=related_articles)
 
 - - -
 
-* * *
+*   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-English (UK)
+How do I report copyright infringement on Facebook?
+===================================================
 
-[Русский](#)
+Copy link
 
-[Українська](#)
+If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
-[Suomi](#)
+*   You can report copyright infringement to us by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
+*   You can contact our [designated agent](https://www.facebook.com/help/190268144407210?helpref=faq_content). If you contact our designated agent, please make sure that you include a complete copyright claim in your report.
+*   You may be able to resolve the issue without contacting Meta, by sending a message to the person who posted the content.
 
-[中文(简体)](#)
+Please note:
 
-[Deutsch](#)
+*   Only the copyright owner or their authorised representative may file a report of copyright infringement. If you believe that something on Facebook infringes someone else's copyright, you may want to let the rights owner know.
+*   We regularly provide the rights owner's name, your email address and the details of your report to the person who posted the content you are reporting. In the case that you are an authorised representative submitting a report, we provide the name of the organisation or client that owns the right in question. For this reason, you may wish to provide a valid generic business or professional email address.
 
-[العربية](#)
+Related articles
+----------------
 
-[More languages…](#)
+[Unintentional actions can still violate copyright on Facebook](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
 
-[Sign up](https://www.facebook.com/reg/)
+[How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
-[Log in](https://www.facebook.com/login/)
+[What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
 
-[Messenger](https://l.facebook.com/l.php?u=https%3A%2F%2Fmessenger.com%2F)
+[What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
-[Facebook Lite](https://www.facebook.com/lite/)
+[Facebook removed content as a result of my copyright report. What information is sent to the person who posted that content?](https://www.facebook.com/help/297270237338088/?helpref=related_articles)
 
-[Video](https://www.facebook.com/watch/)
+Related articles
 
-[Meta Pay](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.meta.com%2Ftechnologies%2Fmeta-pay)
+[Unintentional actions can still violate copyright on Facebook
 
-[Meta Store](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2F)
+* * *](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
 
-[Meta Quest](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fquest%2F)
+[How do I report trademark infringement on Facebook?
 
-[Ray-Ban Meta](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fai-glasses%2Fray-ban-meta%2F)
+* * *](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
-[Meta AI](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.ai%2F)
+[What information you need to include in a copyright report to Meta
 
-[Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F)
+* * *](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
 
-[Threads](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.threads.com%2F)
+[What happens when you submit a copyright report to Meta
 
-[Privacy Policy](https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer)
+* * *](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
-[Privacy Centre](https://www.facebook.com/privacy/center/?entry_point=facebook_page_footer)
-
-[About](https://www.facebook.com/about/)
-
-[Create ad](https://www.facebook.com/ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&nav_source=unknown&extra_1=auto)
-
-[Create Page](https://www.facebook.com/pages/create/?ref_type=site_footer)
-
-[Developers](https://developers.facebook.com/?ref=pf)
-
-[Careers](https://www.facebook.com/careers/?ref=pf)
-
-[Cookies](https://www.facebook.com/policies/cookies/)
-
-[AdChoices](https://www.facebook.com/help/568137493302217)
-
-[Terms](https://www.facebook.com/policies?ref=pf)
-
-[Help](https://www.facebook.com/help/?ref=pf)
-
-[Contact uploading and non-users](https://www.facebook.com/help/637205020878504)
-
-Meta © 2026
+[Facebook removed content as a result of my copyright report. What information is sent to the person who posted that content?](https://www.facebook.com/help/297270237338088/?helpref=related_articles)
 
 - - -
 
-* * *
+*   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-English (UK)
+How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent?
+=================================================================================
 
-[Русский](#)
+Copy link
 
-[Українська](#)
+The fastest and easiest way to send a DMCA report of copyright infringement to our designated agent is to [contact Meta](https://www.facebook.com/help/325058084212425?helpref=faq_content).
 
-[Suomi](#)
+If you wish to contact out designated agent via other (and slower) methods, you can contact:
 
-[中文(简体)](#)
+Meta Platforms, Inc.  
+FAO: Meta Designated Agent  
+1601 Willow Road  
+Menlo Park, California 94025, USA  
++1 650 543 4800 (phone)  
+ip@fb.com
 
-[Deutsch](#)
+Please bear in mind that if you submit a report to our designated agent by any means other than through our online form, you must include a [complete copyright claim](https://www.facebook.com/help/231463960277847?helpref=faq_content).
 
-[العربية](#)
+Related articles
+----------------
 
-[More languages…](#)
+[How does Meta process United States Digital Millennium Copyright Act (DMCA) counter-notifications?](https://www.facebook.com/help/265723950293778/?helpref=related_articles)
 
-[Sign up](https://www.facebook.com/reg/)
+[How dispute settlement bodies work in the EU for Facebook](https://www.facebook.com/help/2345573922310411/?helpref=related_articles)
 
-[Log in](https://www.facebook.com/login/)
+[About charity registries](https://www.facebook.com/help/1160346577807826/?helpref=related_articles)
 
-[Messenger](https://l.facebook.com/l.php?u=https%3A%2F%2Fmessenger.com%2F)
+[Japan Information Distribution Platform (Measurement) Act](https://www.facebook.com/help/1269666141338507/?helpref=related_articles)
 
-[Facebook Lite](https://www.facebook.com/lite/)
+[Telecommunications Business Act (TBA)](https://www.facebook.com/help/390717618710100/?helpref=related_articles)
 
-[Video](https://www.facebook.com/watch/)
+Related articles
 
-[Meta Pay](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.meta.com%2Ftechnologies%2Fmeta-pay)
+[How does Meta process United States Digital Millennium Copyright Act (DMCA) counter-notifications?
 
-[Meta Store](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2F)
+* * *](https://www.facebook.com/help/265723950293778/?helpref=related_articles)
 
-[Meta Quest](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fquest%2F)
+[How dispute settlement bodies work in the EU for Facebook
 
-[Ray-Ban Meta](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fai-glasses%2Fray-ban-meta%2F)
+* * *](https://www.facebook.com/help/2345573922310411/?helpref=related_articles)
 
-[Meta AI](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.ai%2F)
+[About charity registries
 
-[Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F)
+* * *](https://www.facebook.com/help/1160346577807826/?helpref=related_articles)
 
-[Threads](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.threads.com%2F)
+[Japan Information Distribution Platform (Measurement) Act
 
-[Privacy Policy](https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer)
+* * *](https://www.facebook.com/help/1269666141338507/?helpref=related_articles)
 
-[Privacy Centre](https://www.facebook.com/privacy/center/?entry_point=facebook_page_footer)
-
-[About](https://www.facebook.com/about/)
-
-[Create ad](https://www.facebook.com/ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&nav_source=unknown&extra_1=auto)
-
-[Create Page](https://www.facebook.com/pages/create/?ref_type=site_footer)
-
-[Developers](https://developers.facebook.com/?ref=pf)
-
-[Careers](https://www.facebook.com/careers/?ref=pf)
-
-[Cookies](https://www.facebook.com/policies/cookies/)
-
-[AdChoices](https://www.facebook.com/help/568137493302217)
-
-[Terms](https://www.facebook.com/policies?ref=pf)
-
-[Help](https://www.facebook.com/help/?ref=pf)
-
-[Contact uploading and non-users](https://www.facebook.com/help/637205020878504)
-
-Meta © 2026
+[Telecommunications Business Act (TBA)](https://www.facebook.com/help/390717618710100/?helpref=related_articles)
 
 - - -
 
-* * *
+*   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-English (UK)
+What information you need to include in a copyright report to Meta
+==================================================================
 
-[Русский](#)
+Copy link
 
-[Українська](#)
+The fastest and easiest way to submit a claim of copyright infringement on Facebook to us is to [report it](https://www.facebook.com/help/325058084212425?helpref=faq_content). Whether you submit your report through our online form or another method, Facebook needs the following information to be able to process your report:
 
-[Suomi](#)
+*   Your complete contact information (full name, postal address and phone number)\*.
+*   A description of the copyrighted work that you claim has been infringed.
+*   A description of the content on our site that you claim infringes your copyright.
+*   Information reasonably sufficient to permit us to locate the material on our site. The easiest way to do this is by providing web addresses (URLs) that lead directly to the allegedly infringing content.
+*   A declaration that:
+    
+    1.  you have a belief, based on good faith, that use of the copyrighted content described above, in the manner you have complained of, is not authorised by the copyright owner, its agent or the law;
+    2.  The information in your notice is accurate;
+    3.  under penalty of perjury, you are the owner or authorised to act on behalf of the owner of an exclusive copyright that has been allegedly infringed.
+    
+*   Your electronic signature or physical signature.
 
-[中文(简体)](#)
+\*Please note that we regularly provide your name, contact information and the contents of your report to the person who posted the content you are reporting. If you are an authorised representative submitting a report, we provide the name of the organisation or client that owns the right in question. For this reason, you may wish to provide a professional or business email address.
 
-[Deutsch](#)
+Related articles
+----------------
 
-[العربية](#)
+[What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
-[More languages…](#)
+[What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
-[Sign up](https://www.facebook.com/reg/)
+[What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[Log in](https://www.facebook.com/login/)
+[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
-[Messenger](https://l.facebook.com/l.php?u=https%3A%2F%2Fmessenger.com%2F)
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
-[Facebook Lite](https://www.facebook.com/lite/)
+Related articles
 
-[Video](https://www.facebook.com/watch/)
+[What happens when you submit a copyright report to Meta
 
-[Meta Pay](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.meta.com%2Ftechnologies%2Fmeta-pay)
+* * *](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
-[Meta Store](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2F)
+[What information do I need to include in a trademark report to Meta?
 
-[Meta Quest](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fquest%2F)
+* * *](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
-[Ray-Ban Meta](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fai-glasses%2Fray-ban-meta%2F)
+[What happens when I submit a trademark report to Meta?
 
-[Meta AI](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.ai%2F)
+* * *](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F)
+[Report an advertisement for intellectual property infringement on Facebook
 
-[Threads](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.threads.com%2F)
+* * *](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
-[Privacy Policy](https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer)
-
-[Privacy Centre](https://www.facebook.com/privacy/center/?entry_point=facebook_page_footer)
-
-[About](https://www.facebook.com/about/)
-
-[Create ad](https://www.facebook.com/ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&nav_source=unknown&extra_1=auto)
-
-[Create Page](https://www.facebook.com/pages/create/?ref_type=site_footer)
-
-[Developers](https://developers.facebook.com/?ref=pf)
-
-[Careers](https://www.facebook.com/careers/?ref=pf)
-
-[Cookies](https://www.facebook.com/policies/cookies/)
-
-[AdChoices](https://www.facebook.com/help/568137493302217)
-
-[Terms](https://www.facebook.com/policies?ref=pf)
-
-[Help](https://www.facebook.com/help/?ref=pf)
-
-[Contact uploading and non-users](https://www.facebook.com/help/637205020878504)
-
-Meta © 2026
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 - - -
 
-* * *
+*   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-English (UK)
+Facebook removed content as a result of my copyright report. What information is sent to the person who posted that content?
+============================================================================================================================
 
-[Русский](#)
+Copy link
 
-[Українська](#)
+When we receive a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) through our online form and remove the reported content, we regularly provide the person who posted the content with the following information:
 
-[Suomi](#)
+*   Report number
+*   Rights owner's name
+*   Email address provided by the reporting party
+*   Details of the report
+*   Instructions on how to submit an appeal
 
-[中文(简体)](#)
+The person whose content was removed may contact you with the information you provide. For this reason, you may want to provide a valid generic business or professional email address.
 
-[Deutsch](#)
+In rare cases (such as when we are contacted by fax, post or email), we are only able to provide the report number and a description of the removed content. We may provide additional information if it's requested by the person who posted the reported content.
 
-[العربية](#)
+Related articles
+----------------
 
-[More languages…](#)
+[Facebook removed content as a result of my trademark report. What information is sent to the person who posted that content?](https://www.facebook.com/help/509605252475371/?helpref=related_articles)
 
-[Sign up](https://www.facebook.com/reg/)
+[How do I appeal the removal of content on Facebook for copyright reasons?](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
 
-[Log in](https://www.facebook.com/login/)
+[What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
-[Messenger](https://l.facebook.com/l.php?u=https%3A%2F%2Fmessenger.com%2F)
+[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
 
-[Facebook Lite](https://www.facebook.com/lite/)
+[How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
-[Video](https://www.facebook.com/watch/)
+Related articles
 
-[Meta Pay](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.meta.com%2Ftechnologies%2Fmeta-pay)
+[Facebook removed content as a result of my trademark report. What information is sent to the person who posted that content?
 
-[Meta Store](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2F)
+* * *](https://www.facebook.com/help/509605252475371/?helpref=related_articles)
 
-[Meta Quest](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fquest%2F)
+[How do I appeal the removal of content on Facebook for copyright reasons?
 
-[Ray-Ban Meta](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fai-glasses%2Fray-ban-meta%2F)
+* * *](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
 
-[Meta AI](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.ai%2F)
+[What happens when you submit a copyright report to Meta
 
-[Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F)
+* * *](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
-[Threads](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.threads.com%2F)
+[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?
 
-[Privacy Policy](https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer)
+* * *](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
 
-[Privacy Centre](https://www.facebook.com/privacy/center/?entry_point=facebook_page_footer)
-
-[About](https://www.facebook.com/about/)
-
-[Create ad](https://www.facebook.com/ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&nav_source=unknown&extra_1=auto)
-
-[Create Page](https://www.facebook.com/pages/create/?ref_type=site_footer)
-
-[Developers](https://developers.facebook.com/?ref=pf)
-
-[Careers](https://www.facebook.com/careers/?ref=pf)
-
-[Cookies](https://www.facebook.com/policies/cookies/)
-
-[AdChoices](https://www.facebook.com/help/568137493302217)
-
-[Terms](https://www.facebook.com/policies?ref=pf)
-
-[Help](https://www.facebook.com/help/?ref=pf)
-
-[Contact uploading and non-users](https://www.facebook.com/help/637205020878504)
-
-Meta © 2026
+[How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
 - - -
 
-* * *
+*   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-English (UK)
+What happens when you submit a copyright report to Meta
+=======================================================
 
-[Русский](#)
+Copy link
 
-[Українська](#)
+If you submit a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) to us through our form or via email, you'll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
-[Suomi](#)
+Sometimes, we might respond to your report and ask for more information. If you receive a message from our team, you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
 
-[中文(简体)](#)
+Please note that we regularly provide the person who posted the content with the following information about your report:
 
-[Deutsch](#)
+*   Report number
+*   Rights owner's name
+*   Email address provided by the reporting party
+*   Details of the report
+*   Instructions on how to submit an appeal
 
-[العربية](#)
+The person whose content was removed may contact you with the information you provide. For this reason, you may want to provide a valid generic business or professional email address in your report.
 
-[More languages…](#)
+Related articles
+----------------
 
-[Sign up](https://www.facebook.com/reg/)
+[What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
 
-[Log in](https://www.facebook.com/login/)
+[What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[Messenger](https://l.facebook.com/l.php?u=https%3A%2F%2Fmessenger.com%2F)
+[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
-[Facebook Lite](https://www.facebook.com/lite/)
+[What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
-[Video](https://www.facebook.com/watch/)
+[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
-[Meta Pay](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.meta.com%2Ftechnologies%2Fmeta-pay)
+Related articles
 
-[Meta Store](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2F)
+[What information you need to include in a copyright report to Meta
 
-[Meta Quest](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fquest%2F)
+* * *](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
 
-[Ray-Ban Meta](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fai-glasses%2Fray-ban-meta%2F)
+[What happens when I submit a trademark report to Meta?
 
-[Meta AI](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.ai%2F)
+* * *](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F)
+[Repeated intellectual property infringement on Facebook
 
-[Threads](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.threads.com%2F)
+* * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
-[Privacy Policy](https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer)
+[What information do I need to include in a trademark report to Meta?
 
-[Privacy Centre](https://www.facebook.com/privacy/center/?entry_point=facebook_page_footer)
+* * *](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
-[About](https://www.facebook.com/about/)
-
-[Create ad](https://www.facebook.com/ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&nav_source=unknown&extra_1=auto)
-
-[Create Page](https://www.facebook.com/pages/create/?ref_type=site_footer)
-
-[Developers](https://developers.facebook.com/?ref=pf)
-
-[Careers](https://www.facebook.com/careers/?ref=pf)
-
-[Cookies](https://www.facebook.com/policies/cookies/)
-
-[AdChoices](https://www.facebook.com/help/568137493302217)
-
-[Terms](https://www.facebook.com/policies?ref=pf)
-
-[Help](https://www.facebook.com/help/?ref=pf)
-
-[Contact uploading and non-users](https://www.facebook.com/help/637205020878504)
-
-Meta © 2026
+[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 - - -
 
-* * *
+*   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-English (UK)
+Tools Facebook provides to help protect your intellectual property
+==================================================================
 
-[Русский](#)
+Copy link
 
-[Українська](#)
+In addition to our other measures, including our online reporting forms and our repeat infringer policy, we provide rights holders with tools to identify and enforce on content posted to Facebook that may contain their copyrighted work. We provide tailored tooling specific to a content owner's demonstrated needs.
 
-[Suomi](#)
+Rights Manager
+--------------
 
-[中文(简体)](#)
+Rights Manager allows rights holders to manage, authorise and protect their video, audio and image content at scale. Participating rights holders can upload reference files of the content that they own directly into the tool. Rights Manager will then scan Instagram and Facebook to detect user content matching those reference files. Rights Manager provides rights holders with tailored protection capabilities that meet their particular needs.
 
-[Deutsch](#)
+Learn more about [Rights Manager](https://l.facebook.com/l.php?u=https%3A%2F%2Frightsmanager.fb.com%2F).
 
-[العربية](#)
+Content protection
+------------------
 
-[More languages…](#)
+Content protection is for creators seeking to manage and protect their original content. It uses the same technology as Rights Manager to detect video matches across Facebook and Instagram, but the features of the tool are tailored specifically to creators. Learn more about [content protection](https://www.facebook.com/business/help/1024655109288450?helpref=faq_content).
 
-[Sign up](https://www.facebook.com/reg/)
+Actions that you can take with our copyright management tools
+-------------------------------------------------------------
 
-[Log in](https://www.facebook.com/login/)
+When your content is detected on a Page, profile or Instagram account, you can choose to take the enforcement actions available to you based on your demonstrated needs. Actions include:
 
-[Messenger](https://l.facebook.com/l.php?u=https%3A%2F%2Fmessenger.com%2F)
+*   **Allow or track**: Allow matching content to remain posted and visible on Facebook and/or Instagram and have visibility into how it performs over time.
+*   **Block**: Prevent the matching content from being visible to anyone other than the Page, profile or Instagram account that posted it.
+*   **Monetise**: You may be able to claim money earned from a video that is eligible for monetisation on Meta platforms. Note: At this time, this feature is not available to all creators using content protection and/or Rights Manager.
+*   **Apply credit or ownership links**: You may be able to insert a banner below selected Facebook matches linking it to your own content, Page or profile.
+*   **Report and request takedown**: You can choose to send a copyright report to Facebook, which may result in the reported content being removed.
 
-[Facebook Lite](https://www.facebook.com/lite/)
+If you want scaled copyright management, you can apply for access to our tools [here](https://www.facebook.com/rights_manager/apply). Our team will assess your application and, if you are eligible, will grant access to protection features specific to your needs.
 
-[Video](https://www.facebook.com/watch/)
+Please note that all users on Meta platforms have access to the [copyright report form](https://www.facebook.com/help/ipreporting/report/copyright) to report individual instances when content has been used without permission. The form can be submitted to request a takedown of content at any time; no application is necessary.
 
-[Meta Pay](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.meta.com%2Ftechnologies%2Fmeta-pay)
+Related articles
+----------------
 
-[Meta Store](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2F)
+[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
-[Meta Quest](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fquest%2F)
+[Unintentional actions can still violate copyright on Facebook](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
 
-[Ray-Ban Meta](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.com%2Fai-glasses%2Fray-ban-meta%2F)
+[How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
-[Meta AI](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.meta.ai%2F)
+[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
 
-[Instagram](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F)
+[Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=related_articles)
 
-[Threads](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.threads.com%2F)
+Related articles
 
-[Privacy Policy](https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer)
+[Repeated intellectual property infringement on Facebook
 
-[Privacy Centre](https://www.facebook.com/privacy/center/?entry_point=facebook_page_footer)
+* * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
-[About](https://www.facebook.com/about/)
+[Unintentional actions can still violate copyright on Facebook
 
-[Create ad](https://www.facebook.com/ad_campaign/landing.php?placement=pflo&campaign_id=402047449186&nav_source=unknown&extra_1=auto)
+* * *](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
 
-[Create Page](https://www.facebook.com/pages/create/?ref_type=site_footer)
+[How can I make sure that the content I post to Facebook doesn't violate copyright law?
 
-[Developers](https://developers.facebook.com/?ref=pf)
+* * *](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
-[Careers](https://www.facebook.com/careers/?ref=pf)
+[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?
 
-[Cookies](https://www.facebook.com/policies/cookies/)
+* * *](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
 
-[AdChoices](https://www.facebook.com/help/568137493302217)
-
-[Terms](https://www.facebook.com/policies?ref=pf)
-
-[Help](https://www.facebook.com/help/?ref=pf)
-
-[Contact uploading and non-users](https://www.facebook.com/help/637205020878504)
-
-Meta © 2026
+[Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=related_articles)
