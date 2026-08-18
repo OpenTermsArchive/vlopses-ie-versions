@@ -28,13 +28,9 @@ This Ranking Policy explains why certain products may appear more prominently th
 
 **•Seller:** businesses that list products for sale on the Platform.
 
-**•Customer/User:** A user who visits the Platform to browse, purchase, or interact with products.
+**•Customer/User:** A user who visits the Platform to browse, purchase, or interact with products.  
 
-  
-
-**1\. FACTORS AFFECTING PRODUCT RANKING**
-
-  
+**1\. FACTORS AFFECTING PRODUCT RANKING**  
 
 The visibility and ranking of products, within a page or section of the Platform, are determined by a range of factors related to the predictive objective of the recommender system’s algorithmic model. These factors can dynamically affect the main parameters used by the recommender system and therefore impact product ranking prominence. The factors include, but are not limited to:
 
@@ -72,13 +68,9 @@ One of the key sellers’ rating factor is the Choices label, which is a manner 
 
 You have the right to adjust these decisions if you feel they do not reflect your preferences or needs by adjusting your personalisation settings at any time by clicking the “Recommender System and Personalised Settings” and “Manage Cookies” links, both are located at the bottom of this webpage or in the “Settings” section of the Platform.
 
-Your personalisation preferences are subject to your cookie settings. For more information about how we use your data, please see our Privacy Policy [https://eur.shein.com/Privacy-Security-Policy-a-282.html](https://eur.shein.com/Privacy-Security-Policy-a-282.html).
+Your personalisation preferences are subject to your cookie settings. For more information about how we use your data, please see our Privacy Policy [https://eur.shein.com/Privacy-Security-Policy-a-282.html](https://eur.shein.com/Privacy-Security-Policy-a-282.html).  
 
-  
-
-**2\. PROMOTIONS AND SPONSORED CONTENT**
-
-  
+**2\. PROMOTIONS AND SPONSORED CONTENT**  
 
 **The Platform does not allow the Sellers to boost the visibility of their offers/products via paid promotion;** however Sellers can optimize their visibility on the Marketplace by making promotional offers on their products or receiving positive feedback from customers.
 
@@ -86,13 +78,9 @@ Your personalisation preferences are subject to your cookie settings. For more i
 
 **•Customer Feedback and ratings:** Positive customer reviews and high ratings play a crucial role in boosting a seller's visibility. Products and sellers with consistently good feedback may appear higher in search results or be featured in sections like “Top Rated” or “Choices.
 
-These promotional boosted products may appear in pre-designated slots on category pages, search results, and the homepage. When identical items are made available for sale on the Platform from two or more distinct Sellers, these identical items will be treated as totally different products subject to the same factors.
+These promotional boosted products may appear in pre-designated slots on category pages, search results, and the homepage. When identical items are made available for sale on the Platform from two or more distinct Sellers, these identical items will be treated as totally different products subject to the same factors.  
 
-  
-
-**3\. SORTING AND FILTERING OPTIONS FOR USERS**
-
-  
+**3\. SORTING AND FILTERING OPTIONS FOR USERS**  
 
 The Platform offers you a variety of ways to sort and filter search results, ensuring that users can have control over how they view products. Available sorting options include:
 
@@ -106,4 +94,4 @@ The Platform offers you a variety of ways to sort and filter search results, ens
 
 **•“Most Favourite”:** based on the Wishlist inclusions and sales within the previous day.
 
-Customers can also refine their search using filters for categories, sizes, colours, and other product attributes
+Customers can also refine their search using filters for categories, sizes, colours, and other product attributes.
