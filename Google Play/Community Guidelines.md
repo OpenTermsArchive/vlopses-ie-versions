@@ -122,16 +122,6 @@ Child endangerment
 
 _**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
-**Changes are coming to this article**
-
-This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
-
-We're expanding our [child safety standards](https://support.google.com/googleplay/android-developer/answer/17122524#child_safety) policy to apply to anonymous chat and random chat apps.
-
-(effective from 26 August 2026)
-
-To preview the updated 'Child endangerment' article, visit [this page](https://support.google.com/googleplay/android-developer/answer/17122524).
-
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
 Google Play has a zero-tolerance policy for child sexual abuse and exploitation (CSAE). All apps must not contain or promote content that endangers children. This includes apps that appeal to children but contain adult themes. Further, social and dating apps must follow the child safety standards policy. Failure to comply will result in immediate removal. Please review the full policy to ensure compliance.
@@ -159,15 +149,15 @@ We also don’t allow apps that promote negative body or self-image, including a
 
 #### **Child safety standards policy**
 
-Google Play requires social and dating apps to comply with our child safety standards policy.
+Google Play requires anonymous chat, random chat, social and dating apps to comply with our child safety standards policy.
 
 These apps must:
 
-*   **Have published standards:** your app must explicitly prohibit child sexual abuse and exploitation (CSAE) in publicly accessible standards, such as your app's Terms of Service, community guidelines or any other publicly available user policy documentation.
-*   **Provide an in-app** **mechanism for user feedback:** you must self-certify that you provide a mechanism within your app for users to submit feedback, concerns or reports in your app.
-*   **Address CSAM:** you must self-certify that your app takes appropriate action, including but not limited to removing CSAM, after obtaining actual knowledge of it, in accordance with your published standards and relevant laws.
-*   **Comply with child safety laws:** you must self-certify that your app complies with applicable child safety laws and regulations, including but not limited to, having a process in place to report confirmed CSAM to the [National Center for Missing and Exploited Children](https://report.cybertip.org/) or your [relevant regional authority](https://support.google.com/websearch/answer/148666).
-*   **Provide a child safety point of contact:** your app must provide a designated point of contact to receive potential notifications from Google Play about CSAE content found in your app or on your platform. This representative must be positioned to speak to your enforcement and review procedures and to take action if required.
+*   **Have published standards:** Your app must explicitly prohibit child sexual abuse and exploitation (CSAE) in publicly accessible standards, such as your app's Terms of Service, community guidelines or any other publicly available user policy documentation.
+*   **Provide an in-app** **mechanism for user feedback:** You must self-certify that you provide a mechanism within your app for users to submit feedback, concerns or reports in your app.
+*   **Address CSAM:** You must self-certify that your app takes appropriate action, including, but not limited to, removing CSAM after obtaining actual knowledge of it, in accordance with your published standards and relevant laws.
+*   **Comply with child safety laws:** You must self-certify that your app complies with applicable child safety laws and regulations, including, but not limited to, having a process in place to report confirmed CSAM to the [National Center for Missing and Exploited Children](https://report.cybertip.org/) or your [relevant regional authority](https://support.google.com/websearch/answer/148666).
+*   **Provide a child safety point of contact:** Your app must provide a designated point of contact to receive potential notifications from Google Play about CSAE content found in your app or on your platform. This representative must be positioned to speak to your enforcement, review procedures and take action if required.
 
 Learn more here about these requirements and how to comply in our [Help Centre](https://support.google.com/googleplay/android-developer/answer/14747720) article.
 
@@ -2315,16 +2305,6 @@ Google Play Families policies
 
 _**Disclaimer:** Policy summaries and key considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
-**Changes are coming to this article**
-
-This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
-
-We're expanding our [Families Policy Requirements](https://support.google.com/googleplay/android-developer/answer/17122218#families-policy) policy to prohibit developers of anonymous chat apps from targeting children.
-
-(effective from 26 August 2026)
-
-To preview the updated 'Google Play families policies' article, visit [this page](https://support.google.com/googleplay/android-developer/answer/17122218).
-
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
 Apps in the Google Play Families programme must protect children's privacy and comply with all applicable laws. This includes using only certified ad SDKs and prohibiting personalised advertising. If your app is for a mixed audience, you must include a neutral age screen to ensure that children only see non-personalised ads. Apps must have a privacy policy that accurately reflects data collection and handling practices. Please review the full policy to ensure compliance.
@@ -2373,7 +2353,7 @@ If one of the target audiences for your app is children, you must comply with th
         *   Apps solely targeted to children should not request AD\_ID permission when targeting Android API 33 or higher.
     *   Apps that target both children and older audiences must not transmit AAID, SIM serial, build serial, BSSID, MAC, SSID, IMEI and/or IMSI from children or users of unknown age.
     *   Device phone number must not be requested from TelephonyManager of the Android API.
-    *   Apps that solely target children may not request location permission, or collect, use and transmit [precise location](https://support.google.com/googleplay/android-developer/answer/10787469?hl=en-GB#zippy=%2Cdata-types).
+    *   Apps that solely target children may not request location permission or collect, use and transmit [precise location](https://support.google.com/googleplay/android-developer/answer/10787469?hl=en-GB#zippy=%2Cdata-types).
     *   Apps must use the [Companion Device Manager (CDM)](https://developer.android.com/reference/android/companion/CompanionDeviceManager) when requesting Bluetooth, unless your app is only targeting device operating system (OS) versions that are not compatible with CDM.
 5.  **APIs and SDKs:** You must ensure that your app properly implements any APIs and SDKs.
     *   Apps that solely target children must not contain any APIs or SDKs that are not approved for use in primarily child-directed services.
@@ -2382,12 +2362,12 @@ If one of the target audiences for your app is children, you must comply with th
 6.  **Augmented reality (AR)****:** If your app uses augmented reality, you must include a safety warning immediately upon launch of the AR section. The warning should contain the following:
     *   An appropriate message about the importance of parental supervision.
     *   A reminder to be aware of physical hazards in the real world (for example, be aware of your surroundings).
-    *   Your app must not require the usage of a device that is advised not to be used by children (for example, Daydream, Oculus).
-7.  **Social apps and features:** If your apps allow users to share or exchange information, you must accurately disclose these features in the [content rating questionnaire](https://support.google.com/googleplay/android-developer/answer/9859655?visit_id=637679283344610643-1951945832&rd=1#questionnaire) on the Play Console.
-    *   Social apps: A social app is an app where the main focus is to enable users to share freeform content or communicate with large groups of people. All social apps that include children in their target audience must provide an in-app reminder to be safe online and to be aware of the real-world risk of online interaction before allowing child users to exchange freeform media or information. You must also require adult action before allowing child users to exchange personal information.
-    *   Social features: A social feature is any additional app functionality that enables users to share freeform content or communicate with large groups of people. Any app that includes children in their target audience and has social features, must provide an in-app reminder to be safe online and to be aware of the real world risk of online interaction before allowing child users to exchange freeform media or information. You must also provide a method for adults to manage social features for child users, including, but not limited to, enabling/disabling the social feature or selecting different levels of functionality. Finally, you must require adult action before enabling features that allow children to exchange personal information.
-    *   Adult action means a mechanism to verify that the user is not a child and does not encourage children to falsify their age to gain access to areas of your app that are designed for adults (that is, an adult PIN, password, birthdate, email verification, photo ID, credit card or SSN).
-    *   Social apps where the main focus of the app is to chat with people that they do not know must not target children. Examples include: chat roulette style apps, dating apps, kids-focused open chat rooms, etc.
+    *   Your app must not require the use of a device that is advised not to be used by children (for example, Daydream or Oculus).
+7.  **Social apps and features:** If your apps allow users to share or exchange information, you must accurately disclose these features in the [content rating questionnaire](https://support.google.com/googleplay/android-developer/answer/9859655?visit_id=637679283344610643-1951945832&rd=1#questionnaire) on the Play Console.
+    *   **Social apps:** A social app is an app where the main focus is to enable users to share freeform content or communicate with large groups of people. All social apps that include children in their target audience must provide an in-app reminder to be safe online, and to be aware of the real-world risk of online interaction, before allowing child users to exchange freeform media or information. You must also require adult action before allowing child users to exchange personal information.
+    *   **Social features:** A social feature is any additional app functionality that enables users to share freeform content or communicate with large groups of people. Any app that includes children in its target audience and has social features must provide an in-app reminder to be safe online, and to be aware of the real-world risk of online interaction, before allowing child users to exchange freeform media or information. You must also provide a method for adults to manage social features for child users, including, but not limited to, enabling/disabling the social feature or selecting different levels of functionality. Finally, you must require adult action before enabling features that allow children to exchange personal information.
+    *   Adult action means a mechanism to verify that the user is not a child and does not encourage children to falsify their age to gain access to areas of your app that are designed for adults (that is, an adult PIN, password, date of birth, email verification, photo ID, credit card or SSN).
+    *   Social apps where the main focus of the app is to chat with people that they do not know or to chat with people anonymously must not target children. Examples include: Chat-roulette style apps, dating apps, child-focused open chat rooms, anonymous-user style apps, 'blindfold' apps, etc.
 8.  **Legal compliance:** You must ensure that your app, including any APIs or SDKs that your app calls or uses, is compliant with the [US Children's Online Privacy and Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children's-privacy), [the EU General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679), and any other applicable laws or regulations.
 
 Examples of common violations
