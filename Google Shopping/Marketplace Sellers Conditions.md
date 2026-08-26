@@ -4606,7 +4606,7 @@ Review and remove any advertiser-curated audiences from the targeting settings o
 
 Your ad will be automatically reviewed again. Check the ad’s status in the "Ads & assets" page for updates.
 
-Learn more about how to [Fix an ad with policy violations](https://support.google.com/adspolicy/answer/9338593).
+Learn more about how to [Fix a disapproved ad or appeal a policy decision](https://support.google.com/adspolicy/answer/9338593).
 
 ### Option 3: Appeal the policy decision
 
@@ -4640,7 +4640,7 @@ If your ads target the United States or Canada:
 
 Your ad will be automatically reviewed again. Check the ad’s status in the "Ads & assets" page for updates.
 
-Learn more about how to [Fix an ad with policy violations](https://support.google.com/adspolicy/answer/9338593).
+Learn more about how to [Fix a disapproved ad or appeal a policy decision](https://support.google.com/adspolicy/answer/9338593).
 
 ### Option 3: Appeal the policy decision
 
@@ -4860,7 +4860,7 @@ Review and remove any advertiser-curated audiences from the targeting settings o
 
 Your ad will be automatically reviewed again. Check the ad’s status in the "Ads & assets" page for updates.
 
-Learn more about how to [Fix an ad with policy violations](https://support.google.com/adspolicy/answer/9338593).
+Learn more about how to [Fix a disapproved ad or appeal a policy decision](https://support.google.com/adspolicy/answer/9338593).
 
 ### Option 3: Appeal the policy decision
 
@@ -4894,7 +4894,7 @@ If your ads target the United States or Canada:
 
 Your ad will be automatically reviewed again. Check the ad’s status in the "Ads & assets" page for updates.
 
-Learn more about how to [Fix an ad with policy violations](https://support.google.com/adspolicy/answer/9338593).
+Learn more about how to [Fix a disapproved ad or appeal a policy decision](https://support.google.com/adspolicy/answer/9338593).
 
 ### Option 3: Appeal the policy decision
 
