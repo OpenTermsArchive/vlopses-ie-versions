@@ -105,7 +105,7 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | ARD Food | SWR Runfunkrat |
 | Adoptivbrüder - mit Hannes und Jeremy | SWR Rundfunkrat |
 | Aleksi Rantamaa - Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| BKTelevizija | Agencija za komunikacijska omrežja in storitve Republike Slovenije ( akos ) |
+| BKTelevizija | Agencija za komunikacijska omrežja in storitve Republike Slovenije (akos) |
 | BussiBlaBla | Kommunikationsbehörde Austria (KommAustria) |
 | C'saint-jo TV | ARCOM |
 | CORDOPOLIS | CNMV |
@@ -166,9 +166,10 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | SWR Aktuell | SWR Rundfunkrat |
 | SWR DRM | SWR Rundfunkrat |
 | SWR Wissen | SWR Rundfunkrat |
-| [Siol.net](https://siol.net/) | AKOS |
-| [Svenska.yle.fi](https://svenska.yle.fi/) | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Siol.net | AKOS |
+| Svenska.yle.fi | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | TEEN | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| TV5MONDE | Autorité de régulation de la communication audiovisuelle et numérique (Arcom) |
 | Tarmac | Conseil Supérieur de l'Audiovisuel |
 | Tiede-Henkka – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Timo Korpi – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
@@ -254,4 +255,5 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | vertelevideo | CNMC |
 | vrouwnlmagazine | Commissariaat voor de Media, Raad voor de Journalistiek |
 | À feu doux | ARCOM |
+| Český rozhlas | Rada Českého rozhlasu |
 | Новости Yle | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
