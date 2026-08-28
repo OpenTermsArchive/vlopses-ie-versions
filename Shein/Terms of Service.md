@@ -169,16 +169,6 @@ We welcome your questions and comments about our privacy practices or these Term
 
 Shein’s Terms and Conditions – All you need to know about the fine prints!
 
-Lietuvišką versiją rasite spustelėję [čia](https://files-c.ltwebstatic.com/ccc/2026/06/30/1782808762844691394.pdf). (Lithuanian)
-
-Lai skatītu versiju latviešu valodā, lūdzu, noklikšķiniet [šeit](https://files-c.ltwebstatic.com/ccc/2026/06/30/17828087903020396311.pdf). (Latvian)
-
-Eestikeelse versiooni vaatamiseks palun klõpsake [siin](https://files-c.ltwebstatic.com/ccc/2026/06/30/17828088172028845355.pdf). (Estonian)
-
-Za slovensko različico kliknite [tukajtukaj](https://files-c.ltwebstatic.com/ccc/2026/06/30/17828088332326932089.pdf). (Slovene)
-
-For den danske version, klik venligst [her](https://files-c.ltwebstatic.com/ccc/2026/06/30/17828088672790374840.pdf). (Danish)
-
 Welcome to Shein Marketplace!
 
 **Our business model has changed!**  We are passionate about fashion and try to build the best marketplace for our customers. In order to bring you more choice, we will now be allowing third party sellers to offer you their products through our Site, the Marketplace!
@@ -209,7 +199,7 @@ Our marketplace policies are also an integral part of these Ts and Cs
 
 Please review these carefully before you use the Site and make a purchase as such use and purchase are subject to these Ts &Cs
 
-We recommend that you [print](https://files-c.ltwebstatic.com/ccc/2026/08/13/17866107844058940328.pdf) a version or save the applicable Ts &Cs.
+We recommend that you [print](https://files-c.ltwebstatic.com/ccc/2026/08/26/17877343384070417635.pdf) a version or save the applicable Ts &Cs.
 
 Overview of T&Cs
 
@@ -229,7 +219,7 @@ Overview of T&Cs
 
 SHEIN MARKETPLACE’ S GENERAL CONDITIONS OF USE
 
-****Version of July 1, 2026****
+****Version of August 31st, 2026****
 
 Welcome to the Shein EUR Marketplace.
 
@@ -237,7 +227,7 @@ Infinite Styles Services Co., Ltd operates the website eur.shein.com and/or the 
 
 These General Conditions of Use ( **“GCU”** ) govern the contractual relationship between (a) **Infinite Styles Services Co, Ltd.** whose registered office is at The Sidings, 4th Floor, Grand Canal Quay, Dublin 2, D02 E7K8, Ireland (hereinafter, **“SHEIN”** or **“we”** ) and (b) **you** (hereinafter **“You”** or the **“Customer”** ), regarding your use of the Marketplace within Bulgaria, Croatia (local name: Hrvatska), Cyprus, Estonia, Finland, Ireland, Iceland, Norway, Latvia, Lithuania, Malta, Slovenia (hereinafter the **“Territory”** ).
 
-Before using the Marketplace, please read carefully these GCU and either [print](https://files-c.ltwebstatic.com/ccc/2026/08/13/17866107844058940328.pdf) them or, to save them electronically before accepting them. The fact that you use the Site implies your acceptance, without reservation, of these GCU, unless legally prohibited. These GCU may be modified at any time by SHEIN and the applicable GCU shall be those in force at the time the Customer uses the Marketplace. The Customer is responsible for checking these GCU for any changes whenever uses the Site.
+Before using the Marketplace, please read carefully these GCU and either [print](https://files-c.ltwebstatic.com/ccc/2026/08/26/17877343384070417635.pdf) them or, to save them electronically before accepting them. The fact that you use the Site implies your acceptance, without reservation, of these GCU, unless legally prohibited. These GCU may be modified at any time by SHEIN and the applicable GCU shall be those in force at the time the Customer uses the Marketplace. The Customer is responsible for checking these GCU for any changes whenever uses the Site.
 
 The Customer understands and agrees that the following policies form an integral part of the T&Cs (as defined in clause 1.3 below):
 
@@ -310,6 +300,8 @@ Index
 (8) Termination of a User Account will also result in the loss of all benefits obtained, all information provided by the Customer, or the Seller related to, or stored for, the User Account, except of course in relation to claims under the legal warranty or the right of withdrawal. No indemnity or compensation may be obtained as a result of this termination.
 
 (9) The appropriate use of the Site by the Customer requires a stable internet connection, an updated web browser and the use of the appropriate JavaScript or analogue technologies. SHEIN shall not be deemed responsible for the Customer’s impossibility to access the Site due to a failure on the technical requirements.
+
+(10) Accessibility: Information relating to the accessibility of the Site and of the SHEIN application, including information on the accessibility of the service and of the related support services offered to Customers, is set out in the SHEIN accessibility declaration and policy, which forms an integral part of these T&Cs and is accessible [here](https://eur.shein.com/shein-accessibility-policy-statement-a-3932.html) and made available in a form accessible to persons with disabilities.
 
 2.3. Age-Restricted Access and Protection of Minors
 
@@ -682,7 +674,7 @@ Please note that:
 
 In order to place an order on the Marketplace, the Customer declares that he/she is at least 18 years old. It is specified **that the Products are intended for the domestic and personal use by the Customer,** without any direct connection with his/her professional activity. The Customer undertakes not to purchase Products with a view to reselling them.
 
-Before making a purchase, the Customer will be invited to read carefully these GCS to [print](https://files-c.ltwebstatic.com/ccc/2026/08/13/17866107844058940328.pdf) them or to save them electronically and to accept them. The fact that a Customer places an order implies his/her express acceptance, without reservation, of both these General Conditions of Sale and the General Conditions of Use applicable to the use of the Marketplace (both hereinafter jointly referred as **“T&Cs”** ), unless legally prohibited. The T&CS may be modified at any time by SHEIN. In any event, the applicable T&CS shall be those in force at the time the Customer places an order. The Customer is responsible for checking the T&Cs for any changes whenever the Customer uses the Marketplace.
+Before making a purchase, the Customer will be invited to read carefully these GCS to [print](https://files-c.ltwebstatic.com/ccc/2026/08/26/17877343384070417635.pdf) them or to save them electronically and to accept them. The fact that a Customer places an order implies his/her express acceptance, without reservation, of both these General Conditions of Sale and the General Conditions of Use applicable to the use of the Marketplace (both hereinafter jointly referred as **“T&Cs”** ), unless legally prohibited. The T&CS may be modified at any time by SHEIN. In any event, the applicable T&CS shall be those in force at the time the Customer places an order. The Customer is responsible for checking the T&Cs for any changes whenever the Customer uses the Marketplace.
 
 The Customer understands and agrees that the following Marketplace policies form an integral part of the T&Cs:
 
