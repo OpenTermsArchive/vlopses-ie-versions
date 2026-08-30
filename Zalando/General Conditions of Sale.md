@@ -326,7 +326,7 @@ E-Mail: legalnotice@zalando.ie (General Contact & Single Point of Contact for Us
 
 ### **Legal Note**  
 
-Information on the average monthly active recipients of the platform service in the Union (Art. 24 (2) Digital Services Act): 35.85 million (88.23 million for retail service and platform service)  
+Information on the average monthly active recipients of the platform service in the Union (Art. 24 (2) Digital Services Act): 34.27 million (80.29 million for retail service and platform service)  
 Link to [**ad repository**](http://www.zalando.ie/ads-repository/)  
 Single Point of Contact for Member States' authorities, the European Commission and the Board according to Article 11 of the Digital Services Act is the following mail address: [**authorities-dsa@zalando.de.**](mailto:authorities-dsa@zalando.de)  
 Researchers can also use this point of contact to request access to data in accordance with Article 40 DSA.  
