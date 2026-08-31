@@ -1,4 +1,4 @@
-English English Bulgarian Croatian Czech Danish Dutch Estonian Finnish French German Greek Hungarian Italian Latvian Lithuanian Polish Portuguese Romanian Slovak Slovenian Spanish Swedish Maltese Irish
+English English Bulgarian Croatian Czech Danish Dutch Estonian Finnish French German Greek Hungarian Italian Latvian Lithuanian Polish Portuguese Romanian Slovak Slovenian Spanish Swedish Russian Maltese Irish
 
 English versions supersede any translations in the event of any ambiguity.
 
