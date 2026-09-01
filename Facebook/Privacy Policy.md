@@ -72,12 +72,12 @@ Highlights
 In this Policy, we list the kinds of information that we collect. Here are some important ones. We collect:
 
 *   The information that you give us when you sign up for our Products and create a profile, such as your email address, phone number or age
-*   What you do on our Products. This includes what you click on or like, your posts and photos, your chats with [AI at Meta](https://www.facebook.com/privacy/genai?entry_point=POLICY_SECTION%3A1-WhatInformationDoWe) and messages you send. On some Products, you can use end-to-end encrypted messages. [Learn more.](https://www.facebook.com/help/messenger-app/786613221989782/?helpref=uf_share&entry_point=POLICY_SECTION%3A1-WhatInformationDoWe)
+*   What you do on our Products. This includes what you click on or like, your posts and photos, your chats with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai?entry_point=POLICY_SECTION%3A1-WhatInformationDoWe) and messages you send. On some Products, you can use end-to-end encrypted messages. [Learn more.](https://www.facebook.com/help/messenger-app/786613221989782/?helpref=uf_share&entry_point=POLICY_SECTION%3A1-WhatInformationDoWe)
 *   Who your friends or followers are, and what they do on our Products
 *   Information from the phone, computer or tablet that you use our Products on, such as what kind it is and what version of our app you're using
 *   Information from [partners\[2\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A1-WhatInformationDoWe#annotation-2) about things you do both on and off our Products. This could include other websites you visit, apps you use or online games you play.
 
-The information that we collect and process about you depends on how you use our [Products\[3\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A1-WhatInformationDoWe#annotation-3). For example, we collect different information if you sell furniture on Marketplace than if you ask [AI at Meta](https://www.facebook.com/privacy/genai?entry_point=POLICY_SECTION%3A1-WhatInformationDoWe) to write a joke for you. When you use our products, we collect some information about you [even if you don't have an account\[4\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A1-WhatInformationDoWe#annotation-4).
+The information that we collect and process about you depends on how you use our [Products\[3\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A1-WhatInformationDoWe#annotation-3). For example, we collect different information if you sell furniture on Marketplace than if you ask Meta AI to write a joke for you. When you use our products, we collect some information about you [even if you don't have an account\[4\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A1-WhatInformationDoWe#annotation-4).
 
 Here's the information we collect:
 
@@ -87,12 +87,13 @@ Your activity and information that you provide
 On our [Products\[3\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation#annotation-3), you can send messages, take photos and videos, buy or sell things and much more. We call all of the things you can do on our products "activity". We collect your activity across our products and [information that you provide\[5\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation#annotation-5), such as:
 
 *   Content that you create, such as posts, comments or audio.
-*   Content that you provide through our camera feature or your camera roll settings, or through our voice-enabled features. [Learn more\[6\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation#annotation-6) about what we collect from these features, and how we use information from the camera for masks, filters, avatars and effects.
+*   Content you provide through our camera feature or your camera roll settings, or through our voice-enabled features. [Learn more\[6\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation#annotation-6) about what we collect from these features, and how we use information from the camera for masks, filters, avatars and effects.
 *   Messages that you send and receive, including their content, subject to applicable law. On some Products, you can use end-to-end encrypted messages. [Learn more](https://www.facebook.com/help/messenger-app/786613221989782/?helpref=uf_share&entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation) about how end-to-end encryption works.
 *   [Metadata\[7\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation#annotation-7) about content and messages, subject to applicable law.
-*   Interactions with [AI at Meta](https://www.facebook.com/privacy/genai?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation) and related metadata. For example, information you or others exchange with AI at Meta, such as content and messages. [Learn more.\[8\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation#annotation-8)
+*   Interactions with our features that are part of [AI at Meta](https://www.facebook.com/privacy/genai?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation) and related metadata. For example, information such as content and messages that you or others exchange with these features. [Learn more\[8\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation#annotation-8).
 *   Types of content, including ads, that you view or interact with, and how you interact with it.
 *   Apps and features you use, and what actions you take in them. [See examples\[9\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation#annotation-9).
+*   Information about websites that you visit or interact with, and your activity on them, when you use our in-app browser. [Learn more](https://www.facebook.com/help/1601749424720842/?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation)
 *   Purchases or other transactions that you make, such as through Meta checkout experiences, including credit card information. [Learn more\[10\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SUBPAGE%3A1.subpage.1-YourActivityAndInformation#annotation-10).
 *   Hashtags that you use.
 *   The time, frequency and duration of your activities on our Products.
@@ -165,7 +166,7 @@ Here are some examples of information that we receive about you:
 *   Games you play
 *   Purchases and transactions you make off of our Products using non-Meta checkout experiences
 *   Your demographics, such as your education level
-*   The ads that you see and how you interact with them
+*   The ads you see and how you interact with them
 *   How you use our partners' and other third parties' products and services, online or in person
 
 [Partners\[2\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SUBPAGE%3A1.subpage.4-InformationFromPartnersVendors#annotation-2) also share information such as your email address, [cookies\[20\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SUBPAGE%3A1.subpage.4-InformationFromPartnersVendors#annotation-20) and advertising device ID with us. This helps us match your activities with your account, if you have one.
@@ -177,7 +178,7 @@ Partners also share with us their communications with you if they instruct us to
 Take control
 ------------
 
-[](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AOFF_FACEBOOK_ACTIVITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A1.subpage.4-InformationFromPartnersVendors&redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foff_facebook_activity%2F%3Fentry_point%3DPOLICY_SUBPAGE%253A1.subpage.4-InformationFromPartnersVendors)
+[](https://www.facebook.com/privacy/guide/collection/)
 
 How do we collect or receive this information from partners?
 ------------------------------------------------------------
@@ -311,7 +312,7 @@ Take control
 
 [](https://www.facebook.com/help/337244676357509?entry_point=POLICY_SUBPAGE%3A2.subpage.6-HowWeUseLocation)[](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F171821142968851%3Fentry_point%3DPOLICY_SUBPAGE%253A2.subpage.6-HowWeUseLocation)
 
-[Manage location settings](https://mbasic.facebook.com/privacy/policy/printable/?back_id=link-collection-3&link_dialog=LOCATION&entry=0&entry_point=POLICY_SUBPAGE%3A2.subpage.6-HowWeUseLocation)
+[Manage location settings](https://mbasic.facebook.com/privacy/policy/printable/?back_id=link-collection-2&link_dialog=LOCATION&entry=0&entry_point=POLICY_SUBPAGE%3A2.subpage.6-HowWeUseLocation)
 
 ### To promote safety, security and integrity
 
@@ -357,7 +358,7 @@ Here are some ways that we promote safety, security and integrity. We work to:
 Take control
 ------------
 
-[](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACCOUNT_SECURITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A2.subpage.8-PromotingSafetySecurityAnd&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-4%26link_dialog%3DACCOUNT_SECURITY%26entry%3D0%26entry_point%3DPOLICY_SUBPAGE%253A2.subpage.8-PromotingSafetySecurityAnd)
+[](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACCOUNT_SECURITY&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A2.subpage.8-PromotingSafetySecurityAnd&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-3%26link_dialog%3DACCOUNT_SECURITY%26entry%3D0%26entry_point%3DPOLICY_SUBPAGE%253A2.subpage.8-PromotingSafetySecurityAnd)
 
 Providing measurement, analytics and business services
 ------------------------------------------------------
@@ -395,7 +396,7 @@ We also use information about how you interact with our messages, such as if you
 Take control
 ------------
 
-[](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3ACOMMUNICATION_PREFERENCES&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A2.subpage.12-CommunicatingWithYouWe&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-5%26link_dialog%3DCOMMUNICATION_PREFERENCES%26entry%3D0%26entry_point%3DPOLICY_SUBPAGE%253A2.subpage.12-CommunicatingWithYouWe)
+[](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3ACOMMUNICATION_PREFERENCES&element=privacy_policy_list_cell&containing_element_id=POLICY_SUBPAGE%3A2.subpage.12-CommunicatingWithYouWe&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-4%26link_dialog%3DCOMMUNICATION_PREFERENCES%26entry%3D0%26entry_point%3DPOLICY_SUBPAGE%253A2.subpage.12-CommunicatingWithYouWe)
 
 Researching and innovating for social good
 ------------------------------------------
@@ -556,7 +557,7 @@ Take control
 
 [](https://www.facebook.com/help/203805466323736?ref=dp&entry_point=POLICY_SUBPAGE%3A3.subpage.3-PublicContentWhatContent)[](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F448523408565555%3Fentry_point%3DPOLICY_SUBPAGE%253A3.subpage.3-PublicContentWhatContent)
 
-[Manage public information](https://mbasic.facebook.com/privacy/policy/printable/?back_id=link-collection-7&link_dialog=PRIVACY_CHECKUP&entry=0&entry_point=POLICY_SUBPAGE%3A3.subpage.3-PublicContentWhatContent)
+[Manage public information](https://mbasic.facebook.com/privacy/policy/printable/?back_id=link-collection-6&link_dialog=PRIVACY_CHECKUP&entry=0&entry_point=POLICY_SUBPAGE%3A3.subpage.3-PublicContentWhatContent)
 
 With integrated partners
 ------------------------
@@ -603,7 +604,7 @@ Take control
 
 [](https://www.facebook.com/help/1727608884153160/app-visibility-and-privacy?entry_point=POLICY_SUBPAGE%3A3.subpage.4-WhenYouUseAn)[](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F1144624522593085%3Fentry_point%3DPOLICY_SUBPAGE%253A3.subpage.4-WhenYouUseAn)
 
-[Manage apps and websites](https://mbasic.facebook.com/privacy/policy/printable/?back_id=link-collection-8&link_dialog=MANAGE_APPS&entry=0&entry_point=POLICY_SUBPAGE%3A3.subpage.4-WhenYouUseAn)
+[Manage apps and websites](https://mbasic.facebook.com/privacy/policy/printable/?back_id=link-collection-7&link_dialog=MANAGE_APPS&entry=0&entry_point=POLICY_SUBPAGE%3A3.subpage.4-WhenYouUseAn)
 
 When you interact with someone else's content on an integrated partner's product or service
 -------------------------------------------------------------------------------------------
@@ -627,7 +628,7 @@ Take control
 
 [](https://www.facebook.com/privacy/guide/sharing/)
 
-[Manage apps and websites](https://mbasic.facebook.com/privacy/policy/printable/?back_id=link-collection-9&link_dialog=MANAGE_APPS&entry=0&entry_point=POLICY_SECTION%3A3-HowIsYourInformation)
+[Manage apps and websites](https://mbasic.facebook.com/privacy/policy/printable/?back_id=link-collection-8&link_dialog=MANAGE_APPS&entry=0&entry_point=POLICY_SECTION%3A3-HowIsYourInformation)
 
 How do we share information with third parties?
 ===============================================
@@ -850,12 +851,12 @@ Take a Privacy Checkup
 View and manage your information
 --------------------------------
 
-[](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACCESS_YOUR_INFORMATION&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-10%26link_dialog%3DACCESS_YOUR_INFORMATION%26entry%3D0%26entry_point%3DPOLICY_SECTION%253A6-HowCanYouManage)[](https://accountscenter.facebook.com/info_and_permissions?entry_point=POLICY_SECTION%3A6-HowCanYouManage)[](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A6-HowCanYouManage#annotation-63)[](https://help.meta.com/support/privacy/?entry_point=POLICY_SECTION%3A6-HowCanYouManage)
+[](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACCESS_YOUR_INFORMATION&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-9%26link_dialog%3DACCESS_YOUR_INFORMATION%26entry%3D0%26entry_point%3DPOLICY_SECTION%253A6-HowCanYouManage)[](https://accountscenter.facebook.com/info_and_permissions?entry_point=POLICY_SECTION%3A6-HowCanYouManage)[](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A6-HowCanYouManage#annotation-63)[](https://help.meta.com/support/privacy/?entry_point=POLICY_SECTION%3A6-HowCanYouManage)
 
 Port, download or delete your information
 -----------------------------------------
 
-[](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A6-HowCanYouManage#annotation-64)[](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3ADOWNLOAD_YOUR_INFORMATION&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-11%26link_dialog%3DDOWNLOAD_YOUR_INFORMATION%26entry%3D0%26entry_point%3DPOLICY_SECTION%253A6-HowCanYouManage)[](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A6-HowCanYouManage#annotation-65)
+[](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A6-HowCanYouManage#annotation-64)[](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3ADOWNLOAD_YOUR_INFORMATION&element=privacy_policy_list_cell&containing_element_id=POLICY_SECTION%3A6-HowCanYouManage&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Fback_id%3Dlink-collection-10%26link_dialog%3DDOWNLOAD_YOUR_INFORMATION%26entry%3D0%26entry_point%3DPOLICY_SECTION%253A6-HowCanYouManage)[](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A6-HowCanYouManage#annotation-65)
 
 You can learn more about how privacy works on [Facebook](https://www.facebook.com/privacy/center/) and on [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp%26entry_point%3DPOLICY_SECTION%253A6-HowCanYouManage), and in the [Facebook Help Centre](https://www.facebook.com/help/?entry_point=POLICY_SECTION%3A6-HowCanYouManage). If you have any questions about this policy, you can [contact us](https://help.meta.com/support/privacy/?entry_point=POLICY_SECTION%3A6-HowCanYouManage) as described below. In some countries, you may also be able to contact the Data Protection Officer for Meta Platforms, Inc., and depending on your jurisdiction, you may also contact your local Data Protection Authority ("DPA") directly.
 
