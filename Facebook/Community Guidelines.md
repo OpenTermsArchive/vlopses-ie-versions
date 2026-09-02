@@ -144,25 +144,25 @@ Sep 28, 2023
 
 Sep 22, 2023
 
-Jan 26, 2023
+Jan 27, 2023
 
-Nov 23, 2022
+Nov 24, 2022
 
 Sep 29, 2022
 
-Feb 24, 2022
+Feb 25, 2022
 
-Nov 24, 2021
+Nov 25, 2021
 
 Oct 28, 2021
 
 May 4, 2021
 
-Feb 8, 2021
+Feb 9, 2021
 
-Jan 28, 2021
+Jan 29, 2021
 
-Nov 18, 2020
+Nov 19, 2020
 
 Sep 3, 2020
 
@@ -170,9 +170,9 @@ Jun 26, 2020
 
 May 28, 2020
 
-Dec 16, 2019
+Dec 17, 2019
 
-Nov 30, 2019
+Dec 1, 2019
 
 Sep 29, 2019
 
@@ -184,7 +184,7 @@ Jul 1, 2019
 
 Apr 26, 2019
 
-Dec 28, 2018
+Dec 29, 2018
 
 Oct 15, 2018
 
@@ -569,17 +569,19 @@ CHANGE LOG
 
 Today
 
+Sep 2, 2026
+
 Jul 1, 2026
 
 Mar 26, 2026
 
 Jun 26, 2025
 
-Feb 27, 2025
+Feb 28, 2025
 
-Dec 5, 2023
+Dec 6, 2023
 
-Jan 26, 2023
+Jan 27, 2023
 
 Sep 29, 2022
 
@@ -587,15 +589,15 @@ May 4, 2022
 
 Apr 28, 2022
 
-Feb 24, 2022
+Feb 25, 2022
 
-Jan 27, 2022
+Jan 28, 2022
 
-Feb 5, 2021
+Feb 6, 2021
 
-Jan 28, 2021
+Jan 29, 2021
 
-Nov 18, 2020
+Nov 19, 2020
 
 Sep 3, 2020
 
@@ -603,9 +605,9 @@ Aug 27, 2020
 
 Jun 26, 2020
 
-Dec 16, 2019
+Dec 17, 2019
 
-Nov 30, 2019
+Dec 1, 2019
 
 Policy Rationale
 
@@ -701,6 +703,9 @@ We Remove:
 For the following content, we limit the ability to view the content to adults aged 18 and older:
 
 *   Imagery depicting dangerous forms of driving a motor vehicle that could lead to life-threatening injuries or death to the driver or others, except if shared in fictional or professional settings.
+    
+
+*   Depicting, promoting, advocating for, or encouraging participation in a mid-risk viral challenge except if shared in fictional or professional settings.
     
 
 For the following Community Standards, we require additional information and/or context to enforce:
@@ -2708,29 +2713,29 @@ CHANGE LOG
 
 Today
 
-Jan 7, 2025
+Jan 8, 2025
 
-Feb 29, 2024
+Mar 1, 2024
 
-Dec 5, 2023
+Dec 6, 2023
 
 May 25, 2023
 
-Nov 23, 2022
+Nov 24, 2022
 
 Jul 28, 2022
 
 Jun 30, 2022
 
-Nov 24, 2021
+Nov 25, 2021
 
 Oct 28, 2021
 
 Jun 23, 2021
 
-Jan 28, 2021
+Jan 29, 2021
 
-Nov 18, 2020
+Nov 19, 2020
 
 Oct 12, 2020
 
@@ -2744,9 +2749,9 @@ Jun 22, 2020
 
 Mar 26, 2020
 
-Feb 27, 2020
+Feb 28, 2020
 
-Dec 16, 2019
+Dec 17, 2019
 
 Oct 30, 2019
 
