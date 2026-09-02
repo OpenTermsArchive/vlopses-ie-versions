@@ -690,6 +690,8 @@ _For the full log (including, for example, alternate accounts also locked under 
 *   [Fatima Zahra talbi](https://meta.wikimedia.org/wiki/Special:CentralAuth/Fatima_Zahra_talbi "m:Special:CentralAuth/Fatima Zahra talbi"), since 29 July 2026
 *   [عبد الله الكوتري](https://meta.wikimedia.org/wiki/Special:CentralAuth/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D9%83%D9%88%D8%AA%D8%B1%D9%8A "m:Special:CentralAuth/عبد الله الكوتري"), since 29 July 2026
 *   [Aristoxène](https://meta.wikimedia.org/wiki/Special:CentralAuth/Aristox%C3%A8ne "m:Special:CentralAuth/Aristoxène"), since 3 August 2026
+*   [Xeronic](https://meta.wikimedia.org/wiki/Special:CentralAuth/Xeronic "m:Special:CentralAuth/Xeronic"), since 2 September 2026
+*   [PageTheEditor](https://meta.wikimedia.org/wiki/Special:CentralAuth/PageTheEditor "m:Special:CentralAuth/PageTheEditor"), since 2 September 2026
 
 ![](https://meta.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
