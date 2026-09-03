@@ -1,7 +1,7 @@
 Temu Intellectual Property Policy
 =================================
 
-Last updated: April 27, 2025
+Last updated: August 11, 2026
 
 We are committed to protecting intellectual property (“IP”) rights and have implemented a comprehensive policy to that end. This Intellectual Property Policy (“Policy”) outlines how we address infringement allegations and how recipients of our services can report infringing content on our website and mobile applications. We will remove materials alleged to infringe others’ IP rights when presented with a report that complies with our policies. For the purposes of this Policy, IP rights include copyrights, trademarks, designs, patents, and other IP rights as prescribed by applicable laws.
 
