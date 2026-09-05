@@ -508,10 +508,10 @@ Illegal or Regulated Activities
 
 Community Guidelines
 
-Sexual Content
+Sexual Content and Conduct
 
 
-==================
+==============================
 
 Community Guidelines Explainer Series
 
