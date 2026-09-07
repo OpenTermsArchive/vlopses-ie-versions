@@ -940,11 +940,11 @@ Google Play prohibits apps from making changes to a user's device settings or fe
 
 ![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
-2.1 We don’t allow apps that make changes to the user’s device settings or features outside of the app without the user’s knowledge and consent. Device settings and features include system and browser settings, bookmarks, shortcuts, icons, widgets and the presentation of apps on the home screen.
+2.1 We don't allow apps that make changes to the user's device settings or features outside of the app without the user's knowledge and consent. Device settings and features include system and browser settings, bookmarks, shortcuts, icons, widgets and the presentation of apps on the home screen.
 
 2.2 Additionally, we do not allow:
 
-*   2.2.1 Apps that modify device settings or features with the user’s consent but do so in a way that is not easily reversible.
+*   2.2.1 Apps that modify device settings or features with the user's consent but do so in a way that is not easily reversible.
 *   2.2.2 Apps or ads that modify device settings or features as a service to third parties or for advertising purposes.
 *   2.2.3 Apps that mislead users into removing or disabling third-party apps or modifying device settings or features.
 *   2.2.4 Apps that encourage or incentivise users into removing or disabling third-party apps or modifying device settings or features unless it is part of a verifiable security service.
@@ -979,8 +979,8 @@ Examples of common violations
 
 *   Apps that mimic other apps or websites to trick users into disclosing personal or authentication information.
 *   Apps that depict or display unverified or real-world phone numbers, contacts, addresses or personally identifiable information of non-consenting individuals or entities.
-*   Apps with different core functionality based on a user’s geography, device parameters or other user-dependent data where those differences are not prominently advertised to the user in the Store Listing.
-*   Apps that change significantly between versions without alerting the user (for example, [‘what’s new’ section](https://support.google.com/googleplay/android-developer/answer/7159011?hl=en)) and updating the Store Listing.
+*   Apps with different core functionality based on a user's geography, device parameters or other user-dependent data where those differences are not prominently advertised to the user in the Store Listing.
+*   Apps that change significantly between versions without alerting the user (for example, [‘what's new' section](https://support.google.com/googleplay/android-developer/answer/7159011?hl=en)) and updating the Store Listing.
 *   Apps that attempt to modify or obfuscate behaviour during review.
 *   Apps with Content Delivery Network (CDN) facilitated downloads that fail to prompt the user and disclose the download size prior to downloading.
 
@@ -1043,7 +1043,7 @@ To help ensure user safety and system integrity, Google Play prohibits apps from
 
 ![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34)**Full** **Policy**
 
-Your app’s functionality should be reasonably clear to users; don't include any hidden, dormant or undocumented features within your app. Techniques to evade app reviews are not allowed. Apps may be required to provide additional details to ensure user safety, system integrity and policy compliance.
+Your app's functionality should be reasonably clear to users; don't include any hidden, dormant or undocumented features within your app. Techniques to evade app reviews are not allowed. Apps may be required to provide additional details to ensure user safety, system integrity and policy compliance.
 
 ![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key considerations**
 
