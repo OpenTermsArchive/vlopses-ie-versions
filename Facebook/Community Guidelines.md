@@ -23,25 +23,25 @@ The goal of our Community Standards is to create a place for expression and give
 
 Our commitment to expression is paramount, but we recognize the internet creates new and increased opportunities for abuse. For these reasons, when we limit expression, we do it in service of one or more of the following values:
 
-![](https://lookaside.fbsbx.com/elementpath/media/?media_id=849918942246548&version=1779136625&transcode_extension=webp)
+![](https://lookaside.fbsbx.com/elementpath/media/?media_id=849918942246548&version=1788879763&transcode_extension=webp)
 
 AUTHENTICITY
 
 We want to make sure the content people see is authentic. We believe that authenticity creates a better environment for sharing, and that’s why we don’t want people using our services to misrepresent who they are or what they’re doing.
 
-![](https://lookaside.fbsbx.com/elementpath/media/?media_id=2800543873566764&version=1779136625&transcode_extension=webp)
+![](https://lookaside.fbsbx.com/elementpath/media/?media_id=2800543873566764&version=1788879763&transcode_extension=webp)
 
 SAFETY
 
 We’re committed to making Facebook, Instagram, Messenger and Threads safe places. We remove content that could contribute to a risk of harm to the physical security of persons. Content that threatens people has the potential to intimidate, exclude or silence others and isn’t allowed on our services.
 
-![](https://lookaside.fbsbx.com/elementpath/media/?media_id=308994907203174&version=1779136625&transcode_extension=webp)
+![](https://lookaside.fbsbx.com/elementpath/media/?media_id=308994907203174&version=1788879763&transcode_extension=webp)
 
 PRIVACY
 
 We’re committed to protecting personal privacy and information. Privacy gives people the freedom to be themselves, choose how and when to share on our services and connect more easily.
 
-![](https://lookaside.fbsbx.com/elementpath/media/?media_id=203760854736655&version=1779136625&transcode_extension=webp)
+![](https://lookaside.fbsbx.com/elementpath/media/?media_id=203760854736655&version=1788879763&transcode_extension=webp)
 
 DIGNITY
 
@@ -577,11 +577,11 @@ Mar 26, 2026
 
 Jun 26, 2025
 
-Feb 27, 2025
+Feb 28, 2025
 
-Dec 5, 2023
+Dec 6, 2023
 
-Jan 26, 2023
+Jan 27, 2023
 
 Sep 29, 2022
 
@@ -589,15 +589,15 @@ May 4, 2022
 
 Apr 28, 2022
 
-Feb 24, 2022
+Feb 25, 2022
 
-Jan 27, 2022
+Jan 28, 2022
 
-Feb 5, 2021
+Feb 6, 2021
 
-Jan 28, 2021
+Jan 29, 2021
 
-Nov 18, 2020
+Nov 19, 2020
 
 Sep 3, 2020
 
@@ -605,9 +605,9 @@ Aug 27, 2020
 
 Jun 26, 2020
 
-Dec 16, 2019
+Dec 17, 2019
 
-Nov 30, 2019
+Dec 1, 2019
 
 Policy Rationale
 
@@ -778,25 +778,25 @@ Jul 22, 2025
 
 May 14, 2025
 
-Feb 27, 2025
+Feb 28, 2025
 
-Feb 26, 2025
+Feb 27, 2025
 
 Jun 26, 2024
 
-Nov 30, 2023
+Dec 1, 2023
 
 Jul 27, 2023
 
 Apr 27, 2023
 
-Dec 22, 2022
+Dec 23, 2022
 
 Oct 27, 2022
 
-Dec 23, 2021
+Dec 24, 2021
 
-Nov 24, 2021
+Nov 25, 2021
 
 Sep 30, 2021
 
@@ -804,7 +804,7 @@ Aug 26, 2021
 
 Jul 29, 2021
 
-Jan 28, 2021
+Jan 29, 2021
 
 Sep 24, 2020
 
@@ -814,7 +814,7 @@ Jun 22, 2020
 
 Apr 30, 2020
 
-Nov 30, 2019
+Dec 1, 2019
 
 Oct 10, 2019
 
@@ -832,7 +832,7 @@ Apr 26, 2019
 
 Mar 20, 2019
 
-Nov 30, 2018
+Dec 1, 2018
 
 Aug 31, 2018
 
@@ -1665,7 +1665,7 @@ CHANGE LOG
 
 Today
 
-Feb 26, 2026
+Feb 27, 2026
 
 May 14, 2025
 
@@ -1677,7 +1677,7 @@ Jul 2, 2024
 
 May 1, 2024
 
-Dec 29, 2023
+Dec 30, 2023
 
 Apr 28, 2022
 
@@ -1685,9 +1685,9 @@ Sep 30, 2021
 
 May 4, 2020
 
-Dec 17, 2020
+Dec 18, 2020
 
-Nov 18, 2020
+Nov 19, 2020
 
 Jul 30, 2020
 
@@ -1999,43 +1999,43 @@ Today
 
 Mar 5, 2026
 
-Oct 31, 2025
+Oct 30, 2025
 
-Sep 28, 2024
+Sep 27, 2024
 
-May 2, 2024
+May 1, 2024
 
 Mar 1, 2024
 
-May 26, 2023
+May 25, 2023
 
-Aug 26, 2022
+Aug 25, 2022
 
 Dec 24, 2021
 
 Nov 25, 2021
 
-Oct 1, 2021
+Sep 30, 2021
 
-Jul 30, 2021
+Jul 29, 2021
 
 Nov 19, 2020
 
 Dec 17, 2019
 
-Aug 28, 2019
+Aug 27, 2019
 
-Jul 31, 2019
+Jul 30, 2019
 
-Jul 2, 2019
+Jul 1, 2019
 
-Oct 16, 2018
+Oct 15, 2018
 
-Sep 1, 2018
+Aug 31, 2018
 
-Jul 28, 2018
+Jul 27, 2018
 
-May 26, 2018
+May 25, 2018
 
 Policy Rationale
 
@@ -2153,11 +2153,11 @@ CHANGE LOG
 
 Today
 
-Jan 22, 2025
+Jan 23, 2025
 
 Jul 2, 2024
 
-Dec 13, 2023
+Dec 14, 2023
 
 Sep 28, 2023
 
@@ -2165,11 +2165,11 @@ Jun 29, 2023
 
 Mar 30, 2023
 
-Jan 26, 2023
+Jan 27, 2023
 
 Sep 29, 2022
 
-Dec 23, 2021
+Dec 24, 2021
 
 Oct 13, 2021
 
@@ -2179,19 +2179,19 @@ May 4, 2021
 
 Apr 2, 2021
 
-Jan 28, 2021
+Jan 29, 2021
 
-Nov 18, 2020
+Nov 19, 2020
 
 Jul 30, 2020
 
 May 28, 2020
 
-Feb 27, 2020
+Feb 28, 2020
 
-Jan 30, 2020
+Jan 31, 2020
 
-Dec 16, 2019
+Dec 17, 2019
 
 Sep 29, 2019
 
