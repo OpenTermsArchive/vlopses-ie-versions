@@ -242,7 +242,7 @@ If you sell subscriptions in your app(s), you must ensure that your app(s) clear
 *   A link to Google Play's subscription centre (for subscriptions that use Google Play's billing system); and/or
 *   Direct access to your cancellation process.
 
-If a user cancels a subscription purchased through Google Play’s billing system, our general policy is that the user will not receive a refund for the current billing period, but will continue to receive their subscription content for the remainder of the current billing period, regardless of the cancellation date. The user's cancellation goes into effect after the current billing period has passed. Users in some countries may be able to cancel their subscription immediately and receive a prorated refund, in accordance with applicable law.
+If a user cancels a subscription purchased through Google Play's billing system, our general policy is that the user will not receive a refund for the current billing period, but will continue to receive their subscription content for the remainder of the current billing period, regardless of the cancellation date. The user's cancellation goes into effect after the current billing period has passed. Users in some countries may be able to cancel their subscription immediately and receive a prorated refund, in accordance with applicable law.
 
 You (as the content or access provider) may implement a more flexible refund policy with your users directly. It is your responsibility to notify your users of any changes to your subscription, cancellation and refund policies, and ensure that the policies comply with applicable law.
 
