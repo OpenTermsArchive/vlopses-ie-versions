@@ -372,20 +372,20 @@ Harmful False or Deceptive Practices
 
 Community Guidelines
 
-Hateful Content, Terrorism and Violent Extremism
+Hateful Content, Terrorism, and Violent Extremism
 
 
-====================================================
+=====================================================
 
 Community Guidelines Explainer Series
 
-Updated: March 2026
+Updated: September 2026
 
 ### 
 
 Overview
 
-Hateful content and activities that support terrorism or violent extremism have no place on Snapchat. Our policies operate to help create an environment that supports and prioritises the safety and well-being of Snapchatters, and to help protect communities from violence and discrimination.
+Hateful content and activities that support terrorism or violent extremism have no place on Snapchat. Our policies operate to help create an environment that supports and prioritizes the safety and well-being of Snapchatters, and to help protect communities from violence and discrimination.
 
   
 
@@ -393,7 +393,7 @@ It is never acceptable to engage in hateful conduct, including the use of hate s
 
   
 
-To help ensure these policies are enforced responsibly, our teams consult the expertise and work of civil rights organisations, human rights experts, law enforcement agencies, NGOs and safety advocates. We are routinely learning, and will calibrate wherever necessary to help ensure that our products and policies function to help keep Snapchatters safe. To assist us, we encourage users to promptly [report](https://help.snapchat.com/hc/en-us/articles/7012399221652-How-do-I-report-abuse-or-illegal-content-on-Snapchat?lang=en-US&utm_campaign=cg&utm_medium=web_snap&utm_source=web) any hateful content or activity that may violate our policies against terrorism and violent extremism.
+To help ensure these policies are enforced responsibly, our teams consult the expertise and work of civil rights organizations, human rights experts, law enforcement agencies, NGOs, and safety advocates. We are routinely learning, and will calibrate wherever necessary to help ensure that our products and policies function to help keep Snapchatters safe. To assist us, we encourage users to promptly [report](https://help.snapchat.com/hc/en-us/articles/7012399221652-How-do-I-report-abuse-or-illegal-content-on-Snapchat?lang=en-US&utm_campaign=cg&utm_medium=web_snap&utm_source=web) any hateful content or activity that may violate our policies against terrorism and violent extremism.
 
   
 
@@ -403,13 +403,16 @@ Prohibited Conduct
 
 We prohibit the following: 
 
-*   The use of Snapchat to further the objectives of terrorist organisations, violent extremists, or hate groups.
+*   The use of Snapchat to further the objectives of terrorist organizations, violent extremists, or hate groups.
     
 *   Content that glorifies, praises, supports, or advocates for violent extremism, terrorism, or hate.
     
-*   All content that promotes terrorism or other violent, criminal acts committed by individuals or groups to further ideological goals. These rules also prohibit any content that promotes or supports foreign terrorist organisations or extremist hate groups—as designated by credible, third-party experts—as well as recruitment for such organisations or violent extremist activities.
+*   All content that promotes terrorism or other violent, criminal acts committed by individuals or groups to further ideological goals. These rules also prohibit any content that promotes or supports foreign terrorist organizations or extremist hate groups––as designated by credible, third-party experts––as well as recruitment for such organizations or violent extremist activities.
     
-*   Hate speech or content that abuses, demeans, defames, promotes discrimination or violence, or incites hatred on the basis of race, colour, caste, ethnicity, national origin, religion, sexual orientation, gender identity or reassignment, disability, veteran status, immigration status, age, or pregnancy status. These rules prohibit, for example, the use of racial, ethnic, misogynistic or homophobic slurs. They also prohibit memes that ridicule or call for discrimination against a protected group and intentional deadnaming or misgendering. Hate speech also includes endorsing perpetrators—or disparaging victims—of human tragedies (such as genocide, apartheid or slavery). Other prohibited hateful content include the use of hate symbols, which means any imagery that is intended to represent hatred or discrimination toward others.
+*   Hate speech or content that abuses, demeans, defames, promotes discrimination or violence, or incites hatred on the basis of race, color, caste, ethnicity, national origin, religion, sexual orientation, gender, gender identity, gender assignment or reassignment, disability, or veteran status, immigration status, age, or pregnancy status. These rules prohibit, for example, the use of racial, ethnic, misogynistic, or homophobic slurs. They also prohibit memes that ridicule or call for discrimination against a protected group and intentional deadnaming or misgendering. Hate speech also includes endorsing perpetrators––or disparaging victims––of human tragedies (such as genocide, apartheid, or slavery). Other prohibited hateful content includes the use of hate symbols, which means any imagery that is intended to represent hatred or discrimination toward others.
+    
+    *   These rules prohibit, for example, the use of racial, ethnic, misogynistic, or homophobic slurs. They also prohibit memes that ridicule or call for discrimination against a protected group and intentional deadnaming or misgendering. Hate speech also includes endorsing perpetrators––or disparaging victims––of human tragedies (such as genocide, apartheid, or slavery). Other prohibited hateful content includes the use of hate symbols, which means any imagery that is intended to represent hatred or discrimination toward others.
+        
     
 
 ### 
@@ -422,18 +425,18 @@ We aim to balance safety and privacy in our approach to protecting users. We use
 
   
 
-Snap uses automated tools to help identify content we have reason to believe supports, glorifies, or furthers the objectives of terrorist or violent extremist entities. As a member of the Global Internet Forum to Counter Terrorism (GIFCT), we use GIFCT's resources to help identify and remove known terrorist and violent extremist content. We also work with third-party vendors and experts to help stay current on emerging trends in order to accurately identify and take action on such content. We also use signal-based detection methods to identify and disrupt violent extremist networks. 
+Snap uses automated tools to help identify content we have reason to believe supports, glorifies, or furthers the objectives of terrorist or violent extremist entities. As a member of the Global Internet Forum to Counter Terrorism (GIFCT), we use GIFCT’s resources to help identify and remove known terrorist and violent extremist content. We also work with third party vendors and experts to help stay current on emerging trends in order to accurately identify and take action on such content. We also use signal-based detection methods to identify and disrupt violent extremist networks. 
 
   
-We work with law enforcement, as appropriate, to prevent the spread of content relating to terrorism and violent extremism. Snap's approach is to maintain established protocols for assisting law-enforcement authorities globally, including dedicated channels for responding to potential imminent harm situations, subject to strict legal safeguards. More information for law enforcement can be found [here](https://values.snap.com/safety/safety-enforcement).
+We work with law enforcement, as appropriate, to prevent the spread of content relating to terrorism and violent extremism. Snap’s approach is to maintain established protocols for assisting law-enforcement authorities globally, including dedicated channels for responding to potential imminent harm situations, subject to strict legal safeguards. More information for law enforcement can be found [here](https://values.snap.com/safety/safety-enforcement).
 
 ### 
 
 Takeaway
 
-We do not tolerate hateful content, terrorism or violent extremism on Snapchat. Through our policies, enforcement strategy, and product design, we work diligently to maintain an environment that supports and prioritises the safety of Snapchatters.
+We do not tolerate hateful content, terrorism, or violent extremism on Snapchat. Through our policies, enforcement strategy, and product design, we work diligently to maintain an environment that supports and prioritizes the safety of Snapchatters.
 
-Users can help us protect our community by reporting any content that violates our policies. We are also committed to working with diverse leaders from across the safety community to help ensure we are advancing our safety objectives responsibly. For more information about our safety efforts, please visit our [Safety Centre](https://values.snap.com/safety/safety-center).
+Users can help us protect our community by reporting any content that violates our policies. We are also committed to working with diverse leaders from across the safety community to help ensure we are advancing our safety objectives responsibly. For more information about our safety efforts, please visit our [Safety Center](https://values.snap.com/safety/safety-center).
 
 Up Next:
 
@@ -541,13 +544,13 @@ Sexual Content and Conduct
 
 Community Guidelines Explainer Series
 
-Updated: March 2026
+Updated: September 2026
 
 ### 
 
 Overview
 
-We strive to protect Snapchatters from unsolicited sexual content or abuse. Our policies prohibit sexual exploitation of any kind – including the sexual exploitation of children. We also prohibit sexual harassment and sharing, promoting or distributing sexually explicit content and conduct, including pornography, sexual nudity or offers of sexual services.
+We strive to protect Snapchatters from unsolicited sexual content or abuse. Our policies prohibit sexual exploitation of any kind, including the sexual exploitation of children. We also prohibit sexual harassment and sharing, promoting, or distributing sexually explicit content and conduct, including pornography, sexual nudity, offers of sexual services. This includes sharing pornography, sexual nudity, offers of sexual services, or non-consensual intimate imagery (NCII), or unsolicited sexual imagery (i.e., cyberflashing), and engaging in sexual extortion (sextortion).
 
 ### 
 
@@ -555,25 +558,27 @@ Prohibited Conduct
 
 We prohibit the following sexual harms: 
 
-*   Any activity that involves sexual exploitation or abuse of a minor, including sharing child sexual exploitation or abuse imagery; grooming for sexual purposes; sexual extortion (sextortion); or attempts to persuade, trick or coerce a minor with the intent of sexual abuse or exploiting the sexualisation of children. We report any child sexual exploitation that we’ve identified, including attempts to engage in such conduct, to the appropriate authorities, including the US National Centre for Missing and Exploited Children (NCMEC), in line with legal requirements. 
+*   Any activity that involves sexual exploitation or abuse of a minor, including sharing child sexual exploitation or abuse imagery; grooming for sexual purposes; sexual extortion (sextortion); or attempts to persuade, decieve, or coerce a minor with the intent of sexual abuse or exploitation. We report any child sexual exploitation that we’ve identified, including attempts to engage in such conduct, to the appropriate authorities, including the U.S. National Center for Missing and Exploited Children (NCMEC), in line with legal requirements.
     
-*   The sexualisation of minors or sharing of minor nudity, whether involving real individuals or fictional, synthetic or digitally created representations, regardless of whether it rises to the level of child sexual exploitation.
+*   The sexualization of minors, including fetishization, or sharing of minor nudity, whether involving real individuals or fictional, AI-generated, or digitally created representations, regardless of whether it rises to the level of child sexual exploitation.
     
-*   Adult sexual exploitation, including non-consensual sexual content, sextortion and deceptive sexual practices, such as efforts to coerce or entice users to provide nude imagery.
+*   Pedophilic content, including promoting, glorifying, or facilitating pedophilic relationships, whether real or fictional, including imaginary scenarios. 
     
-*   Producing, sharing or threatening to create or share non-consensual intimate imagery (NCII) – including sexual or intimate photos or videos taken or shared without permission, depictions of private acts (such as bathing or using the bathroom), as well as "revenge porn" or behaviour that threatens to share, exploit or expose individuals' intimate images or videos without their consent.
+*   Sexual exploitation or violence, including non-consensual sexual content, sextortion, and deceptive sexual practices, such as efforts to coerce or entice users to provide nude imagery. We also prohibit the glorification of sexual exploitation or violence, whether involving adults or minors, including endorsement of perpetrators of such activity. 
     
-*   Sharing or creating AI-generated sexual content, including offering or promoting "nudify" services or applications.
+*   Producing, sharing, or threatening to create or share non-consensual intimate imagery (NCII)––including sexual or intimate photos or videos taken or shared without permission, depictions of private acts (such as bathing or using the bathroom), as well as “revenge porn” or behavior that threatens to share, exploit, or expose individuals’ intimate images or videos without their consent.
+    
+*   Sharing or creating AI-generated sexual content, including offering or promoting “nudify” services or applications.
     
 *   Sexual harassment, which may include making unwanted advances, sharing graphic and unsolicited content, or sending obscene requests or sexual invitations to other users.
     
-*   Promoting, distributing or sharing pornographic content, including photos, videos or highly realistic animation, drawings, or other renderings of explicit sex acts, or nudity where the primary intention is sexual arousal.
+*   Promoting, distributing, or sharing pornographic content, including photos, videos, or highly realistic animation, drawings, or other renderings of explicit sex acts, or nudity where the primary intention is sexual arousal.
     
-*   Offers or solicitation of sexual services (whether paid or unpaid), including both offline services (such as, for example, erotic massage) and online experiences (such as, for example, offering sexual subscription services, or sexual chat or video services).
+*   Promoting, offering, or soliciting of sexual services (whether paid or unpaid), including both offline services (such as erotic massage) and online experiences (such as offering sexual subscription, chat, or video services).
     
 
   
-We do allow for non-sexual nudity in certain contexts, such as breastfeeding, medical procedures and other similar depictions provided the subject has provided their consent.
+We do allow for non-sexual nudity in certain contexts, such as breastfeeding, medical procedures, and other similar depictions provided the subject has provided their consent.
 
 ### 
 
@@ -581,7 +586,7 @@ Our efforts to protect users
 
   
 
-We aim to consider both safety and privacy in our approach to protecting users. We use a combination of automated tools and human review intended to prevent users from being exposed to pornographic content or other sexual harms or exploitation on public surfaces (such as Spotlight, Public Stories, and Maps). 
+We aim to balance both safety and privacy in our approach to protecting users. We use a combination of automated tools and human review intended to prevent users from being exposed to pornographic content or other sexual harms or exploitation on public surfaces (such as Spotlight, Public Stories, and Maps). 
 
 We use automated tools to help identify and remove certain known illegal child sexual exploitation photos and videos, including: 
 
@@ -592,15 +597,15 @@ We use automated tools to help identify and remove certain known illegal child s
 *   Google’s Content Safety API (to aid in detecting novel, “never-before-hashed” imagery)
     
 
-We use similar technology to help identify and remove certain non-consensual intimate imagery. We participate in the Take It Down program run by the National Centre for Missing and Exploited Children (NCMEC), receiving and leveraging hashes of nude or partially nude imagery supplied by minors that they want to prevent from spreading online. We also participate in StopNCII, a similar programme for people who are 18 or older, run by South West Grid for Learning (SWGfL) based in the UK. In addition, in some cases, we use behavioral “signals” to identify potentially illegal or harmful activity so that we can proactively remove bad actors and report them to authorities as appropriate. 
+We use similar technology to help identify and remove certain non-consensual intimate imagery. We participate in the Take It Down program run by the National Center for Missing and Exploited Children (NCMEC), receiving and leveraging hashes of nude or partially nude imagery supplied by minors that they want to prevent from spreading online. We also participate in StopNCII, a similar program for people who are 18 or older, run by South West Grid for Learning (SWGfL) based in the UK. In addition, in some cases, we use behavioral “signals” to identify potentially illegal or harmful activity so that we can proactively remove bad actors and report them to authorities as appropriate. 
 
-When we become aware of sexually explicit or exploitative content, we act swiftly to remove the offending content, enforce against the violating account, and where appropriate, escalate to NCMEC and/or law enforcement. We work closely with NCMEC and law enforcement to maintain a feedback loop on the effectiveness of our policies.
+When we become aware of sexually explicit or exploitative content, we act swiftly to remove the offending content, enforce against the violating account, and where appropriate, report to NCMEC and/or law enforcement. We request feedback from NCMEC, as we assess the effectiveness of our policies.
 
 ### 
 
 Takeaway
 
-We prohibit sexual exploitation and sexually explicit content of any kind, including the sexual exploitation of children, sharing non-consensual intimate imagery (NCII), sextortion, sexual harassment, pornography and offers of sexual services. Never post, save, send, forward, distribute or ask for nude or sexually explicit content involving anyone under the age of 18 (this includes sending or saving such images of yourself). When we discover severe harm involving sexual content, we lock the offending account and report it to authorities where appropriate. 
+We prohibit sexual exploitation and sexually explicit content of any kind, including the sexual exploitation of children, sharing NCII, sextortion, sexual harassment, pornography, and offers of sexual services. Never post, save, send, forward, distribute, or ask for nude or sexually explicit content involving anyone under the age of 18 (this includes sending or saving such images of yourself). When we discover severe harm involving sexual content, we lock the offending account and report it to authorities where appropriate. 
 
   
 We want users to feel safe and comfortable using Snap. If you ever feel unsafe or believe you may be in immediate danger, consider contacting your local law enforcement, where appropriate, and block offending users. We also encourage you to [report](https://help.snapchat.com/hc/en-us/articles/7012399221652-How-do-I-report-abuse-or-illegal-content-on-Snapchat?lang=en-US) violating content or accounts to Snapchat so we can take appropriate action.
