@@ -134,6 +134,9 @@ Return requirements for returnable items：
 | Other categories |
 | --- |
 | The items must be returned in brand new condition. |
+| Bundled Products |
+| --- |
+| For bundled products, all items included in the set must be returned together. |
 
 3\. How Can I Return Items?
 
