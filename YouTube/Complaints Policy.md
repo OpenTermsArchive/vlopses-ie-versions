@@ -109,7 +109,9 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | BussiBlaBla | Kommunikationsbehörde Austria (KommAustria) |
 | C'saint-jo TV | ARCOM |
 | CORDOPOLIS | CNMV |
+| CRoDvojka | Rada Českého rozhlasu |
 | Ca Va Chez vous | ARCOM |
+| Ceskyrozhlas | The Council for Radio and Television Broadcasting |
 | Crimeworld | Press Council of Ireland |
 | Côté Sports Vosges Télévision | ARCOM |
 | DJ Orion | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
@@ -155,6 +157,7 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | RTBF iXPé | Conseil Supérieur de l'Audiovisuel |
 | RTBFSport | Conseil Supérieur de l'Audiovisuel |
 | Radio Antena | Agencija za komunikacijska omrežja in storitve Republike Slovenije |
+| Radio Wave | Rada pro rozhlasové a televizní vysílání |
 | Radio Študent | Agencija za omrežje in komunikacije Republike Slovenije |
 | Rai | Autorità per le Garanzie nelle Comunicazioni (AGCOM) |
 | RecordPortugal | Entidade Reguladora para a Comunicação Social (ERC) |
@@ -221,6 +224,8 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | autovisie | Commissariaat voor de Media, Raad voor de Journalistiek |
 | bedrock\_nl | Commissariaat voor de Media, Raad voor de Journalistiek |
 | cmtv | Entidade Reguladora para a Comunicação Social (ERC) |
+| cro\_radiozurnal | Rada ČRo |
+| croradiowave | Rada pro rozhlasové a televizní vysílání |
 | detelegraaf | Commissariaat voor de Media, Raad voor de Journalistiek |
 | dvhn | Commissariaat voor de Media, Raad voor de Journalistiek |
 | elDiarioesCastillaLaMancha | Comisión Nacional de los Mercados y la Competencia |
@@ -255,5 +260,7 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | vertelevideo | CNMC |
 | vrouwnlmagazine | Commissariaat voor de Media, Raad voor de Journalistiek |
 | À feu doux | ARCOM |
-| Český rozhlas | Rada Českého rozhlasu |
+| Český rozhlas Plus | Rada pro rozhlasové a televizní vysílání (RRTV) |
+| Český rozhlas Plus - Podcasty | Rada pro rozhlasové a televizní vysílání (RRTV) |
+| Český rozhlas Vltava | Rada Českého rozhlasu |
 | Новости Yle | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
