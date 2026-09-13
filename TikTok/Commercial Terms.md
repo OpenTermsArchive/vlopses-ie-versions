@@ -153,6 +153,8 @@ Where ads are placed in Australia and/or New Zealand, the following terms will a
 
 ![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
 
+\*Was the information helpful?
+
 - - -
 
 #### TikTok Business Products (Data) Terms
