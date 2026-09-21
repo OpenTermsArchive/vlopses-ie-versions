@@ -80,6 +80,13 @@ Learn how privacy settings help you connect and share with people that you know 
 
 [Your privacy](https://www.facebook.com/help/238318146535333/?helpref=related_topics)
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 *   [About](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.meta.com%2F%3Futm_source%3Dhelp-center%26utm_medium%3Dreferral)
 
 *   [Privacy](https://www.facebook.com/privacy/explanation/)
@@ -167,6 +174,13 @@ Facebook removed content as a result of my trademark report. What information is
 
 What tools does Facebook provide to help me enforce my intellectual property rights in advertisements and sale posts?
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -219,6 +233,13 @@ Related articles
 * * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -280,6 +301,13 @@ Related articles
 
 [What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -329,6 +357,13 @@ Related articles
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -375,6 +410,13 @@ Related articles
 * * *](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -423,6 +465,13 @@ Related articles
 
 [Reporting Trademark Infringements](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -469,6 +518,13 @@ Related articles
 * * *](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -525,6 +581,13 @@ Related articles
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -573,6 +636,13 @@ Related articles
 * * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -625,6 +695,13 @@ Related articles
 * * *](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
 
 [Facebook removed content as a result of my trademark report. What information is sent to the person who posted that content?](https://www.facebook.com/help/509605252475371/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -679,6 +756,13 @@ Related articles
 * * *](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
 
 [Why didn't Facebook remove the content that I reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -758,6 +842,13 @@ Related articles
 
 [Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/1900735080058381/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -811,6 +902,13 @@ Related articles
 
 [What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -855,6 +953,13 @@ Related articles
 * * *](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 [Can I report a Facebook username for infringing my trademark?](https://www.facebook.com/help/1250304721728220/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -905,6 +1010,13 @@ Related articles
 
 [What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -953,6 +1065,13 @@ Related articles
 * * *](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
 [How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -1020,6 +1139,13 @@ Related articles
 
 [What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1076,6 +1202,13 @@ Related articles
 * * *](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
 
 [How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -1138,6 +1271,13 @@ Related articles
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1184,6 +1324,13 @@ Related articles
 * * *](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -1233,6 +1380,13 @@ Related articles
 * * *](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 [Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -1289,6 +1443,13 @@ Related articles
 
 [How can I make sure that the content I post to Facebook doesn't violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1339,6 +1500,13 @@ Related articles
 * * *](https://www.facebook.com/help/366763385900883/?helpref=related_articles)
 
 [How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -1412,6 +1580,13 @@ Tools Facebook provides to help protect your intellectual property
 
 What tools does Facebook provide to help me enforce my intellectual property rights in advertisements and sale posts?
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1469,6 +1644,13 @@ Related articles
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1522,6 +1704,13 @@ Related articles
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1571,6 +1760,13 @@ Related articles
 
 [What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1619,6 +1815,13 @@ Related articles
 * * *](https://www.facebook.com/help/400287850027717/?helpref=related_articles)
 
 [What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -1686,6 +1889,13 @@ Related articles
 * * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
 [Facebook removed content as a result of my copyright report. What information is sent to the person who posted that content?](https://www.facebook.com/help/297270237338088/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -1764,6 +1974,13 @@ Related articles
 
 [How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1824,6 +2041,13 @@ Related articles
 
 [What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1872,6 +2096,13 @@ Related articles
 * * *](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
 [Ask to edit or remove a video that you were in as a minor (Utah only)](https://www.facebook.com/help/1030666849167835/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -1959,6 +2190,13 @@ Related articles
 
 [Why didn't Facebook remove the content that I reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -2011,6 +2249,13 @@ Related articles
 * * *](https://www.facebook.com/help/1269666141338507/?helpref=related_articles)
 
 [How dispute settlement bodies work in the EU for Facebook](https://www.facebook.com/help/2345573922310411/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -2065,6 +2310,13 @@ Related articles
 * * *](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
 [Facebook removed content as a result of my copyright report. What information is sent to the person who posted that content?](https://www.facebook.com/help/297270237338088/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -2121,6 +2373,13 @@ Related articles
 * * *](https://www.facebook.com/help/1269666141338507/?helpref=related_articles)
 
 [Telecommunications Business Act (TBA)](https://www.facebook.com/help/390717618710100/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -2181,6 +2440,13 @@ Related articles
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -2235,6 +2501,13 @@ Related articles
 * * *](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -2292,6 +2565,13 @@ Related articles
 * * *](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 [What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
 
 - - -
 
@@ -2364,3 +2644,10 @@ Related articles
 * * *](https://www.facebook.com/help/399224883474207/?helpref=related_articles)
 
 [Unintentional actions can still violate copyright on Facebook](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get support info from our AI support assistant by phone
