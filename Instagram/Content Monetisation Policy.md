@@ -172,6 +172,13 @@ Content may not be monetized if it displays or discusses gore or bodily conditio
 *   Decay
 *   Infestation
 
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get help from Meta AI assistant by phone
+
 - - -
 
 Instagram Partner Monetization Policies
@@ -235,3 +242,10 @@ Communications that are regulated as political advertising under applicable law 
 Monetized creators and publishers, and those that have not been onboarded to a monetization product, may lose the ability to monetize if an entity connected to it has repeatedly violated these policies.
 
 **Instagram from Meta reserves the right to modify, suspend or terminate access to, or discontinue the availability of, its content monetization features at any time.**
+
+Other ways to get help
+----------------------
+
+Get a call from Meta AI assistant
+
+Get help from Meta AI assistant by phone
