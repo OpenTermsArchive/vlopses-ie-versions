@@ -330,14 +330,74 @@ If you wish to raise a concern about our [data processing practices](https://hel
 
 - - -
 
-X, our services, and corporate affiliates
-=========================================
+1.  [Help Center](https://help.x.com/en)/
+2.  [Rules and Policies](https://help.x.com/en/rules-and-policies)/
+3.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)/
+4.  \>x<, our services, and corporate affiliates
 
-We offer X and other services in order to give everyone the power to create and share ideas and information instantly, without barriers.
+\>x<, our services, and corporate affiliates
+============================================
 
-Some of our services, like [X Pro](https://tweetdeck.twitter.com/), provide you with tools to customize and curate your X experience. Other services may enable experiences outside of X. These services link to and are covered by our [Privacy Policy](https://twitter.com/privacy), which describes how and when they collect, use and share your information. When these services that are covered by our [Privacy Policy](https://twitter.com/privacy) have additional privacy terms specific to them, we tell you that through the service. 
+We offer >x< and other services in order to give everyone the power to create and share ideas and information instantly, without barriers.
+
+*   [\>x<, our services, and corporate affiliates](#help-article-title)
+
+Some of our services, like [\>x< Pro](https://tweetdeck.x.com/), provide you with tools to customize and curate your \>x< experience. Other services may enable experiences outside of \>x<. These services link to and are covered by our [Privacy Policy](https://x.com/privacy), which describes how and when they collect, use and share your information. When these services that are covered by our [Privacy Policy](https://x.com/privacy) have additional privacy terms specific to them, we tell you that through the service.
 
 We also operate companies that provide services under their own separate terms and privacy policies. For more on our corporate affiliates and their privacy practices, please see the links below to their privacy policies:
 
 *   [Vine Archive](https://vine.co/privacy)
 *   [Twitpic Archive](https://twitpic.com/static/privacy)
+
+*   [\>x<, our services, and corporate affiliates](#help-article-title)
+
+© 2026 \>x< Corp.
+
+Theme
+
+\>x< Platform
+-------------
+
+*   [\>x<.com](https://x.com/)
+*   [Status](https://docs.x.com/status)
+*   [Accessibility](https://help.x.com/en/resources/accessibility)
+*   [Embed a post](https://publish.x.com/)
+*   [Privacy center](https://privacy.x.com/)
+*   [Transparency center](https://transparency.x.com/)
+*   [Download the \>x< app](https://x.com/download)
+*   [Try Grok.com](https://grok.com/)
+
+\>x< Corp
+---------
+
+*   [About the company](https://about.x.com/)
+*   [Company news](https://blog.x.com/)
+*   [Brand toolkit](https://about.x.com/en/who-we-are/brand-toolkit)
+*   [Jobs and internships](https://careers.x.com/)
+*   [Investors](https://investor.x.com/)
+
+Help
+----
+
+*   [Help Center](https://help.x.com/en)
+*   [Using \>x<](https://help.x.com/en/using-x)
+*   [Managing your account](https://help.x.com/en/managing-your-account)
+*   [Rules and policies](https://help.x.com/en/rules-and-policies)
+*   [Contact us](https://help.x.com/en/forms)
+
+Developer resources
+-------------------
+
+*   [Developer home](https://developer.x.com/)
+*   [Documentation](https://docs.x.com/)
+*   [Forums](https://devcommunity.x.com/)
+*   [Communities](https://developer.x.com/en/community)
+*   [Engineering blog](https://blog.x.com/engineering)
+*   [Developer terms](https://developer.x.com/en/developer-terms)
+
+Business resources
+------------------
+
+*   [Advertise](https://ads.x.com/)
+*   [\>x< for business](https://business.x.com/)
+*   [Resources and guides](https://business.x.com/resources)
