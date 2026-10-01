@@ -1,1207 +1,1031 @@
 Roblox Terms of Use
 ===================
 
-Effective Date: May 19, 2026
+for the European Economic Area, the United Kingdom and Switzerland
+------------------------------------------------------------------
 
-[Introduction](#introduction)  
+We’re unable to display the Terms of Use right now. Please try again later, or visit the [Roblox Help Center](https://en.help.roblox.com/).
+
+Effective Date: 1 November, 2026
+
+We are updating our Terms of Use to make them clearer and to better explain how Roblox works. Here’s a high-level summary of the changes:
+
+*   We have tried to simplify the language and reorganize sections of the Terms of Use, including the User Terms and Creator Terms.
+*   We are clarifying Roblox’s role on how user generated content (UGC) is provided to you on the platform. In general, Roblox acts as the principal distributor and merchant of record for purchases made through Roblox. This means that when you access or purchase any content on the Roblox Platform, you are obtaining the content from Roblox. Users and Creators do not enter into a direct transaction with each other for those purchases. We are also clarifying related sections on Robux, payments, tax, and Creator payment.
+*   For Users in the EEA only, we added the right of withdrawal for consumers.
+
+Click [here](https://en.help.roblox.com/hc/articles/52986438082068) to review the upcoming changes.
+
 [USER TERMS](#user-terms)  
 [CREATOR TERMS](#creator-terms)  
-[Appendix A (China)](#appendix-a-china)  
-[Appendix B (Japan)](#appendix-b-japan)  
-[Appendix C (European Union/European Economic Area)](#appendix-c-eu)  
-[Appendix D (Vietnam)](#appendix-d-vietnam)  
-[Appendix E (The United Kingdom)](#appendix-e-uk)  
-[Appendix F (Australia)](#appendix-f-australia)  
-[OSA Annex](#osa-annex)  
-[Summary of Recent Changes](#change-summary)
-
-Introduction
-
-### Welcome to the Roblox universe, where imagination and creativity rule!
-
-Roblox Corporation and designated subsidiaries (“**Roblox**”, “**we**,” or “**us**”) offers the Roblox website (www.roblox.com) and its related platform (collectively, “**Platform**”) and various other features and services, including websites, applications, forums, content, functionality, products, and services (together with the Platform, “**Services**”) to allow users (“**Users**,” “**your**,” or “**you**”) to play, create, and connect.
-
-By accepting these User Terms, you also agree to be bound by the following:
-
-*   Roblox Creator Terms, which apply to all Users who access the Services. They cover items such as the use of Roblox Studio, the offering of Experiences and Virtual Content (as defined below), and the use of music on the Services.
-*   Roblox [Privacy Policy](https://en.help.roblox.com/hc/articles/115004630823), which explains information that we collect about you, how we protect that information, and how that information may be used.
-*   Roblox [Community Standards](https://about.roblox.com/community-standards), which explains the conduct standards expected from Users, and outlines behavior prohibited on the Services.
-*   Content Maturity Ratings, which provide information regarding the content maturity and content descriptors associated with Experiences.
-*   **For U.S. Users**, Roblox’s Arbitration Agreement (Section 13), which outlines how disputes between you and Roblox will be resolved. Specifically, these Roblox Terms contain **A BINDING, INDIVIDUAL ARBITRATION AND CLASS ACTION WAIVER. THIS MEANS THAT YOU GIVE UP THE RIGHT TO BRING AN ACTION IN COURT, INDIVIDUALLY OR AS PART OF A CLASS ACTION.**
-
-PLEASE READ THE ROBLOX TERMS CAREFULLY BEFORE BEGINNING TO USE THE SERVICES, AS THEY SET FORTH A LEGALLY BINDING AGREEMENT BETWEEN YOU AND ROBLOX. BY USING THE SERVICES, YOU AFFIRM THAT YOU HAVE REACHED THE LEGAL AGE OF MAJORITY IN YOUR JURISDICTION AND STATE OF RESIDENCE, AND UNDERSTAND, ACCEPT, AND AGREE TO BE BOUND AND ABIDE BY THE ROBLOX TERMS. IF YOU DO NOT AGREE TO THE ROBLOX TERMS, YOU MUST NOT USE THE SERVICES.
-
-IF YOU ARE UNDER THE LEGAL AGE OF MAJORITY (A “**MINOR**”) IN YOUR JURISDICTION OR STATE OF RESIDENCE, BEFORE USING THE SERVICES, YOUR PARENT OR LEGAL GUARDIAN MUST READ AND CONSENT TO THE ROBLOX TERMS. BY PERMITTING A MINOR TO USE THE SERVICES, A MINOR’S PARENT OR GUARDIAN BECOMES SUBJECT TO THE ROBLOX TERMS AND AGREES TO BE RESPONSIBLE FOR ALL OF THE MINOR’S ACTIVITIES ON THE SERVICES, INCLUDING THE PURCHASE OF ANY VIRTUAL CONTENT.
-
-The Roblox Terms are subject to change. To the extent required by applicable law, Roblox will provide User with reasonable advance notice of any material updates or modifications by any reasonable means of notification, provided that non-material changes, feature updates, or modifications made for legal reasons (as determined by Roblox) will be deemed to be effective immediately and without notice. Changes shall be in effect as of the “Last Updated” date listed atop this page. Your continued use of the Services after the Last Updated date constitutes your acceptance and agreement to such changes.
-
-The Roblox Terms consist of the following:
-
-*   **User Terms****.** The User Terms apply to any person who accesses the Services.
-*   **Creator Terms****.** The Creator Terms apply to all Users who access the Services. They cover items such as the use of Roblox Studio, the offering of Experiences and Virtual Content (as defined below), and the use of music on the Services.
-*   **Roblox Community Standards.** The [Roblox Community Standards](https://about.roblox.com/community-standards) apply to all Users and outline the types of behavior that are acceptable and prohibited when using the Services.
-*   **Roblox Privacy & Cookie Policy.** The [Roblox Privacy & Cookie Policy](https://en.help.roblox.com/hc/articles/115004630823) outlines information that Roblox collects during your use of the Services, how we protect that information, and how that information may be used.
-*   **Supplemental Provisions.**
-    *   **People’s Republic of China.** These terms apply to a User’s interaction with UGC created by Users and Developers located in China that use Luobu Studio and to a Creator’s submission of UGC to the Luobulesi Game for distribution in the People’s Republic of China.
-    *   **Japan.** These terms apply to Users located in Japan.
-    *   **Europe.** These terms apply to Users located in EU/EEA.
-    *   **United Kingdom.** These terms apply to Users located in the United Kingdom.
-    *   **Vietnam.** Part A of these terms applies to Users located in Vietnam. Part B of these terms governs the publication of Creator UGC in Vietnam and applies to all Creators, whether located inside or outside of Vietnam.
-    *   **Australia**. These terms apply to Users located in Australia.
-
-Depending how you use the Services, certain other Additional Terms may apply. These include but are not limited to:
-
-*   **Advertising Integrations Terms**. The [Advertising Integrations Terms](https://en.help.roblox.com/hc/articles/47656162239124) apply to Creators who place Integrated Advertisements in their Experiences on Roblox.
-*   **Advertising Standards**. The [Advertising Standards](https://en.help.roblox.com/hc/articles/13722260778260) apply to advertisers who place advertisements on Roblox and to Creators who allow third party advertisements in their Experiences.
-*   **Advertising Terms.** The [Advertising Terms](https://en.help.roblox.com/hc/articles/15494846263060) apply to advertisers who place advertisements on Roblox through the Roblox Ads Manager at [ads.roblox.com](https://ads.roblox.com/).
-*   **Facial Media Capture Privacy Notice.** The [Facial Media Capture Privacy Notice](https://en.help.roblox.com/hc/articles/4412863575316) applies to any User who uses additional features on Roblox that require the use of one’s camera or the uploading of files that contain an individual’s facial geometry (including age verification) and explains how Roblox collects, uses, shares, retains, and destroys your Biometric Data when you use the Services.
-*   **DevEx Terms****.** The [DevEx Terms](https://en.help.roblox.com/hc/articles/115005718246) apply to any Creator who has applied and been accepted to the Developer Exchange Program (“DevEx Program”).
-*   **Facial Animation Privacy Notice.** The [Facial Animation Privacy Notice](https://en.help.roblox.com/hc/articles/8064749848980) applies to any User who activates and enables tools on the Service, including Animation Capture-Face or Chat, that capture and animate facial movements and explains how Roblox collects, uses, shares, retains, and destroys the data collected when you use the Services.
-*   **Roblox Name and Logo Guidelines.** The [Roblox Name and Logo Guidelines](https://en.help.roblox.com/hc/articles/115001708126) apply to any Creator or Brand Partner who advertises content created on Roblox on other platforms.
-*   **Roblox Extended Services**. The [Roblox Extended Services Terms](https://en.help.roblox.com/hc/en-us/articles/37967848292500) apply to any Creator that enables this feature to manage service usage and payment beyond Roblox's default limits for certain services described [here](https://create.roblox.com/docs/cloud-services/extended-services).
-*   **Roblox Subscription**. The [Roblox Subscription Terms](https://en.help.roblox.com/hc/en-us/articles/46804865425300) apply to any User or Creator who purchases a subscription through Roblox.
-*   **Screen Recording Additional Terms.** The [Screen Recording Additional Terms](https://en.help.roblox.com/hc/articles/37968041171604) apply to any User who enters an Experience with screen recording enabled.
+ 
 
 USER TERMS
 
-These User Terms, along with the additional Creator Terms, govern, among other things, what is called **User Generated Content** or “**UGC**.” UGC is content of any kind or nature, whether material, assets, or otherwise, that Users create, upload, submit, publish, display, generate, transmit, or otherwise make available on the Services. **ALL USERS ARE SUBJECT NOT ONLY TO THESE** **USER TERMS** **BUT ALSO TO THE ADDITIONAL** **CREATOR TERMS****, WHICH ARE INCORPORATED HEREIN BY REFERENCE.**
-
-1.  Definitions.
+1.  Introduction
     
-    Any capitalized words not defined herein are defined in the [Roblox Dictionary](https://en.help.roblox.com/hc/articles/4415545981332).
+    Welcome to Roblox! Our vision is to reimagine the way people come together, and these terms describe our legal obligations to each other. These Roblox User Terms (“**User Terms**”) apply to your use and access to the Roblox website (www.roblox.com) and its related platform (collectively, “**Platform**”) and various other features and services, including websites, applications, forums, content, functionality, products, and services (together with the Platform, “**Services**”) provided by Roblox Corporation (**“we”, “us”, “our”**) to allow users (“**Users**”, “**your**”, or “**you**”) to play, create, and connect if you are resident or have your principal place of business in the European Economic Area, the United Kingdom or Switzerland. Otherwise, please refer to our global User Terms.
     
-2.  User Accounts; Access to Services.
+    Roblox aims to create a safe and civil online environment for our Users, as described in our [Community Standards](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards). 
     
-    1.  **Creating an** **Account****.** To access certain elements and functionality of the Services, you will need to create a Roblox account (“**Account**”). To create an Account, you will be asked to provide username, date of birth, and method of authenticating your Account, which may include a password and, depending on the resources accessed, you may also be asked to provide other information like a verified email address, verified phone number, or a government-issued photo identification. You agree that all information provided to Roblox will be true, accurate, and up to date. Roblox reserves the right to take steps to ensure that any information you provide to Roblox in connection with your Account is accurate.
-    2.  **Securing an** **Account****.** You are responsible for maintaining the confidentiality and security of any credentials used to access your Account (e.g., a username and password). You must not share or disclose such credentials to others (except for Guardians in the case of a Minor User).
-    3.  **Account** **Responsibilities and Prohibitions.** You understand, acknowledge, and agree that you will be responsible for any actions taken in your Account and on the Services using your access credentials, whether or not such actions have been authorized by you. You may only access the Services through your own Account. Selling your Account or your access credentials to another User is strictly prohibited. Similarly, purchasing another User’s Account or access credentials is strictly prohibited. However, transferring an Account in connection with the sale of the right to earn Robux from the sale of Virtual Content created by that Account, pursuant to a valid written agreement, is permitted. This exception does not permit the sale of Robux or Virtual Content outside the Services.
-    4.  **Compromised Accounts.** If you have reason to believe your Account has been compromised, is not secure, or has been subject to unauthorized use, you must notify Roblox immediately by contacting [Roblox Support](https://www.roblox.com/support). If another User asks for your password or any personal information, you should report them immediately using the “[Report Abuse](https://en.help.roblox.com/hc/articles/203312410)” feature. Furthermore, you must not knowingly participate in or enable the unauthorized use of any other account.
-    5.  **Suspension or Termination of an** **Account****.** If you violate these User Terms or any of the Roblox Terms, including the [Roblox Community Standards](https://about.roblox.com/community-standards), Roblox reserves the right, in its sole discretion, to terminate or suspend (i) your Account and (ii) your right to use and access the Roblox Services, including by suspending or terminating any alternate account(s) you create or have created. Account suspension or termination may also involve the suspension or termination of access to any content you have acquired on the Services, including without limitation Robux, Experience access, In-Experience Items, and Virtual Items. Roblox may also terminate your Account if Roblox determines, in its sole discretion, you are a repeat infringer, as contemplated by the Digital Millennium Copyright Act (“**DMCA**”). A Guardian of a Minor User may request that Roblox terminate their Account by contacting [Roblox Support](https://www.roblox.com/support).
-    6.  **Notification and** **Appeal****.** If, pursuant to a violation of the Roblox Terms or in response to law enforcement or other legal request, Roblox (i) suspends or terminates your Account or access to the Services or (ii) removes Robux, UGC, or other content that you have on the Services, Roblox may notify you, and may provide you an opportunity to request a review of Roblox’s decision (“**Appeal**”). To begin the Appeal process, contact [Roblox Support](https://www.roblox.com/support). See [here](https://en.help.roblox.com/hc/articles/21416271342868) for more information on relevant Roblox policies and processes.
-    7.  **Access to** **Services****.** Roblox reserves the right, in its sole discretion, to change or suspend the Services (or any portion thereof) at any time and for any reason, including to comply with laws, to protect Users, or to protect Roblox’s reputation, without notice to you unless required by law and without liability to Users.
+    If you use Roblox Studio, Creator Store, Creator Hub, DevForum, Roblox APIs or other Developer Products, services, or associated software (collectively, “**Roblox Creator Platform**”), the Creator Terms of Use for the European Economic Area, the United Kingdom or Switzerland (“**Creator Terms**”) also apply to that use. These User Terms work alongside and incorporate by reference the Creator Terms, [Developer Exchange Terms](https://en.help.roblox.com/hc/articles/115005718246-Developer-Exchange-Terms-of-Use), [Community Standards](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards), Annexes, [Name and Logo Guidelines](https://en.help.roblox.com/hc/articles/115001708126-Roblox-Name-and-Logo-Community-Usage-Guidelines), and [EU](https://en.help.roblox.com/hc/articles/13061336948244-EU-Digital-Services-Act) [Digital Services Act Page](https://en.help.roblox.com/hc/articles/13061336948244-EU-Digital-Services-Act), and any other terms that may be shown to you on the Platform (collectively, “**Roblox Terms**”). Copies of all terms and policies are accessible at [https://en.help.roblox.com/hc/categories/45348186499220-Legal-Documents](https://en.help.roblox.com/hc/categories/45348186499220-Legal-Documents). You can download the Terms of Use at the bottom of this page.
     
-3.  Robux and Roblox Subscription
+    These rules are essential for making Roblox a place where people can connect with optimism and civility. If you believe someone isn’t following the rules, please let us know immediately by using our [Report Abuse](https://en.help.roblox.com/hc/articles/203312410) feature.
     
-    1.  “**Robux**” is the official currency of the Roblox Services and can be used to acquire content such as Virtual Items (defined below) or access to interactive content called “**Experiences**” on the Services. **Robux** **are not a substitute for real currency, do not earn interest, and have no equivalent value in real currency**. Except as otherwise outlined in the [DevEx Terms](https://en.help.roblox.com/hc/articles/115005718246) with respect to Creators who have applied and been accepted to the DevEx Program, Robux cannot be redeemed for any real currency, and Roblox is not obligated to exchange a User’s Robux for anything else of value.
-    2.  **Limited License to Use** **Robux****.** Robux have no equivalent value in real currency. Except as expressly set forth in Section 4 of the Creator Terms or in any Applicable Terms made applicable to Robux depending on your use of the Services, your acquisition or purchase of Robux only entitles you to receive a limited, non-transferable, revocable license to use Robux (i) in connection with the Services, (ii) for your personal entertainment only, and (iii) in the ways permitted by Roblox under the applicable Roblox Terms, including any Applicable Terms. Your limited license to use Robux may end if (i) you violate the Roblox Terms, (ii) your Account is suspended or terminated, or (iii) these User Terms or the Services are terminated.
-    3.  **Acquisition and Use of** **Robux****.** Robux may be acquired on the Services in one of several ways. A User may acquire Robux (i) by purchasing or otherwise receiving Robux from Roblox; (ii) through the purchase of Robux on behalf of the User by another person; (iii) by purchasing a membership (“**Roblox Subscription**” as more fully described in Section 3f below) that includes a certain stipend of Robux each month; (iv) by trading Virtual Items with other Users (as described in Section 4c below); or (v) by other means that Roblox may introduce. Additionally, a Creator may earn Robux as described more fully in Section 4 of the Creator Terms.
+2.  Your Account
+    
+    To access the Services, you will need to create a Roblox account (“**Account**”). Creating an Account enables you to access the Services including Games, Developer Products, Marketplace Items, Assets, User Generated Content, Creator Store assets, content created within Games, images, videos, audio, text (e.g., comments on DevForum, messages), content generated by AI, or other materials, whether provided by Users, Creators, or Roblox (collectively, “**Content**”).
+    
+    #### 2.1 Who can have an Account
+    
+    Users ages 5 and older may have an Account, but certain features for the Services must be enabled by a parent or legal guardian through our [Parental Controls](https://en.help.roblox.com/hc/articles/30428310121620-Parental-Controls-Overview).
+    
+    #### 2.1.1 Users under the age of 18
+    
+    If you are a User under the age of 18 (a “**minor**”), you must create the Account together with your parent or legal guardian. Your parent or legal guardian must accept these Roblox Terms on your behalf and allow you to use the Services. Please have them read the Roblox Terms with you. If you are a parent or legal guardian of a User under the age of 18, by allowing your minor to use the Services, you are also subject to the Roblox Terms and responsible for your minor’s activity on the Services. You can find tools and resources to help you manage your family’s experience on Roblox at [Parental Controls](https://about.roblox.com/parental-controls).
+    
+    #### 2.1.2 Parent Linked Accounts
+    
+    If you are a parent or legal guardian, you can create and manage a “**Parent Linked Account**”, which is a linked Account with parental privileges and controls that allows Users to supervise one or more minor Accounts. By setting up and using a Parent Linked Account, you represent and warrant that:
+    
+    1.  you are the parent or legal guardian of any minor Account you link;
+    2.  you accept the Roblox Terms also on behalf of your minor;
+    3.  you have the legal authority to consent to the collection and use of your minor’s Personal Information as described in our [Privacy Policy](https://en.help.roblox.com/hc/articles/115004630823-Roblox-Privacy-and-Cookie-Policy); and
+    4.  you accept full responsibility for your minor’s use of the Services, including all actions taken under their Account.
+    
+    #### 2.1.3 Entities
+    
+    If you are using the Services on behalf of an entity, you represent and warrant that you have authority to bind that entity to Roblox Terms and by accepting the Roblox Terms, you are doing so on behalf of that entity.
+    
+    #### 2.2 Creating an Account
+    
+    To create an Account, you will be asked to provide a username, date of birth, and method of authentication such as a password. You agree to provide Roblox with true, accurate, and up to date information. Roblox reserves the right to take steps to verify the information you provide for your Account.
+    
+    #### 2.3 Your responsibilities
+    
+    You have a responsibility to comply with these Roblox Terms (including the [Community](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards) [Standards](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards) and all other policies incorporated in the Roblox Terms) and all applicable laws, regulations, and third party rights while using the Services. You should use and access the Services from the country where you signed up for your Account. Accessing the Services predominantly outside of that country, or attempting to misrepresent your sign-up country, is a violation of the Roblox Terms and may result in termination of your Account.
+    
+    #### 2.4 Account security
+    
+    You are responsible for any actions taken on your Account and on the Services using your access credentials. For recommendations on measures to secure your Account please visit [Keep Your Account Safe](https://en.help.roblox.com/hc/articles/203313380-Keep-Your-Account-Safe). Selling your Account, selling your access credentials, or contributing to the unauthorised use of your Account is strictly prohibited. If you get locked out of your Account, please visit [Roblox Account Recovery](https://www.roblox.com/login/forgot-password-or-username).
+    
+    #### 2.5 Compromised Accounts
+    
+    If you suspect your Account has been compromised, is not secure, or has been subject to unauthorised use, you must immediately notify Roblox by contacting [Roblox Support](https://www.roblox.com/support). If another User asks for your password or any personal information, you should report them immediately using the [Report Abuse](https://en.help.roblox.com/hc/articles/203312410) feature.
+    
+    #### 2.6 Deactivating or deleting your Account
+    
+    Deactivating your Account reversibly disables your Account and hides your profile. You may also delete your Account, which permanently terminates access to the Account, to your Content, to your Robux, and to any Content you have accessed or used on the Services, and we initiate the deletion of the data associated with the Account, subject to Roblox’s [Privacy Policy](https://en.help.roblox.com/hc/articles/115004630823-Roblox-Privacy-and-Cookie-Policy) and data retention policies. To deactivate or delete your Account follow the instructions at [How do I deactivate or delete my account](https://en.help.roblox.com/hc/articles/203313050-How-do-I-deactivate-or-delete-my-account). These Roblox Terms continue to apply while your Account is deactivated. Certain provisions of the Roblox Terms will survive deactivation or deletion of your Account as outlined below in Section 14.2 (Termination and survival).
+    
+3.  Content
+    
+    Content is protected by intellectual property and other laws. You agree that you do not acquire any ownership rights whatsoever in anyone else’s Content by interacting with Content or by purchasing Paid Services. Roblox reserves all rights to Content not granted expressly in these User Terms. 
+    
+    The availability of Content and features may vary between countries and not all Content or features may be available in your country. You may be asked to provide information like an email address, phone number, or a government-issued photo identification to access certain Content or features in Roblox Player. Note that we may block, remove, or delete Content in certain regions for legal and regulatory reasons, such as an order or injunction from any court, administrative body, or regulatory authority. See [Regional Restrictions on Features and Content](https://en.help.roblox.com/hc/articles/41116913453844-Regional-Restrictions-on-Features-and-Content) for more information.
+    
+    #### 3.1 Content you provide
+    
+    You can provide your own Content on and to the Services, by licensing it to Roblox. We call this “**User Generated Content**” (“**UGC**”) and define it as Content of any kind that you create, upload to, post, or otherwise make available on the Services, including but not limited to Prompts input into the AI Features and Outputs generated by the AI Features. You are solely and legally responsible for the UGC you licence to Roblox. If you choose to provide UGC to the Services, you are responsible for ensuring that:
+    
+    1.  you have the right to do so;
+    2.  your UGC is lawful;
+    3.  your UGC complies with the Roblox Terms and in particular the [Community Standards](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards); and
+    4.  you have the right to grant the licences in Section 3.2 below.
+    
+    For example, the UGC you licence to Roblox must not include third party intellectual property (such as copyrighted material) unless you have permission from that party or are otherwise legally entitled to do so. 
+    
+    You retain all ownership, right, title, and interest in and to your Content as permitted by law, subject only to the non-exclusive licence granted in the Roblox Terms.
+    
+    #### 3.2 Licence to Roblox
+    
+    If you provide UGC to the Services, you are a “**Creator**” and any Content you provide is subject to the Creator Terms. In order to provide the Services and grant other Users the licence described in Section 9, Roblox requires a corresponding licence from Creators. As a Creator, you grant to Roblox, as the content is uploaded or created, a worldwide, non-exclusive, royalty-free (subject to Section 4.2 (Roblox’s Right to monetise) and Section 6 (Roblox economy) of the Creator Terms), fully sublicensable and transferable licence (including to other Users) for the duration of the intellectual property rights to use, host, store, transfer, copy, reproduce, distribute, modify, adapt, prepare derivative works of, display, publicly perform, publish, and otherwise exploit the UGC provided to Roblox, and any other information and data relating to your interaction with our Services, in whole or in part, for any lawful business purpose, including without limitation:
+    
+    1.  promoting all or part of the existing or future Services; 
+    2.  for making UGC available within the Services to other Users and audiences, enabling Users to engage with the UGC (as further described in Section 3.3 (Engaging with UGC) of the User Terms below), monetising that engagement (as further described in Section 6 (Roblox economy) of the Creator Terms below), and generating revenue from the licenced material as part of operating and offering the Services; and
+    3.  in connection with developing, improving, or training any AI or machine learning models.
+    
+    This licence does not entitle you to any payments from Roblox, except where you separately qualify according to Section 6 (Roblox economy) of the Creator Terms.
+    
+    You further allow Roblox to make available UGC to third parties and object to, suspend, or terminate the use of the UGC by third parties. Notwithstanding the foregoing, you acknowledge and agree that any views expressed in UGC are yours alone and do not necessarily reflect Roblox’s views; Roblox does not endorse any UGC or the views expressed in it by enabling you to provide UGC or by making available UGC through the Services. You may delete or modify any UGC that you have provided at any time, provided, however that to the extent other Users have accessed UGC via the Services, whether as User Marketplace Items or otherwise, such Users may continue to use such UGC after you have deleted it, and Roblox itself may continue to use any UGC that you have deleted pursuant to the terms of the perpetual licence that you grant to Roblox herein, including in the event that your Account is suspended or terminated, whether by Roblox or by you for any reason.
+    
+    #### 3.3 Engaging with UGC
+    
+    Our Services may display UGC created by other Users for use with your avatar, such as clothing, accessories, or other digital items (“**User** **Marketplace Items**”). You may also access or use items or abilities from Creators such as in-Game currency, game passes, or potions (“**Developer Products**”), which Roblox distributes and makes available to you as principal under these User Terms. Such UGC is primarily intended for use within the Services by yourself or other Users; you may access and use such UGC only as enabled by the features of the Services, and not independently of the Services. 
+    
+    Roblox makes available UGC that you can access and interact with through the Services. Any acquisition of UGC on the Services is solely for your personal entertainment.
+    
+    Roblox may grant you a licence to use Robux to access or interact with UGC made available by Roblox in accordance with Section 5 of these User Terms.
+    
+    #### 3.4 Roblox-Owned Content
+    
+    The Services are owned and operated by Roblox. Roblox-created and/or -owned text, images, illustrations, visual interfaces, graphics, photographs, video clips, icons, design, fonts, compilation, information, data, computer code, products, trademarks, avatar models, clothing items, Roblox-published Games, and other elements of the Services (collectively, “**Roblox-Owned Content**”) are provided to you for use with the Services solely in accordance with these Roblox Terms. For clarity, “Roblox-Owned Content” means Content owned or created by Roblox itself, and is distinct from UGC that Creators licence to Roblox and that Roblox licences to Users as principal. To the extent you modify, customise, or create derivative works of any Roblox Classic Avatars (the avatar models defined in [Roblox’s Name and Logo Guidelines](https://en.help.roblox.com/hc/articles/115001708126-Roblox-Name-and-Logo-Community-Usage-Guidelines)) (each, a “**Modified Classic Avatar**”), you hereby irrevocably assign to Roblox all right, title, and interest, including all intellectual property rights, in and to such Modified Classic Avatar, including any Modified Classic Avatars you created under prior versions of these Roblox Terms. The assignment includes the right to store, reproduce, distribute, modify, adapt, prepare derivative works of, display, publicly perform, publish, and otherwise use and exploit the Modified Classic Avatar, worldwide and for the duration of the intellectual property rights. Roblox grants you a limited, non-exclusive, revocable, non-transferable licence to use each Modified Classic Avatar solely on the Services in accordance with these Roblox Terms. For clarity, this assignment does not extend to UGC itself that you incorporate into a Modified Classic Avatar and that is not itself derived from Roblox Classic Avatars. You agree that the Modified Classic Avatar may be given significant exposure and that you share it for your enjoyment and for the recognition you may receive from other users. Consequently, you assign these rights for free.
+    
+    If the assignment of an intellectual property right is not feasible under applicable law, instead of assigning the right, you grant Roblox as the Modified Classic Avatar is created, a worldwide, non-exclusive, royalty-free, for the duration of the intellectual property rights, fully sublicensable and transferable licence (including to other Users) to use, host, store, transfer, copy, reproduce, distribute, modify, adapt, prepare derivative works of, display, publicly perform, publish, and otherwise exploit the Modified Classic Avatar provided to Roblox, and other information relating to your interaction with our Services, in whole or in part, for any lawful business purpose.
+    
+    Our Services may enable you to access certain Roblox-Owned Content for use with your avatar, such as clothing, accessories, or other digital items (collectively, “**Roblox Marketplace Items**” and together with the User Marketplace Items, the “**Marketplace Items**”). You may be able to use Robux to acquire Roblox Marketplace Items. Any use of Robux shall be subject to the terms and conditions of Section 5.1 below.
+    
+    #### 3.4.1 Prohibited uses
+    
+    Roblox-Owned Content may not be used outside of the Services unless such use is both (a) expressly authorised by Roblox; and (b) consistent with [Roblox’s Name and Logo Guidelines](https://en.help.roblox.com/hc/articles/115001708126-Roblox-Name-and-Logo-Community-Usage-Guidelines). Any unauthorised use of any Roblox-Owned Content is strictly prohibited. Suspicious trading activity (including trading or receiving stolen items) may result in account moderation at Roblox’s sole discretion.
+    
+    #### 3.4.2 Roblox Subscriptions
+    
+    Roblox may offer you access to additional benefits or other digital items provided by Roblox through paid subscriptions (“**Roblox Subscription**”). Your purchase and use of the Roblox Subscription is subject to the [Roblox Subscription Terms](https://en.help.roblox.com/hc/articles/46804865425300-Roblox-Subscription-Terms).
+    
+    #### 3.5 Recommendations and Rankings
+    
+    Depending on the Roblox feature, Roblox uses different factors to provide Users the most relevant search results and recommendations. For details on search results and recommendations including how you can modify them, see [Recommendations and Ranking on Roblox](https://en.help.roblox.com/hc/articles/21416941036564-Recommendations-and-Ranking-on-Roblox).
+    
+    #### 3.6 Commercial Communication
+    
+    If you provide UGC to the Services that is commercial communication, including content sponsored by third parties or paid partnerships, you are required to make transparent to the user that the UGC contains commercial communication.
+    
+4.  Safety and civility
+    
+    #### 4.1 Content Moderation on Roblox
+    
+    The [Content Moderation on Roblox](https://en.help.roblox.com/hc/articles/21416271342868-Content-Moderation-on-Roblox) page and the [Community Standards](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards) explain how you can report Content that is illegal or violates the Roblox Terms including the Community Standards. The [Content Moderation on Roblox](https://en.help.roblox.com/hc/articles/21416271342868-Content-Moderation-on-Roblox) page also provides details on how Roblox moderates content, including Roblox’s content moderation measures, processes, and tools, and how you can appeal Roblox’s content moderation decision. 
+    
+    If you are a rights holder and want to report UGC that infringes your intellectual property rights (such as copyright or trademark), refer to Section 10.2.
+    
+    To monitor that Content meets our Community Standards and complies with the Roblox Terms, as described above, Roblox may access and review Content, including Content shared via Communication Features and other non-public Content.
+    
+    Roblox offers various ways for Users to communicate across the Platform and the Roblox Creator Platform (collectively, “**Communication Features**”). You must complete an [age check](https://en.help.roblox.com/hc/articles/39143693116052-Understanding-Age-Checks-on-Roblox) before using Communication Features.
+    
+    #### 4.2 Actions we may take
+    
+    Should we identify any UGC or behaviour that violates the Roblox Terms (including our [Community Standards](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards) and all other policies incorporated in the Roblox Terms) or applicable law, we will make an assessment and take moderation actions based on that assessment, including but not limited to:
+    
+    1.  issuing warnings; 
+    2.  blocking, removing, or deleting UGC;
+    3.  removing or restricting your access to the Services;
+    4.  terminating or suspending availability of the UGC or your Account; or
+    5.  contacting law enforcement.
+    
+    Roblox has the right, but not the obligation, to monitor, review, modify, disable access to, or remove any UGC or other Content on the Services, in whole or in part, at any time, with or without notice, and without liability to you or any third party.
+    
+    #### 4.3 Notice
+    
+    Roblox will notify you of the reason for our actions pursuant to this Section 4. Roblox may delay or omit a notice where we reasonably believe that notifying you:
+    
+    1.  would breach the law or the direction of an authority or court or would otherwise risk legal liability for Roblox;
         
-        You may not use, acquire, or distribute Robux or Virtual Content except through the Services and except as expressly allowed by Roblox under these Roblox Terms, including any Applicable Terms. Any attempt to do so constitutes a violation of the Roblox Terms, will render the transaction void, and may result in the immediate suspension or termination of your Account and your license to use Robux or Virtual Content. Roblox does not recognize or take responsibility for third-party services that allow Users to sell, transfer, purchase, or otherwise use Robux or Virtual Content, and any such use by a User is a violation of the Roblox Terms. However, transferring an Account in connection with the right to earn Robux from the sale of Virtual Content created by that Account, pursuant to a valid written agreement, is permitted. This exception does not permit the sale of Robux or Virtual Content outside the Services. **Only Users who have reached the age of majority in their jurisdiction or state of residence may purchase** **Robux** **or engage in other real-money transactions on the** **Services****.**
+    2.  would compromise an investigation or the integrity or operation of the Service; 
         
-    4.  **Robux** **Are Non-Refundable.** Except as required by law, all payments for Robux are **final and not refundable.**
-    5.  **Robux** **Are Subject to Change.** Roblox, in its sole discretion, may implement changes to Robux at any time. This may include limiting the number of Robux a User may acquire or lowering the purchase price of Robux.
+    3.  would cause harm to any User, other third party, or Roblox; 
         
-        Except for the limited licenses granted to you under the Roblox Terms, Roblox has and retains all rights in and to Robux. This includes the right to modify, revoke, or terminate your license to use Robux without notice, payment, or liability to you. Roblox makes no guarantees or warranties regarding Robux or their availability or value.
+    4.  would not be possible due to technical restrictions; or
         
-    6.  **Subscriptions.** Roblox may offer you access to additional benefits through paid subscriptions (“Roblox Subscription”). Your purchase and use of the Roblox Subscription is subject to the [Roblox Subscription Terms](https://en.help.roblox.com/hc/en-us/articles/46804865425300).
-    
-4.  Virtual Content, UGC Subscriptions, and the Roblox Economy.
-    
-    1.  **Acquiring** **Virtual Content****.** You may acquire “**Virtual Items**” (including without limitation clothing or digital items for your avatar), “**In-Experience Items**” (including without limitation game passes and special abilities) and other content (including without limitation Experience and private server access) offered by Roblox and/or Creators (collectively “**Virtual Content**”) solely on the Services. The acquisition of Virtual Content on the Services is solely for your personal entertainment, and, except as otherwise stated in any Additional Terms, as applicable, it does not create any legally enforceable contract between (i) you and Roblox or (ii) you and any Creator. Virtual Content has no real world equivalent value, and you do not acquire any enforceable property rights in and to any Virtual Content based on any transaction on the Services.
-        
-        When you spend Robux to acquire Virtual Content through Marketplace, the experience details page, or In-Experience, the Robux are collected through the Services and immediately deducted from your Account balance. All such transfers are final and, unless otherwise permitted by Roblox through its policies or practices or as required by law, non-refundable and non-reversible.
-        
-    2.  UGC Subscriptions are automatically renewing subscriptions offered by a Creator to provide Users with certain additional benefits. When you purchase a UGC Subscription, you agree that your subscription will automatically renew and that Roblox, through its payment provider, is authorized to charge your payment method accordingly until you cancel the UGC Subscription. You may cancel your UGC Subscription at any time in the Subscriptions settings page. If you cancel your UGC Subscription, you can still enjoy the benefits for the period of time for which you have already paid. All purchases of UGC Subscriptions are final and, unless otherwise permitted by Roblox through its policies or practices or as required by law, non-refundable and non-transferable.
-    3.  **Selling** **Virtual Content** **and** **UGC Subscriptions****.**
-        1.  **For Users.** Roblox allows Users with a Roblox Subscription to resell certain Roblox\-created Virtual Content on the Services (“Resale”). A User may engage in a Resale of such Virtual Content within Marketplace only. All Resales are final and cannot be reversed except as required by law. (See [here](https://en.help.roblox.com/hc/articles/203313260) for a more detailed explanation of how to resell Virtual Content.) 
-        2.  **For Creators.** A Creator may design and sell Virtual Content and UGC Subscriptions pursuant to the terms as outlined in Section 4 of the Creator Terms and the UGC Subscription Terms of Use.
-    4.  **Trading** **Virtual Content****.** Roblox allows Users with a Roblox Subscription to trade certain Virtual Content on the Services (“**Trade**”). This Virtual Content can be Traded for other Virtual Content or for a combination of Robux and Virtual Content. When Users engage in a Trade on the Services that includes the exchange of Robux, Roblox is entitled to a fee. However, if no Robux are exchanged as part of the Trade, Roblox will not receive any fee in connection with the transaction. (See [here](https://en.help.roblox.com/hc/articles/203313310) for a more detailed explanation of Roblox’s Trading System and the associated fees.)
-    5.  **Removal of** **Virtual Content****.** Roblox has the right, in its sole discretion, to suspend the availability of, or remove from the Services and your Account, any content (including without limitation Experiences, Virtual Content, UGC Subscriptions, and UGC) without advance notice. Roblox shall not be liable to any User for any losses you may experience because of such suspension or removal, and Roblox is not required to refund any Robux or other funds that a User has spent on any removed or suspended content, except where legally required.
-    6.  **Paid Access.** Paid Access experiences offered by a Creator require a one-time payment in Robux or local currency to access the experience (“Paid Access”). Paid Access experiences in Robux can only be purchased using Robux and Paid Access experiences in local currency can only be purchased using real currency. You can purchase a Paid Access experience on desktop in your local currency, or in USD if your local currency isn't available. You may request a refund for a Paid Access in local currency experience within 48 hours of purchase. Paid Access in Robux experiences are final and, unless otherwise permitted by Roblox through its policies or practices or as required by law, non-refundable and non-transferable.
-        1.  Limited License. By purchasing a Paid Access experience, you are granted a license to the Experiences consistent with these Terms. Roblox reserves the right to revoke your access at our sole discretion.
-    7.  **Roblox Commerce.** Experiences and other features on the Services may enable shopping for, purchasing, and/or obtaining items that exist outside of Roblox, including the ability to make payments to Commerce Providers in real currency (collectively “Commerce Provider Activation(s)”). Capitalized terms that are not defined in these terms are defined in the Roblox Dictionary.
-        1.  **Device, Age, and Region Restrictions.** To access a Commerce Provider Activation, you must be at least 13 years of age and live in the United States, and certain features of the Commerce Provider Activation may only be available to eligible users based on device type.
-        2.  **Purchases from Commerce Providers.**
-            1.  If you choose to make a purchase in a Commerce Provider Activation (including by clicking on a “Buy” or “Shop” button, advertisement, “Learn more,” or other links or purchase methods), you will be using and interacting with an application or website operated by a third-party retailer, e-commerce platform, marketplace, brand, developer, and/or its and their designees (collectively, the “Commerce Provider,” and the application or website, the “Commerce Provider Website”) to complete your purchase. If you choose to access, use, transact with, or otherwise interact with the Commerce Provider Website, you are directing the Commerce Provider to make applicable Third-Party Services available to you.
-            2.  You are solely responsible for your dealings with the Commerce Provider. You understand that the terms and conditions of the Commerce Provider Website, including any terms of sale, rules, policies, and privacy notices required by the Commerce Provider as may be noted on the Commerce Provider Activation or Commerce Provider Website (the “Commerce Provider Terms”) govern your transaction with the Commerce Provider and all of your activity on the Commerce Provider Website, including information collected and processed through the Commerce Provider Website. Roblox is not a party to any transactions through the Commerce Provider Website, as those are administered by the Commerce Provider. Any claim in connection with the Commerce Provider Website, including any applicable transactions, is governed by the Commerce Provider Terms, and to the fullest extent permitted under applicable law, Roblox is not responsible for such claims. You agree that you are solely responsible for your, or your Minor’s (if applicable), conduct while using or accessing the Commerce Provider Website, and you must comply with the Commerce Provider Terms if you access or use the Commerce Provider Website. If there is any inconsistency or conflict between these Commerce Terms and the Commerce Provider Terms, the Commerce Provider Terms shall prevail solely with respect to any activity or transactions you make on the Commerce Provider Website.
-            3.  “Commerce Product(s)” means any goods, merchandise or other products and services offered through the Commerce Provider Website which are intended to be enjoyed outside of Roblox (e.g., clothing, tickets for live events, food delivery services, etc.). The Commerce Items offered through the Commerce Provider Website are subject to change, and may be modified, suspended, disabled, or discontinued in whole or in part, at any time. Roblox has no responsibility or liability to you for your transactions with the Commerce Provider, including any issues with the performance or quality of the Commerce Items, any orders placed, delivery issues, payment processing, or refund requests related to the Commerce Items. You understand and agree that the Commerce Provider is the party solely responsible for all aspects of any transaction, including the fulfillment of Commerce Items, made on the Commerce Provider Website.
-        3.  **Taxes.** Roblox provides a unique and immersive brand experience that enables users to explore and interact with the Commerce Provider’s brand in a virtual experience. Roblox solely provides the experience for brand interaction(s).
-            
-            Roblox does not operate as a marketplace or marketplace facilitator and is not involved in the execution of purchases, sales, or delivery of Commerce Products (“Commerce Provider Transactions”). All Commerce Provider Transactions related to the Commerce Products are conducted directly through the Commerce Provider Website. Roblox Corporation does not, directly or indirectly, handle, process, or accept payments; collect receipts; determine prices; or, in any way, oversee these Commerce Provider Transactions. Any returns, customer service, or related inquiries or issues with the Commerce Products are directed to, and the responsibility of, the Commerce Provider.
-            
-            Commerce Providers manage their individual Commerce Provider Websites and operate independently from Roblox. This independence includes, but is not limited to, the execution of sales (e.g., payment processing services, setting prices, taking orders, accepting or assisting with returns or exchanges), management of inventory, personalized branding, customer service, fulfillment and delivery of Commerce Products. All Commerce Provider Transactions are processed directly between the Commerce Provider and the user.
-            
-            The Commerce Provider shall be solely responsible for the payment of all sales, use, VAT, GST and similar taxes (“Taxes”) relating to the sale of Commerce Product(s) and Commerce Provider Transactions under these Commerce Terms.
-            
-        4.  **Virtual Items****.** Not all Commerce Provider Activations offer a digital twin or other digital item. If the Commerce Provider Activation states that a purchase made on the Commerce Provider Website also comes with a digital twin or other digital item, that digital twin/item is Virtual Content. You will only be granted entitlement to, or a means to redeem entitlement for, the applicable Virtual Content if the Commerce Provider confirms that your purchase through the Commerce Provider Website for the respective and eligible Commerce Item(s) advertised in the Commerce Provider Activation is completed successfully. Roblox reserves the right to refuse entitlement for or remove the applicable Virtual Content if your order through the Commerce Provider Website is canceled or reversed, for any activities not in compliance with the Commerce Provider Terms or these Commerce Terms, or as otherwise set forth in the Roblox Terms of Use. Virtual Content available through the Commerce Provider Activation is subject to change, and may be modified, suspended, disabled, or discontinued in whole or in part, at any time. Unless otherwise stated, a maximum of one (1) of each Virtual Content is granted. Purchasing multiple of the same eligible Commerce Item(s) will not result in multiple of the same Virtual Content.
-        5.  **Commerce Provider Activations are Subject to Change.** We reserve the right, in our sole discretion, to modify, suspend, disable access to, or discontinue any Commerce Provider Activations, in whole or in part, at any time. We reserve the right to modify these terms at any time in Roblox’s sole discretion.
-        6.  **Warranty Disclaimer.** TO THE MAXIMUM EXTENT PERMISSIBLE UNDER APPLICABLE LAW, WITH RESPECT TO ANY COMMERCE PROVIDER ACTIVATION, COMMERCE PROVIDER WEBSITE, AND ANY COMMERCE ITEMS MADE AVAILABLE FOR PURCHASE THROUGH A COMMERCE PROVIDER WEBSITE OR OBTAINED FROM A COMMERCE PROVIDER, YOU UNDERSTAND AND AGREE THAT ROBLOX EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES OF ANY KIND OR NATURE, WHETHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND SATISFACTORY QUALITY. YOU UNDERSTAND AND AGREE THAT THE COMMERCE PROVIDER IS THE PARTY RESPONSIBLE FOR TRANSACTIONS FOR AND FULFILLMENT OF COMMERCE ITEMS PURCHASED ON THE COMMERCE PROVIDER WEBSITE OR MADE AVAILABLE BY THE COMMERCE PROVIDER, AND ROBLOX HAS NO INVOLVEMENT IN THE DESIGN, MANUFACTURE, PROVISION, OR DELIVERY OF SUCH COMMERCE ITEMS.
-        7.  **Limitation of Liability.** TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL ROBLOX BE LIABLE TO YOU FOR ANY LOSS, DAMAGE, OR INJURY OF ANY KIND, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, CONSEQUENTIAL, OR OTHER INTANGIBLE LOSSES ARISING OUT OF OR IN CONNECTION WITH ANY COMMERCE PROVIDER ACTIVATION, COMMERCE PROVIDER WEBSITE, COMMERCE ITEMS, OR THESE COMMERCE TERMS, WHETHER ARISING IN CONTRACT, TORT, STRICT LIABILITY, STATUTE OR ANY OTHER LEGAL OR EQUITABLE THEORY.
-    
-5.  Payments and Refunds.
-    
-    1.  **General.** Only Users who have reached the age of majority in their jurisdiction or state of residence may engage in financial transactions on the Services, such as purchasing Robux or Roblox Subscription, or UGC Subscriptions.
-    2.  **User Responsibilities.** When purchasing Robux, Roblox Subscription, or a UGC Subscription, you (or your Guardian, as applicable) represent and warrant that you have the right to use your selected payment method and that your payment method has enough credit available to complete the applicable transaction. You further agree that you have read and agree to be bound by any applicable Additional Terms and that any information you provide in connection with any financial transaction on the Services, including without limitation the provision of a selected payment method, shall be subject to the privacy policy as outlined by the applicable payment service provider for that financial transaction.
-        1.  If you believe someone has gained access to or used your Account, including your payment method, without permission, you must notify Roblox as soon as possible by contacting [Roblox Support](https://www.roblox.com/support). Roblox reserves the right to suspend any Account with unauthorized charges or to restrict an Account’s ability to purchase Robux, engage in Trades, and/or purchase Virtual Content and UGC Subscriptions. (See Unauthorized Transactions below.)
-    3.  **Unauthorized Transactions.** If you notice charges on your credit/debit card, PayPal, or Google Play account relating to the Services that you did not authorize, please contact Roblox Support immediately. Tell Roblox AT ONCE if you believe that a charge has been made without your permission. Our goal is to learn about and promptly address your concerns. If you dispute any charges directly with your payment processor, Roblox may be restricted in the assistance, including any refund, Roblox can provide due to prohibitions under the payment provider’s dispute process. To protect Roblox and Users from fraud and other harm, Roblox reserves the right to suspend any Account with unauthorized charges or to restrict an Account’s ability to purchase Robux, engage in Trades, and/or purchase Virtual Content. Roblox may provide you an opportunity to request a review of Roblox’s decision. For more information on the Appeal process, please see Section 2 of the User Terms, above.
-    4.  **Pricing and Tax.** When you purchase Robux, Roblox Subscription, UGC Subscription, or paid access in local currency from Roblox, the price payable is the price indicated at the time of purchase, plus all applicable sales and/or use taxes, value added tax (“VAT”) or goods and services tax (“GST”) that Roblox assesses on your purchase (the "Purchase Price"). For U.S. and Canadian purchasers, applicable sales tax will be separately stated and added to the price displayed; for purchasers in other countries where Roblox is registered for VAT or GST, the Purchase Price will include applicable VAT or GST, at the rate applicable in the territory, unless otherwise indicated at the time of purchase.
-    
-6.  Intellectual Property and UGC.
-    
-    1.  **Roblox IP****.** The interfaces, graphics (including without limitation Roblox Classic Avatars and Modified Classic Avatars, as defined in Section 2 of the Creator Terms), trademarks, design, information, artwork, data, code, products, software, and all other elements of the Services, including the rights therein and any derivatives thereof, (“**Roblox Intellectual Property**” or “**Roblox IP**”) are protected by law and the Roblox Terms. All Roblox IP is the property of Roblox and Roblox’s licensors. Roblox IP includes all UGC licensed to Roblox by Creators under the Creator Terms. Except as allowed in the Roblox Terms and any applicable Additional Terms, you may not use any Roblox IP contained in the Services unless you obtain separate permission in each instance from the owner. Roblox reserves all rights in/to the Roblox IP not granted in these Roblox Terms or elsewhere in Additional Terms.
-    2.  **UGC**. The Services contain various forums, functionality, software, and other interactive features that allow you to create, upload, submit, publish, display, generate, transmit, or otherwise make available (“**Publish**”) UGC on the Services. For more information on these features, please also read Section 2 of the Creator Terms.
-        
-        Any UGC Published on the Services must comply with the Roblox Terms, including the Roblox [Community Standards](https://about.roblox.com/community-standards), and must not be illegal, fraudulent, deceptive, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights, or otherwise injurious to third parties or objectionable, and must not consist of or contain software viruses, commercial solicitation, chain letters, mass mailings, or any form of “spam.”
-        
-        Except as otherwise described in Roblox’s [Privacy Policy](https://en.help.roblox.com/hc/articles/115004630823) or any applicable Additional Terms, (i) you agree any UGC that you Publish will be considered non-confidential and non-proprietary, and (ii) you grant Roblox a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to host, use, copy, reproduce, modify, adapt, publish, translate, run, create derivative works of, distribute, communicate to the public, and publicly perform or display including on a through-to-the-audience basis, such UGC and any related interaction data on the Services, throughout the world in any media for any business purpose in connection with operating, providing, publicizing, or improving the Services, including without limitation in connection with the training of machine learning and related models; however, Roblox will only share personal information that you provide in accordance with Roblox’s Privacy Policy.
-        
-        You represent and warrant that, at the time of Publishing UGC, (i) you own or otherwise control all the rights in/to the UGC; (ii) the UGC is accurate and not fraudulent or deceptive; and (iii) the UGC does not violate these Terms, any applicable laws, or the rights of any third party, including intellectual property, privacy, and publicity, and will not cause injury to any person or entity. You understand that Roblox cannot guarantee that in certain situations, UGC that you Publish or make available on or through the Services will not be copied or used by other Users of the Services and discussed on and outside of the Services. If you do not have the right to submit UGC for such use, Publishing such may subject you to liability. Roblox takes no responsibility and assumes no liability for any UGC Published by you or any third party. Roblox has the right but not the obligation to monitor, modify, disable access to, or remove any UGC on its Services, and it may exercise these rights at any time, without notice or liability to you or any third party.
-        
-    3.  **In-Experience** **UGC****.** Some Experiences allow for Users of that Experience to Publish UGC within the Experience. Users who separately Publish UGC within an Experience hereby grant both Roblox and the Creator of the applicable Experience a worldwide, perpetual, royalty free, and irrevocable right and non-exclusive license to use and exploit the UGC in any manner or media, including without limitation in connection with the training, development, and use of machine learning and related models, without any obligation, including any obligation to pay royalties or other compensation to any person or party. If such Users create a Modified Classic Avatar (as defined in Section 2 of the Creator Terms), the User hereby assigns all right, title, and interest in that Modified Classic Avatar to Roblox; Roblox in turn grants a non-exclusive license to both User and Creator to use and exploit that Modified Classic Avatar on the Services without any obligation (except those otherwise specified in these Roblox Terms), including any obligation to pay royalties or other compensation to any person.
-    4.  **Copyright Infringement / Digital Millennium Copyright Act (DMCA).**
-        1.  **Notice.** We respect the intellectual property rights of others, and we ask you to do the same. If you are a copyright owner or an agent of a copyright owner and believe that any content on the Services infringes upon your copyrights, you may submit a notice pursuant to the DMCA by contacting our Copyright Agent by email at [copyright\_agent@roblox.com](mailto:copyright_agent@roblox.com) or mail at Legal, 3150 S. Delaware St., San Mateo, CA 94403. You may also contact us by phone at (888) 858-2569. If a copyright owner is under the age of 13, a DMCA notice must be submitted by a parent, Guardian, or other adult representative. Your notice must include the following information:
-            
-            *   An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other right being infringed;
-            *   A description of the copyright-protected work or other intellectual property right that you claim has been infringed;
-            *   A description of the material that you claim is infringing and where it is located;
-            *   Your address, telephone number, and email address;
-            *   A statement by you that you have a good faith belief that the use of those materials is not authorized by the copyright owner, its agent, or the law; and
-            *   A statement by you that the above information in your notice is accurate and that, under penalty of perjury, you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner’s behalf.
-            
-            You acknowledge that if you fail to comply with all of the requirements of this Section, your DMCA notice may not be valid. See 17 U.S.C. § 512(c)(3) for further details. We may send a copy of your DMCA notice, including any contact information you provide, to the individual responsible for the reported content.
-            
-        2.  **Counter-Notice.** If your content was removed or disabled as a result of a DMCA notice, and you believe that your content is not infringing or that you have the proper authorization from the copyright owner, the copyright owner’s agent, or pursuant to the law to Publish and use the material in your content, you may send a counter-notice to our Copyright Agent by email at [copyright\_agent@roblox.com](mailto:copyright_agent@roblox.com) or mail at Legal, 3150 S. Delaware St., San Mateo, CA 94403. Any counter-notice submitted on behalf of a User under the age of 13 must be submitted by a parent, Guardian, or other adult representative. When our Copyright Agent receives a counter-notice, we may send a copy of the counter-notice, including any contact information you provide, to the original complaining party informing that party that we may, in 10 business days, replace the removed content or stop disabling it. Unless the copyright owner files an action seeking a court order against the provider of the content, the removed content may be replaced or access to it restored, in our sole discretion, within 10 to 14 business days or more after our receipt of the counter-notice.
-    5.  **Trademark Infringement.** If you are a trademark owner, or an agent of a trademark owner, and believe that any content on the Services infringes upon your registered trademark(s), please submit a trademark infringement notice to our Trademark Agent at [trademark\_agent@roblox.com](mailto:trademark_agent@roblox.com) or Legal, 3150 S. Delaware St., San Mateo, CA 94403. When you contact us, please provide the following information in your notice:
-        
-        *   An electronic or physical signature of the person authorized to act on behalf of the owner of the trademark;
-        *   A description of the trademark right that you claim has been infringed, including the country in which the trademark is registered and the registration number, if applicable;
-        *   A description of the content that you claim is infringing and where it is located;
-        *   Your address, telephone number, and email address;
-        *   A statement by you that you have a good faith belief that the use of such content is not authorized by the trademark owner, its agent, or the law; and
-        *   A statement by you that the above information in your notice is accurate and that, under penalty of perjury, you are the trademark owner or authorized to act on the trademark owner’s behalf.
-        
-        Note that Roblox is not in a position to mediate disputes between Users and the holders of trademark rights. However, we take intellectual property rights seriously, and, upon receipt of a valid trademark infringement notice, we will investigate and may remove content that engages in trademark infringement. Note that for the purpose of a trademark infringement report you must be the owner of a registered trademark or their agent, pending trademark applications are not sufficient.
-        
-    6.  **Repeat Infringer Policy.** Roblox’s intellectual property policy is to: (i) remove or disable access to content that Roblox knows to be infringing on the intellectual property rights of third parties or that has been identified in a valid DMCA notice submitted by a valid copyright owner or their agent; and, (ii) in appropriate circumstances, to suspend or terminate the Accounts of and block access to the Services by any User who repeatedly or egregiously infringes the copyrights or other intellectual property rights of third-parties.
-    7.  **Feedback.** Any feedback, comments, or suggestions (collectively “Feedback”) you may provide regarding or relating to the Services is entirely voluntary, you hereby grant us a perpetual, irrevocable, royalty free, fully paid, worldwide license to us to such Feedback and we will be free to use such Feedback as we see fit and without any obligation to you.
-    
-7.  Online Safety.
-    
-    Roblox is dedicated to fostering and promoting a positive, safe, and respectful online environment. To achieve this, we utilize specialized safety teams, collaborate with external partners, and develop systems designed to detect, prevent, mitigate, and moderate potential misuse of our Services. We use a combination of human moderation and automated systems that analyze and moderate Content and conduct to help detect infringement, harmful and illegal content, bad behavior, and other violations of our Community Standards, which are incorporated by reference into these User Terms. If you see any content or materials on the Services that appears to violate our Community Standards, please contact [Roblox Support](https://www.roblox.com/support) and select the “User Safety Concern” help category to immediately report the User and situation. More information on safety features may be found [here](https://about.roblox.com/safety).
-    
-    1.  **Community Standards.** To keep its Users safe, Roblox has created certain Community Standards to outline how Users should behave on the Services and what conduct is and isn’t allowed on the Services. These Community Standards, which are incorporated into these Terms, may be found [here](https://about.roblox.com/community-standards). Any violation of the Community Standards is considered a violation of the Roblox Terms and may result in Account suspension or termination. To further the safety of the Roblox community, Roblox may disclose your content to third parties when Roblox has a good faith belief that it is required to do so by law or regulation or that doing so is necessary to prevent harm to a person or to protect Roblox’s rights and property.
-    2.  **Parental Controls.** The Roblox Community is made up of Users of all ages. We work hard to promote a safe and fun environment for all. To help foster this community, we provide Users and their parents/guardians with numerous safety features and controls. More information about these features may be found [here](https://corporate.roblox.com/parents/).
-    3.  **Content Maturity Ratings**. Roblox uses “Content Maturity Ratings” to help Users make informed decisions about the Experiences they interact with and help to reduce the chances of encountering content they don't want to see. Our Content Maturity Ratings (Minimal, Mild, Moderate, Restricted) and content descriptors appear on Experience pages and are used to recommend Experiences to Users based on age group and regional content policies.
-    4.  **Communication Features**. Roblox offers various ways for Users to communicate including Party Chat, Experience Chat, Direct Chat, Voice Chat, and Team Create in Studio (collectively, “**Communication Features**”). You may need to complete an [age check](https://en.help.roblox.com/hc/en-us/articles/39143693116052) before using Communication Features. Roblox uses a variety of automated systems designed to identify behaviors that may violate the [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410), including: (a) for filtered text chat, using text filters and keyword lists to recognize violative communications and prevent Users from being exposed to them; and  
-        (b) for voice chat, using a combination of automatic speech recognition and an in-house AI model to classify and detect violative language. 
-8.  AI Features.
-    
-    1.  Roblox makes available certain optional features and creation tools that utilize artificial intelligence (“**AI**”) that you can choose to use as part of our Services, including the AI Tools for Creators in the AI technologies and AI Tools section of the Creator Terms (collectively, “**AI Features**”). Some AI Features allow you to submit text or other materials as input for processing (“**Prompts**”) and return AI-generated responses based on your Prompts (“**Outputs**”). 
-    2.  **Responsibility for AI Features**. You, not Roblox, are responsible for your use and interactions with AI Features, all Prompts you submit, and your use of Output. By using AI Features, you represent and warrant that you have all rights, licenses, and permissions necessary to submit Prompts to AI Features and to grant all licenses to Roblox to use Prompts to provide the AI Features to you and as otherwise permitted by these User Terms. As between you and Roblox, and to the extent permitted by applicable law, you retain any right, title, and interest that you have in the Prompts and Outputs.
-    3.  **License**. You grant to Roblox a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right and license to use Prompts, Outputs, and other information relating to your interaction data within the Services for any business purpose in connection with operating, providing, or improving the Services, including without limitation in connection with the training of models. For clarity, the foregoing will not affect any data sharing preferences you have set with respect to model training, including for Experiences and avatar asset data.
-    4.  **Prohibited Uses**. When using AI Features, you may not access, use, or allow others to access or use AI Features to: 
-        1.  promote, facilitate, or engage in illegal, harmful, discriminatory or abusive activity, including by taking advantage of others based on their characteristics, social behavior or personal information;
-        2.  violate or do anything that could lead to a violation of applicable law, the Roblox Terms or the [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410);
-        3.  evaluate, classify, score or rate others based on their social behavior or personal information in a manner that results in detrimental, unfair or unfavorable treatment;
-        4.  submit Prompts that include sensitive, confidential, or personally identifiable information;
-        5.  obtain or infer personal information or other private or sensitive information of others;
-        6.  intentionally deceive or mislead others in any way, including into thinking that any Output was created by a human or using AI Features to manipulate the behavior of others in a manner that may cause harm;
-        7.  solicit professional advice (including but not limited to medical, psychological, financial, or legal advice); 
-        8.  remove, alter or disable any provenance or metadata tags from any Output;
-        9.  implement automated decision making that has significant effects on individuals; or
-        10.  detrimentally impact AI Features in any way, including by: 
-             1.  modifying, copying, leasing, selling, or distributing the AI Features;
-             2.  reverse engineering, decompiling, or disassembling the AI Features; 
-             3.  using the AI Features to develop models or services that compete with Roblox or any of its offerings or services; or 
-             4.  disrupting or otherwise impairing the AI Features, including any safety or privacy filters, controls, or mechanisms.
-    5.  **Disclaimer**. The AI Features and their underlying AI technologies are continuously evolving. By using the AI Features, you understand and agree that:
-        1.  Outputs are machine-generated and may be unreliable or incomplete, or contain errors, inaccuracies, biases, and/or offensive content that is inconsistent with Roblox’s views;
-        2.  You should evaluate and verify Outputs before using or sharing them, including for accuracy, legality, and appropriateness for your use case; 
-        3.  You should not rely on Outputs for any decision, systems, or applications where using Outputs could result in harm, injury, death, or other losses; and
-        4.  You, not Roblox, are solely responsible for your use of, and/or any actions you take in relation to Output and any other content generated by AI Features. 
-9.  Creator Analytics.
-    
-    Creator Analytics is a suite of tools within Creator Hub that provides creators with insights on their Experiences' performance, user engagement, retention, and monetization. By using Creator Analytics, you acknowledge that data related to your Experience will be processed to calculate aggregated analytics. You agree: (a) to maintain all the benchmarking information obtained from Creator Analytics confidentially and use such information only to evaluate the performance of your Experience; and (b) not to publicly share, sell, publish or disseminate the benchmarking information.
-    
-10.  License to and Restriction of Services.
-     
-     1.  **License to the** **Services****.** Subject to your compliance with these User Terms or any Roblox Terms, Roblox grants you a non-exclusive, limited, revocable, non-transferable license to use the Services on devices that you own or control for your personal, entertainment use, including and solely in connection with the Services, the right to download and use software that Roblox makes available for download as part of the Services, in object code form only.
-     2.  **Restrictions of Use.** In addition to any other restrictions set forth in the Roblox Terms or any Additional Terms, Users may not (a) lease, lend, sell, redistribute, or sublicense any part of the Services; (b) copy, modify, distribute, publicly perform or display, reverse engineer, disassemble, modify, or create derivative works of the Services or related or implemented technology; (c) circumvent any technological measure designed to protect the Services or any technology associated with the Services; (d) access the Services using any means for the purpose of using Virtual Content in connection with the training, development, or use of machine learning models or artificial intelligence; (e) reverse engineer, disassemble, decompile, decode, adapt, or otherwise attempt to derive or gain access to any Services’ source code, in whole or in part (unless a portion of code contained within the Services is released as open source and the open source license governing such code expressly permits reverse engineering, copying or other modification); (f) use the Services to create malicious or abusive content (as determined by Roblox in its sole discretion) or any content that violates these Roblox Terms, Additional Terms, guidelines, or policies; or (g) use the Services (or any part thereof or any technology contained therein) in any manner that infringes, misappropriates, or otherwise violates any intellectual property right or other right of any person, or that violates any applicable laws.
-     
-11.  Third-Party Services.
-     
-     1.  **Third-Party Services****.** Some parts of the Services may include or make available content, tools, or other materials, including but not limited to Experiences, from third parties (people or companies other than Roblox) (“**Third-Party Services**”). As described in this Section 11, Roblox neither controls nor takes responsibility for any Third-Party Services, including, without limitation, how a third party may collect, use, or store User information. You understand that your use of the Services and, by extension, Third-Party Services, may subject you to fees, terms, and/or policies, such as a privacy policy, that are not controlled by Roblox. By your use of the Services and integrated Third-Party Services, you agree to pay any fees and to follow any terms, conditions, and policies presented by those Third-Party Services.
-     2.  **Disclaimer**. You understand that by using the Services, you may come across Third-Party Services that (i) may be considered offensive, or objectionable; (ii) may or may not be identified as having explicit language; (iii) may contain links or references to objectionable material; (iv) may contain infringing content; (v) may not function properly or as intended; may contain viruses, malware, or other harmful code; and/or (vi) may not be available in all countries or languages. You agree to use the Services at your own risk. User acknowledges and agrees that Roblox is not responsible for examining or evaluating the content, accuracy, completeness, availability, timeliness, validity, copyright, compliance, legality, decency, quality or any other aspect of such Third-Party Services. Roblox does not warrant or endorse any Third-Party Services. You further agree that Roblox will not have any responsibility or liability to you in connection with such Third-Party Services, including any losses you may sustain as a result of using such Third-Party Services.
-     3.  **Notices**.
-         1.  **Apple.** If a User is using the Roblox mobile application (“**App**”) on an iOS device, User also acknowledges and agrees to the terms of this Section. The Roblox Terms are between User and Roblox only, not with Apple, and Apple is not responsible for the Services and the content of the Services. Apple has no obligation whatsoever to provide any maintenance and support service with respect to the Services. If the Services fail to meet the applicable warranty, User may notify Apple, and Apple will refund any applicable purchase price for the App to User. Apple has no other warranty obligation whatsoever with respect to the Services. Apple is not responsible for addressing any claims by User or any third party relating to the Services or User’s use of the Services, including: (a) product liability claims; (b) any claim that the Services fail to meet any applicable legal or regulatory requirement; and (c) claims arising under consumer protection or similar legislation. Apple is not responsible for the investigation, defense, settlement, and discharge of any third-party claim that the Services or User’s use of the App infringe that third party’s intellectual property rights. User agrees to comply with any applicable third-party terms when using the Services. Apple and Apple’s subsidiaries are third-party beneficiaries of the Roblox Terms, and when User accepts the Roblox Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce the Roblox Terms against User as a third-party beneficiary. User hereby represents and warrants that (a) User is not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (b) User is not listed on any U.S. Government list of prohibited or restricted parties.
-         2.  **Autodesk.** Roblox Studio contains Autodesk® FBX® code developed by Autodesk, Inc. Copyright 2016 Autodesk, Inc. All rights reserved. This code is provided “as is” and Autodesk, Inc. disclaims any and all warranties, whether express or implied, including the implied warranties of merchantability, fitness for a particular purpose or non-infringement of third-party rights. In no event will Autodesk, Inc. be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including obtaining substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of such code.
-         3.  **PlayStation.** This Section applies to Users accessing the Services on a Sony PlayStation® device. Purchase and use of items are subject to the Network Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America. Any content purchased in an in-game store will be purchased from Sony Interactive Entertainment Network Europe Limited (“SIENE”) and be subject to PlayStation™Network Terms of Service and User Agreement which is available on the PlayStation™Store. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game. The Roblox Terms are between User and Roblox only, and not with any of Sony Computer Entertainment, Inc., Sony Computer Entertainment America LLC, and Sony Computer Entertainment Europe Ltd. (collectively, “SCE”). Roblox, and not SCE, is responsible for the Services. User is granted a limited license to use the Services only on a “System” (which includes PlayStation, PlayStation 2, PlayStation 3, PlayStation 4, PlayStation 5, PlayStation Portable (PSP), PlayStation Vita (PS Vita), and PlayStation Vita TV (PS Vita TV), including all iterations and server emulations of each) that User owns or controls or such other system to which the Services are delivered by the proprietary online network operated by SCE or its affiliates, accessible via the Systems and other devices. Each SCE Company is a third party beneficiary of the Roblox Terms.
-     
-12.   Experience Rules + Dispute Resolution (Between Users and Creators or Between Creators).
-     
-     If a User has an issue with any Creator UGC (including Experiences or other Virtual Content), Users should first contact the Creator of the UGC directly to resolve the issue.
-     
-     1.  **Experience** **Rule Violations.** Roblox permits Creators to create custom rules that govern Experiences and the actions of Users within (“Experience Rules”). Experience Rules are created, governed, and administered by the Experience Creator and not by Roblox. As such, violations of Experience Rules may only be reported to (and handled by) the Experience’s Creator directly. They may not be reported through Roblox’s Report Abuse system.
-         
-         Experiences will have their own system for (i) monitoring User compliance with and (ii) moderating Users who violate the Experience Rules. Moderations may include a violative User being banned from accessing an Experience – temporarily or permanently – and may also include the loss of Virtual Content acquired in that Experience. All such moderations are conducted by the Creator on behalf of the Experience, and Roblox is not responsible for a Creator’s actions in this respect.
-         
-     2.  **Dispute Resolution.** If a User has an issue with any Creator UGC (including Experiences, Experience Rules, or other Virtual Content), a User must first contact the Creator of the UGC directly to resolve the issue. See [here](https://en.help.roblox.com/hc/articles/6566665691924) for additional information about disputes between Creators and Users.
-     3.  **Escalation to** **Roblox****.** While Roblox is not responsible for the actions or moderations of a Creator based on the Experience Rules or the resolution of issues between Users and Creators or between Creators, Roblox wants to make sure that everyone enjoys the Services. Accordingly, Roblox has the right (but not the obligation) to intervene in issues between Users and Creators or between Creators to try to help resolve them. Before escalating any such issues to Roblox, Users should first make a real, genuine effort to work out a resolution with the Creator. If such attempt is unsuccessful, User may escalate the issue to Roblox’s Customer Service team by completing the [Roblox Support Form](https://www.roblox.com/support). If Roblox chooses to intervene or take action in any dispute between a User and Creator or between Creators, User and Creator agree that Roblox’s decision (which may include deducting Robux from the Creator and crediting Robux to the User) is final, and Creator and User will accept that decision. Users and Creators agree to work with Roblox in a timely manner to resolve all such issues, and failure to do so shall be a violation of the Roblox Terms.
-13.  Dispute Resolution (Between User and Roblox); Arbitration Agreement; Class Action Waiver.
-     
-     Except as otherwise permitted in the Roblox Terms, you agree that any dispute, claim, or controversy you may have with Roblox arising under or relating in any way to the Roblox Terms or the Services (“**Dispute**”) will be governed and resolved through the Mandatory Informal Dispute Resolution (“**MIDR**”) process (as outlined below).
-     
-     **FOR U.S. RESIDENTS ONLY:** If the MIDR process has been completed but the Dispute remains unresolved, you agree that such Dispute will be determined through binding arbitration (as outlined below) and not through litigation. This agreement applies regardless of the legal theories involved in the Dispute and regardless of whether the Dispute is with Roblox, its subsidiaries, affiliates or parent company, or any suppliers or service providers involved with the Services, or their officers, directors, employees, agents, or successors. **YOU ACKNOWLEDGE AND AGREE THAT YOU ARE GIVING UP THE RIGHT TO FILE A LAWSUIT IN COURT BEFORE A JUDGE OR JURY, INCLUDING IN A CLASS ACTION, FOR ANY DISPUTES SUBJECT TO THE ARBITRATION PROVISION BELOW.**
-     
-     1.  **Mandatory Informal Dispute Resolution.** We hope there’s never a Dispute between us. But if there is, we both recognize and agree that good faith, informal efforts to resolve Disputes often result in prompt, low-cost, and mutually beneficial outcomes. Therefore, we each agree that—before either of us may commence an arbitration or assert any claim in court, except as set forth in Section 13.a.vi, below—we will engage in the following MIDR process:
-         1.  Notice. To initiate the MIDR process, the party with a Dispute must first give written notice to the other party.
-             *   **To notify** **Roblox**, you must send written notice to **Roblox Corporation, Legal Department, 3150 S. Delaware St., San Mateo, CA 94403** by certified U.S. Mail or by Federal Express (or international equivalent), providing: (a) the User’s full name, Roblox username, and any email or billing address associated with the User’s Roblox Account; (b) the name and contact information of the User’s counsel, if User is represented by counsel; (c) a brief description of the User’s Dispute and the resolution requested; and (d) the ticket or case number provided by Roblox Support to track previous attempts to resolve the Dispute, if there is one.
-             *   **To notify a** **User**, Roblox will send a written notice to the email address or billing address that you provided to Roblox (or, if none is provided, through the messaging system on the Roblox Service); that notice will include (a) the name and contact information of Roblox’s counsel; and (b) a brief description of Roblox’s Dispute and the resolution requested.
-         2.  Process. Both parties will then engage in the MIDR process. The MIDR process requires conferring in writing—or, if requested by either party, via teleconference or videoconference—in a good faith effort to informally resolve the Dispute. If either party is represented by counsel, that counsel may participate.
-         3.  Confidentiality. All offers, promises, conduct, and statements made in the course of the MIDR process by any party, its agents, employees, and attorneys are confidential and not admissible for any purpose in any subsequent proceeding, provided that evidence that is otherwise admissible or discoverable shall not be rendered inadmissible or non-discoverable as a result of its use in the MIDR process.
-         4.  Timing. The MIDR process shall occur within sixty (60) days of receipt of the written notice described in subsection i above, unless an extension is mutually agreed upon by the parties. However, if a party is seeking injunctive relief on an emergency basis (for example, a preliminary injunction or temporary restraining order), the MIDR process with respect to that relief shall occur within three (3) business days of receipt of the written notice described in subsection i above, unless an extension is mutually agreed upon by the parties. Any statute of limitations will be tolled while the parties engage in the informal dispute resolution process described in this section.
-         5.  MIDR Is a Mandatory Prerequisite to Arbitration or Litigation. If, after participating in the MIDR process, we have been unable to resolve the Dispute, either party may commence an arbitration (or litigation, if the claim falls within an exception to the Arbitration Agreement (as defined below)). However, if we have not engaged in the MIDR process as set forth in this section, the Dispute may not be submitted to arbitration, nor may a claim be filed in court, until the MIDR process occurs. User and Roblox understand and agree that any Dispute that has not first been subject to MIDR:
-             *   Shall not be accepted by the arbitration provider, and shall be deemed frivolous under Federal Rule of Civil Procedure 13(b); further, the arbitrator may allocate any arbitration fees and/or costs to any party that files a frivolous claim in violation of this Section 13.a; and
-             *   Shall be subject to dismissal if asserted in court.
-         6.  Exceptions. If a Dispute involves a claim that asserts infringement of patent, copyright, trademark, or trade secret rights, the User and Roblox are not required to participate in the MIDR process set forth in this section.
-     2.  **Arbitration Agreement****.** **THE FOLLOWING APPLIES TO U.S. USERS ONLY.** If there is a Dispute between us, and we’re unable to resolve it through the MIDR process described in subsection a. above, this subsection explains in detail the process for resolving that Dispute. **Please read this section carefully; it’s important.**
-         1.  ARBITRATION AGREEMENT AND CLASS ACTION WAIVER. EXCEPT AS OTHERWISE PROVIDED IN THE **ROBLOX TERMS**, **USER** AND **ROBLOX** AGREE THAT ANY DISPUTE THAT CANNOT BE RESOLVED THROUGH MIDR, WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION AS SET FORTH HEREIN, RATHER THAN IN COURT. USER AND ROBLOX THEREBY AGREE TO WAIVE ANY RIGHT TO A JURY TRIAL AND AGREE THAT **USER** AND **ROBLOX** MAY BRING CLAIMS AGAINST EACH OTHER ONLY IN AN INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS ACTION OR CLASS ARBITRATION.
-             
-             This arbitration agreement and class action waiver (“**Arbitration Agreement**”) applies to all Users who are United States residents and, except as provided below, to all Disputes—regardless of (a) the legal theories involved in the Dispute, (b) when the Dispute arose, and (c) whether the Dispute is with Roblox, with Roblox’s subsidiaries, affiliates, or parent company, or with any suppliers or service providers involved with the Services (including any officers, directors, employees, agents, or successors).
-             
-         2.  Federal Arbitration Act; Interpretation; and Enforcement. This Arbitration Agreement is governed by the Federal Arbitration Act (9 U.S.C. § 1 et seq.) (“**FAA**”), including its procedural provisions, in all respects. This means that the FAA governs, among other things, the interpretation and enforcement of this Arbitration Agreement and all of its provisions, including, without limitation, the class action waiver. State arbitration laws do not govern in any respect. Further, User and Roblox each agree that the Roblox Terms evidence a transaction involving interstate commerce and will be governed by and construed in accordance with federal law to the fullest extent possible.
-         3.  Arbitration Generally; Relief Available. There is no judge or jury in arbitration, and court review of an arbitration award is limited pursuant to the FAA. However, an arbitrator can award, on an individual basis, the same damages and relief as a court (including injunctive and declaratory relief and statutory damages) and must follow the Roblox Terms as a court would. For the avoidance of doubt, the arbitrator can award public injunctive relief if authorized by law and warranted by the individual claim(s).
-         4.  Arbitration Proceedings and Rules. Arbitrations will be administered by FedArb in accordance with FedArb’s Expedited Arbitration Rules and (if applicable) Framework for Mass Arbitration Proceedings ADR-MDL, except as modified by the Roblox Terms. In particular, the Framework for Mass Arbitration Proceedings ADR-MDL shall apply if five or more demands for arbitration are filed that share common factual or legal issues, and if counsel for the parties submitting those demands are the same or coordinated. Users can find more information at [https://www.fedarb.com/](https://www.fedarb.com/) or by calling 1-650-328-9500.
-             
-             Unless required by law, or unless the parties mutually agree otherwise in writing, any arbitration hearing—including oral arguments—will be conducted through video conferencing. If the arbitration hearing is conducted in person, it will take place in San Mateo County, California, if that is a convenient location for the User, or the county or parish where the User resides.
-             
-             At the conclusion of the arbitration, the arbitrator will issue a written decision explaining the findings and conclusions upon which the arbitrator’s decision is based.
-             
-             Unless applicable law provides otherwise, the arbitration proceeding and all records pertaining to it—including but not limited to any documents prepared or produced in connection with the arbitration proceeding, as well as the hearing, the decision, and the arbitration award—will be confidential and will not be disclosed to any third party, except as necessary to obtain court confirmation of the arbitration award.
-             
-         5.  Commencing an Arbitration. A party who has complied with the MIDR process described above and who wishes to start arbitration must submit a demand for arbitration and a copy of the User Terms to FedArb at [https://fedarb.my.salesforce-sites.com/Roblox\_DemandForm](https://fedarb.my.salesforce-sites.com/Roblox_DemandForm).
-         6.  Fees and Costs. If you commence an arbitration in accordance with the Roblox Terms and Arbitration Agreement, you will be required to pay the first $50 of FedArb’s filing fee. Except as otherwise set forth in Section 13(a)(v) and this subsection, you will not be responsible for paying any other fees for the arbitration other than the filing fee; all other fees or expenses charged by FedArb will be paid by Roblox. Further, if FedArb determines that you are unable to pay any part of the filing fee, Roblox will pay that part too.
-             
-             Users are otherwise responsible for their own costs and attorneys’ fees; Roblox will not pay such costs or attorneys’ fees unless ordered to do so by the arbitrator.
-             
-             If the arbitrator finds that either the substance of the claim or the relief sought is frivolous or brought for an improper purpose, the parties agree that the arbitrator may order the losing party to reimburse the prevailing party for all arbitration fees—as well as reasonable attorneys’ fees and costs. Further, in cases where a statute authorizes the award of attorneys’ fees or costs to the prevailing party, the arbitrator may award attorneys’ fees or costs pursuant to that statute.
-             
-             The parties agree that FedArb has discretion to modify the amount or timing of any fees due under any applicable rules or fee schedules, and further agree not to oppose any modifications to the timing or amount of any fees due—provided that such modifications do not increase the fees to either party.
-             
-         7.  Delegation; Interpretation. The arbitrator, and not any federal, state, or local court or agency, shall have exclusive authority to the extent permitted by law to resolve all Disputes arising out of or relating to the interpretation, applicability, enforceability, or formation of the Roblox Terms, including, but not limited to, any claim that all or any part of the Roblox Terms is void or voidable; however, in the event of a Dispute about which particular version of the Roblox Terms you agreed to, a court will decide that specific question prior to the commencement of the arbitration. This Arbitration Agreement is intended to be broadly interpreted and will survive termination of the Roblox Terms.
-         8.  Severability. If any provision of this Arbitration Agreement is found unenforceable, that provision will be severed, and the balance of the Arbitration Agreement will remain in full force and effect. If a court decides that applicable law precludes enforcement of this Arbitration Agreement as to any particular claim, then that claim must be severed from the arbitration, while the remaining claims will still be resolved through binding arbitration.
-         9.  Opting Out. You may opt-out of the Arbitration Agreement entirely and litigate any Dispute with us by sending written notice to Roblox within 30 days of signing up for the Services for the first time. Thereafter, you may only opt-out of material changes to the Arbitration Agreement by sending written notice within 30 days after Roblox provides notice of those changes (unless a longer period is required by applicable law). In either case, to opt-out, a User must send a written notice entitled “Arbitration Opt-Out Notice” to Roblox Corporation, Legal Department, 3150 S. Delaware St., San Mateo, CA 94403 by certified U.S. Mail or by Federal Express (or international equivalent). To be valid, the opt-out notice must be sent to Roblox from the User who wants to opt-out (or that User’s Guardian) and include (a) the User’s full name, Roblox username, and email address, (b) a clear statement that the User wants to opt-out of the Arbitration Agreement, or wants to opt-out of a material change to the Arbitration Agreement, as applicable, and (c) the User’s signature (or the signature of the User’s Guardian, if the User is a Minor). If opting-out of a material change, the notice must also identify the particular material change to which the User wants to opt-out. An opt-out notice applies only to the Arbitration Agreement; all other parts of the Roblox Terms will still apply to the User and Roblox. Further, an opt-out notice does not revoke or otherwise affect any previous agreement to the Arbitration Agreement. By opting out of a material change to the Arbitration Agreement, you agree to arbitrate any Dispute in accordance with the language of the last version of the Arbitration Agreement that you accepted.
-         10.  Exceptions. The Arbitration Agreement shall be subject to the following exceptions:
-              *   Users and Roblox retain the right to participate in class-wide settlement of claims.
-              *   The Arbitration Agreement does not apply to Users who are not residents of the United States, or to Users who (pursuant to subsection ix above) properly opt-out of the entire Arbitration Agreement within 30 days of signing up for the Services for the first time.
-              *   If a Dispute is within the jurisdiction of small claims court, either the User or Roblox may (after engaging in the MIDR process) choose to take the Dispute to small claims court in the User’s county of residence, or in the Superior Court of California, County of San Mateo.
-              *   If a Dispute involves a claim that asserts infringement of patent, copyright, trademark, or trade secret rights, either the User or Roblox may assert the claim in federal or state court, as set forth in Section 17.
-     3.  **Timing for Raising Disputes.** USER AND ROBLOX AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE SERVICES MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ARISES OR IT IS PERMANENTLY BARRED.
-     
-14.  Governing Law, Jurisdiction, and Venue.
-     
-     1.  Except as otherwise provided herein, the Roblox Terms are governed by the laws of the State of California without regard to conflict of law principles.
-     2.  Except for small claims court actions, any Dispute that is not subject to the Arbitration Agreement as outlined in Section 13 above (including if the Arbitration Agreement is for any reason held to be unenforceable) may only be litigated in the federal or state courts of San Mateo County, California, and User and Roblox consent to jurisdiction in those courts for such purposes, except as otherwise provided by the European Union’s General Data Protection Regulation.
-     
-15.  Disclaimers; No Warranties.
-     
-     1.  **UGC** **Disclaimer.** Except as may be required by applicable law, Roblox is not liable for, nor is Roblox obligated to screen, approve, edit, or control any UGC that Users, Creators, or others Publish or otherwise make available on the Services. Roblox may, however, at any time, without notice, and without any obligation to User, remove, edit, block or suspend the availability of any UGC that Roblox thinks violates the Roblox Terms or is otherwise objectionable. User understands that when using the Services, User will see UGC from a variety of sources and understands that UGC could be inaccurate, offensive, or objectionable. User agrees to waive, and does waive, any legal or equitable right or remedy that User has or may have against Roblox regarding UGC. If notified by a User or content owner that UGC allegedly violates the Roblox Terms, Roblox may investigate and decide whether to remove or disable access to the UGC (which Roblox can do at any time, without notice). While Roblox’s goal is to provide industry-leading moderation and text filtration on the Services to enforce its Terms of Use and Community Standards, no such system is perfect, and Roblox cannot ensure that Users will not encounter content that violates Roblox’s Terms of Use or Community Standards. 
-     2.  **Content Ratings.** The Content Maturity Ratings or descriptors for an Experience may be modified from time to time, such as based on additional information reported to Roblox or changes made to the Experience by a Creator. User is solely responsible for reviewing the Content Maturity Ratings and descriptors for an Experience to determine whether any such changes have been made. Roblox does not warrant the accuracy of the Content Maturity Ratings. User acknowledges and agrees that Roblox is not responsible for the accuracy, completeness, validity, or quality of any Content Maturity Ratings or descriptors.
-     3.  **As Is.** THE SERVICES AND ALL MATERIALS AND CONTENT AVAILABLE THROUGH THE SERVICES ARE PROVIDED “AS IS” AND ON AN “AS AVAILABLE” BASIS, WITHOUT WARRANTY OR CONDITION OF ANY KIND, EITHER EXPRESS OR IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ROBLOX AND ROBLOX’S OFFICERS, DIRECTORS, EMPLOYEES, CONSULTANTS, AFFILIATES, INVESTORS, BUSINESS PARTNERS, SUBSIDIARIES AND AGENTS (TOGETHER, THE “**AFFILIATED PARTIES**”) DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, RELATING TO THE SERVICES AND ALL MATERIALS AND CONTENT AVAILABLE THROUGH THE SERVICES, INCLUDING: (A) ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, OR NON-INFRINGEMENT; AND (B) ANY WARRANTY ARISING OUT OF COURSE OF DEALING, USAGE, OR TRADE. THE AFFILIATED PARTIES DO NOT WARRANT THAT THE SERVICES OR ANY PART OF THE SERVICES, OR ANY MATERIALS OR CONTENT OFFERED THROUGH THE SERVICES, INCLUDING, WITHOUT LIMITATION, ANY TRANSLATIONS OF CONTENT, WILL BE UNINTERRUPTED, SECURE, OR FREE OF ERRORS, VIRUSES, OR OTHER HARMFUL COMPONENTS, AND DO NOT WARRANT THAT ANY OF THOSE ISSUES WILL BE CORRECTED.
-     4.  **No Responsibility**. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY USER FROM ROBLOX OR ANY MATERIALS OR CONTENT AVAILABLE THROUGH THE SERVICES WILL CREATE ANY WARRANTY REGARDING ANY OF THE AFFILIATED PARTIES OR ROBLOX THAT IS NOT EXPRESSLY STATED IN THE ROBLOX TERMS. USER ASSUMES ALL RISK FOR ANY DAMAGE THAT MAY RESULT FROM USER’S USE OF OR ACCESS TO THE SERVICES, USER’S DEALING WITH ANY OTHER USERS ON THE SERVICES, AND ANY MATERIALS OR CONTENT AVAILABLE THROUGH THE SERVICES. THESE LIMITATIONS APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
-     
-16.  Limitations of Liability.
-     
-     TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL ROBLOX AND THE AFFILIATED PARTIES BE LIABLE TO USER FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES (INCLUDING DAMAGES FOR LOSS OF PROFITS, GOODWILL, OR ANY OTHER INTANGIBLE LOSS) ARISING OUT OF OR RELATING TO USER’S ACCESS TO OR USE OF, OR USER’S INABILITY TO ACCESS OR USE, THE SERVICES OR ANY MATERIALS OR CONTENT ON THE SERVICES, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), STATUTE, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT ROBLOX HAS BEEN INFORMED OF THE POSSIBILITY OF DAMAGE.
-     
-     TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, USER AGREES THAT THE AGGREGATE LIABILITY OF ROBLOX AND THE AFFILIATED PARTIES TO USER FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THE USE OF OR ANY INABILITY TO USE ANY PART OF THE SERVICES OR OTHERWISE UNDER THE ROBLOX TERMS, WHETHER IN CONTRACT, TORT, OR OTHERWISE, IS LIMITED TO $1,000 USD (EXCEPT AS NOTED IN SECTION 13 ABOVE OR AS OTHERWISE SET FORTH IN THE CREATOR TERMS).
-     
-17.  Indemnification.
-     
-     You agree that you will be responsible for your use of the Services, and you further agree to defend and indemnify Roblox and the Affiliated Parties from and against every claim, liability, damage, loss, and expense, including reasonable attorneys’ fees and costs, arising out of or in any way connected with: (a) your access to, use of, or alleged use of the Services; (b) your violation of any part of the Roblox Terms, any representation, warranty, or agreement referenced in the Roblox Terms, or any applicable law or regulation; (c) your actual or alleged violation of any third-party right, including any intellectual property right, publicity or privacy right, property right, or confidentiality obligation; or (d) any Dispute or issue between you and any third party. Roblox reserves the right, at Roblox’s own cost, to take on the exclusive defense and control of any matter subject to indemnification by you (without limiting your indemnification obligations with respect to that matter), and in that case, you agree to cooperate with Roblox’s defense of that claim.
-     
-18.  Notice to California Residents.
-     
-     1.  **Complaints.** If you are a California resident, under California Civil Code Section 1789.3, you may contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 N. Market Blvd., Suite S-202, Sacramento, CA 95834, or by phone at (800) 952-5210 in order to resolve complaints regarding the Services or to get more information regarding your use of the Services.
-     2.  **Minors.** If you are a California resident under the age of 18, you may request that Roblox remove certain personal content that you have publicly posted to the Services, and Roblox will comply with such request to the extent permitted and/or required by law. Such content may include personal information but does not include (a) anonymized information or (b) UGC that you have uploaded to the Services (as you have received consideration for providing it). To make such a request, please contact [Roblox Support](https://www.roblox.com/support). The request must include your username and a specific description of the content that you want removed so that Roblox can find it. Roblox will not accept requests via postal mail, phone, or fax and may not be able to respond if you provide incomplete information. A request does not guarantee that the information you posted will be completely removed, and there may be circumstances in which the law does not require or allow removal, even if you make such a request.
-     
-19.  Miscellaneous Terms.
-     
-     1.  **General.** These User Terms, together with all Roblox Terms, make up the entire agreement between you and Roblox regarding the Services and your use thereof. You may not assign these Roblox Terms or any of your rights hereunder by operation of law or otherwise without Roblox’s prior written consent. Roblox may assign the Roblox Terms at any time to anyone without notice or consent. This agreement is binding on and inures to the benefit of Roblox’s and your respective successors and assigns. If any part of these Roblox Terms is held to be invalid or unenforceable, the unenforceable part will be given effect to the greatest extent possible (or, if it cannot legally be given any effect, will be severed from the Roblox Terms), and the remaining parts will remain in full force and effect. Nothing in the Roblox Terms will be deemed to confer any rights or benefits on a third party (other than Apple as noted in Section 11.c.).
-     2.  **Termination; Survival.** In the event of termination of these User Terms or any Additional Terms, as applicable, the rights and duties of Roblox and User to each other will terminate except that any part of the Roblox Terms or Additional Terms, which by their nature should survive termination, will survive, including Sections 6, 10, 11, 12, 13, 15, 16, and 17.
-     3.  **Waiver.** No waiver of any part of the Roblox Terms by either User or Roblox shall be deemed a continuing or further waiver of any such part or any other part of the Roblox Terms, and Roblox's or User's failure to assert any rights or part of the Roblox Terms shall not be deemed or otherwise constitute a waiver of such right or part.
-     4.  **Interpretation.** The section headers in these Roblox Terms are for convenience and will not impact the interpretation of these Roblox Terms. In all cases where Roblox is allowed to make a decision under these Roblox Terms, that decision is completely up to Roblox, in its sole discretion. The Roblox Terms are subject to applicable law, meaning that they apply except to the extent otherwise prohibited or required by applicable law. Unless the context dictates otherwise, whenever the word “including,” or similar is found in the Roblox Terms, it means “including, without limitation” and whenever the word “or,” is found in the Roblox Terms, it means “and/or.”
-     5.  **Compliance with Laws.** When using the Services, you agree to comply with all applicable laws. User will not directly or indirectly export, re-export, or transfer the Services to prohibited countries or individuals (or allow either to use the Services). User hereby represents and warrants that (i) User is not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) User is not listed on any U.S. Government list of prohibited or restricted parties.
-     6.  **Consent to Online Communications.** By using the Services, you agree to receive certain electronic communications from Roblox as described in the [Privacy Policy](https://en.help.roblox.com/hc/articles/115004630823), (which are incorporated by reference into these User Terms, and by your use of the Services, you acknowledge that you have read). You further agree that any notices, agreements, disclosures, or other messages that Roblox sends to you by electronic means shall satisfy any legal requirements that such communications be in writing. To the extent permitted by applicable law, you agree that any time you electronically transact, agree, or consent via the Services, it is intended to be an electronic signature which binds you as if you had signed on paper.
-     7.  **Investigations; Cooperation with Law Enforcement.** Roblox reserves the right to investigate and prosecute any suspected or actual violations of these Terms. Roblox may disclose any information as necessary or appropriate to satisfy any law, regulation, legal process, or government request.
-     8.  **Prevailing Language.** To the extent any of the Roblox Terms are made available in multiple languages, in case of any discrepancies or conflicts between the English version of the Terms and any other language version, the English version will govern and prevail.
-     
-20.  Contact Information.
-     
-     The Services are offered by Roblox Corporation located at 3150 S. Delaware St., San Mateo, CA 94403. You can contact Roblox by sending any messages to that address, completing the [Roblox Support Form](https://www.roblox.com/support), or by calling Roblox at (888) 858-2569. If you are a California resident, you may have the Roblox Terms e-mailed to you by sending a request, including your email address, to the address above.
-     
-
-CREATOR TERMS
-
-Creators are the heart of the Roblox community, and we created the following terms (“**Creator Terms**”) to set forth the rules and guidelines for creating and Publishing UGC on the Services as well as the use of UGC or other Roblox IP or content on the Services. These Creator Terms apply to all Users of Roblox.
-
-In addition to these Creator Terms, Creators must also abide by the User Terms, both in their capacity as a Creator and as a User of the Services, and any Additional Terms (such as Roblox’s [Advertising Standards](https://en.help.roblox.com/hc/articles/13722260778260), [Advertising Integrations Terms](https://en.help.roblox.com/hc/articles/47656162239124), [Facial Media Capture Privacy Notice Policy](https://en.help.roblox.com/hc/articles/4412863575316), and [DevEx Terms](https://en.help.roblox.com/hc/articles/115005718246)), as may be applicable.
-
-When Creators place advertisements in their Experiences on Roblox, the Advertising Integrations Terms apply.  
-
-Please note that Supplemental Provisions apply to: (i) a User's interactions with UGC Published on the Services by creators that use Luobu Studio and to a Creator’s submission of UGC to the Luobulesi Game for distribution in the People’s Republic of China (See Appendix A); (ii) Users in Japan (See Appendix B); (iii) Users in the EU/EEA (collectively referred to as “Europe”) (See Appendix C); (iv) Users in Vietnam (See Appendix D); (v) Users in the United Kingdom (See Appendix E); and (vi) Users in Australia (See Appendix F).
-
-1.  Definitions.
-    
-    Any capitalized words not defined herein take the meaning given to them in the User Terms or the [Roblox Dictionary](https://en.help.roblox.com/hc/articles/4415545981332).
-    
-2.  Intellectual Property.
-    
-    1.  **Roblox** **Services****; Ownership; License.**
-        1.  Roblox IP. Terms outlining the ownership of Roblox IP are set forth in Section 6.a. of the User Terms.
-        2.  Roblox Studio. Roblox provides Creators with a free software tool (“**Studio**”) that allows them to create, develop, modify, operate, and Publish Experiences and 3D Virtual Content (collectively encompassed by “UGC,” as that term is originally defined in the User Terms) on the Services. Roblox owns and/or controls all rights in/to Studio and all elements contained therein. Subject to Creator’s compliance with these Creator Terms, Roblox grants Creator a non-exclusive, limited, revocable, non-sublicensable, and non-transferable license to use Studio solely for the purpose of creating, developing, modifying, uploading, and Publishing Creator’s UGC on the Services (“**Studio License**”). Creator may only use Studio in a way consistent with these Creator Terms.
-        3.  Roblox Extended Services. Roblox provides Creators a way to manage service usage and payment beyond Roblox's default limits for [certain services](https://create.roblox.com/docs/cloud-services/extended-services). If you exceed the default limits and have not enrolled in Extended Services, you authorize Roblox to deduct Robux from your Robux balance in an amount corresponding to the excess use incurred. Roblox will provide you with notice of any such deduction. If your Robux balance is insufficient to cover the amount owed, Roblox may (a) pause Robux spending and (b) set the Experience(s) that exceeded the default limits to private until you repay the amount owed. Continued use of services in excess of default limits constitutes your acceptance of this recoupment authorization. Learn more about Extended Services [here](https://en.help.roblox.com/hc/en-us/articles/37967848292500).
-        4.  Roblox Templates. “**Templates**” are made available by Roblox (generally via Studio) and serve as a starting point that Creators can use to more easily create UGC. Roblox owns or controls all rights in all Templates and all elements contained therein and makes Templates available to Creators pursuant to the Studio License. Creators may only use Templates in a way consistent with these Creator Terms. Using a Template does not give Creator any ownership rights in/to that Template.
-        5.  Roblox Classic Avatars. Roblox has created, owns all intellectual property in, and makes available to Creators for use solely on the Services certain models, which include (a) avatars derived from a model constructed out of only 6 parts (known generally as “R6” avatars); (b) avatars derived from a model constructed out of only 15 parts (known generally as “R15” avatars); and (c) subject to subsection 2.b below, any derivatives thereof (to be determined in Roblox’s sole discretion) that are based on or derived from the following body forms developed by Roblox, as may be revised by Roblox from time to time and as further described in the following links:
-            
-            *   Roblox Boy: [https://www.roblox.com/bundles/109/ROBLOX-Boy](https://www.roblox.com/bundles/109/ROBLOX-Boy);
-            *   Roblox Girl: [https://www.roblox.com/bundles/108/ROBLOX-Girl](https://www.roblox.com/bundles/108/ROBLOX-Girl) and [https://www.roblox.com/bundles/282/ROBLOX-Girl](https://www.roblox.com/bundles/282/ROBLOX-Girl);
-            *   Roblox Man: [https://www.roblox.com/bundles/238/Man](https://www.roblox.com/bundles/238/Man);
-            *   Roblox Woman: [https://www.roblox.com/bundles/239/Woman](https://www.roblox.com/bundles/239/Woman);
-            
-            (collectively, “**Classic Avatars**”).
-            
-            Subject to the rights Creator grants to Roblox in subsection 2.b below, Roblox grants Creators (a) the right to use such Classic Avatars as avatars solely on the Services; (b) the right to alter, customize, and modify such Classic Avatars (each a “**Modified Classic Avatar**”) solely for the purpose of using such Modified Classic Avatar on the Service or as otherwise permitted under these Creator Terms; and (c) the non-exclusive right to apply Creator’s UGC to Classic Avatars and Modified Classic Avatars on the Services only.
-            
-            Roblox further grants the Creator of each Modified Classic Avatar a limited, non-exclusive, revocable, non-transferable license to use such Modified Classic Avatar solely on the Services and as otherwise permitted under these Creator Terms. Roblox reserves all rights in Classic Avatars and Modified Classic Avatars not expressly granted herein, including the exclusive right to create derivative works incorporating Classic Avatars and Modified Classic Avatars.
-            
-            Creators shall in no event use Classic Avatars or Modified Classic Avatars (including any portions thereof) in connection with any off-Services physical or digital merchandise, motion picture, television program, theatrical play, book, or other publication, in each case whether for giveaway or compensated access (including license or sale). Creator hereby represents and warrants not to make any such use of Classic Avatars or Modified Classic Avatars.
-            
-        6.  Builder Font Family. Roblox makes available, and owns all rights in, its Builder font family for creating, developing, modifying, uploading, and publishing UGC on the Services. Use of the Builder font is governed by and conditioned on compliance with the [Builder font license](https://create.roblox.com/docs/resources/builder-font-license). Creator may only use the Builder font in a way consistent with these Creator Terms.
-        7.  Other Roblox Content. Roblox, at its sole discretion, may create, develop, and make available on and through the Services other content (“**Other Roblox Content**”). Subject to Creator’s compliance with these Creator Terms, Roblox grants Creator a non-exclusive, limited, revocable, non-transferable license to use such Other Roblox Content solely on the Services and in connection with Creator’s UGC (“**Other Content License**”). Creator will not be entitled to any payment or compensation for Creator’s use of Other Roblox Content (including any modifications or enhancements thereto).
-        8.  Roblox Trademarks. Creators are prohibited from using the name “Roblox,” “Blox,” and any name similar to Roblox (to be determined in Roblox’s sole discretion), in the titles of any Experiences, usernames, display names, or community names. Subject to the foregoing restriction and Creator’s adherence to the [Roblox Name and Logo Guidelines](https://en.help.roblox.com/hc/articles/115001708126), Roblox hereby grants Creator a non-exclusive, personal, limited, revocable, non-transferable license to use Roblox trademarks, whether registered or unregistered, solely for use within Creator’s Experience(s) on the Services, including in connection with the creation of Virtual Content (“**Roblox Trademark License**”). All goodwill arising from any use by Creator of any Roblox trademarks will inure solely to Roblox. Use by Creator of any Roblox trademarks outside of the Roblox Services (including a trademark that may be contained in the title of a Creator’s Experience) is permitted only as set forth in the [Roblox Name and Logo Guidelines](https://en.help.roblox.com/hc/articles/115001708126).
-            
-            **For Experiences Published Prior to June 22, 2022:** Notwithstanding the foregoing and subject to Creator’s continued compliance with these Creator Terms, the [Roblox Name and Logo Guidelines](https://en.help.roblox.com/hc/articles/115001708126), and all other Roblox Terms, any Creators who Published Experiences on the Services prior to June 22, 2022 that contained “Roblox,” “Blox,” or similar names in their title may continue to keep such name(s), and if applicable, Creator username(s) or community name(s) associated with such Experience(s). To each Creator of such Experience Roblox hereby extends the Roblox Trademark License to cover use in connection with the title of your Experience.
-            
-        9.  Termination of License. Roblox reserves the right to terminate or modify the Studio License, Template License, Other Roblox Content License, and Roblox Trademark License at any time and for any reason.
-    2.  **User-Generated Content (****UGC****).**
-        1.  Ownership of UGC. Except for Modified Classic Avatars and subject to the rights and licenses Creator grants in these Creator Terms (and any applicable Additional Terms), as between Creator and Roblox or Creator and Users, Creator retains all copyrights that Creator may hold in any UGC that Creator has ever created or will create (whether alone or with others) and Publishes or makes available on the Services (excluding any non-UGC Roblox IP that may be contained therein).
-        2.  Roblox License to UGC. Without limiting anything to the contrary in any Additional Terms applicable to a particular feature, in consideration for the use of the Services and Creator’s potential to earn Robux, Creator grants Roblox a perpetual, worldwide, non-exclusive, royalty-free right and license (with the right to sublicense to any person or entity, including without limitation other Users and Creators) to host, store, transfer, translate, run, localize, publish, publicly display, publicly perform (including by means of digital audio transmissions and on a through-to-the-audience basis), reproduce (including in timed synchronization to visual images), modify, adapt, create derivative works of, enhance, distribute, and use for any business purpose related to the Services (including in connection with operating, providing, publicizing, or improving the Services or Roblox, including without limitation, in connection with the training, development, and use of machine learning and related models) any UGC and any interaction data on the Services, including inputs and outputs within Studio, relating to creating and modifying such UGC, in whole or in part (including any incorporated or associated trademarks and underlying source code and scripts), that Creator Publishes or makes available on or through the Services.
-            
-            Notwithstanding the above, Creator also grants to Roblox the exclusive, worldwide, irrevocable, perpetual, fully paid, sublicensable right to apply Creator’s UGC to a Classic Avatar or Modified Classic Avatar, whether on or off the Services; provided, however, that Roblox’s off-Services right specifically excludes the right to apply (a) shirts, pants, or T-Shirts designed by a Creator (excluding any Roblox IP that may be contained therein); (b) trademarks owned or controlled by a Creator; or (c) copyrighted material owned or controlled by a Creator that has been published outside of the Services prior to the time that it was Published by Creator on the Services.
-            
-            Subject to the rights and licenses granted herein, to the extent that a Creator has or obtains any right, title or interest in any Modified Classic Avatar, Creator hereby irrevocably assigns to Roblox all such right, title and interest. This assignment includes all intellectual property rights and other proprietary rights therein, including rights in any licenses that such Creator may have granted. It also includes rights in any Modified Classic Avatar developed under prior versions of these Roblox Terms. Notwithstanding the foregoing, Roblox may, in its sole discretion, permit a Creator who has customized a Classic Avatar or Modified Classic Avatar so that it no longer appears similar to a Classic Avatar or Modified Classic Avatar (or any derivatives thereof, all as determined by Roblox in its sole discretion) to receive all right, title and interest in such customized Classic Avatar or Modified Classic Avatar, subject to Creator granting Roblox the perpetual, worldwide, non-exclusive, royalty-free right and license discussed in this Section.
-            
-            Creator also agrees to make its UGC available in any media or channel of distribution now known or hereafter developed in connection with the publicity and marketing of the Services or Roblox as permitted herein, even if Creator has exercised a right to be forgotten under the GDPR or equivalent right under other privacy laws (all the foregoing paragraphs in this section collectively, the “**UGC License**”).
-            
-            Roblox’s right to market and advertise the Services or Roblox using Creator’s UGC (excluding Modified Classic Avatars) (“**Ancillary Use**”) includes using such UGC to promote, market or advertise the Services or Roblox. Roblox may also use Creator’s UGC for non-commercial and educational uses to promote the Services (and Roblox will reasonably determine whether a use is non-commercial or educational). Other than the potential to earn Robux, Roblox is not required to give Creator any attribution or compensation for any reason nor is Roblox required to use the license Creator grants in this Section or exploit any of the rights granted herein.
-            
-            Creator retains the right to delete or update any or all content within an Experience at any time and at Creator’s discretion (and Creator will delete or update such content if required by law), provided that regardless of any such update or deletion having occurred, and regardless of any termination of these Creator Terms or termination or suspension of Creator’s Account: (i) except where no longer possible due to the deletion of an Experience, Virtual Content created by Creator which was validly purchased or otherwise validly obtained by a User may continue to be accessed and used by such User indefinitely (or, in the case of UGC Subscriptions, for the duration of the purchased subscription period) in accordance with and subject to the terms and policies of the Services; and, (ii) Roblox’s right to use any UGC or other content that is already in use by Roblox pursuant to a license or otherwise in accordance with these Roblox Terms or already in use by Roblox as part of an Ancillary Use shall continue in perpetuity.
-            
-            In addition to Roblox’s right to grant sublicenses for Creator’s UGC, Creator, when Publishing certain UGC onto the Service, may be asked if Creator would like to share such UGC directly with other Users. Creator is not required to do so, but if Creator does agree to grant this right, then other Users may use Creator's UGC to create their own Experiences and other UGC on the Services without any further obligation to Creator.
-            
-            Where Creator’s Virtual Content is sold or otherwise provided to a User, Creator agrees that, pursuant to the rights granted to Roblox herein and regardless of whether the Virtual Content was sold or provided by Creator to the User, Roblox may allow the User to continue to access and use such Virtual Content indefinitely (in accordance with and subject to the Roblox Terms) even if the Virtual Content is no longer otherwise accessible on the Services.
-            
-            Roblox’s rights under this UGC License shall expressly survive if Creator's Account is terminated due to Creator's breach or violation of these Creator Terms or any of the Roblox Terms.
-            
-        3.  Through-to-the-Audience Rights. The rights Creator grants in these Creator Terms are provided on a through-to-the-audience basis, meaning the owners or operators of third-party services won’t have separate liability to Creator or anyone else for UGC that Creator has made available on the Services or used on Third-Party Services via Roblox’s Services.
-        4.  Authorization to Publish UGC to Services. Creator must not Publish or otherwise make any UGC available on the Services if Creator is not the owner of or is not fully authorized to grant rights in all parts of that UGC. Without limiting Creator’s obligations under Section 11 of these Creator Terms (and all other obligations set forth in the Roblox Terms), Creator agrees to pay all amounts owed to any person as a result of Creator Publishing or making UGC available on the Services.
-        5.  Suspension of UGC Availability. Roblox may, in its sole discretion, suspend availability of or delete any UGC or other content on the Services at any time and for any period of time, including in perpetuity, without notice if such UGC or other content violates any laws or intellectual property rights or principles or any guidelines or policies associated with the Services or if Roblox determines in its sole discretion that such UGC does or may cause harm to Users, the Services, or to Roblox’s reputation. Roblox is and shall be under no obligation of any kind to Creator for suspending any UGC in accordance with this Section.
-        6.  Limitations on Use of UGC. Notwithstanding Creator’s ownership of UGC (other than Modified Classic Avatars and the right to apply Virtual Content and other UGC to Classic Avatars and Modified Classic Avatars) as set forth above and without limiting any other limitations set forth herein, Creator shall in no event use Creator’s UGC (in any medium or format, including on or off the Services): (a) in a manner that is offensive, defamatory, sexually explicit, or otherwise objectionable (in each case, as determined by Roblox in its sole discretion);  (b) in connection with false, defamatory, libelous or slanderous statements concerning Roblox; or (c) in a manner that is intended or reasonably likely to suggest or imply that Creator is affiliated with Roblox or that Roblox endorses Creator or its use of the applicable UGC.
-        7.  Infringement and DMCA. Roblox fosters creativity and respects the intellectual property rights of others, including Creators. Any copyright owner or an agent of a copyright or trademark owner (including other Creators who are owners or agents of a copyright or trademark owner, collectively “rights holders”) who believes that any content on the Services (including UGC) infringes upon its copyrights or trademarks may submit a notification pursuant to the reporting process outlined in Section 6.d. of the User Terms. As referred to throughout the Roblox Terms, Roblox, in appropriate circumstances, may terminate the Accounts of Users (or Creators) who Roblox determines, in its sole discretion, are repeat infringers as contemplated by the DMCA.
-        8.  Intellectual Property Tools. Roblox offers a suite of intellectual property tools that allow rights holders to detect and manage their intellectual property on the Roblox platform. If a rights holder believes that their intellectual property is being used in your Experience, they can choose to either claim the content in your Experience or request your Experience’s removal.  When a rights holder claims content in your Experience, the rights holder is allowing your Experience to remain on the Platform in exchange for certain benefits.  First, the rights holder will receive a share of any Robux earnings attributable to your Experience This includes the share of Robux earned through Virtual Content, ads, and Engagement-Based Payouts. Second, the rights holder may monitor your Experience, in which case the rights holder may receive aggregated engagement data about your Experience  Third, the rights holder may require you to take reasonable steps to comply with additional content standards.  If a rights holder claims content in your Experience, you will have a limited time period to dispute or appeal the claim if you believe your Experience was identified in error or if you have removed the claimed content.  Additional information and instructions on how to dispute or appeal will be provided to you if a rights holder claims content in your Experience. During the period when a rights holder claims content in your Experience, including during any dispute or appeal process, you agree not to take legal action against the rights holder for any claims arising from the presence of their intellectual property in your Experience. You agree that the rights holder shall not be liable for any similarity between your claimed Experience, specifically the derivative elements based on the rights holder’s intellectual property, and any future rights holder works.
-    
-3.  Groups and Communities.
-    
-    1.  **Definitions.**
-        1.  A “Community” is a space for Creators and Users to discuss Experiences, report issues, and otherwise build stronger connections. Marketplace Items sold by a Community can be found in the Community’s store tab. 
-        2.  A “Group” is a type of Community including  Creators who are working together to create User Content and potentially collect revenue through participation in the [DevEx Program](https://en.help.roblox.com/hc/en-us/articles/203314100).
-        3.  **Group/Community features**. Creating or joining a Group/Community will give you access to additional features such as inviting members to the Group/Community and reviewing requests to join the Group/Community. You can create a Group/Community by following the instructions at [How to Create a Community](https://en.help.roblox.com/hc/en-us/articles/203313730-How-to-Create-a-Community) or the instructions on the [Creator Hub Groups page](https://create.roblox.com/docs/projects/groups).
-    2.  **Rights and Authority.** By participating in a Group, each Creator grants the Owner (as such Owner may change over time) the sole and exclusive authority to act on their behalf to (i) authorize Roblox’s use of any UGC created by the Group as set forth in these Creator Terms or pursuant to any other agreement entered into between the Owner and Roblox; and (ii) receive payment for any activities undertaken or UGC sold by the Group on or through the Services. Group members hereby waive any claims they may have against Roblox for any payments made to an Owner by Roblox on behalf of the Group, and Group members agree to seek recovery of any such payments solely from the Group Owner. The authority granted to a Community’s Owner may be modified by separate agreement amongst Group members. Except as may be provided at law, any duty of accounting between a Group Owner and Group members will arise solely pursuant to a written agreement among the Group, and Roblox will not be bound by any such agreement.
-    3.  **Owner** **responsibilities**. Being an “Owner” of a Group/Community is an unofficial, voluntary position that may be available to Users of the Services. If you become an Owner, you agree:
-        1.  to take on the responsibility to maintain a healthy and safe environment within the Group/Community;
-        2.  to ensure that the Group/Community operates in compliance with the [Community Standards](https://about.roblox.com/community-standards); and 
-        3.  you may not represent that you are authorized to act on behalf of Roblox. 
-    4.  An Owner of a Group can assign roles to its Group members and manage distributions of Earned Robux subject to applicable restrictions. See [Group guidelines](https://create.roblox.com/docs/projects/group-guidelines) for more information.
-    5.  **Consequences for Owners**. Roblox is not responsible for actions taken by Owners and we reserve the right to revoke or limit a User’s ability to be an Owner at any time and for any reason or no reason, including for a breach of these User Terms. In addition, if you fail to uphold your responsibilities as an Owner, Roblox may: (a) issue a warning; (b) remove Content from you or the Group/Community; (c) put the Group/Community in a restricted state; (d) appoint a new Owner; and/or (e) terminate or suspend your Account.
-    
-4.  Roblox Creator Economics.
-    
-    1.  **Robux**.
-        1.  License to Robux. Creator’s license to use Robux in connection with the Services is set forth in Section 3 of the User Terms.
-        2.  Earning Robux. Roblox allows Creators to earn Robux (“Earned Robux”) by selling or monetizing certain UGC (including Virtual Content and access to Experiences) they create on the Services. Earned Robux only include Robux you have earned in complete compliance with the Roblox Terms of Use, which include the Roblox Community Standards, through the Services from the direct sale or other monetization (e.g., Creator Rewards) of Virtual Content or other UGC that you create (either alone or with a Group) on the Services or Robux awarded by Roblox in designated promotional campaigns. This includes, but is not limited to, Robux earned from:
-            
-            1.  Earnings from your listings in Marketplace or Creator Store,
-            2.  Creator Rewards,
-            3.  In-experience purchases of virtual products,
-            4.  Ad revenue in the Publisher program, and
-            5.  Affiliate sales fees
-            
-            Robux acquired in ways other than monetization of compliant Virtual Content you created (such as Robux obtained from a membership plan or referral bonus, a purchase of Robux or gift card, or trading/selling virtual goods that you did not create) are not considered Earned Robux. This includes, but is not limited to, Robux obtained from:
-            
-            1.  A gift card redemption or direct Robux purchase, including Robux purchases made on behalf of another Roblox user
-            2.  A monthly Robux grant as part of Roblox Subscription
-            3.  Trading or resale of virtual products
-            4.  Passes sold for template experiences with no legitimate user visits
-            5.  Violative content that was moderated
-            
-            The determination of whether Robux are Earned Robux resides solely in Roblox’s discretion.
-            
-            For more information on monetizing UGC, please read the Developer Guides [here](https://create.roblox.com/docs/production/monetization).
-            
-    2.  **Selling** **UGC**. Roblox allows Creators to sell (i) access to Experiences; (ii) Content and (iii) other UGC they create on the Services, subject to the following:
-        1.  Robux Allocation Roles: There are three roles involved in the sale of all UGC (except 2D Virtual Items (also known as “**Classic Clothing**”)) on the Services. Each role may be entitled to a share of the Robux generated from an applicable sale (“**Robux Allocation**”):
-            *   Creator: The Creator is the User or Group that created the UGC being sold.
-            *   Seller/Distributor: The Distributor is (i) the Creator (if the item is sold in an Experience the Creator also created); (ii) another Creator on the Services (if the item is sold in an Experience the Creator did not create); or (iii) Roblox (if the item is sold in Marketplace).
-            *   Platform: The Platform is always Roblox.
-                
-                The above Robux Allocation does not apply to the sale of Classic Clothing, which consists of pants, shirts, and T-shirts. For any Classic Clothing sold in Marketplace, the Robux Allocation is split between the Creator and the Platform.
-                
-        2.  Changes to Robux Allocation. Roblox may, at any time upon notice to Creator (via any reasonable means), (a) change the Robux Allocation and/or (b) introduce features allowing certain elements of the Robux Allocation to be customized by those involved in a given sale.
-        3.  Creator Responsibility for Sales on Services. Creator acknowledges that Roblox may on Creator’s behalf, display and host Experiences, Content, or other UGC created by Creator to be enjoyed by other Users on the Services. Creator is solely responsible for granting Content or other UGC sold through the experience details page to User. When a Creator receives Robux in connection with the sale of UGC to a User through the Services, the transaction is between the Creator and the User; Roblox only facilitates by providing the Services. If, in connection with a Dispute, Roblox returns Robux or real money to a User (or another Creator) for any UGC for which a Creator received Robux, Roblox reserves the right to deduct or withhold an equivalent amount of Robux from such Creator.
-        4.  Regional Pricing. Regional Pricing allows Creators to make certain In-Experience Items or Virtual Items more accessible across regions in which users may be located (“Regional Pricing”). Creators are solely responsible for determining the default price of Virtual Items or In-Experience Items and may decide to have these prices regionalized.
-            
-            If Creator enables Regional Pricing, the price that Creator originally set for the In-Experience Item or Virtual Item will be adjusted across eligible regions. The regional price for each supported region will be a percentage of the default price with the regional price that Creator determines (“Regional Price”). The Regional Price methodology (which may be modified at any point of time) is based on regional economic trends and purchasing power parity. Creators cannot adjust the individual Regional Price directly, but may modify the default price at any time. If a default price is modified, the applicable Regional Price will be updated across all supported regions as applicable. Creators can choose to disable the Regional Pricing, anytime in the Creator Hub.
-            
-            Roblox may suspend or discontinue Regional Pricing for some or all In-Experience Items or Virtual Items for any or all Creators at any time and without liability. Roblox provides Regional Pricing "as is" and disclaims all warranties, express or implied, regarding its accuracy, availability, or impact on earnings.
-            
-        5.  Random Virtual Items. Depending on User location, Creator may choose to provide Experiences that permit Users to acquire “random” Virtual Items (either with Robux or otherwise) (each, a “**Random Virtual Item**”). If a Creator provides the opportunity for a User to receive a Random Virtual Item, Creator must let Users know all odds of acquiring each type of Random Virtual Item available before a User engages in the transaction to acquire a Random Virtual Item.  
-            By way of example only, if a Creator’s Experience allows a User to acquire a virtual marble that the User can then throw into a fountain to receive a Random Virtual Item, the Creator must disclose the odds of the User receiving each type of Random Virtual Item before the User throws the marble into the fountain.
-    3.  **Developer Exchange Program.** Roblox allows certain Creators who satisfy specific criteria and accept the terms and conditions set forth in the DevEx Program published [here](https://en.help.roblox.com/hc/articles/13061189551124) (“DevEx Terms”) to participate in the Developer Exchange Program (“**DevEx Program**”). While any Creator can use the Services to learn to code, create experiences or items to enjoy with their friends, and even earn some Robux, only successful Creators will be able to meet the high requirements (described in the DevEx Terms) to earn money through DevEx. Reaching this level of success typically requires a lot of time, effort, skill, and strategy. Even then, there is no guarantee of earning money. Subject to certain requirements, policies and limitations that Roblox establishes in its sole discretion, Creators participating in the DevEx Program may exchange Earned Robux for a payment of real money in an amount determined by Roblox, in its sole discretion (the exchange rate and the general requirements, policies, and limitations of the **DevEx Terms****)**.
-    4.  **Creator Rewards**.  “Creator Rewards” is an incentive program that lets you earn Robux (“Payout Rewards”) based on certain interactions and purchases on Roblox. If Users take certain actions defined in the Payout Awards Framework (“Qualifying Actions”), Payout Awards to you are made in accordance with the Payout Awards Framework, may be modified or terminated by Roblox at any time, in its sole discretion, and with no obligation to any Creators because of such termination or modification. To be eligible for Creator Rewards, you must be in complete compliance at all times with the Roblox Terms of Use, which include the Roblox Community Standards. We reserve the right to review, investigate, as well as, suspend you from Creator Rewards in instances where we identify behavior we believe to be abusive or fraudulent, such as: (a) attempts to gain Payout Awards by opening multiple accounts, using different email addresses, using different phone numbers, or using bots; (b) attempts to gain a referral reward by impersonating Roblox, another person, or misrepresenting your affiliation with a person or entity; (c) attempts to acquire Users by encouraging existing players to sign up for alternate accounts; (d) having a disproportionately high percentage of chargebacks as determined in Roblox’s sole discretion; or (e) a violation of the Roblox Terms and/or the Program Policies. More detailed information on the Creator Rewards Program may be found [here](https://create.roblox.com/docs/creator-rewards). 
-    5.  **Incentives**: From time to time, Roblox may offer incentive rewards. Learn more [here](https://en.help.roblox.com/hc/articles/35146071523604).
-    6.  **Disclaimer.** Developing Experiences or UGC that Users will enjoy or spend time in is difficult and can take a lot of time. Roblox makes no promises that a Creator's Experience or UGC will be successful in developing a large audience or that the time, effort, and expense that a Creator spends developing, advertising, or operating an Experience will be financially successful.
-    
-5.  DevForum and Talent Hub.
-    
-    1.  **DevForum.** DevForum is the official discussion and support forum for Roblox development and our primary avenue for communicating with and receiving feedback from Creators available at [devforum.roblox.com](http://devforum.roblox.com/).
-    2.  **Talent Hub.** Talent Hub is a Service where Creators can post, search for, and secure talent for collaboration on Roblox Experiences. Creators can receive payment in Robux, US dollars, or for a percentage of revenue earned from the project, depending on the project listing. Roblox does not vet Creators or project listings, endorse any specific projects or compensation arrangements, or assume any liability for the quality of work, payment for services, or resolution of disputes arising from engagements initiated on the Talent Hub.
-        1.  Roblox does not post jobs, perform work, or employ individuals or teams to perform work for jobs posted on Talent Hub, and nothing shall create an employment, agency, or joint venture relationship between Roblox and any Creator that participates on Talent Hub. 
-        2.  Roblox does not make employment or hiring decisions on behalf of Creators offering opportunities and does not have such authority from Creators using Talent Hub.  
-        3.  Roblox is not a party to any agreement you may enter into and does not supervise, direct, monitor, or control the performance, compensation or procurement of services on or through Talent Hub.
-    
-6.  AI Technologies & AI Tools.
-    
-    1.  As part of the AI Features in Section 8 of the User Terms, we make available to Creators certain tools and APIs that allow you to use, interact with, or embed AI technologies in the course of creating Experiences or Content on the Services (“AI Tools”). AI Tools may be Third-Party Services. You understand that Roblox, at its sole discretion, may restrict your use of AI Tools in relation to specific age groups of Users. By using the AI Tools, you agree to the terms in Section 8 of the User Terms as well as the following:
-    2.  **Your Responsibilities**. Creators who choose to use AI Tools, or other Third-Party Services that include AI technologies, must:
-        1.  use the AI Tools and other AI technologies in full compliance with: 
-            1.  all applicable laws; 
-            2.  the Roblox Terms and Community Standards; and
-            3.  all applicable terms and policies of Third-Party Services; and
-        2.  provide Users with clear disclosures about your use of AI or their use of AI through your Experience, including the following and any other disclosure required by applicable laws: 
-            1.  AI is not human; and
-            2.  AI output is artificially generated, does not represent the views or advice of a human and may be inaccurate; and
-            3.  If applicable, the User is interacting with an AI-based chatbot or virtual agent before or at the commencement of such interaction.
-        3.  be responsible for paying any applicable fees and follow any terms, conditions, and policies set forth by the Third-Party Services.
-    3.  **Prohibited Uses**. In addition to the prohibited uses in Section 8 of the User Terms, Creators who use AI Tools, or other Third-Party Services that include AI technologies, must not:
-        1.  mislead Users into believing that AI output is human; and
-        2.  use any AI for direct interaction with Users, if it is not made immediately apparent from the interaction or the circumstances that Users are interacting with an AI system.
-    
-7.  Roblox APIs.
-    
-    Roblox’s application programming interface(s) (“**API(s)**”) are designed to help you enhance your Experiences and applications (“**API Client(s)**”). Roblox does not acquire ownership in your API Clients. By using our APIs, you do not acquire ownership of any rights in our APIs or the content that is accessed through our APIs. 
-    
-    \[203d\] You agree that Roblox may monitor use of the APIs to ensure quality, verify compliance with the Roblox Terms, and improve our products and services. This monitoring may include Roblox accessing and using your API Client, for example to identify security issues that could affect Roblox or its users. 
-    
-    Roblox may suspend access to the APIs by you or your API Client without notice if we reasonably believe that you are in violation of any Roblox Terms. You will also: 
-    
-    *   Refrain from interfering with Roblox’s monitoring. 
-    *   Only access an API by the means described in the documentation of that API, and refrain from misrepresenting or masking your identity or your API Client's identity when using the APIs.
-    *   Require your end users to comply with, and not knowingly enable them to violate, any applicable law, regulation, and Roblox Terms.
-    *   Use commercially reasonable efforts to protect user information collected by your API Client, including Personal Information, from unauthorized access or use, and promptly report to your users any unauthorized access or use of such information to the extent required by applicable law.
-    *   Not sublicense an API for use by a third party.
-    
-8.  Music on Roblox.
-    
-    1.  **Licensed Music****.** Roblox may choose to make sound recordings and the musical works contained therein as well as sound effects (“**Licensed Music**”) available for Creator to use in Creator’s Experiences or other UGC. Creator’s use of the Licensed Music is subject to the following:
-        1.  License. Roblox grants Creator (i) a non-exclusive, personal, limited, revocable, non-transferable license only to synchronize Licensed Music into an Experience or other UGC (“**UGC With Licensed Music**”), solely by and through the Services and only during the period when Roblox makes such Licensed Music available; and (ii) the right to play, listen, and interact with UGC With Licensed Music, but only on the Services and only during the period when Roblox makes such Licensed Music available. Creator is not required to provide attribution for Licensed Music used by Creator in any Experience or other UGC, but Creator may do so at Creator’s discretion. For example, if Roblox identifies the owner of Licensed Music as APM Music, Creator can message that the Licensed Music is provided “Courtesy of APM Music.”
-        2.  Revocation (Loss) of License. As Licensed Music is licensed by Roblox from third parties, Creator’s rights to use Licensed Music is revocable at any time and for any or no reason, in Roblox’s sole discretion, without any liability to Creator. If Roblox revokes Creator’s right to use Licensed Music (for any reason), Creator agrees to immediately (a) remove such Licensed Music from Creator’s Experience or other UGC and (b) cease all use of such Licensed Music on the Services. Roblox will try to provide Creator with advance notice before revoking any usage rights to Licensed Music, but Roblox reserves the right to do so with no advance notice. Roblox further reserves the right to remove any Experience or other UGC With Licensed Music from the Services at any time, in its sole discretion, and without any liability to Creator. Additionally, Roblox can revoke Creator’s rights to all or part of the Licensed Music (with or without notice) without any liability to Creator, (w) if Roblox determines that Creator’s use of such Licensed Music may violate any Roblox Terms, guidelines, or policies; (x) if Roblox otherwise determines that such Licensed Music may harm the Services or Roblox’s reputation; (y) if Roblox is required to remove such Licensed Music use from the Services by the copyright owner or administrator thereof, or (z) if the Licensed Music is no longer available for distribution on the Service.
-        3.  250 Track Limit. Notwithstanding the foregoing, Creator may not use Licensed Music to create a streaming service or music library within an Experience or other UGC, nor may Creator charge Users to listen to a specific track of the Licensed Music. Creator has the right to place, play, and have played up to 250 distinct tracks of Licensed Music at any one time in a single Experience or other UGC With Licensed Music. Creator can replace existing tracks of Licensed Music in an Experience or other UGC with new tracks at any time, provided that at any one time there are no more than 250 tracks in such Experience or UGC With Licensed Music.
-        4.  Synchronization of the Licensed Music. Creator may synchronize the Licensed Music into an Experience. Without limiting the foregoing, Creator may use a portion of a track of Licensed Music or sample portions of Licensed Music.
-        5.  Use on the Services. Creator may only use Licensed Music on the Services. Creator agrees that it will not export, extract, download, or provide a way for anyone else to export, extract, or download the Licensed Music for use anywhere outside of the Services.
-    2.  **Music Written/Owned by** **Creator****.** The following applies to musical works written or otherwise owned by a Creator (and/or others with whom Creator has collaborated on such musical work) (“**Musical Works**”) that a Creator Publishes (or attempts to Publish) for use on the Services.
-        1.  Creator as Sole Composer. If Creator is a sole composer and/or writer of a Musical Work that Creator Publishes on the Services and Creator is affiliated with a performing rights organization (“**PRO**”) that represents the Musical Work, then Creator must notify Creator’s PRO in writing of the royalty-free license that Creator grants to Roblox through these Creator Terms. Creator is responsible for complying with Creator’s PRO’s reporting obligations.
-        2.  Creator as Non-Sole Composer. If Creator is not the sole composer and/or writer of a Musical Work that Creator Publishes on the Services, and Creator (and/or co-composers or co-writers) is affiliated with PRO that represents the Musical Work, Creator is responsible for ensuring that all co-composers and/or co-writers also notify their respective PROs in writing and Creator must have written proof of co-composers’ and/or co-writers’ approval to Publish and use the Musical Work on the Services.
-        3.  Assignment to Music Publisher. If Creator has assigned Creator’s rights in/to a Musical Work to a music publisher, then Creator must obtain that music publisher’s written consent or cooperation to grant the royalty-free licenses outlined in these Creator Terms.
-        4.  Record Label. If Creator is a recording artist under contract with a record label, then Creator is responsible for making sure that Creator’s use of the Services complies with the obligations that Creator has to Creator’s record label. Remember, just because Creator wrote a Musical Work or performed a sound recording does not mean Creator has the right to let Roblox use it.
-        5.  Sound Recordings. If Creator owns the rights in and to a sound recording but is not authorized to license the sound recording or the underlying Musical Work(s) embodied in those sound recordings, then Creator must not upload or otherwise make those sound recordings available on the Services.
-        6.  Representations & Warranties. If Creator uploads, synchronizes, or otherwise uses a sound recording and/or Musical Work, Creator represents and warrants that (a) Creator possesses all necessary rights needed to upload, synchronize, and otherwise use the sound recording(s) and/or the Musical Work(s) on the Services; (b) Creator fully owns and administers the worldwide rights in/to the sound recording(s) and/or the Musical Work(s) uploaded on the Services; and (c) that such sound recording(s) and/or Musical Work(s) are completely original and that the Publishing, upload, distribution, and use of such sound recording(s) and/or Musical Work(s) on the Services will not infringe upon the rights of any third party, including but not limited to trademark, copyright, or any other intellectual property rights (including, without limitation, a PRO, a record label, a music publisher, or a union or guild).
-        7.  Clearances; Payments. Creator is solely responsible for any necessary clearances and payments of any nature that may arise in connection with the use and synchronization of their original sound recording(s) and/or Musical Work(s) on the Services, including, without limitation, any and all distribution rights, mechanical rights, public performance rights, synchronization rights, and/or any other rights that may be claimed by a third party. Creator is also solely responsible for any union new use or re-use fees pursuant to the rules and regulations of any applicable union and/or guild agreements in connection with the Publishing, upload, distribution, synchronization, and other use of the sound recording(s) and/or Musical Works(s) on the Services.
-    
-9.  Restrictions on Use.
-    
-    In addition to any other restrictions set forth in the User Terms (including in Section 10.b. of the User Terms) or any Roblox Terms, Creator will not take any action in violation of these Creator Terms, including as set forth in this Section. Creator will comply with all laws applicable to their Experiences including but not limited to laws governing loot boxes, dark patterns, or other potentially addictive features.
-    
-    Creators may create Experience Rules. Experience Rules are optional and enacted and enforced at the discretion of the Experience’s Creator. Experience Rules may augment but may never conflict with [Roblox Terms of Use](https://en.help.roblox.com/hc/articles/115004647846), [Roblox Community Standards](https://en.help.roblox.com/hc/articles/203313410), or any other Roblox Terms. Experience Rules (and any consequences for violating them) must be clearly and conspicuously posted within an Experience. See [here](https://en.help.roblox.com/hc/articles/203312500) for additional information about Experience Rules.
-    
-    If we find an Experience, Group, or Community in which a significant portion of Users are egregiously violating the Roblox Terms, Roblox reserves the right, in its sole discretion, to moderate the Experience, Group, or Community if the Creator or Group/Community owners do not take reasonable actions to limit the violative behavior. If Roblox determines, in its sole discretion, that a Creator or Group/Community owner has violated the Roblox Terms in their application and/or administration of their Experience Rules or Group/Community, Roblox reserves the right, in its sole discretion, to moderate the Creator or Group/Community owner.
-    
-    Roblox wants all Creators to develop their own ideas. Unless Creator has express written permission or a written license from the content creator to do so, Creator must not copy or make any modification to someone else’s item, content, or UGC and Publish it as Creator’s own content. Roblox reserves the right to take any action against Creator for any improper copying of content, including the suspension or termination of a Creator’s Account.
-    
-10.  Disputes.
-     
-     1.  **Between Creators and** **Roblox****.** Disputes between Creators and Roblox shall be handled according to Section 13 of the User Terms.
-     2.  **Between Creators and Users or Between Creators.**
-         1.  Issues with UGC. Creators are responsible for handling all issues, including User complaints, relating to their Experiences (including violations of Experience Rules), Virtual Content, and other UGC Published on the Services in a quick and professional manner.
-         2.  Return of Robux. If a Creator has acquired Earned Robux in connection with an Experience, Virtual Content, or other UGC, and, pursuant to a User complaint regarding that Experience Virtual Content, or other UGC, Roblox returns Robux to a User, Roblox has the right to deduct or withhold an equivalent amount of Earned Robux from such Creator.
-         3.  Disputes With Creators or Users. If a Creator has a dispute with another Creator or a User, prior to commencing any litigation, Creator must first engage in a mediation with a recognized mediator or mediation service to try and amicably resolve the dispute. Such mediation requirement does not apply to disputes related to intellectual property takedown reports submitted under Section 6 of the User Terms. Roblox reserves the right, in its sole discretion, to resolve any dispute between Creators or between Creators and Users. Such resolution may result in suspension of Creator’s Account and/or any other action permitted by law, including but not limited to the recovery of civil or criminal penalties.
-         4.  Escalation to Roblox. Notwithstanding the terms set forth in this Section, Users can escalate to Roblox disputes with Creators, as further described in Section 12.c. of the User Terms. If Roblox chooses to act in any dispute between a User and Creator (or between Creators), User and Creator each agree that (i) Roblox’s decision (which may include deducting Robux from the Creator and crediting Robux to the User) shall be final, and (ii) each will accept the final decision. Creator further agrees to work with Roblox in a timely manner to resolve all such issues, and acknowledges that failure to do so shall be a violation of these Creator Terms.
-     
-11.  Representations & Warranties.
-     
-     Creator is responsible for Creator’s UGC, and represents and warrants that: (a) Creator is the creator and owner of, or has the necessary rights and permissions to grant Roblox the rights and license in Section 2.b.ii; (b) Creator’s UGC and the use of Creator’s UGC as described in these Creator Terms does not and will not: (i) infringe, violate, or misappropriate any third-party right; (ii) slander, defame, libel, or invade the right of privacy, publicity, or other property rights of any other person; (iii) require Roblox to get licenses from, pay compensation, or provide attribution to any third parties; (iv) result in a breach of contract between Creator and a third party; or (v) cause Roblox to violate any law or regulation; and (c) Creator will comply with all applicable laws, rules, and regulations and the Roblox Terms (including without limitation these Creator Terms) in Creator’s use of the Services.
-     
-12.  Indemnification.
-     
-     Creator agrees to be responsible for Creator’s use of the Services and to defend and indemnify Roblox and the Affiliated Parties from and against every claim, liability, damage, loss, and expense, including reasonable attorneys’ fees and costs, arising out of or in any way connected with: (a) Creator’s access to, use of, or alleged use of the Services; (b) Creator’s violation of (i) any part of the Roblox Terms, including these Creator Terms, (ii) any representation, warranty, or agreement referenced in these Creator Terms, or (iii) any applicable law or regulation; (c) Creator’s violation of any third-party right, including any intellectual property, publicity, privacy, or property right, or confidentiality obligation; or (d) any Dispute or issue between Creator and any third party. Roblox reserves the right, at Roblox’s own cost, to take on the exclusive defense and control of any matter subject to indemnification by Creator (without limiting Creator’s indemnification obligations with respect to that matter), and in that case, Creator agrees to cooperate with Roblox’s defense of that claim.
-     
-13.  Limitation of Liability.
-     
-     IN NO EVENT WILL THE **AFFILIATED PARTIES** BE LIABLE TO CREATOR FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES (INCLUDING DAMAGES FOR LOSS OF PROFITS, GOODWILL, OR ANY OTHER INTANGIBLE LOSS), WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), STATUTE, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT ROBLOX HAS BEEN INFORMED OF THE POSSIBILITY OF DAMAGE.  
-     THE AGGREGATE LIABILITY OF THE AFFILIATED PARTIES TO CREATOR FOR ALL CLAIMS (INCLUDING WARRANTY CLAIMS) OR CAUSES OF ACTION IS LIMITED TO (i) THE TOTAL AMOUNT PAID OR PAYABLE BY Roblox TO CREATOR UNDER THIS AGREEMENT FOR THE TWELVE-MONTH PERIOD PRECEDING THE TIME WITHIN WHICH CREATOR NOTIFIES ROBLOX OF A CLAIM, OR (ii) TO THE EXTENT THAT ROBLOX HAS NOT PAID CREATOR ANYTHING IN THE TWELVE-MONTH PERIOD PRECEDING THE TIME WITHIN WHICH CREATOR NOTIFIES ROBLOX OF A CLAIM, $1000 USD.
-     
-14.  Privacy.
-     
-     1.  **Your Data.** Data that you as a Creator provide to Roblox through the Services is subject to the Roblox [Privacy Policy](https://en.help.roblox.com/hc/articles/115004630823), incorporated by reference herein. Additionally, depending on which tools or software you use on the Services to create Experiences or UGC, you may be subject to Additional Terms, including without limitation the Roblox [Facial Media Capture Privacy Notice](https://en.help.roblox.com/hc/articles/4412863575316) and the Roblox [Facial Animation Privacy Notice](https://en.help.roblox.com/hc/articles/8064749848980).
-     2.  **Experience** **Data.** For each Experience created by a Creator, and subject to the provisions of the Roblox [Privacy Policy](https://en.help.roblox.com/hc/articles/115004630823), Creator and Roblox shall both have the right to use data related to or obtained in connection with that Experience for their respective legitimate business purposes to support the Experience and for business analytics, such as: (i) for the improvement and development of the Experience; (ii) to comply with applicable laws (including law enforcement requests); (iii) to ensure the security of the Experience; and, (iv) to prevent fraud or mitigate risk. Creator agrees that, except as expressly set forth in these Creator Terms, Creator will not use or disclose any User data to any third party.
-     3.  **User Personal Information.** If and to the extent a Creator receives any User personal information (“**User PII**”), Creator will not use User PII (i) to provide services to any third party; (ii) to build, help build, track or supplement any segments, profiles, or similar records on any individual User, device, or browser across the Services or any third party websites or platforms; (iii) to associate the behavior of any individual device or browser with any segment, profile, or similar record, or supplement any such record based on data of Users; (iv) to associate any data of Users with any other personal information of the User; or (v) for any unauthorized purpose in violation of any applicable law, including applicable privacy laws, or for any unauthorized purpose. Additionally, Creator shall be prohibited from: (x) building and releasing tools that could expose one User’s PII to another User; or (y) selling, disclosing, sharing, renting, leasing, syndicating, modifying, reverse engineering, decompiling, lending, or otherwise altering any User PII; however, the foregoing shall not limit Creators from using Roblox Services in accordance with Additional Terms applicable to particular feature(s).
-     4.  **California Consumer Privacy Act.** Creator shall not knowingly sell any “**personal information**” (as that term is defined by the California Consumer Privacy Act of 2018, as amended) belonging to a User, and both Roblox and Creator have taken and will continue to take all reasonable measures to protect such personal information under their control or in their possession from unauthorized access by third parties.
-     
-15.  Miscellaneous.
-     
-     1.  **Content Ratings.** The Services display a content maturity rating and certain other descriptors about an Experience, as described in the [Content Ratings](https://create.roblox.com/docs/production/promotion/content-maturity), which are incorporated herein by reference. Creator represents and warrants that it will provide accurate, complete, and up-to-date information in any Maturity and Compliance Questionnaire it submits to Roblox. Roblox reserves the right to modify content ratings and descriptors from time to time in its sole discretion. Roblox does not warrant the accuracy of the guidelines or descriptors. Creator acknowledges and agrees that Roblox is not responsible for the accuracy, completeness, validity, or quality of any content maturity ratings or descriptors. Creator further acknowledges that it is not entitled to any particular rating. Nothing herein, or in the [Content Ratings](https://create.roblox.com/docs/production/promotion/content-maturity), is intended to control or dictate the content of Creator’s Experience, for which Creator is solely responsible.
-     2.  **As Is.** The Services are provided “AS IS” and Section 15 of the User Terms is incorporated herein by reference.
-     3.  **Survival.** Any part of these Creator Terms which by their nature should survive termination, will survive, including Sections 2b, 9, 10, 11, 12, 13, 14, and 15a.
-     
-
-Appendix A (China)
-
-1.  PURCHASE OF CHINA UGC
-    
-    1.  **China** **UGC****.** From time to time, content (including Experiences, Virtual Items and In-Experience Items) created by creators (“China Creators”) that use Luobu Studio in the People’s Republic of China (excluding, for the purposes of these Roblox Terms, the Hong Kong and Macau Special Administrative Regions and Taiwan, “PRC”) may be available for purchase by User on the Services (“China UGC”). Such China UGC will be specifically identified on the Platform. China UGC is published on the Platform and Services by Roblox rather than the China Creators themselves. As a result, when User purchases or acquires China UGC, some aspects are different from when User purchases other UGC. Additionally, although Roblox shall be deemed to be the “Creator” in respect of all China UGC (and Roblox provides the Virtual Items), Roblox has made special contractual arrangements such that if User has any problems or concerns regarding the purchase of any China UGC, User should first contact the applicable China Creator to attempt in good faith to resolve the issue. If User is not able to resolve any such complaints or issues with the China Creator, then User may escalate to Roblox Support. User agrees that if Roblox takes action to resolve any complaints or issues that Roblox’s decision is final and User agrees to abide by that decision.
-    
-2.  CREATOR UGC ON THE LUOBULESI GAME
-    
-    1.  **Option to distribute Creator’s China** **UGC** **on the** **Luobulesi Game****.** From time to time, Creator may be given the opportunity to make Creator’s Experiences and Virtual Content available to players (“China Players”) of the version of the Platform and Services published and operated in the PRC (“Luobulesi Game”) by Shenzhen Tencent Computer Systems Company Limited (the “China Publisher”). Publishing Creator’s Experiences and Virtual Content on the Luobulesi Game will be completely at Creator’s option, and Creator has no obligation to do so. Experiences and Virtual Content that Creator chooses to make available to China Players (“Creator’s China UGC”) will be subject to review in accordance with the Review of Creator’s China UGC subsection below. To the extent made available in the Luobulesi Game, Creator’s China UGC will be deemed published by the China Publisher. If a China Player purchases Creator’s China UGC, Creator may be eligible to earn Robux from Roblox in accordance with the Earning Robux for Creator’s China UGC subsection below. However, the purchase of Creator’s China UGC by a China Player will not establish any form of contractual relationship between Creator and that China Player. Rather, Creator’s China UGC will be sub-licensed to the China Player by the China Publisher. Sections 2(b) and 4 of the Creator Terms shall not apply to Creator’s China UGC to the extent that they are inconsistent with the subsections License of Creator’s China UGC and Earning Robux for Creator’s China UGC.
-    2.  **Requirements for distributing Creator’s China** **UGC** **on the** **Luobulesi Game****.** In order to make Creator’s China UGC available to China Players on the Luobulesi Game, Creator must have registered a real-name verified account with the China Publisher (as required by PRC laws and regulations) and have accepted the Terms of UGC Submission to Luobulesi Game (“**China Game** **UGC** **Submission Terms**”).
-    3.  **Submission of Creator’s China** **UGC****.** Creator may use the Services to submit Creator’s China UGC to the China Publisher for possible inclusion in the Luobulesi Game in accordance with the China Game UGC Submission Terms. All submissions of Creator’s China UGC for such inclusion are subject to Roblox’s, its licensees and the China Publisher’s (together, “**Reviewing Entities**”) review process, the China UGC Requirements, and policies set out on the forums operated by the Reviewing Entities for Creators.
-    4.  **License of Creator’s China** **UGC****.** Creator retains all copyrights that Creator may hold in Creator’s China UGC. Creator hereby grants and agrees to grant to Roblox a perpetual, irrevocable, worldwide, non-exclusive, royalty-free transferable license, with a power to sub-license through multiple levels to any person or entity (including, but not limited to, to the China Publisher), in respect of Creator’s China UGC, in whole or in part to:
-        1.  use Creator’s China UGC and associated username to publicize or market the Services or Luobulesi Game, any UGC, and tangible items related to the Services or Luobulesi Game in any media or channel of distribution now known or hereafter developed in connection with the publicity and marketing of the Services or Roblox or the Luobulesi Game, even if Creator has exercised a right to be forgotten under the GDPR or equivalent right under other privacy laws. Roblox may also use Creator’s China UGC for non-commercial and educational uses to promote the Services or the Luobulesi Game (and Roblox will reasonably determine whether a use is non-commercial or educational).
-    5.  **Through-to-the Audience Rights.** All of the rights Creator grants in these Roblox Terms are provided on a through-to-the-audience basis, meaning that Roblox, its licensees, the China Publisher, and owners or operators of third party services will not have any separate liability to Creator or any other third party for UGC that Creator makes available on such third party services via the Service or the Luobulesi Game.
-    6.  **UGC** **Requirements.** In addition to Creator’s compliance with these Roblox Terms, including, without limitation, Sections 8 and 11 of the Creator Terms, each item of Creator’s China UGC that Creator submits must comply with PRC laws and regulations and the China UGC Submission Checklist document (the “**China** **UGC** **Requirements**”).
-    7.  **Review of Creator’s China** **UGC****.** Any Reviewing Entity may review, filter and modify UGC as it sees fit before the China Publisher determines whether to distribute Creator’s China UGC to any China Player for publication on the Luobulesi Game in its sole discretion. The Reviewing Entity’s review and the China Publisher’s determination with regard to publication shall be final.
-    8.  **No obligation to distribute Creator’s China** **UGC****.** For the avoidance of doubt, neither Roblox nor its licensees have any obligation to permit distribution by China Publisher of any of Creator’s China UGC on the Luobulesi Game, and the China Publisher has no obligation to publish any of Creator’s China UGC on the Luobulesi Game.
-    9.  **Re-filtering of Creator’s China** **UGC****.** In the event of any change in applicable laws, regulations, China UGC Requirements, rules, policies, or for any other reason, the Reviewing Entities shall have the absolute discretion to (a) modify or filter published Creator’s China UGC on the Luobulesi Game; and/or (b) suspend or terminate the distribution and publication of any of Creator’s China UGC on the Luobulesi Game, in whole or in part, at any time. Any Reviewing Entity may contact Creator in connection with any action taken in accordance with this Section, and Creator may be given an opportunity to remedy or amend Creator’s China UGC and to resubmit it for publication.
-    10.  **Earning** **Robux** **for Creator’s China** **UGC****.** Creator may earn Robux from Roblox in connection with the purchase of Creator’s China UGC by China Players on the Luobulesi Game. These Robux shall be calculated in accordance with the DevEx Terms.
-    11.  **Group China** **UGC****.** The Owner of a Group also has authority to elect whether or not to accept the opportunity to make UGC created by the Group available on the Luobulesi Game for purchase by China Players in accordance with these Roblox Terms, and Section 3 of the Creator Terms shall continue to apply. For avoidance of doubt, Robux earned by Group UGC shall be generated in accordance with the DevEx Terms.
-    
-
-Appendix B (Japan)
-
-1.  Assignment and Assumption
-    
-    Effective as of March 31, 2021 (the “Effective Date”), all of the legal status as contracting party, rights, duties, interests, claims, and obligations of Roblox Corporation as an issuer of Robux and as a service provider of the Services (whether arising prior to or after the Effective Date) in connection with users in Japan are agreed to be transferred and assigned to, and assumed by, Roblox Godo Kaisha (“Roblox Japan”). By using the Services, User consents and approves the said transfer and assignment. On or after the Effective Date, only Roblox Japan should be deemed as the issuer of Robux and as the direct service provider of the Services to Users in Japan. In addition, the term “Roblox” under the Roblox Terms of Use (except as this term is used in connection with the DevEx Program) should be replaced with, or explicitly specified as, “Roblox Japan” if necessary.
-    
-2.  Characteristics of Robux
-    
-    In Japan, Robux can only be used for purchasing the Services which Roblox Japan provides on the Platform. In relation to any of the Virtual Items, Experiences, and other things created by Creators (each, a “Creator Item”), User may use Robux to purchase Roblox Services to make a Creator Item available on the Platform. In this case, Roblox Services mean the Services provided by Roblox Japan to enable the access to and the use of a Creator Item on the Platform. Any User may not purchase any goods or Services from any Creator or any other person other than Roblox Japan. Roblox Japan shall be responsible for Roblox Services as described above. However, the Creator Item shall be provided on an “as-is” basis and Roblox Japan makes no representations or warranties regarding the content of the Creator Item. The Roblox Terms shall be interpreted to reflect the aforesaid principle.
-    
-3.  “Earned” Robux and DevEx Program
-    
-    If a Creator is allowed to participate in the DevEx Program and earn Earned Robux under the DevEx Program, then the Creator may exchange Earned Robux for real currency as provided in Section 4c of the Creator Terms. It should be noted that Earned Robux are different from Robux as issued by Roblox Japan in terms of the fact that Section 4c of the Creator Terms only apply to Earned Robux.
-    
-4.  Amendments to Section 3c and Section 4 of the User Terms
-    
-    Section 3c and Section 4 of the User Terms shall be amended in its entirety as provided in the Exhibit.
-    
-5.  Amendments to Section 4 of the Creator Terms
-    
-    Section 4 of the Creator Terms shall be amended in its entirety as provided in the Exhibit.
-    
-6.  Jurisdiction
-    
-    If you are an individual (excluding one who accepts the Roblox Terms as a business or for business purposes), Section 14b of the User Terms will not apply insofar as it is considered to prejudice your interests unilaterally in violation of Article 10 of the Consumer Contract Act.
-    
-7.  Limitation of Liability
-    
-    If you are an individual (excluding one who accepts the Roblox Terms as a business or for business purposes), the phrase “to the maximum extent permitted by applicable law” as provided in Section 15c, 15d and Section 16 of the User Terms shall be interpreted to mean “unless we are held liable due to our intentional act or gross negligence.”
-    
-8.  Pricing and Tax
-    
-    When you purchase Robux and Roblox Subscription on [Roblox.com](https://www.roblox.com/), Roblox Japan is the merchant of record. The price payable is the price indicated at the time of purchase, and includes applicable Japanese Consumption Tax that Roblox Japan assesses on your purchase, unless otherwise indicated at the time of purchase.
-    
-9.  Priority
-    
-    If there is any inconsistency or conflict between the Roblox Terms and the supplemental provisions, the supplemental provisions shall prevail.
-    
-10.  Exhibit
-     
-     <Section 3c of User Terms>
-     --------------------------
-     
-       
-      
-     
-     1.  **Acquisition and Use of** **Robux****.** Robux may be acquired on the Services in one of several ways. A User may acquire Robux (i) by purchasing or otherwise receiving Robux from Roblox; (ii) by purchasing a Roblox Subscription; (iii) by using the Virtual Items trading functions to cause Roblox to trade Virtual Items with other Users and to be provided by Roblox with Robux as unique benefits; or (iv) by other means that Roblox may introduce. Additionally, a Creator may earn Earned Robux as described more fully in Section 4 of the Creator Terms.
-     
-       
-      
-     
-     <Section 4 of User Terms>
-     -------------------------
-     
-       
-      
-     
-     1.  **Acquiring** **Virtual Content****.** You may acquire “Virtual Items” (including without limitation clothing or digital items for your avatar), “In-Experience Items” (including without limitation game passes and special abilities) and other content (including without limitation Experience and private server access) offered by Roblox and/or Creators (collectively “Virtual Content”) solely on the Services. The acquisition of Virtual Content on the Services is solely for your personal entertainment, and, except as otherwise stated in any Additional Terms, as applicable, it does not create any legally enforceable contract between you and Roblox. In addition, in any event, no contract will be formed between you and any Creator regarding the Services. Virtual Content has no real world equivalent value and you do not acquire any enforceable property rights in and to any Virtual Content based on any transaction on the Services.
-         
-         When you spend Robux to acquire Virtual Content through Marketplace or In-Experience, the Robux are collected through the Services and immediately deducted from your Account balance. All such transfers are final and, unless otherwise permitted by Roblox through its policies or practices or as required by law, non-refundable and non-reversible.
-         
-     2.  UGC Subscriptions are automatically renewing subscriptions offered by Roblox to provide Users with certain additional benefits. When you purchase a UGC Subscription, you agree that your subscription will automatically renew and that Roblox, through its payment provider, is authorized to charge your payment method accordingly until you cancel the UGC Subscription. You may cancel your UGC Subscription at any time in the Subscriptions settings page. If you cancel your UGC Subscription, you can still enjoy the benefits for the period of time for which you have already paid. All purchases of UGC Subscriptions are final and, unless otherwise permitted by Roblox through its policies or practices or as required by law, non-refundable and non-transferable.
-     3.  Selling Virtual Content and UGC Subscriptions.
-         1.  **For Users.** Roblox allows Users with a Roblox Subscription to request Roblox to repurchase certain Roblox-created Virtual Content and to resell such content on the Services (“Request for Repurchase and Resale”). A User may engage in a Request for Repurchase and Resale of such Virtual Content within Marketplace only. All Requests for Repurchase and Resale are final and cannot be reversed except as required by law. (See [here](https://en.help.roblox.com/hc/articles/203313260) for a more detailed explanation of how to resell Virtual Content.)
-         2.  **For Creators.** A Creator may design and publish Virtual Content and UGC Subscriptions and enable Roblox to sell such Virtual Content and UGC Subscriptions pursuant to the terms as outlined in Section 4 of the Creator Terms and the UGC Subscription Terms of Use.
-     4.  **Trading** **Virtual Content****.** Roblox provides the Services to allow Users with a Roblox Subscription by using the Virtual Items trading functions to trade certain Virtual Content created by Roblox (“Limited Items”) with other Limited Items (“Limited Items Exchange Services”). In this case, Users can not only exchange the Limited Items for other Limited Items, but also combine Robux and the Limited Items to exchange for other Limited Items. The Limited Items Exchange Services are such services related to transactions conducted between Roblox and Users, in which Roblox repurchase from other Users items to be exchanged and allow Users to purchase such other Limited Items from Roblox. No transactions will be conducted between Users directly. When Robux is used in the Limited Items Exchange Services as a part of items to be exchanged, Roblox is entitled to a fee. However, if no Robux are used as part of the Trade, Roblox will not receive any fee in connection with the transaction. (See [here](https://en.help.roblox.com/hc/articles/203313310) for a more detailed explanation of Roblox’s Trading System and the associated fees.)
-     5.  **Removal of** **Virtual Content****.** Roblox has the right, in its sole discretion, to suspend the availability of, or Services and your Account, any content (including without limitation Experiences, Virtual Content, UGC Subscriptions, and UGC) without advance notice. Roblox shall not be liable to any User for any losses you may experience because of such suspension or removal, and Roblox is not required to refund any Robux or other funds that a User has spent on any removed or suspended content, except where legally required.
-     
-       
-      
-     
-     <Section 4 of Creator Terms>
-     ----------------------------
-     
-       
-      
-     
-     4.  Roblox Creator Economics
-     
-     1.  Robux.
-         1.  **Purpose of** **Robux****.** Robux may be used only for purchasing the Services provided by Roblox on the Platform. Robux cannot be used for purchasing any goods or services provided by any Creator or any other person other than Roblox.
-         2.  **Granting** **Earned Robux****.** Roblox provides the Services to enable Creators to publish certain UGC (including Virtual Content and access to Experiences; “Creator Items”) they create on the Services. If Creator Items are sold or monetized by Roblox, Roblox may provide Creators with Earned Robux (“Earned Robux”) as unique benefits. Earned Robux may be granted if a Creator creates and publishes certain UGC on the Platform (either alone or with a Group) and (a) Roblox sells the Service that allows access to and use of UGC, (b) UGC is monetized in any other manner, or (c) additional Earned Robux is generated through Engagement Based Payouts (“EBP” or “Premium Payouts”). While Robux may be provided in other ways (including as unique benefits through a Roblox Subscription, referral bonus, purchase of a gift card, or by Roblox’s trading/selling Virtual Content that you did not create), they are not Earned Robux. If it is found that any Earned Robux or such other Robux which has been provided as a unique benefit (“Specially Provided Robux”) are earned through a violation of the Roblox Terms or any applicable Additional Terms, Roblox may remove such Specially Provided Robux. For more information on monetizing UGC, please read the Developer Guides [here](https://create.roblox.com/docs/production/monetization).
-     2.  Selling Roblox’s services to enable the access and the use of UGC. Roblox allows Creators to publish (i) Experiences; (ii) Virtual Content and (iii) other UGC they create on the Services and Roblox may sell the Services to enable the access to and the use of UGC, subject to the following:
-         1.  Contributions to Roles and Unique Benefits: Three aspects apply to Roblox’s sale of its services to enable access to and the use of all UGC (except 2D Virtual Items (also known as “Classic Clothing”)) on the Services. Roblox may provide unique benefits depending on the degree of contributions to each aspect and depending on Roblox’s revenue arising out of an applicable sale:
-             
-             *    
-                 *   **Creator****:** The Creator is the User or Group that created the UGC for which Roblox is selling the access/use rights.
-                 *   **Seller/Distributor:** The entity who sells the rights to access and use the UGC is always Roblox.
-                 *   **Platform:** The entity who provides the Services to access to and use the Platform is always Roblox.
-             
-             The above unique benefits do not apply to the sale of Classic Clothing, which consists of pants, shirts, and T-shirts. For any Classic Clothing sold in Marketplace, what unique benefits are provided is determined between the Creator and the Platform.
-             
-         2.  **Changes to Unique Benefits.** Roblox may, at any time upon notice to Creator (via any reasonable means), change the unique benefits.
-         3.  **Creator Responsibility.** Creator may publish Experiences, Virtual Content, or other UGC created by Creator to be enjoyed by other Users on the Services. Roblox may provide other Users with services to enable the access to and use of such UGC as the seller of the Services. In the case where Creator publishes UGC through the Services and is provided by Roblox with Earned Robux as unique benefits, if Roblox returns Robux or real money to a User (or another Creator) for any UGC for which a Creator received Earned Robux, Roblox reserves the right to deduct or withhold an equivalent amount of Earned Robux from such Creator.
-         4.  **Random Virtual Items.** Depending on User location, Creator may choose to provide Experiences that permit Users to acquire “random” Virtual Items (either with Robux or otherwise) (each, a “Random Virtual Item”). If a Creator provides the opportunity for a User to receive a Random Virtual Item, Creator must let Users know the odds of acquiring each type of Random Virtual Item available before a User is enabled to acquire a Random Virtual Item.  
-             By way of example only, if a Creator’s Experience allows a User to acquire a virtual marble that the User can then throw into a fountain to receive a Random Virtual Item, the Creator must disclose the odds of the User receiving each type of Random Virtual Item before the User throws the marble into the fountain.
-     3.  **Developer Exchange Program.** Roblox allows certain Creators who satisfy specific criteria and accept the terms and conditions set forth in the DevEx Program published [here](https://en.help.roblox.com/hc/articles/13061189551124) (“DevEx Terms”) to participate in the Developer Exchange Program (“DevEx Program”). While any Creator can use the Services to learn to code, create experiences or items to enjoy with their friends, and even earn some Earned Robux, only successful Creators will be able to meet the high requirements (described in the DevEx Terms) to earn money through DevEx. Reaching this level of success typically requires a lot of time, effort, skill, and strategy. Even then, there is no guarantee of earning money. Subject to certain requirements, policies and limitations that Roblox establishes in its sole discretion, Creators participating in the DevEx Program may exchange Earned Robux for a payment of real money in an amount determined by Roblox, in its sole discretion (the exchange rate and the general requirements, policies, and limitations of the DevEx Terms.
-     4.  **EBP or Premium Payouts.** EBP or Premium Payouts is a program by which certain eligible Creators can generate additional Earned Robux based on how engaging their Experience is. The EBP or Premium Payouts program may be modified or terminated by Roblox at any time, in its sole discretion, and with no obligation to any Creators because of such termination or modification. More detailed information on the EBP Program may be found [here](https://create.roblox.com/docs/production/monetization/premium-payouts).
-     5.  **Disclaimer.** Developing Experiences or UGC that Users will enjoy or spend time in is difficult and can take a lot of time. Roblox makes no promises that a Creator's Experience or UGC will be successful in developing a large audience or that the time, effort, and expense that a Creator spends developing, advertising, or operating an Experience will be financially successful.
-     
-
-Appendix C (European Union/European Economic Area)
-
-1.  Priority
-    
-    If there is any inconsistency or conflict between the Roblox Terms and the supplemental provisions, the supplemental provisions shall prevail.
-    
-2.  Legal Agreement
-    
-    1.  Notwithstanding anything to the contrary in the Roblox Terms, User’s agreement to the Roblox Terms is signified by registering on the Platform.
-    2.  User can register to the Platform by providing their date of birth, choosing a user name and a password and clicking on “Sign Up.” User can modify certain registration information via Account Settings at any time.User can access and download the Roblox Terms [here](https://en.help.roblox.com/hc/article_attachments/47741686745236).
-    3.  Unless otherwise agreed upon, User can terminate the agreements concluded with Roblox regarding the use of the Services any time. The effective date of the termination depends on the selected Services.
-    
-3.  Purchase of Robux and virtual items
-    
-    User may have the ability to purchase Virtual Content in the Services using Robux. User can purchase Robux against the displayed price within the Services. When User selects one of the available amounts of Robux, User will be asked to complete the purchase within User’s Account and to select one of the available payment methods. Currently, Roblox offers several payment options including debit / credit card, PayPal, gift cards (for Roblox’s browser app), Google Play, iTunes, Amazon (for Roblox’ mobile apps), as well as in-app purchases for Roblox’s Xbox One app. In Roblox's reasonable discretion, Roblox may amend the available payment methods from time to time. The purchase contract will be concluded at the moment where User clicks on the “Pay” button (or other similarly designated purchase button) and the transaction is successfully completed. As a deviation from the Roblox Terms, in particular from Section 4 (a) of the User Terms and Section 4 of the Creator Terms, there will be a contractual relationship between Creators and Roblox. There will not be a direct contractual relation between Creators and Users. If User acquires Virtual Content and other things against payment of Robux, such acquisitions shall always be concluded between User and Roblox, and Creators shall always act on behalf of Roblox.
-    
-4.  Absolute right in Robux
-    
-    As a deviation from Section 3(e) of the User Terms, and except in connection with User’s violation of a Roblox guideline or policy or User’s breach of any of the Roblox Terms, Roblox may exercise Roblox’ absolute right in Robux in Roblox’s reasonable discretion only with effect for the future (i.e. no effect on Robux User already validly holds) and without effect to any notice, refund, compensation or liability Roblox may have to User under this Appendix C or binding applicable law. The remaining provisions of Section 3(e) of the User Terms shall remain unaffected.
-    
-5.  DevEx
-    
-    As a deviation from Section 4(c) of the Creator Terms, User may redeem Earned Robux for real currency based upon an exchange rate determined by Roblox and as potentially amended from time to time based upon requirements, procedures, and limitations established by Roblox in Roblox’s reasonable discretion with effect for the future (e.g. to compensate for inflationary fluctuations). The current exchange rate and the general requirements, policies, and limitations of the DevEx Program are published [here](https://www.roblox.com/developer-exchange/help).
-    
-6.  User’s statutory rights and refundability of payments
-    
-    1.  If the Services do not function properly or are not as described or not in conformity with User’s agreement with Roblox, User may have additional statutory rights and remedies.
-    2.  Nothing in the Roblox Terms shall limit any statutory rights to refunds Users may have under applicable law.
-    
-7.  Limitation of liability
-    
-    Sections 15(b)-(c) and 16 of the User Terms and Section 13 of the Creator Terms do not apply. In addition, the limitations of liability as set out in 2(g), 3(c) and (e), 4(d), 6(b), 11(b)-(c), 15(a) of the User Terms and 5(a)(ii) of the Creator Terms shall not apply. Instead, Roblox shall be liable for damages exclusively according to this clause.  
-     
-    
-    1.  Roblox’s liability is unlimited for damages arising out of death, injury to body or health based on a breach conducted by a legal representative or designated agent of Roblox, as well as for damages that arise from the lack of a guaranteed characteristic or in case of fraudulent intent.
-    2.  Roblox’s liability is unlimited for damages caused by Roblox, a legal representative of Roblox, or designated agent of Roblox by intent or gross negligence.
-    3.  In case of a slight negligent breach of a contractual core duty Roblox shall, except in the cases set out in this Section 7A, B and D of this Appendix C, only be liable to the amount of the typically foreseeable damage. Contractual core duties abstractly are such duties whose accomplishment enables proper fulfilment of the contract in the first place and whose fulfilment a contractual party regularly may rely on.
-    4.  Liability pursuant to mandatory applicable law remains unaffected.
-    5.  The limitation period for claims for damages shall be one (1) year, except in case of Section 7A, B and D of this Appendix C where the statutory statute of limitations shall apply.
-    
-8.  Governing Law, Jurisdiction and Venue
-    
-    1.  As a deviation from Section 14 of the User Terms, to the extent that the mandatory law of User’s place of residence is more favorable than California law, the law of User’s place of residence shall apply.
-    2.  To the extent that an agreement between Roblox and the User is considered a consumer contract in the meaning of Art. 17 Regulation EU 1215/2012, the choice of jurisdiction and venue pursuant to Section 14 of the User Terms shall not apply.
-    
-9.  Resolution / Arbitration of Disputes
-    
-    1.  If User is a consumer (i.e. an individual who, in contracting with Roblox, is acting for purposes which are outside User’s trade, business, craft or profession), Section 13(b) and (c) of the User Terms shall not apply and Section 12 and 13(a) of the User Terms and 7(b) of the Creator Terms shall not exclude or limit any party’s recourse to the courts.
-    2.  Roblox is neither required nor willing to participate in any alternative dispute resolution schemes with a consumer arbitration panel. Rather, Roblox strives to resolve any conflicts as set out in Section 13(a) of the User Terms. This section is without prejudice to the right, where applicable, of EU users to engage certified out-of-court dispute settlement bodies in accordance with Article 21 of the Digital Services Act. For more information, please see [https://en.help.roblox.com/hc/en-us/articles/13061336948244-EU-Digital-Services-Act](https://en.help.roblox.com/hc/articles/13061336948244).
-    
-10.  Notice to EEA Users.
-     
-     Section 18 of the User Terms does not apply.
-     
-11.  Survival
-     
-     In addition to the Sections listed in Section 19(b) of the Roblox Terms Section 7 of this Appendix C shall survive termination.
-     
-12.  Consent to Electronic Communications
-     
-     Section 19(f) of the User Terms does not apply. If Roblox has received User’s email address in the context of the sale of a product or a service, Roblox may use it for direct marketing of Roblox’s own similar products or services provided that Roblox has clearly and distinctly given User the opportunity to object, free of charge and in an easy manner, to such use of User’s email address upon their collection and on the occasion of each message in case User has not initially refused such use.
-     
-13.  Right of withdrawal
-     
-     If User is a consumer (i.e. an individual who, in contracting with Roblox, is acting for purposes which are outside User’s trade, business, craft or profession), User may revoke all concluded contracts under the following conditions  
-      
-     
-     1.  Information concerning the exercise of the right of withdrawal
-         1.  **Right of withdrawal.** Subject to Section 13D, below, User has the right to withdraw from this contract within 14 days without giving any reason. The withdrawal period will expire after 14 days from the day of the conclusion of this contract. To exercise the right of withdrawal, User must inform Roblox (Roblox Corporation, Customer Support, 3150 S. Delaware St., San Mateo, CA 94403, or (888) 858-2569) of User’s decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post). User may use the below-referenced model withdrawal form, but it is not obligatory. You can also electronically fill in and submit the model withdrawal form or any other unequivocal statement on our website through our [Customer Support Form](https://www.roblox.com/support). If you use this option, we will communicate to you an acknowledgement of receipt of such a withdrawal on a durable medium (e.g. by letter) without delay.
-             
-             To meet the withdrawal deadline, it is sufficient for User to send User’s communication concerning User’s exercise of the right of withdrawal before the withdrawal period has expired.
-             
-         2.  **Effects of withdrawal.** If User withdraws from this contract, Roblox shall reimburse to User all payments received from User, including the costs of delivery (with the exception of the supplementary costs resulting from User’s choice of a type of delivery other than the least expensive type of standard delivery offered by Roblox), without undue delay and in any event not later than 14 days from the day on which Roblox is informed about User’s decision to withdraw from this contract. Roblox will carry out such reimbursement using the same means of payment as User used for the initial transaction, unless User has expressly agreed otherwise; in any event, User will not incur any fees as a result of such reimbursement.
-             
-             If you requested to begin the performance of services during the withdrawal period, you shall pay us an amount which is in proportion to what has been provided until you have communicated with us your withdrawal from this contract, in comparison with the full coverage of the contract.
-             
-     2.  Model withdrawal form
-         
-         (complete and return this form only if you wish to withdraw from the contract)
-         
-         To Roblox Corporation, Customer Support, 3150 S. Delaware St., San Mateo, CA 94403.
-         
-         \- I/We(\*) hereby give notice that I/We(\*) withdraw from my/our(\*) contract of sale of the following goods (\*)/for the provision of the following service(\*),  
-         \- Ordered on(\*)/received on(\*)  
-         \- Name of consumer(s)  
-         \- Address of consumer(s)
-         
-         \- Signature of consumer(s) (only if this form is notified on paper)  
-         \- Date
-         
-         \_\_\_\_  
-         (\*) Delete as appropriate.
-         
-     3.  **Exceptions from the right of withdrawal.** The right to withdrawal may not exist in respect of distance or off-premise contracts for the supply of goods made to User’s specifications or clearly personalized.
-     4.  **Expiry of the right of withdrawal.** Please note that the right of withdrawal expires, in the cases of:
-         1.  service contracts after the service has been fully performed but, if the contract places the User under an obligation to pay, only if the performance has begun with User’s prior express consent and acknowledgement that User will lose their right of withdrawal once the contract has been fully performed by Roblox.
-         2.  contracts for the supply of digital content which is not supplied on a tangible medium if the performance has begun and, if the contract places User under an obligation to pay, where, (i) User has provided prior express consent to begin the performance during the right of withdrawal period; (ii) User has provided acknowledgement that User thereby loses User’s right of withdrawal; and (iii) Roblox has provided User with confirmation of the contract, which also states User’s consent to Roblox commencing performance of the contract before the expiry of the withdrawal period and confirmation of acknowledgement about the expiry of the right of withdrawal.
-     
-14.  Copyright
-     
-     Nothing in the Roblox Terms especially as regards Section 2(b) of the Creator Terms shall affect mandatory rights to remuneration for the use of copyrightable material.  
-     Roblox reserves the right to text and data mining of the Platform and the Services and any kind of other provided content.
-     
-15.  Compatible Devices
-     
-     The User can find information about the compatible devices available to use the Services [here](https://en.help.roblox.com/hc/categories/200217944).
-     
-16.  EU Dissemination of Terrorist Content Online Regulation
-     
-     Roblox has appointed DP-Dock COR Services GmbH in Germany as representative and point of contact according to Regulation (EU) 2021/784 of the European Parliament and of the Council of 29 April 2021 on addressing the dissemination of terrorist content online (Terrorist Online Content Regulation), which can be contacted [here](mailto:tco-reports@roblox.com).
-     
-17.  Repeated Misuse
-     
-     In addition to Section 2(g) of the User Terms, Roblox may refuse to process (i) appeals or (ii) illegal content notices submitted by Users or non-Users that repeatedly or egregiously misuse Roblox’s appeal system or illegal content notice form. Examples of such misuse include frequently providing unsubstantiated notices or appeals, or abusive use of the appeals or notice system including submitting a high volume of appeals or notices without any information. Such refusals may take into consideration e.g. User’s historic use of the appeal system or illegal content notice form and the severity of the misuse. Refusal durations may vary depending on the degree of the violation. Roblox may also suspend or terminate the accounts of Users who repeatedly publish illegal content. Such suspensions and terminations may take into consideration e.g. User’s historic content violations and the severity of the misuse. Suspension durations may vary depending on the degree of the violation. Roblox will notify you in advance of a suspension or termination, unless it is not appropriate for us to do so, and if you disagree with such action, you have the opportunity to appeal.
-     
-18.  Recommendations and Ranking of Virtual Content
-     
-     Depending on the Roblox feature (e.g. features like the Marketplace versus Experience Search), Roblox uses different factors in order to provide Users and Creators the most relevant search results and recommendations. The category of factors and relative importance applied to each of them varies depending on the applicable search or recommendation feature. Furthermore, for some features, Roblox provides Users and Creators the option to modify the order of results or recommendations that are presented, which can be found in close proximity to the search or recommendation feature. See [here](https://en.help.roblox.com/hc/articles/21416941036564) for more information about how recommendations and ranking work on Roblox.
-     
-19.  Notification and Appeal
-     
-     In addition to Section 2(f) of the User Terms, whenever Roblox restricts access to Virtual Content, Roblox notifies User of such decisions and provides User with an opportunity to appeal. In addition to considering the violation at hand when making such decisions, Roblox also considers User’s historical use of Roblox and whether User has repeatedly violated Roblox policies. Continued violations of certain policies may result in a stricter consequence (i.e., a warning, followed by a timeout, followed by a suspension, etc.). E.U. Users may appeal such decisions for up to 6 months after Roblox’s initial decision. When reviewing an appeal request, Roblox holistically considers the severity of the violation, User's reason for appealing, and User’s behavior on the platform. Please note, in some circumstances, appeals may not be readily applicable — for example, a time-lapsed consequence such as a 20-minute timeout where the suspension has already been lifted.
-     
-20.  Residents of France
-     
-     If after completing the Mandatory Informal Dispute Resolution process described in Section 13.a of the User Terms, a dispute remains, residents of France may refer the matter free of charge to the following mediator: IEAM (Institut d'Expertise, d'Arbitrage et de Médiation), 31bis-33 rue Daru 75008 Paris, [https://www.ieam.eu/demande-de-mediation](https://www.ieam.eu/demande-de-mediation).
-     
-
-Appendix D (Vietnam)
-
-The supplemental provisions in this Part A apply to Users and Creators located in Vietnam. If there is any inconsistency or conflict between the Roblox Terms and these supplemental provisions, these supplemental provisions shall prevail.
-
-1.  PART A – USERS IN VIETNAM
-    
-    1.  **Vietnam Player Terms** Users in Vietnam are required to use the Roblox-VNG application and its associated services (“**Roblox Vietnam**”). Roblox Vietnam is published and operated in Vietnam by Minh Phuong Thinh Communication Company Limited (the “**Vietnam Publisher**”) under separate terms and conditions that apply to the use of Roblox Vietnam in place of the Roblox User Terms. In order to ensure the safety of all Users, your activities on Roblox Vietnam must comply with the [Community Standards](https://en.help.roblox.com/hc/articles/203313410).
-    2.  **Creators In Vietnam** Creators in Vietnam may use Roblox Studio and associated Services to create Experiences and Virtual Content. Roblox Studio and associated Services are provided by Roblox Corporation. If you are a Creator in Vietnam, your use of Roblox Studio and associated Services and any Experiences and Virtual Content that you make available using them is governed by the Roblox [Creator Terms](https://en.help.roblox.com/hc/articles/115004647846#creator-terms) (as amended by Part B of these supplemental provisions with respect to publication on Roblox VNG).
-        
-        Your use of certain Creator-related Services offered by Roblox will also be subject to additional terms applicable to those Services, such as, but not limited to, the [Developer Exchange Terms of Use](https://en.help.roblox.com/hc/articles/115005718246) and [Creator Store Terms](https://en.help.roblox.com/hc/articles/21308223046932).
+    5.  would not be required under applicable laws.
         
     
-2.  PART B – PUBLICATION OF CREATOR’S UGC VIA ROBLOX VIETNAM
+    If we delay notice, we will provide notice once the reason for the delay no longer applies.
     
-    The supplemental provisions in this Part B apply to the publication and distribution of Creator’s UGC via Roblox Vietnam. They apply to all Creators whether located inside or outside of Vietnam. If there is any inconsistency or conflict between the Roblox Creator Terms and these supplemental provisions, these supplemental provisions shall prevail.
+    #### 4.4 Appeal
     
-    1.  **Publication.** In order to comply with local regulations, Roblox Vietnam and associated UGC is published and operated in Vietnam by the Vietnam Publisher. You acknowledge and agree that your Creator’s UGC may be made available to users of Roblox Vietnam (“**Vietnam Users**”) by the Vietnam Publisher as a sub-licensee of Roblox under Section 2(b)ii of the Roblox Creator Terms.
-    2.  **Purchases.** In order to comply with local regulations, Vietnam Players cannot purchase UGC directly from a Creator. Instead they must purchase from the Vietnam Publisher. If a Vietnam Player purchases Creator’s UGC from the Vietnam Publisher, the purchase (whether for Robux or without charge) of Creator’s UGC by a Vietnam Player will not establish any form of contractual relationship between Creator and that Vietnam Player. Rather, Creator’s UGC will be sub-licensed to the Vietnam Player by the Vietnam Publisher. For the purposes of calculating Creator’s eligibility to receive an Earned Robux and the relevant Robux Allocation under Section 4(b) of the Roblox Creator Terms, such a purchase transaction shall be treated in the same way as would apply to a direct sale from Creator to the player outside Vietnam. Sections 2(b) and 4 of the Roblox Creator Terms are deemed modified accordingly with respect to the publication, distribution or purchase of Creator’s UGC under Roblox Vietnam to the extent that they are inconsistent with these supplemental provisions.
-    3.  **License to Use Creator’s** **UGC** **to Market Roblox Vietnam.** Creator retains all copyrights that Creator may hold in Creator’s UGC. Creator hereby grants and agrees to grant to Roblox a perpetual, irrevocable, non-exclusive, royalty-free transferable license, with a power to sub-license through multiple levels to any person or entity (including, but not limited to, to the Vietnam Publisher), to use, in whole or in part, Creator’s UGC and associated username in any media or channel of distribution now known or hereafter developed in connection with the publicity and marketing of Roblox Vietnam or the Services, even if Creator has exercised a right to be forgotten under the GDPR or equivalent right under other privacy laws. Roblox may also use Creator’s UGC for non-commercial and educational uses to promote Roblox Vietnam or the Services (and Roblox will reasonably determine whether a use is non-commercial or educational).
-    4.  **Review of Creator’s** **UGC****.** For the avoidance of doubt, Roblox does not have any obligation to permit distribution by Vietnam Publisher of any of Creator’s UGC on Roblox Vietnam, and the Vietnam Publisher has no obligation to publish any of Creator’s UGC on Roblox Vietnam. The suitability of Experiences and Virtual Content for publication in Vietnam may be subject to review (whether prior to publication or at any time thereafter) by Roblox, the Vietnam Publisher and/or local regulatory authorities. Roblox and the Vietnam Publisher shall have the absolute discretion to filter, suspend or terminate the distribution and publication of any of Creator’s UGC on Roblox Vietnam, in whole or in part, at any time and for any reason. Roblox and the Vietnam Publisher’s determination with regard to such action shall be final. At its sole discretion, Roblox may contact Creator in connection with any action taken in accordance with this Section, and Creator may be given an opportunity to remedy or amend Creator’s UGC and to resubmit it for publication on Roblox Vietnam.
+    Roblox values transparency and works hard to give you context for the decisions we make. To request review and appeal any decision contact [Roblox Support](https://www.roblox.com/support). 
     
+    See [Appeal Your Content or Account Moderation](https://en.help.roblox.com/hc/articles/360000245263-Appeal-Your-Content-or-Account-Moderation) and [Content Moderation on Roblox](https://en.help.roblox.com/hc/articles/21416271342868-Content-Moderation-on-Roblox) for more information on how to appeal, including relevant Roblox policies and processes.
+    
+    As applicable, you may also have the option to select an out-of-court dispute settlement body to resolve disputes as described at [Content Moderation on Roblox](https://en.help.roblox.com/hc/articles/21416271342868-Content-Moderation-on-Roblox). Subject to Sections 11 and 14 of the User Terms, you may also appeal decisions in court. 
+    
+    For appeals relating to intellectual property moderation actions, refer to Section 10.2.
+    
+    #### 4.5 UK Online Safety Act (OSA)
+    
+    If you are resident or have your principal place of business in the United Kingdom, the [UK OSA Terms](https://en.help.roblox.com/hc/articles/52986450733204) apply to you. These OSA Terms also contain UK-specific notice and complaint-handling information. If there is any inconsistency or conflict between the Roblox Terms and the UK OSA Terms, the UK OSA Terms shall prevail.
+    
+    #### 4.6 Misuse
+    
+    Roblox may refuse to process (i) appeals or (ii) illegal content reports submitted by Users or non-Users that repeatedly or egregiously misuse Roblox’s appeal system or illegal content notice form. Examples of such misuse include frequently providing unsubstantiated notices or appeals, or abusive use of the appeals or notice system including by submitting a high volume of appeals or notices without any information. Such refusals may take into consideration factors such as the User’s historic use of the appeal system or illegal content notice form and the severity of the misuse. Refusal durations may vary depending on the degree of the violation. 
+    
+    Roblox may also take action as described in Section 4.2 where a User misuses the service by publishing content that is illegal or violates the Roblox Terms. Roblox assesses misuse on a case-by-case basis, considering, for example, the nature, severity and consequences of the violation, the User’s historic use of the Services, prior violations and the User’s intention. For example, we may warn or suspend for 1 day or longer a User who publishes hate speech and terminate the account if the User does so repeatedly. For severe violations, we may terminate the account immediately and without prior warning. Nothing in this section limits Roblox’s right to take any action under Section 4.2 where a User violates the Roblox Terms or applicable law.
+    
+5.  Your use of the Services
+    
+    We strive to make Roblox a place where people can connect with optimism and civility. To help advance this goal, we provide the Services described below to you. 
+    
+    Please also take a look at the [Computer Hardware & Operating Systems Requirements](https://en.help.roblox.com/hc/articles/203312800-Computer-Hardware-Operating-System-Requirements) that are required for using Roblox.
+    
+    #### 5.1 Robux
+    
+    Roblox offers Robux, available for purchase, for use on the Services. Robux is digital content. When you acquire or purchase Robux, you receive a limited, non-transferable, revocable licence to use Robux to access or use Content made available by Roblox on the Services and in compliance with the Roblox Terms. Robux may not be purchased, used, sold, distributed, or otherwise used, except through channels and mechanisms made available or otherwise approved by Roblox. 
+    
+    Robux has no equivalent fiat or cash value and does not constitute money or monetary value. Robux is not intended to be, and may not be used as, a mechanism to transfer money, a third-party payment mechanism, or a donation or crowd-funding instrument. Robux cannot be redeemed, returned, or exchanged for cash (i.e., “real” money), legal tender, or any form of credit, except to the extent required by applicable law. Robux cannot be resold, transferred for value (except as expressly contemplated by the Roblox Terms), traded, or sold on secondary markets.
+    
+    #### 5.1.1 Using Robux
+    
+    You can use Robux only within the Services. Roblox deducts the used Robux from your Account. You can use Robux in your Account to interact with Content made available by Roblox on the Services and in compliance with the Roblox Terms. You have no rights, entitlement, or other vested legal interest or ownership interest in Robux. Any use of Robux does not constitute a legal transaction, but rather an action within the gameplay subject to your existing contractual relationship with Roblox.
+    
+    Robux do not expire. However, if you delete your Account or your Account is terminated for any reason, all Robux in your Account will become invalid and will not be reinstated if you create a new Account, unless required by applicable law.
+    
+    #### 5.1.2 Revocation of Robux
+    
+    Roblox may temporarily or permanently revoke Robux associated with your Account without refund or compensation where reasonable and proportionate to do so, including in the event that:
+    
+    1.  Roblox determines, based on sufficient evidence, that fraud or other illegal conduct is associated with your Account;
+    2.  your Account is suspended or terminated for any reason;
+    3.  we are required to do so to comply with applicable law or an order or request from a court or competent regulatory or governmental authority; or
+    4.  Robux was acquired in violation of the Roblox Terms, applicable law, or in an impermissible manner, including outside of Roblox’s authorisation or control.
+        
+    
+    Roblox will give you reasonable advance notice, by any reasonable means (including email or in-app notification). Where a revocation is required urgently to address an imminent security threat, comply with a binding legal or regulatory requirement, or protect user safety, Roblox may implement it on shortened or no prior notice and will notify you as soon as reasonably practicable thereafter.
+    
+    #### 5.1.3 Changes to Robux
+    
+    Roblox reserves the right to modify the nature, availability, and uses of Robux, including by modifying the relative value of Robux with respect to acquiring UGC. The Content and Services that you can access or interact with using Roblox are subject to change, including the number of Robux required to access or interact with Content or Services.
+    
+    #### 5.2 Communities, Forums, Groups
+    
+    A “**Community**” is a space for Creators and Users to discuss Games, report issues, and otherwise build stronger connections. A “**Forum**” is a Community space where conversations are organised into nested threads. Owners can manage Forum visibility and access based on specific roles. The respective “**Group**” that is linked to each Community can be used by Creators to work together to create and offer UGC, subject to the Creator Terms.
+    
+    #### 5.2.1 Communities, Forums, Groups
+    
+    Creating or joining a Group/Community will give you access to additional features such as inviting members to the Group/Community and reviewing requests to join the Group/Community. See [Community guidelines](https://en.help.roblox.com/hc/articles/36639673493652-Guidelines-for-Managing-Communities) for more information.
+    
+    #### 5.2.2 Owner responsibilities
+    
+    Being an “**Owner**” of a Group/Community is an unofficial, voluntary position that may be available to Users of the Services. If you become an Owner, you agree:
+    
+    1.  to take on the responsibility to maintain a healthy and safe environment within the Group/Community;
+    2.  to be responsible for all UGC that is created, uploaded, published, or otherwise made available by, owned by, or associated with the Group/Community, including UGC that you did not personally create, and for ensuring that all such UGC complies with the Roblox Terms; 
+    3.  to ensure that the Group/Community and Forums operates in compliance with the [Community Standards](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards); and
+    4.  you may not represent that you are authorised to act on behalf of Roblox.
+    
+    An Owner of a Group can assign roles to its Group members. See [Group guidelines](https://create.roblox.com/docs/projects/group-guidelines) for more information.
+    
+    #### 5.2.3 Consequences for Owners
+    
+    Roblox is not responsible for actions taken by Owners and we reserve the right to revoke or limit a User’s ability to be an Owner if we reasonably believe an Owner breached the Roblox Terms or applicable law. In addition, if you fail to uphold your responsibilities as an Owner, Roblox may: 
+    
+    1.  issue a warning;
+    2.  remove Content from you or the Community, Forum, or Group;
+    3.  put the Group/Community in a restricted state;
+    4.  appoint a new Owner; and/or
+    5.  terminate or suspend your Account.
+    
+    #### 5.2.4 Transferring ownership
+    
+    An Owner may request to transfer ownership of the Group/Community to a new Owner. Roblox may reject the transfer if reasonable eligibility requirements concerning the new Owner are not met.
+    
+    #### 5.2.5 Termination or suspension
+    
+    If an Owner’s Account is suspended or terminated pursuant to these User Terms or other applicable terms, Roblox may designate a new Owner of the Group/Community.
+    
+    #### 5.3 AI Features
+    
+    Roblox makes available certain optional features and creation tools that utilise artificial intelligence (“**AI**”) (collectively, “**AI Features**”) that you can choose to use as part of our Services, including the AI Tools for Creators in the AI technologies and AI Tools section of the Creator Terms. Some AI Features allow you to submit text or other materials as input for processing (“**Prompts**”) and return AI-generated responses based on your Prompts (“**Outputs**”).
+    
+    #### 5.3.1 Responsibility for AI Features
+    
+    Roblox is not responsible for the Prompts and Outputs of AI Features. You are responsible for your interactions with AI Features and all Prompts you submit. By using AI Features, you represent and warrant that:
+    
+    1.  your use of the AI Features will not violate applicable law, the Roblox Terms and [Community Standards;](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards) and
+        
+    2.  you have all rights, licences, and permissions necessary to submit Prompts to AI Features and to grant all licences to Roblox to use Prompts to provide the AI Features to you and as otherwise permitted by the Roblox Terms. 
+        
+    
+    For clarity, but without limiting the licence granted in Section 3.2, as between you and Roblox, and to the extent permitted by applicable law, you retain any right, title, and interest that you have in the Prompts. Roblox does not assert any ownership rights in any new intellectual property created in your Outputs.
+    
+    #### 5.3.2 Reliance on Outputs
+    
+    The AI Features and their underlying AI technologies are continuously evolving. By using the AI Features, you understand and agree that:
+    
+    1.  Outputs are machine-generated and may be unreliable or incomplete, or contain errors, inaccuracies, biases, or offensive content that is inconsistent with Roblox’s views;
+    2.  you should evaluate and verify Outputs before using or sharing them, including for accuracy, legality, and appropriateness for your use case;
+    3.  you should not rely on Outputs as professional advice or for any decision, system, or application where using Outputs could result in harm, injury, death, or other losses;
+    4.  due to the nature of the AI Features and AI generally, Outputs may not be unique and other Users may receive similar Outputs from the AI Features; and
+    5.  you, not Roblox, are solely responsible for your use of, and any actions you take in relation to, Outputs and any other content generated by AI Features.
+    
+    #### 5.3.3 Prohibited uses
+    
+    When using our AI Features, you may NOT access, use, or allow others to access or use AI Features to:
+    
+    1.  promote, facilitate, or engage in illegal, harmful, discriminatory, or abusive activity, including by taking advantage of others based on their characteristics, social behaviour or personal information;
+    2.  violate or do anything that could lead to a violation of applicable law, the Roblox Terms, or the [Community Standards](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards); 
+    3.  evaluate, classify, score or rate others based on their social behaviour or personal information in a manner that results in detrimental, unfair or unfavourable treatment;
+    4.  submit Prompts that include sensitive, confidential, or personal information;
+    5.  obtain or infer personal information or other sensitive information of others;
+    6.  intentionally deceive or mislead others in any way, including into thinking that Output was created by a human;
+    7.  manipulate or deceive others, or exploit vulnerabilities of others due to factors such as age, disabilities, or specific social or economic situations, with the objective to materially distort the behaviour causing others to take decisions they would otherwise not have taken and that causes or is likely to cause significant harm;
+    8.  solicit professional advice (including but not limited to medical, psychological, financial, or legal advice); 
+    9.  remove, alter, or disable any provenance or metadata tags;
+    10.  implement automated decision making that has legal or similarly significant effects on individuals; or 
+    11.  detrimentally impact AI Features in any way, including by:
+         1.  modifying, copying, leasing, selling, or distributing the AI Features;
+         2.  reverse engineering, decompiling, or disassembling the AI Features; or
+         3.  disrupting or otherwise impairing the AI Features, including any safety or privacy filters, controls, or mechanisms.
+    
+    #### 5.4 Developer Subscriptions
+    
+    “**Developer Subscriptions**” are automatically renewing subscriptions associated with a Creator or Game that provide Users with certain Creator-designated benefits. When you purchase a Developer Subscription, you agree that your subscription will automatically renew and that Roblox, through its payment provider, is authorised to charge your payment method accordingly until you cancel the Developer Subscription. You may cancel your Developer Subscription by visiting the Subscriptions tab within your Settings. All purchases of Developer Subscriptions are final and, unless otherwise permitted by Roblox or as required by law, non-refundable and non-transferable.
+    
+    5.5 Reviews
+    
+    If you leave or request a review on Roblox, our [Review Policy](https://en.help.roblox.com/hc/articles/45600166055188) applies.
+    
+6.  Paid Services
+    
+    Certain Services and Content may be made available for a one-time fee or recurring fees charged in cash or obtained through the use of Robux (“**Paid Services**”).
+    
+    #### 6.1 Merchant of Record
+    
+    Your acquisition of Robux or Paid Services are transactions between you and Roblox, except as otherwise provided in the Roblox Terms such as Creator Store. This means that when you obtain Robux or a Paid Service, you are acquiring the Robux or Paid Service directly from Roblox. You acknowledge and agree that all use of Robux, including the use of Robux to access, interact with or use UGC and other Paid Services on the Platform, are directly and exclusively between you and Roblox as the principal distributor and Merchant of Record. Regardless of whether Content is created or developed by Creator or Roblox, Roblox supplies and licences such Content to you. Roblox grants you the right to access and use Content as set forth in these User Terms. Except as otherwise provided in the Roblox Terms, no direct contractual relationship, transaction, sale, or licence is formed between you and any Creator with respect to your use of Robux or the Paid Services.
+    
+    #### 6.2 Payment methods
+    
+    Roblox accepts certain payment methods as detailed in [Which payment methods can I](https://en.help.roblox.com/hc/articles/203312580-Which-payment-methods-can-I-use) [use](https://en.help.roblox.com/hc/articles/203312580-Which-payment-methods-can-I-use). You must have a valid, accepted payment method on file in order to purchase Robux or Paid Services, or to participate in no-cost trial offers or other no-cost offers related to the Paid Services. You can update your payment methods in the “Payment method” section of the Settings page in your Account prior to any purchases. You agree to pay for any Robux or Paid Service that you order. Your payment method will be charged for the price for the Robux or Paid Service, as applicable, along with any additional amounts relating to applicable Taxes (as set forth in Section 8 (Taxes) below), bank fees and currency fluctuations.
+    
+    #### 6.3 Backup payment method
+    
+    If any payment for Robux or a Paid Service cannot be completed via your designated payment method, you authorise Roblox and/or its service provider to collect the payment (and any fees associated with such failed payment) from your designated payment method or any other payment method you have saved to your Account. If Roblox is unable to charge you for Robux or a Paid Service, you may not be able to access the Robux or Paid Service, as applicable, until you update your payment method(s). Where possible, we will provide you with notice when this happens. If you fail to update your payment method(s) within a reasonable amount of time following that notice, Roblox may cancel or suspend your access to the applicable Robux or Paid Service.
+    
+    #### 6.4 Payment processors
+    
+    Roblox uses third-party service providers for payment processing services (e.g., card acceptance, merchant settlement, and related services) ("**Third-Party Payment Processor**"). If you make a purchase of Robux or Paid Services, you will be required to provide your payment details and any additional information required to complete your orders either to Roblox or directly to our Third-Party Payment Processor. You may also be required to agree to terms and conditions directly with the processor.
+    
+    #### 6.5 Unauthorised transactions and refunds
+    
+    If you notice charges on your payment method relating to Robux or Paid Services that you did not authorise, please contact [Roblox Support](https://www.roblox.com/support) immediately. 
+    
+    #### 6.6 Changes to pricing
+    
+    You acknowledge that prices for Robux or Paid Services may change from time to time, for example, to reflect inflation, changes in applicable taxes, or changing business needs.
+    
+    If you are subscribed to a service with recurring fees, Roblox may adjust subscription fees. In particular, Roblox may increase prices for future renewals of the subscription which may, for example, include if a specific cost factor has materially changed, such as: applicable taxes or regulatory requirements, hosting or software licence costs, licenced content royalties, payment processing fees, or wage levels. Roblox will provide reasonable advance notice to users by email and/or in-app notification, stating the new fee and the effective date. Users who do not accept a fee increase may cancel.
+    
+    #### 6.7 Right of withdrawal for consumers
+    
+    You may have a statutory right of withdrawal from contracts for purchase of digital content or subscriptions to digital services on Roblox within 14 days without giving any reason.
+    
+    To exercise your right of withdrawal, you must inform us (Roblox Corporation, Customer Support, 3150 S. Delaware St., San Mateo, CA 94403, email: support@roblox.com) of your decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post or email). You may use the attached model withdrawal form, but it is not obligatory. 
+    
+    You can also electronically fill in and submit the model withdrawal form or any other unequivocal statement on our website [https://www.roblox.com/support](https://www.roblox.com/support). If you use this option, we will communicate to you an acknowledgement of receipt of such a withdrawal on a durable medium (e.g. by email) without delay.
+    
+    To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
+    
+    When you make a purchase of digital content which is not supplied on a tangible medium, Roblox may ask you to consent to the immediate performance of the contract and acknowledge that you thereby lose your statutory right of withdrawal in respect of that digital content. You will not be able to withdraw from your purchase of such digital content once you download, start streaming or otherwise use the digital content.
+    
+    This waiver does not apply to subscriptions to digital services. If you withdraw from a digital service, we will deduct from the reimbursement an amount that is in proportion to the services provided up to the time you communicated your decision to withdraw. 
+    
+    **Effects of withdrawal**
+    
+    If you withdraw from this contract, we shall reimburse to you all payments received from you, including the costs of delivery (with the exception of the supplementary costs resulting from your choice of a type of delivery other than the least expensive type of standard delivery offered by us), without undue delay and in any event not later than 14 days from the day on which we are informed about your decision to withdraw from this contract. We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have expressly agreed otherwise; in any event, you will not incur any fees as a result of such reimbursement.
+    
+    **Model withdrawal form**
+    
+    (complete and return this form only if you wish to withdraw from the contract)
+    
+    To Roblox Corporation, Customer Support, 3150 S. Delaware St., San Mateo, CA 94403 or the [Customer Support Form](https://www.roblox.com/support) or by email support@roblox.com.
+    
+    \- I/We(\*) hereby give notice that I/We(\*) withdraw from my/our(\*) contract of sale of the following goods (\*)/for the provision of the following service(\*),  
+    \- Ordered on(\*)/received on(\*)  
+    \- Name of consumer(s)  
+    \- Address of consumer(s)
+    
+    \- Signature of consumer(s) (only if this form is notified on paper)  
+    \- Date
+    
+    \_\_\_\_  
+    (\*) Delete as appropriate.
+    
+7.  Changes to the Services, including Robux and Paid Services
+    
+    Roblox is constantly improving and modifying the Services to improve the User experience and User safety. For this reason, Roblox may modify, suspend or discontinue the Services, or parts of the Services, including features that involve Robux. For example and without limitation, Roblox may (i) add or remove features, (ii) offer new content or services, (iii) discontinue services and/or (iv) change the limits for the amount of Robux that can be purchased or held in your account, or (v) change the price of Robux or of Paid Services as set out in Section 6.6.
+    
+    Roblox will only change the Service if there is a valid and legitimate reason to do so. Valid and legitimate reasons include:
+    
+    1.  ensuring that the Services function as intended, for example by remedying defects and enhancing efficiency;
+    2.  maintaining the security, integrity and operability of the Services;
+    3.  improving the Services, including by updating functionalities and user interfaces;
+    4.  adapting the Services to changes in user demand, for example by discontinuing services that no longer attract sufficient usage to remain commercially viable;
+    5.  ensuring compliance with applicable laws and regulatory requirements, court orders or directions from competent authorities; and
+    6.  safeguarding and protecting Roblox’s reputation.
+    
+    Roblox may also change the Service in other cases where Roblox considers the change necessary for other valid reasons.
+    
+    For changes to prices for Robux or Paid Services, Section 6.6 applies instead.
+    
+    Roblox will provide you with reasonable advance notice as required by applicable law. You can terminate your Account within 30 days after you receive the notice or the Services are changed, whichever is later. In any case, where a change is required urgently to address an imminent security threat, comply with a binding legal or regulatory requirement, or protect user safety, Roblox may implement it on shortened or no prior notice and will notify you as soon as reasonably practicable thereafter.
+    
+8.  Taxes
+    
+    #### 8.1 Paid Services
+    
+    Except as otherwise provided in program-specific terms such as the Ad Terms and Extended Services Terms, when you purchase Robux or certain Paid Services from Roblox in fiat currency, including purchases of Roblox Subscriptions, Developer Subscriptions, or Paid Access Games, the price payable is the price indicated at the time of purchase, plus all applicable sales and/or use taxes, value added tax (“**VAT**”) or goods and services tax (“**GST**”) or similar taxes and charges (collectively “**Taxes**”) that Roblox assesses on your purchase. For purchasers in countries where Roblox is registered for VAT or GST, the payable price will include applicable VAT or GST, at the rate applicable in the territory, unless otherwise indicated at the time of purchase. 
+    
+    At checkout, Roblox may ask for your location information to determine the correct tax amount for your purchase. This information can be saved in your settings for future purchases, but doing so is always optional.
+    
+    #### 8.2 Paid Access
+    
+    Paid Access is a Paid Service that provides you access to certain Games for a one-time payment by the User in Robux or local currency or USD (“**Paid Access**”). Depending on the Game, you may purchase Paid Access in only Robux or real currency. You can purchase a Paid Access on desktop in your local currency, or in USD if your local currency isn’t available. You may request a refund for a Paid Access paid for in USD or local currency within 48 hours of purchase. Paid Access paid for in Robux is final and non-refundable and non-transferable, unless otherwise permitted by Roblox or as required by applicable law. 
+    
+    To the extent withholding taxes, including but not limited to any duties, customs duties, and any Taxes, including any related penalties or interest, are applicable to Creators of Paid Access Games in local currency, these will be deducted from the Creator Payments (as defined in Section 6 of the Creator Terms) owed to you. Please see Section 6.2 of the Creator Terms for more information about taxes that may be deducted or withheld from Creator Payments, including applicable tax forms that must be submitted to Roblox prior to the receipt of any Creator Payment.
+    
+    #### 8.3 Creator Store
+    
+    All transactions on the Creator Store are processed by a Third-Party Payment Processor. By engaging in a Creator Store transaction, you agree to comply with and be bound by the applicable terms and privacy policies of the Third-Party Payment Processor. Roblox is not responsible for any failures or delays in payment processing caused by a third party.
+    
+    If you are under the legal age of majority in your jurisdiction or state of residence, your parent or legal guardian must create the associated account with our Third-Party Payment Processor, including consenting to any additional terms as outlined by them. If you are the parent or legal guardian of a minor, you agree that you will be responsible for all transactions made on the Creator Store by your minor whether or not such purchases were authorised by you.
+    
+    The sales price of an Asset on the Creator Store is exclusive of Taxes which may be applicable, and other Taxes or fees of any kind imposed with respect to supplies in any country, state or locality. The Creator agrees to comply with any and all applicable tax laws, including the reporting and payment of any Taxes arising in connection with your use of the Creator Store, and that the reporting and payment of any such applicable Taxes are the Creator’s responsibility. Roblox or its Third-Party Payment Processors have the right to deduct or withhold taxes from any payments to you to the extent it determines it is required to do so under applicable law. 
+9.  License from Roblox
+    
+    #### 9.1 License to Content and Services
+    
+    Subject to your ongoing compliance with these User Terms, we grant you a limited, non-exclusive, terminable, non-sublicensable, non-transferable, non-assignable, revocable licence to access and use Content and the Services in connection with the Platform. This licence is for the sole purpose of enabling you to use and enjoy the benefit of Content and the Services as provided by Roblox, in the manner permitted by these User Terms including the [Community Standards](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards). All Content is licenced and distributed to you by Roblox as principal, and not by any Creator. We reserve all rights, title, and interest not expressly granted in the Roblox Terms and you may not access or use Content or the Services except as set forth in the Roblox Terms. You may not remove any copyright or other proprietary notices from the Services.
+    
+    #### 9.2 Restrictions on use
+    
+    When you use the Services, you will not (and will not attempt to or permit or enable others to):
+    
+    1.  access, reproduce, download, distribute, display, publicly perform, sell, licence, alter, modify or otherwise use any part of the Service (including the source code of any proprietary software used to deliver the Service) or any Content except:
+        1.  as expressly authorised by the Service; or
+        2.  with prior written permission from Roblox and, if applicable, the respective rights holders;
+    2.  reverse engineer, disassemble, decompile, decode, adapt, or otherwise attempt to derive or gain access to source code;
+    3.  circumvent, disable, fraudulently engage with any part of the Service, or otherwise attempt to gain unauthorised access to any portion of the Service or any other systems or networks connected to the Service;
+    4.  access the Services using any means (for example, through data mining, robots, crawlers, scrapers or other automated data gathering and extraction tools) in connection with the training, development, or use of machine learning models or AI;
+    5.  harvest any Content or data on the Services for any purpose including in connection with the training, development, or use of machine learning models or AI;
+    6.  use the Service to sell any advertising, sponsorships, or promotions placed on, around, or within the Service or Content, other than those allowed via the [Roblox](https://en.help.roblox.com/hc/articles/15494846263060-Roblox-Advertising-Terms) [Advertising Terms](https://en.help.roblox.com/hc/articles/15494846263060-Roblox-Advertising-Terms), [Advertising Integrations Terms](https://en.help.roblox.com/hc/articles/47656162239124-Advertising-Integrations-Terms), or such other advertising terms as may be agreed with Roblox; 
+    7.  use the Services in violation of the [Community Standards](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards) or other provisions of the Roblox Terms; or
+    8.  use Roblox-Owned Content outside the Services or in connection with any off-Services merchandise, film, publication, or other derivative work.
+    
+    All rights relating to text and data mining are expressly reserved. Section 9.6 may apply to eligible researchers.
+    
+    #### 9.3 Reservation of use
+    
+    Insofar as use of Content for commercial purposes, including AI training, is permissible under applicable law, Roblox, on its own behalf and on behalf of its Users, expressly reserves all rights to use any Content on the Service for such purposes.
+    
+    #### 9.4 Third Party Services
+    
+    Some parts of the Services, including AI Features, may include or embed external APIs, content, tools, software code, or other services from third parties (“**Third Party Services**ˮ). Itʼs your choice whether to use these Third Party Services and whether to participate in Games or other spaces that incorporate them. We are not responsible for, nor do we control, these Third Party Services, including how the third party may collect, use, or store your information. By using the Third Party Services included in our Services, you agree to be bound by their separate terms, conditions, and policies, which we do not control. You are responsible for reviewing and accepting these third party terms and agreements that govern your use of their services and will be solely responsible for any associated fees owed to third parties. Roblox does not warrant or endorse, and will not have any liability for, any Third Party Services.
+    
+    #### 9.5 Open source software
+    
+    Some of the Services include software subject to separate open source licence terms, and your use of those Services is subject to your compliance with those licence terms, when applicable. Open source software licences constitute separate agreements with you so we encourage you to review them. To the limited extent the open source software licence expressly supersedes these User Terms, the open source licence instead sets forth your agreement with Roblox solely for the applicable open source software.
+    
+    #### 9.6 Researchers
+    
+    If you are a researcher and fulfil all requirements set out in Article 40 of EU Regulation 2022/2065 (“EU Digital Services Act”), and Roblox has been designated as Very Large Online Platform (“VLOP”) under the EU Digital Services Act and is currently subject to the VLOP obligations, then you may scrape publicly accessible data of the service subject to the restrictions set out in Article 40 EU Digital Services Act and applicable law.
+    
+10.  Roblox Intellectual Property
+     
+     #### 10.1 Roblox trademarks
+     
+     Unless the exception in Section 10.1.2 below applies, you are prohibited from using the name “Roblox”, “Blox”, and any name similar to Roblox in the titles of any Games, usernames, display names, and Group/Community names.
+     
+     #### 10.1.1 Limited licence
+     
+     Subject to Section 10.1 above and your adherence to the [Roblox Name and Logo Guidelines](https://en.help.roblox.com/hc/articles/115001708126-Roblox-Name-and-Logo-Community-Usage-Guidelines), Roblox grants you a non-exclusive, personal, limited, revocable, non-transferable licence to use Roblox trademarks, whether registered or unregistered, solely for use within your UGC on the Services. All goodwill arising from any use by you of any Roblox trademarks will be solely for the benefit of Roblox. Use by you of any Roblox trademarks outside of the Services (including a trademark that may be contained in the title of a Game) is permitted only as set forth in the [Roblox Name and Logo Guidelines](https://en.help.roblox.com/hc/articles/115004647846-Roblox-Terms-of-Use#miscellaneous-terms).
+     
+     #### 10.1.2 Exception
+     
+     If you published a Game prior to 22 June, 2022, that contained “Roblox”, “Blox”, or similar names in the Game titles, you may: (a) continue to keep the name of your Game; and (b) if applicable, keep any User names or Group/Community names associated with that Game.
+     
+     #### 10.2 Copyright, trademark, and takedowns
+     
+     Roblox respects the intellectual property of others and requires that Users of our Services do the same. As explained in our [Community Standards](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards), we will remove UGC from the Services upon receiving a valid takedown request from a rights holder. We will also terminate the Accounts of repeat infringers in appropriate circumstances. See our [IP Guidelines](https://create.roblox.com/docs/production/publishing/dmca-guidelines) and Section 4.1 above for more details about submitting a copyright or trademark infringement notice.
+     
+     #### 10.3 Feedback
+     
+     Any feedback you may provide regarding or relating to the Services is entirely voluntary, and you hereby grant us a royalty free, fully paid, worldwide licence for the duration of the intellectual property rights to use your feedback for any purpose as we see fit and without any obligation to you. Comments and suggestions about the Services are deemed non-confidential and non-proprietary and Roblox has the right to use them for any purpose.
+     
+11.  Conflicts and Disputes
+     
+     #### 11.1 Conflicts between Users
+     
+     If you are facing any issues with a Game or if you have been banned by the Creator from a specific Game, you should reach out to the Creator directly for assistance. See [Contacting a Game’s Creators for Help](https://en.help.roblox.com/hc/articles/6566665691924-Contacting-an-Experience-s-Creators-for-Help) for additional information about conflicts between Creators and Users.
+     
+     #### 11.1.1 Game Rules
+     
+     Roblox permits Creators to create custom rules that govern a Game and actions of Users in that Game (“**Game Rules**”) as long as Game Rules do not contradict or undermine the [Community Standards](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards) and the Roblox Terms. Game Rules are created, governed, and administered by the Creators and not by Roblox so Game Rules violations should not be reported to Roblox. Violations of Game Rules may only be reported to and handled by the Creator of the Game directly. Moderation actions for Game Rules are conducted by the Creator on behalf of the Game, and Roblox is not responsible and will have no liability for a Creator’s actions enforcing Game Rules or the content of the Game Rules themselves.
+     
+     #### 11.1.2 Escalation to Roblox
+     
+     While Roblox is not responsible for the actions or moderations of a Creator based on the Game Rules, Roblox wants to make sure that everyone enjoys the Services. Accordingly, Roblox has the right (but not the obligation) to intervene in issues between Users and Creators to try to help resolve them. Before escalating any such issues to Roblox, Users should first make a real, genuine effort to work out a resolution. Users may escalate the issue by contacting [Roblox Support](https://www.roblox.com/support). If Roblox chooses to intervene or take action in any dispute, the Users involved agree: (a) to work with Roblox in a timely manner to resolve the dispute; and (b) to grant Roblox the right to implement decisions made with respect to resolving the issue.
+     
+     #### 11.2 Disputes between you and Roblox
+     
+     #### 11.2.1 Informal Dispute Resolution
+     
+     Roblox believes that good faith, informal efforts to resolve Disputes often result in prompt, low-cost, and mutually beneficial outcomes for both you and Roblox. Roblox therefore encourages you to contact Roblox first so that the parties can try to resolve any Dispute informally before arbitration or court proceedings are commenced.
+     
+     Both parties may agree to engage in an informal dispute resolution process as described below:
+     
+     **(a) Notice.** To initiate the process, the party with a Dispute must first give written notice to the other party.
+     
+     *   To notify Roblox, you should send written notice to Roblox Corporation, Legal Department, 3150 S. Delaware St., San Mateo, CA 94403 by registered post, courier or international equivalent, providing: (i) the User’s full name, Roblox username and any email or billing address associated with the User’s Roblox Account; (ii) the name and contact information of the User’s counsel, if the User is represented by counsel; (iii) a brief description of the Dispute and the resolution requested; and (iv) the ticket or case number provided by Roblox Support to track previous attempts to resolve the Dispute, if there is one.
+     *   To notify a User, Roblox may send written notice to the email address or billing address that the User provided to Roblox or, if none is provided, through the messaging system on the Roblox Service. That notice will include a brief description of Roblox’s Dispute and the resolution requested.
+     
+     **(b) Process.** The parties will confer in writing or, if requested by either party, by teleconference or videoconference, in a good faith effort to informally resolve the Dispute. If either party is represented by counsel, that counsel may participate.
+     
+     **(c) Confidentiality.** To the fullest extent permitted by applicable law, all settlement offers, promises, conduct and statements made in the course of the informal dispute resolution process shall be confidential and treated as settlement communications. However, documents, information or other evidence that would otherwise be admissible in legal proceedings, or subject to disclosure, do not become inadmissible or protected from disclosure merely because they are used or discussed during the informal dispute resolution process.
+     
+     **(d) Timing.** Unless the parties agree otherwise, the informal dispute resolution process will last for up to sixty (60) days from receipt of the written notice described in section (a) above. If a party seeks urgent interim, injunctive or other equitable relief, the informal dispute resolution process for that relief will last for up to three (3) business days from receipt of the written notice, unless the parties agree otherwise.
+     
+     #### 11.2.2 Consumers
+     
+     If you are a consumer, nothing in these Roblox Terms requires you to arbitrate any dispute or excludes, limits or restricts your or Roblox’s right to bring proceedings before a court of competent jurisdiction in accordance with applicable law.
+     
+     Roblox is neither required nor willing to participate in consumer arbitration or consumer alternative dispute resolution proceedings, except where required by applicable mandatory law or expressly stated in the Roblox Terms. 
+     
+     This is without prejudice to the right of EU users, where applicable, to select a certified out-of-court dispute settlement body in accordance with Article 21 of the EU Digital Services Act. For more information, please see the EU Digital Services Act Page.
+     
+     If you are a consumer resident in France and a Dispute remains unresolved after you have first contacted Roblox, you may refer the matter free of charge to IEAM (Institut d’Expertise, d’Arbitrage et de Médiation), 31bis-33 rue Daru, 75008 Paris, France, [https://www.ieam.eu/demande-de-mediation](https://www.ieam.eu/demande-de-mediation).
+     
+     #### 11.2.3 Arbitration for Business Users
+     
+     The following applies to Users insofar as they use the Services acting within their trade, business, craft, or profession (“Business User”). To the fullest extent permitted by applicable law, and except as otherwise provided in the Roblox Terms, you and Roblox agree that all disputes arising out of or in connection with the Roblox Terms, including any question regarding their existence, validity or termination, shall be finally settled through binding arbitration administered by Federal Arbitration (FedArb) in accordance with the [UNCITRAL Arbitration Rules](https://uncitral.un.org/sites/uncitral.un.org/files/media-documents/uncitral/en/21-07996_expedited-arbitration-e-ebook.pdf), as modified by [FedArb’s UNCITRAL Appendix](https://fedarb.com/model-clause-for-international-arbitrations/#:~:text=*****-,FedArb%E2%80%99s%20UNCITRAL%20Appendix,-FedArb%20modifies%20and), which are incorporated by reference into this section, without recourse to the ordinary courts of law.
+     
+     Unless the parties stipulate otherwise, there will be one arbitrator (to be appointed by FedArb), the seat, or legal place, of the arbitration will be London, England, and the arbitration will be conducted in English. This arbitration agreement, including all matters relating to its existence, validity, scope, interpretation and enforceability, shall be governed by the laws of England and Wales. The law applicable to the merits shall be the laws of England and Wales.
+     
+     Unless required by applicable law, or unless the parties mutually agree otherwise in writing, any arbitration hearing, including oral argument, will be conducted by videoconference. If the arbitration hearing is conducted in person, it will take place in London, England, unless the parties agree otherwise or applicable law requires otherwise.
+     
+     Nothing in this Section 11 shall
+     
+     1.  prevent either party from applying to any court or other judicial authority of competent jurisdiction for interim relief of any kind including, without limitation, injunctive or other equitable relief to prevent the actual or threatened infringement, misappropriation or violation of a party's confidentiality rights or copyrights, trademarks, trade secrets, patents or other intellectual property rights;
+     2.  require either party to arbitrate Disputes that may not be subject to arbitration as a matter of generally applicable law; or
+     3.  prevent either party from bringing a claim in a court of law where it has a legal right to do so, which cannot be given up or changed by contractual agreement.
+     
+     If any provision of this arbitration agreement is found to be invalid, unlawful or unenforceable, that provision shall be severed to the minimum extent necessary, and the remainder of this arbitration agreement shall remain in full force and effect. 
+12.  Indemnification
+     
+     You agree that you will be responsible for your use of the Services, and you further agree to indemnify Roblox and its Affiliates, officers, directors, employees, consultants, advisors, agents, investors, and business partners (collectively, “**Affiliated Parties****”**) from and against every claim, liability, damage, loss, and expense, including reasonable attorneys’ fees and costs, you are legally responsible for arising out of or in any way connected with:
+     
+     1.  your access to, use of, or alleged use of the Services;
+     2.  your violation of any part of these Roblox Terms, any representation, warranty, or agreement referenced in the Roblox Terms, or any applicable law or regulation; or
+     3.  your actual or alleged violation of any third party right, including any intellectual property right, publicity or privacy right, property right, or confidentiality obligation.
+     
+     To indemnify means to pay another person for losses, damages, costs or expenses they have incurred.
+     
+     This indemnity applies only to the extent that the claim, liability, damage, loss or expense is caused by your wrongful or unlawful act or omission.
+     
+     Roblox reserves the right, at Roblox’s own cost, to take on the exclusive defence and control of any matter subject to indemnification by you (without limiting your indemnification obligations with respect to that matter), and in that case, you agree to cooperate with Roblox’s defence of that claim.
+     
+13.  Disclaimer and limitation of liability
+     
+     Roblox will use commercially reasonable efforts to maintain the availability and functionality of the Services. However, we do not guarantee that the Services will be offered indefinitely or in their current form for any particular period of time.
+     
+     Roblox hosts content created by Users and third parties. Roblox does not create, endorse, verify or assume any responsibility for such content. You acknowledge that you may be exposed to content that is inaccurate, incomplete, misleading or otherwise objectionable, and Roblox shall not be liable for any such content. The Services may also contain links to, or integrations with, third-party websites, products, services or advertisements that are not provided, owned or controlled by Roblox. We do not endorse and are not responsible for any such third-party offerings.
+     
+     If the Services do not function properly or are not as described or not in conformity with User’s agreement with Roblox, User may have additional statutory rights and remedies, including the legal guarantee of conformity. Nothing in these Roblox Terms shall exclude or limit any liability that cannot be excluded or limited under applicable law.
+     
+     #### 13.1 Disclaimer for Business Users
+     
+     This Section 13.1 only applies to Business Users. Except as expressly set out in the Roblox Terms, the Services are provided on an "as is" and "as available" basis and, to the fullest extent permitted by applicable law, without warranties or representations of any kind, whether express, implied or statutory, including any implied warranties or conditions relating to: (a) merchantability or satisfactory quality; (b) fitness for a particular purpose; (c) title or quiet enjoyment; or (d) non-infringement.
+     
+     #### 13.2 Limitation of Liability 
+     
+     #### 13.2.1 Non-excludable rights 
+     
+     If you are a consumer, you may have rights, remedies, guarantees and warranties under applicable law that cannot be excluded, limited or changed by contract. Those rights take priority over anything in the Roblox Terms.
+     
+     Nothing in these Roblox Terms excludes or limits Roblox’s liability, or affects any statutory right, remedy, guarantee or warranty, where it would be unlawful to do so under applicable law.
+     
+     #### 13.2.2 Limitation of liability for Consumers
+     
+     If you are a user not acting within your trade, business, craft, or profession (“Consumer”), Roblox’s liability is unlimited for damages arising out of:
+     
+     1.  death, injury to body or health, caused by an intentional or negligent breach of duty by Roblox, a legal representative of Roblox, or a person whose services Roblox uses in order to perform an obligation;
+     2.  an intentional or grossly negligent breach of duty by Roblox, a legal representative of Roblox, or a person whose services Roblox uses in order to perform an obligation;
+     3.  fraud or fraudulent misrepresentation;
+     4.  breach of any guarantee expressly given by Roblox; or
+     5.  liability under applicable product liability laws or any other liability that cannot be excluded or limited under applicable law.
+     
+     Without affecting the liability set out above, Roblox shall be liable for damages caused by a negligent breach of a contractual core duty only up to the amount of the damage that was typically foreseeable at the time of entering into the agreement. Contractual core duties in this context are those contractual obligations that are indispensable for the proper performance of the agreement and on whose fulfilment the contracting parties may ordinarily rely. 
+     
+     In all other cases, to the fullest extent permitted by applicable local law, Roblox shall not be liable for damages caused by negligence.
+     
+     #### 13.2.3 Limitation of liability for Business Users
+     
+     If you are acting as a Business User, Roblox’s liability is unlimited for damages arising out of:
+     
+     1.  death or personal injury resulting from Roblox’s negligence;
+     2.  fraud or fraudulent misrepresentation;
+     3.  liability under applicable product liability laws or any other liability that cannot be excluded or limited under applicable law.
+     
+     Without affecting the liability set out above, Roblox shall not be liable to you for any loss or damage arising under or in connection with these Roblox Terms, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, for any (i) loss of profit or revenue, (ii) loss of sales, business or business interruption, (iii) loss of agreements or contracts, (iv) loss of anticipated savings, (v) loss of or corruption of software, data or information, (vi) loss of or damage to goodwill or reputation, or (vii) any indirect or consequential loss, in each case howsoever arising and even if Roblox has been advised of the possibility of such loss.
+     
+     Subject to the foregoing, Roblox’s remaining liability to you for any other such loss or damage, shall be limited to losses that are reasonably foreseeable. A loss is reasonably foreseeable if it is an obvious consequence of Roblox’s breach or if it was contemplated by you and Roblox at the time you agreed to these Roblox Terms.
+     
+     #### 13.2.4 Liability cap for Business Users 
+     
+     If you are acting as a Business User, without affecting the liability set out above, and to the fullest extent permitted by applicable law, Roblox’s total aggregate liability to you under or in connection with these Roblox Terms, will not exceed the greater of (a) £ 100 or the equivalent amount in local currency; and (b) the amounts you paid to Roblox for the Services giving rise to the claim during the 12 months immediately before the event giving rise to the liability.
+     
+14.  Other important legal matters
+     
+     #### 14.1 Assignment
+     
+     You may not assign these Roblox Terms or any of your rights hereunder by operation of law or otherwise without Roblox’s prior written consent. Roblox may assign the Roblox Terms at any time to anyone without notice or consent. The Roblox Terms are binding on and inure to the benefit of Roblox’s and your respective successors and assigns.
+     
+     #### 14.2 Termination and survival
+     
+     You may terminate these Terms at any time by deleting your Account as described in Section 2.6, or by giving us written notice. 
+     
+     Roblox may terminate this contract by giving you reasonable advance written notice, unless termination is for good cause, including material violation by you of these Roblox Terms or of applicable law in connection with your use of the Services, in which case Roblox may terminate upon immediate notice with a statement of reasons. 
+     
+     In the event of termination of the Roblox Terms, as applicable, the rights and duties of Roblox and User to each other will terminate except that any part of the User Terms, which by their nature should survive termination, will survive, including Sections 3, 9, 10, 11, 12, 13, and 14.
+     
+     #### 14.3 Compliance with Laws
+     
+     You agree to comply with all applicable laws when using the Services. You may not access, export, re-export, or transfer the Services, directly or indirectly, to any country, entity, or individual restricted by U.S. export control and economic sanctions laws. By using the Services, you represent and warrant that you are (a) not located in a country subject to U.S. government embargoes or designated as a "terrorist-supporting" country; and (b) not identified on any U.S. government list of prohibited, restricted, or denied parties.
+     
+     #### 14.4 Investigations and cooperation with law enforcement
+     
+     Roblox reserves the right to investigate and prosecute any suspected or actual violations of the Roblox Terms. Roblox may disclose any information as necessary or appropriate to satisfy any law, regulation, legal process, as well as an authority, court, or government request. This may include, but is not limited to, disclosure of the content of communications to competent authorities as required by law to address threats to the life, or safety of a person where consistent with Roblox’s obligations under Article 18 Digital Services Act.
+     
+     #### 14.5 Interpretation
+     
+     In the Roblox Terms, “include” or “including” means “including but not limited to”, and any examples we give are for illustrative purposes. The section headers in the Roblox Terms are for convenience and will not impact the interpretation of the Roblox Terms. The Roblox Terms are subject to applicable law, meaning that they apply except to the extent otherwise prohibited or required by applicable law. Unless the context dictates otherwise, whenever the word “including”, or similar is found in the Roblox Terms, it means “including, without limitation” and whenever the word “or”, is found in the Roblox Terms, it means “and/or”.
+     
+     #### 14.6 Severance and no waiver
+     
+     If it turns out that a particular term of the Roblox Terms is not enforceable for any reason, this will not affect any other terms. If you fail to comply with the Roblox Terms and we do not take immediate action, this does not mean that we are giving up any rights that we may have (such as the right to take action in the future).
+     
+     #### 14.7 Prevailing Language
+     
+     To the extent any of the Roblox Terms are made available in multiple languages, in case of any discrepancies or conflicts between the English version of the Roblox Terms and any other language version, the English version will govern and prevail.
+     
+     #### 14.8 Terms Changes and Acceptance
+     
+     Roblox may amend the Roblox Terms from time to time. 
+     
+     In particular but not limited to the following, Roblox may amend the Roblox Terms if a change is reasonable and warranted by one or more of the following reasons: 
+     
+     1.  changes in applicable law, regulation, or regulatory guidance; 
+     2.  security vulnerabilities, safety concerns, fraud prevention, or the prevention of abuse or harm; 
+     3.  changes to the Platform or how Roblox conducts its business, including the addition or removal of products, features, or functionality; 
+     4.  adaptation to new technologies or industry standards; 
+     5.  material shifts in user numbers or usage patterns; or 
+     6.  improving clarity, correcting errors, or resolving ambiguities.
+     
+     Roblox will give you reasonable advance notice before any material changes take effect, by any reasonable means (including email or in-app notification). Where an amendment is required urgently to address an imminent security threat, comply with a binding legal or regulatory requirement, or protect user safety, Roblox may implement it on shortened or no prior notice and will notify you as soon as reasonably practicable thereafter.
+     
+     Your continued use of the Platform after the applicable notice period constitutes acceptance of the amended Roblox Terms. If you do not agree to an amendment, you must stop using the Platform and delete your Account before the amended Roblox Terms take effect.
+     
+     #### 14.9 Governing law and venue
+     
+     If you are a Consumer, these Roblox Terms are governed by the law of the jurisdiction in which you live. 
+     
+     If you are a Consumer, Roblox can bring proceedings against you before the competent courts of the country where you have your habitual residence, or before any other court of competent jurisdiction where permitted under applicable law. Consumers can bring proceedings against Roblox before the competent courts of the country where you live, or before any other court of competent jurisdiction available to you under applicable law. As a Consumer, nothing in this section limits any additional rights you may have under applicable mandatory law.
+     
+     If you are a Business User, subject to any applicable mandatory law, these Roblox Terms and any dispute or claim arising out of or in connection with them or Roblox’s services, including any non-contractual dispute or claim, are governed by the laws of England and Wales. For the law governing the arbitration agreement see Section 11.2.3. 
+     
+     If you are a Business User, subject to any applicable mandatory law and to Section 11.2.3, you and Roblox irrevocably agree that the courts of England and Wales have exclusive jurisdiction to settle any such dispute or claim.
+     
+     The United Nations Convention on Contracts for the International Sale of Goods does not apply to these Roblox Terms.
+     
+     #### 14.10 Online Communications
+     
+     You agree that any notices, agreements, disclosures, or other messages that Roblox sends to you by electronic means shall satisfy any legal requirements that such communications be in writing. You further agree that any time you electronically transact, agree, or consent via the Services, it is intended to be an electronic signature which binds you as if you had signed on paper.
+     
+     #### 14.11 Third-party platform-specific terms
+     
+     #### 14.11.1 Apple
+     
+     If you use the Roblox Player on an iOS device, you also agree to the terms of this section. You agree that your agreement is not with Apple, Inc. (“**Apple**ˮ). Roblox, not Apple, is solely responsible for the Services. Apple has no maintenance or support obligations with respect to the Services. Apple is not responsible for any product warranties, whether express or implied by law, with respect to the Services.
+     
+     If the Services fail to meet the applicable warranty, you may notify Apple, and Apple may refund any applicable purchase price for the mobile application to you. Apple has no other warranty obligation whatsoever with respect to the Services. Apple is not responsible for addressing any claims by you or any third party relating to the Services or your use of the Services, including: (a) product liability claims; (b) any claim that the Services fail to meet any applicable legal or regulatory requirement; and (c) claims arising under consumer protection or similar legislation.
+     
+     You agree that Roblox Terms do not grant any rights or remedies on any person other than the parties to the Roblox Terms, except as expressly stated. Apple and Appleʼs subsidiaries are third party beneficiaries of the Roblox Terms, and when you accept the Roblox Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce the Roblox Terms against you as a third party beneficiary.
+     
+     #### 14.11.2 Autodesk
+     
+     Roblox Studio contains Autodesk® FBX® code developed by Autodesk, Inc. Copyright 2025 Autodesk, Inc. All rights reserved.
+     
+     #### 14.11.3 Sony Playstation
+     
+     This section applies to you if you are accessing the Services on a Sony PlayStation® device. Purchase and use of items are subject to the Sony Playstation Terms of Service and User Agreement. This online service has been sublicensed to you by Sony Interactive Entertainment America. Any content purchased in an in-game store will be purchased from Sony Interactive Entertainment Network Europe Limited and be subject to PlayStation™ Network Terms of Service and User Agreement which is available on the PlayStation™ Store. Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.
+     
+     #### 14.12 Contact information
+     
+     Roblox welcomes comments, questions, concerns, or suggestions. You can contact us or get support via [Roblox Support](https://www.roblox.com/support). Roblox Corporation is a company operating under the laws of Nevada, located at 3150 South Delaware Street, San Mateo, California, 94403. Further contact information for EU users can be found on the [DSA page](https://en.help.roblox.com/hc/articles/13061336948244). Comments and suggestions about the Services are deemed non-confidential and non-proprietary and Roblox has the right to use them for any purpose without charge, royalties or other obligation to you. CREATOR TERMS
 
-Appendix E (The United Kingdom)
-
-1.  Priority
+1.  Introduction
     
-    If there is any inconsistency or conflict between the Roblox Terms and the supplemental provisions, the supplemental provisions shall prevail.
+    Welcome! These Roblox Creator Terms of Use (“**Creator Terms**”) apply to you (“**Creator**”) when you create, upload, publish, generate, or otherwise make available UGC on the Services or use the Creator Platform, including the Creator Store, in addition to: (a) any applicable documentation Roblox makes available for use with Roblox Creator Platform including the documentation on Creator Hub (“**Documentation**”); and (b) the Roblox Terms of Use (“**User Terms**”). If there are any conflicts between the Creator Terms and the User Terms, these Creator Terms control with respect to your access to and use of the Roblox Creator Platform.
     
-2.  Legal Agreement
+2.  Accepting these terms
     
-    1.  Notwithstanding anything to the contrary in the Roblox Terms, User’s agreement to the Roblox Terms is signified by registering on the Platform.
-    2.  User can register to the Platform by providing their date of birth, choosing a user name and a password and clicking on “Sign Up.” User can modify certain registration information via Account Settings at any time.User can access and download the Roblox Terms [here](https://en.help.roblox.com/hc/article_attachments/47741686745236).
-    3.  Unless otherwise agreed upon, User can terminate the agreements concluded with Roblox regarding the use of the Services any time. The effective date of the termination depends on the selected Services.
+    By accepting these Creator Terms, creating UGC, or otherwise accessing or using our APIs, you agree to comply with the Creator Terms. If you are using the Roblox Creator Platform on behalf of an entity, you represent and warrant that you have authority to bind that entity to the Creator Terms and by accepting the Creator Terms, you are doing so on behalf of that entity. You also confirm and agree that: (a) you are at least 18 years of age; and/or (b) if you are not old enough to have authority to consent to these Creator Terms in your country, you have your parent or legal guardian’s permission to use the Roblox Creator Platform. For details and further requirements if you are a minor, Section 2.1 of the User Terms applies.
     
-3.  Purchase of Robux and virtual items
+3.  Your use of the Roblox Creator Platform
     
-    User may have the ability to purchase Virtual Content in the Services using Robux. User can purchase Robux against the displayed price within the Services. When User selects one of the available amounts of Robux, User will be asked to complete the purchase within User’s Account and to select one of the available payment methods. Currently, Roblox offers several payment options including debit / credit card, PayPal, gift cards (for Roblox’s browser app), Google Play, iTunes, Amazon (for Roblox’ mobile apps), as well as in-app purchases for Roblox’s Xbox One app. In Roblox's reasonable discretion, Roblox may amend the available payment methods from time to time. The purchase contract will be concluded at the moment where User clicks on the “Pay” button (or other similarly designated purchase button) and the transaction is successfully completed. As a deviation from the Roblox Terms, in particular from Section 4 (a) of the User Terms and Section 4 of the Creator Terms, there will be a contractual relationship between Creators and Roblox. There will not be a direct contractual relation between Creators and Users. If User acquires Virtual Content and other things against payment of Robux, such acquisitions shall always be concluded between User and Roblox, and Creators shall always act on behalf of Roblox.
+    Our goal is to make Roblox a place where people can create with optimism and civility. To advance this goal, we provide the Roblox Creator Platform described below to you.
     
-4.  Absolute right in Robux
+    #### 3.1 Roblox Studio
     
-    As a deviation from Section 3(e) of the User Terms, and except in connection with User’s violation of a Roblox guideline or policy or User’s breach of any of the Roblox Terms, Roblox may exercise Roblox’ absolute right in Robux in Roblox’s reasonable discretion only with effect for the future (i.e. no effect on Robux User already validly holds) and without effect to any notice, refund, compensation or liability Roblox may have to User under this Appendix E or binding applicable law. The remaining provisions of Section 3(e) of the User Terms shall remain unaffected.
+    You may use Roblox Studio to create UGC including but not limited to Games, User Marketplace Items, or Developer Products. The availability of features in Roblox Studio may vary between countries and not all features may be available in your country. You may be asked to provide other information like an email address, phone number, or a government-issued photo identification to access Roblox Studio or certain features in Roblox Studio.
     
-5.  DevEx
+    #### 3.2 Creator Store
     
-    As a deviation from Section 4(c) of the Creator Terms, User may redeem Earned Robux for real currency based upon an exchange rate determined by Roblox and as potentially amended from time to time based upon requirements, procedures, and limitations established by Roblox in Roblox’s reasonable discretion with effect for the future (e.g. to compensate for inflationary fluctuations). The current exchange rate and the general requirements, policies, and limitations of the DevEx Program are published [here](https://www.roblox.com/developer-exchange/help).
+    Your use of the Creator Store, including any publishing, selling, and accessing assets, is subject to the [Creator Store Terms](https://en.help.roblox.com/hc/articles/21308223046932-Creator-Store-Terms). The Creator Store is available only to users acting within their trade, business, craft, or profession ("Business Users"). This applies to all use of the Creator Store, including publishing, selling, accessing, and purchasing. Consumers may not use the Creator Store. If you publish or sell an asset on the Creator Store, you represent and warrant that you have all rights necessary to grant the licence to Purchasing Creators. You remain responsible for your asset(s) and for any claims arising from your grant of rights to Purchasing Creators. If you purchase assets in the Creator Store, Section 6 of the User Terms also applies to you.
     
-6.  User’s statutory rights and refundability of payments
+    #### 3.3 Creator Analytics
     
-    1.  If the Services do not function properly or are not as described or not in conformity with User’s agreement with Roblox, User may have additional statutory rights and remedies.
-    2.  Nothing in the Roblox Terms shall limit any statutory rights to refunds Users may have under applicable law.
+    Creator Analytics is a suite of tools within Creator Hub that provides Creators with insights on their Games’ performance, user engagement, retention, and monetisation. By using Creator Analytics, you acknowledge that data related to your Game will be processed to calculate aggregated analytics. You agree: (a) to maintain all the benchmarking information obtained from Creator Analytics confidentially and use such information only to evaluate the performance of your Game; and (b) not to publicly share, sell, publish or disseminate the benchmarking information.
     
-7.  Limitation of liability
+    #### 3.4 DevForum
     
-    Sections 15(b)-(c) and 16 of the User Terms and Section 13 of the Creator Terms do not apply. In addition, the limitations of liability as set out in 2(g), 3(c) and (e), 4(d), 6(b), 11(b)-(c), 15(a) of the User Terms and 5(a)(ii) of the Creator Terms shall not apply. Instead, Roblox shall be liable for damages exclusively according to this clause.  
-     
+    “**DevForum**” is the official discussion and support forum for Roblox development and our primary avenue for communicating with and receiving feedback from Creators. Access to certain features of DevForum, such as commenting on posts, is based on criteria as determined by Roblox. 
     
-    1.  Roblox’s liability is unlimited for damages arising out of death, injury to body or health based on a breach conducted by a legal representative or designated agent of Roblox, as well as for damages that arise from the lack of a guaranteed characteristic or in case of fraudulent intent.
-    2.  Roblox’s liability is unlimited for damages caused by Roblox, a legal representative of Roblox, or designated agent of Roblox by intent or gross negligence.
-    3.  In case of a slight negligent breach of a contractual core duty Roblox shall, except in the cases set out in this Section 7A, B and D of this Appendix E, only be liable to the amount of the typically foreseeable damage. Contractual core duties abstractly are such duties whose accomplishment enables proper fulfilment of the contract in the first place and whose fulfilment a contractual party regularly may rely on.
-    4.  Liability pursuant to mandatory applicable law remains unaffected.
-    5.  The limitation period for claims for damages shall be one (1) year, except in case of Section 7A, B and D of this Appendix E where the statutory statute of limitations shall apply.
+    #### 3.5 Roblox Extended Services
     
-8.  Governing Law, Jurisdiction and Venue
+    Roblox Extended Services is a service for Creators with very large Games to purchase and obtain additional service usage beyond the [default Platform limits](https://create.roblox.com/docs/cloud-services/extended-services). Section 6 of the User Terms does not apply to purchases made through Roblox Extended Services. All payments and applicable terms related to Roblox Extended Services are governed by the provisions contained within the supplemental terms found in the [Roblox Extended Services Program Terms of Use](https://en.help.roblox.com/hc/articles/37967848292500-Roblox-Extended-Services-Program-Terms-of-Use). 
     
-    1.  As a deviation from Section 14 of the User Terms, to the extent that the mandatory law of User’s place of residence is more favorable than California law, the law of User’s place of residence shall apply.
-    2.  To the extent that User is a consumer acting for purposes which are outside their trade, business, craft or profession, the choice of jurisdiction and venue pursuant to Section 14 of the User Terms shall not apply.
+    If you exceed the default Platform limits and have not enrolled in Extended Services, you authorise Roblox to deduct Robux from your Robux balance in an amount corresponding to the excess use incurred. Roblox will provide you with notice of any such deduction. If your Robux balance is insufficient to cover the amount owed, Roblox may (a) pause Robux spending and (b) set the Game(s) that exceeded the default Platform limits to private until you repay the amount owed. Continued use of services in excess of default Platform limits constitutes your acceptance of this recoupment authorisation.
     
-9.  Resolution / Arbitration of Disputes
+    #### 3.6 AI technologies & AI Tools
     
-    1.  If User is a consumer (i.e. an individual who, in contracting with Roblox, is acting for purposes which are outside User’s trade, business, craft or profession), Section 13(b) and (c) of the User Terms shall not apply and Section 13 and 14(a) of the User Terms and 7(b) of the Creator Terms shall not exclude or limit any party’s recourse to the courts.
-    2.  Roblox is neither required nor willing to participate in any alternative dispute resolution schemes with a consumer arbitration panel. Rather, Roblox strives to resolve any conflicts as set out in Section 13(a) of the User Terms.
+    As part of our AI Features in Section 5.3 of the User Terms, we make available to Creators certain tools and APIs that allow you to use, interact with, or embed AI technologies in the course of creating Games or Content on the Services (“**AI Tools**”). You understand that Roblox, at its sole discretion, may restrict your use of AI Tools, including in relation to specific age groups of Users.
     
-10.  Notice to UK Users
-     
-     Section 18 of the User Terms does not apply.
-     
-11.  Survival
-     
-     In addition to the Sections listed in Section 19(b) of the Roblox Terms Section 7 of this Appendix E shall survive termination.
-     
-12.  Consent to Electronic Communications
-     
-     Section 19(f) of the User Terms does not apply. If Roblox has received User’s email address in the context of the sale of a product or a service, Roblox may use it for direct marketing of Roblox’s own similar products or services provided that Roblox has clearly and distinctly given User the opportunity to object, free of charge and in an easy manner, to such use of User’s email address upon their collection and on the occasion of each message in case User has not initially refused such use.
-     
-13.  Right of withdrawal
-     
-     If User is a consumer (i.e. an individual who, in contracting with Roblox, is acting for purposes which are outside User’s trade, business, craft or profession), User may revoke all concluded contracts under the following conditions  
-      
-     
-     1.  Information concerning the exercise of the right of withdrawal
-         1.  **Right of withdrawal.** Subject to Section 13D, below, User has the right to withdraw from this contract within 14 days without giving any reason. The withdrawal period will expire after 14 days from the day of the conclusion of this contract. To exercise the right of withdrawal, User must inform Roblox (Roblox Corporation, Customer Support, 3150 S. Delaware St., San Mateo, CA 94403, or (888) 858-2569) of User’s decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post). User may use the below-referenced model withdrawal form, but it is not obligatory. You can also electronically fill in and submit the model withdrawal form or any other unequivocal statement on our website through our [Customer Support Form](https://www.roblox.com/support). If you use this option, we will communicate to you an acknowledgement of receipt of such a withdrawal on a durable medium (e.g. by letter) without delay.
-             
-             To meet the withdrawal deadline, it is sufficient for User to send User’s communication concerning User’s exercise of the right of withdrawal before the withdrawal period has expired.
-             
-         2.  **Effects of withdrawal.** If User withdraws from this contract, Roblox shall reimburse to User all payments received from User, including the costs of delivery (with the exception of the supplementary costs resulting from User’s choice of a type of delivery other than the least expensive type of standard delivery offered by Roblox), without undue delay and in any event not later than 14 days from the day on which Roblox is informed about User’s decision to withdraw from this contract. Roblox will carry out such reimbursement using the same means of payment as User used for the initial transaction, unless User has expressly agreed otherwise; in any event, User will not incur any fees as a result of such reimbursement.
-             
-             If you requested to begin the performance of services during the withdrawal period, you shall pay us an amount which is in proportion to what has been provided until you have communicated with us your withdrawal from this contract, in comparison with the full coverage of the contract.
-             
-     2.  Model withdrawal form
-         
-         (complete and return this form only if you wish to withdraw from the contract)
-         
-         To Roblox Corporation, Customer Support, 3150 S. Delaware St., San Mateo, CA 94403.
-         
-         \- I/We(\*) hereby give notice that I/We(\*) withdraw from my/our(\*) contract of sale of the following goods (\*)/for the provision of the following service(\*),  
-         \- Ordered on(\*)/received on(\*)  
-         \- Name of consumer(s)  
-         \- Address of consumer(s)
-         
-         \- Signature of consumer(s) (only if this form is notified on paper)  
-         \- Date
-         
-         \_\_\_\_  
-         (\*) Delete as appropriate.
-         
-     3.  **Exceptions from the right of withdrawal.** The right to withdrawal may not exist in respect of distance or off-premise contracts for the supply of goods made to User’s specifications or clearly personalized.
-     4.  **Expiry of the right of withdrawal.** Please note that the right of withdrawal expires, in the cases of:
-         1.  service contracts after the service has been fully performed but, if the contract places the User under an obligation to pay, only if the performance has begun with User’s prior express consent and acknowledgement that User will lose their right of withdrawal once the contract has been fully performed by Roblox.
-         2.  contracts for the supply of digital content which is not supplied on a tangible medium if the performance has begun and, if the contract places User under an obligation to pay, where, (i) User has provided prior express consent to begin the performance during the right of withdrawal period; (ii) User has provided acknowledgement that User thereby loses User’s right of withdrawal; and (iii) Roblox has provided User with confirmation of the contract, which also states User’s consent to Roblox commencing performance of the contract before the expiry of the withdrawal period and confirmation of acknowledgement about the expiry of the right of withdrawal.
-     
-14.  Copyright
-     
-     Nothing in the Roblox Terms especially as regards Section 2(b) of the Creator Terms shall affect mandatory rights to remuneration for the use of copyrightable material.  
-     Roblox reserves the right to text and data mining of the Platform and the Services and any kind of other provided content.
-     
-15.  Compatible Devices
-     
-     The User can find information about the compatible devices available to use the Services [here](https://en.help.roblox.com/hc/categories/200217944).
-     
-16.  Repeated Misuse
-     
-     In addition to Section 2(g) of the User Terms, Roblox may refuse to process (i) appeals (ii) illegal content notices or (iii) other complaints submitted by Users or non-Users that repeatedly or egregiously misuse Roblox’s complaints and appeal system or illegal content notice form. Examples of such misuse include manifestly unfounded complaints, frequently providing unsubstantiated notices or appeals, or abusive use of the appeals or notice system including submitting a high volume of appeals or notices without any information. Such refusals may take into consideration e.g. User’s historic use of the appeal system or illegal content notice form and the severity of the misuse. Refusal durations may vary depending on the degree of the violation. Roblox may also suspend or terminate the accounts of Users who repeatedly publish illegal content. Such suspensions and terminations may take into consideration e.g. User’s historic content violations and the severity of the misuse. Suspension durations may vary depending on the degree of the violation. Roblox will notify you in advance of a suspension or termination, unless it is not appropriate for us to do so, and if you disagree with such action, you have the opportunity to appeal.
-     
-17.  Recommendations and Ranking of Virtual Content
-     
-     Depending on the Roblox feature (e.g. features like the Marketplace versus Experience Search), Roblox uses different factors in order to provide Users and Creators the most relevant search results and recommendations. The category of factors and relative importance applied to each of them varies depending on the applicable search or recommendation feature. Furthermore, for some features, Roblox provides Users and Creators the option to modify the order of results or recommendations that are presented, which can be found in close proximity to the search or recommendation feature. See [here](https://en.help.roblox.com/hc/articles/21416941036564) for more information about how recommendations and ranking work on Roblox.
-     
-18.  Notification and Appeal
-     
-     In addition to Section 2(f) of the User Terms, whenever Roblox restricts access to Virtual Content, Roblox notifies User of such decisions and provides User with an opportunity to appeal. In addition to considering the violation at hand when making such decisions, Roblox also considers User’s historical use of Roblox and whether User has repeatedly violated Roblox policies. Continued violations of certain policies may result in a stricter consequence (i.e., a warning, followed by a timeout, followed by a suspension, etc.). When reviewing an appeal request, Roblox holistically considers the severity of the violation, User's reason for appealing, and User’s behavior on the platform. Please note, in some circumstances, appeals may not be readily applicable — for example, a time-lapsed consequence such as a 20-minute timeout where the suspension has already been lifted.
-     
-19.  User’s right to claim for breach of contract
-     
-     User may have the right to bring a claim for breach of contract against Roblox. For example, if Roblox wrongfully removes or restricts access to User’s content or wrongfully suspends or bans User in breach of these terms, User has a right to bring a claim for breach of contract.
-     
-20.  Compliance with the Online Safety Act
-     
-     The Online Safety Act 2023 (“OSA”) requires Roblox to include certain information in its Terms of Use. This information is provided in the OSA Annex to this Appendix E.
-     
-
-Appendix F (Australia)
-
-1.  Priority
+    #### 3.6.1 Your responsibilities
     
-    To the extent of any inconsistency or conflict between the Roblox Terms and these supplemental provisions, the supplemental provisions shall prevail.
+    In addition to the requirements pertaining to AI Features detailed in Section 5.3 of the User Terms, Creators who choose to use Roblox’s AI Tools or other Third Party Services that include AI technologies must:
     
-2.  Compliance with the Online Safety Act
-    
-    1.  Roblox has obligations under the Online Safety Act 2021 (Cth) (“**AU OSA**”) to take certain steps to keep our end-users safe from illegal or harmful content online. The content regulated by the AU OSA framework is divided up into different categories as follows:
-        1.  “**Class 1A material**”, which is any of the following:
+    1.  comply with all applicable terms and policies of those Third Party Services, including paying any applicable fees;
+    2.  provide Users with clear disclosures about the use of AI within their Games, including that:
+        1.  the AI is not human; and
             
-            1.  child sexual exploitation material;
-            2.  pro-terror material; or
-            3.  extreme crime and violence material.
+        2.  AI output is artificially generated, does not represent the views or advice of a human, and may be factually inaccurate;
             
-            Roblox’s “Child Exploitation”, “Terrorism and Violent Extremism”, and “Violent Content and Gore” Community Standards are broad and cover class 1A material as defined within the AU OSA framework, among other types of violations.
-            
-        2.  “**Class 1B material**”, which is either of the following:
-            
-            1.  crime and violence material; or
-            2.  drug-related material.
-            
-            Roblox’s "Violent Content and Gore” and “Illegal and Regulated Goods” Community Standards are broad and cover class 1B material as defined within the AU OSA framework, among other types of violations.
-            
-        3.  “**Class 1C material**”, which is any class 1 material which describes or depicts specific fetish practices or fantasies and is not class 1A material.
-            
-            Roblox’s “Harassment and Discrimination”, “Romantic and Sexual Content”, “Violent Content and Gore”, “Illegal and Regulated Goods” and “Suicide, Self Injury, and Harmful Behavior” Community Standards are broad and cover class 1C material as defined within the AU OSA framework, among other types of violations.
-            
-        4.  “**Class 2A material**”, which is class 2 material that is a film which depicts actual (not simulated) sexual activity between consenting adults.
-            
-            Roblox’s “Romantic and Sexual Content” Community Standards are broad and cover class 2A material as defined within the AU OSA framework, among other types of violations.
-            
-        5.  “**Class 2B material**”, which is class 2 material which depicts high-impact sexually explicit images (including high-impact nudity).
-            
-            Roblox’s “Romantic and Sexual Content” Community Standards are broad and cover class 2B material as defined within the AU OSA framework, among other types of violations.
-            
-    2.  Under the AU OSA, we are required to include certain provisions in our terms of use. These provisions are contained in the Roblox Terms (which incorporate the Community Standards).
-    3.  The Community Standards prohibit certain types of content, including class 1A, class 1B material, class 1C material, class 2A material, class 2B material and any sharing of material via the service in the course of engaging with non-consensual sharing of intimate images, grooming of children, or sexual extortion on the Services. For Users in Australia, this means you must ensure the Services are not used, whether by you or by another person using your Account to:
-        1.  solicit, access, distribute, or store class 1A material, class 1B material, class 1C material, class 2A material or class 2B material; or
-        2.  share material via the service in the course of engaging with non-consensual sharing of intimate images, grooming of children, or sexual extortion. 
-    4.  Consistent with section 2(c) of the User Terms, you will be responsible for any actions taken in your Account and on the Services using your access credentials. For Users in Australia, this means you must ensure that any person who uses the Services with your Account complies with the Roblox Terms.
-    5.  This Appendix F does not in any way limit any of your other obligations under the Roblox Terms.
+    3.  not use any Third Party Services using AI for direct interaction with Users without making it immediately apparent from the interaction or the circumstances that Users are interacting with an AI system; 
+    4.  ensure that the AI is only used in accordance with applicable law and the Roblox Terms; and
+    5.  implement reasonable, proportionate and effective measures to prevent risks related to the use of AI systems.
+    
+    #### 3.7 Use of Roblox APIs
+    
+    Roblox’s APIs are designed to help you enhance your Games and applications (“**API Client(s)**”). To access certain APIs provided by us, you may be required to provide certain information (such as identification or contact details) as part of the registration process or for your continued use of the APIs. You are required to keep any registration information you give us to be accurate and up to date. By using our APIs, you do not acquire ownership of any rights in our APIs or the content that is accessed through our APIs.
+    
+    YOU AGREE THAT ROBLOX MAY MONITOR USE OF THE APIS TO ENSURE QUALITY, IMPROVE OUR PRODUCTS AND SERVICES, AND VERIFY YOUR COMPLIANCE WITH THE ROBLOX TERMS. This monitoring may include Roblox accessing and using your API Client, for example to identify security issues that could affect Roblox or its Users. Roblox may suspend access to the APIs by you or your API Client without notice if we reasonably believe that you are in violation of the Roblox Terms. You will also:
+    
+    1.  require your end users to comply with, and not knowingly enable them to violate, applicable law, regulation, and the Roblox Terms;
+    2.  only access an API by the means described in the documentation of that API, and refrain from misrepresenting or masking your identity or your API Client’s identity when using the APIs;
+    3.  refrain from interfering with Robloxʼs monitoring;
+    4.  use commercially reasonable efforts to protect user information collected by your API Client, including personal information, from unauthorised access or use, and promptly report to your users any unauthorised access or use of such information to the extent required by applicable law; and
+    5.  not sublicense an API for use by a third party.
+    
+    #### 3.8 Creator third-party apps
+    
+    If you develop or operate any application that interacts with or utilises Roblox systems, data, or services (including any OAuth 2.0 application or API Client), you agree to comply with the [Creator Third Party App Policy](https://en.help.roblox.com/hc/articles/37924211313044-Creator-Third-Party-App-Policy). Your app must accurately obtain and disclose all permissions and consents required from users to use the app. To enable Roblox to make your app available to end users, you grant Roblox a transferable, sublicensable, worldwide, non-exclusive, royalty-free right and licence for the duration of the intellectual property rights to host, store, import, localise, display, perform, distribute, and use your app and related content including, without limitation, all logos, trademarks, service marks or trade names related to your app. You must be the owner of or fully authorised to grant rights in all parts of your app and related content. You agree to pay all amounts owed to any person as a result of you uploading or making your app and related content available through the Services.
+    
+    #### 3.8.1 Representations and warranties
+    
+    You are responsible for your app and represent and warrant that: 
+    
+    1.  you are the creator and owner of, or have the necessary rights and permissions to use and to authorise Roblox to use, the licence that you grant to Roblox;
+    2.  your app and the use of your app does not and will not:
+        1.  infringe, violate, or misappropriate any third party right;
+        2.  slander, defame, libel, or invade the right of privacy, publicity or other property rights of any other person;
+        3.  require Roblox to get licences, permissions, or consents from, or pay compensation or provide attribution to, any third parties;
+        4.  result in a breach of contract between you and a third party; or
+        5.  cause Roblox to violate any law, statute, rule or regulation;
+    3.  your app and any related materials will not contain viruses, malware, or any other malicious or harmful content;
+    4.  you will comply with all laws, rules, statutes, regulations, contractual obligations and self-regulatory obligations applicable to any collection, use, disclosure, onward transfer, and other processing of personal information of Roblox, its platform users or any other third party; and
+    5.  you will comply with all applicable laws, statutes, rules and regulations.
+    
+    #### 3.8.2 App conduct
+    
+    You must not disable, override, or otherwise alter any system-level features or other system behaviour of the Services, and your app must not contain any features, functionalities, or elements that could confuse users regarding the distinction between your app and Robloxʼs system or the Services. Your collection and use of data, usage information, and metrics must only be as permitted by users of your app, and you are expressly prohibited from collecting or aggregating any such data, information, or metrics through your app or otherwise using your app or the Services to assess the performance or to gain insights into Roblox’s usage, revenue, or any other aspects of Roblox’s business or operations.
+    
+    #### 3.8.3 Disclaimer and removal
+    
+    Roblox is not liable for, nor is Roblox obligated to screen, approve, edit, or control your app and any related materials. Roblox may take actions as described in Section 4 of the User Terms if Roblox believes it violates the [Creator Third Party App Policy](https://en.help.roblox.com/hc/articles/37924211313044-Creator-Third-Party-App-Policy), these Creator Terms, any other part of the Roblox Terms or applicable law, or is otherwise objectionable or damaging to Roblox. Such actions include suspending, disabling, and/or taking down the app, and taking other appropriate action in accordance with the rights and remedies available to Roblox. For more details, see Section 4 of the User Terms.
+    
+    #### 3.9 Game data
+    
+    For each Game you create, you and Roblox may have access to data in connection with the creation and operation of that Game. You and Roblox each may use that data for your respective legitimate business purposes to support the Game and for business analytics, such as: (a) for the improvement and development of the Game and Services; (b) to comply with applicable laws including lawful requests from authorities; (c) to ensure the security and safety within the Game and Services; and (d) to prevent fraud or mitigate risk.
+    
+4.  Licenses
+    
+    #### 4.1 Roblox Licenses
+    
+    Sections 3.2 and 9 of the User Terms govern licences related to your use of the Services, which include the Roblox Creator Platform. 
+    
+    #### 4.2 Roblox’s Right to Monetise
+    
+    Roblox has the right to monetise and distribute your Content on the Services as principal, which may include charging Users to access or use your UGC. These Creator Terms do not themselves entitle you to any payment other than as expressly provided in Section 6 of these Creator Terms. However, any payments you are entitled to receive from Roblox in connection with the monetisation of your Content (including under the DevEx Terms, Creator Rewards, and other programs described in these Creator Terms) will be treated as royalties paid for Roblox’s exploitation of your licenced Content, and Roblox will withhold taxes from such payments as required by applicable law.
+    
+    Notwithstanding the royalty-free nature of the licence granted in Section 3.2 of the User Terms, to the extent Roblox exercises the copyright rights licenced to it (including reproduction, distribution, creation of derivative works, public performance, and public display) to monetise your Content as principal, and thereby generates revenue attributable to Users’ acquisition of, access to, or engagement with your UGC, Section 3.2 of the User Terms (as referenced in Section 4.1 above) shall, solely with respect to and to the extent of such monetisation, be royalty-bearing. In that case, Roblox will remit to you a Creator Payment determined in accordance with Section 6 of these Creator Terms, and such Creator Payment is the sole consideration for Roblox’s exercise of the licenced copyright rights in connection with such monetisation. No Creator Payment or other payment is due for the grant of the licence itself or for any non-monetising use of your UGC.
+    
+    #### 4.3 License to Roblox APIs and Documentation
+    
+    Subject to your compliance with these Creator Terms, we grant you a limited, non-exclusive, non-sublicensable, non-transferable, non-assignable, revocable licence to access and use the Roblox APIs and Documentation we make available to you solely as necessary to access the Services to the extent permitted under these Creator Terms. We reserve all rights, title, and interest not expressly granted in these Creator Terms and you may not access or use the APIs or Documentation except as set forth in these Creator Terms. You will not (and will not attempt to or permit or enable others to):
+    
+    1.  reverse engineer or otherwise derive source code, trade secrets, or know-how from the APIs, except to the extent this restriction is prohibited by applicable laws;
+    2.  modify, create derivative works, copy, reproduce, redistribute, rent, lease, sell, or syndicate access to the APIs; or
+    3.  access or use the APIs in any way that:
+        1.  is not in accordance with the applicable Documentation;
+        2.  compromises, breaks, or circumvents any of our technical processes or security measures;
+        3.  poses a security vulnerability to Users, us (including our systems or networks), or any third party; or
+        4.  exceeds any API rate, call, or other usage limits we set in our sole discretion or that we believe constitutes excessive or abusive usage.
+    
+    #### 4.4 Open source software
+    
+    Some of the software required by or included in Roblox APIs may be offered under an open source licence, as may be listed in the Documentation. Open source software licences constitute separate agreements so we encourage you to review them. To the limited extent the open source software licence expressly supersedes these Creator Terms, the open source licence instead sets forth your agreement with Roblox solely for the applicable open source software.
+    
+5.  Your responsibilities as a Creator
+    
+    #### 5.1 General responsibilities
+    
+    As a Creator, you are also primarily responsible for ensuring the UGC you licence to Roblox complies with the Roblox Terms and for addressing and resolving material issues that prevent Users from accessing or enjoying the UGC you provide. You may not artificially manipulate the user review system for your UGC. You must provide and maintain the UGC, so that Roblox can fulfil its duties to other Users under the Roblox Terms and applicable laws in all jurisdictions where your UGC is available, including applicable consumer protection laws.
+    
+    #### 5.2 Content from other Creators
+    
+    Roblox wants all Creators to develop their own ideas. In accordance with Section 3 of the User Terms, you will not copy or make any modification to another Creatorʼs UGC on the Services unless you have express written permission to do so from the relevant Creator(s) or unless the UGC is expressly made available for reuse, copying, or modification as an Asset in the Creator Store.
+    
+    #### 5.3 Responsibilities for Games
+    
+    As a Creator of a Game you have a responsibility to ensure that: (a) your Game complies with the Roblox Terms; and (b) Users in your Game are not violating the Roblox Terms, including the [Community Standards](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards). You agree to monitor your Game for potential or actual violations of the Roblox Terms by Users and promptly notify Roblox of violations.
+    
+    #### 5.3.1 Maturity & Compliance Questionnaire
+    
+    Before your Game is made available to any User, you must complete a “**Maturity & Compliance Questionnaire**”, which contains a set of questions about the type of Content Users can encounter within your Game and enables Roblox to assign your Game a [Content Maturity Label](https://en.help.roblox.com/hc/articles/8862768451604-Content-Maturity-Labels). You represent and warrant that you will provide accurate, complete, and up-to-date information in any Maturity & Compliance Questionnaire you submit to Roblox. You also acknowledge that you are not entitled to any particular Content Maturity Label. You acknowledge and agree that Roblox is not responsible for the accuracy, completeness, validity, or quality of any Content Maturity Labels. Roblox reserves the right to create and/or modify Content Maturity Labels from time to time at its sole discretion. Each Game’s rating is matched against the age information associated with the User’s account to determine which Games are searchable and playable, and parental controls may further restrict access for under-13 accounts.
+    
+    #### 5.3.2 Game Rules
+    
+    Creating Game Rules is voluntary and you agree that any Game Rules you create will not contradict or undermine the Roblox Terms (including [Community Standards](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards)). You must have your own systems for monitoring User compliance with Game Rules and moderating Users who violate the Game Rules. If, in the course of monitoring and moderating Game Rules, you become aware of Content or conduct in violations of the Roblox Terms (including [Community Standards](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards)), you must report this to Roblox immediately. You may not represent that you are authorised to moderate Users on behalf of Roblox.
+    
+    #### 5.4 Personal information about Users
+    
+    Through your use of the Services, you may process data, which may include personal information, about Users. You may not use, reverse engineer, decompile, or otherwise modify the Services to obtain personal information about a User or someone else in a way that is prohibited by the Roblox Terms. If you receive any personal information about a User, you must take all reasonable measures to protect such personal information from unauthorised access by third parties. In addition, you may not:
+    
+    1.  sell, disclose, or otherwise share the personal information with a third party unless expressly permitted in these Creator Terms; and
+    2.  use the personal information:
+        1.  to provide services to any third party;
+        2.  to build, help build, track or supplement any segments, profiles, or similar records on any individual User, device, or browser across the Services or any third party websites or platforms;
+        3.  to associate the behaviour of any individual device or browser with any segment, profile, or similar record, or supplement any such record based on data of Users;
+        4.  to associate any data of Users with any other personal information of the User; or
+        5.  for any unauthorised purpose in violation of any applicable law, including privacy and data protection laws, or for any unauthorised purpose.
+    
+    #### 5.5 Actions we may take
+    
+    If we learn that you are not upholding your responsibilities under these Creator Terms or that a significant portion of Users of your Game are violating our Roblox Terms, including our [Community Standards](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards), we may take any one or more of the following actions:
+    
+    1.  offer help;
+    2.  block, remove, or delete all or parts of the UGC, including any monetisation under Section 6 (Roblox economy) of these Creator Terms;
+    3.  remove or restrict your access to the Services;
+    4.  terminate or suspend your Account pursuant to Section 4.2 in the User Terms; or
+        
+    5.  contact law enforcement.
+    
+    If you fail to complete the Maturity & Compliance Questionnaire, or provide inaccurate or incomplete responses, Roblox may take moderation actions, including but not limited to making your Game unavailable to Users.
+    
+    #### 5.6 Intellectual Property Tools
+    
+    Roblox offers a suite of [intellectual property tools](https://create.roblox.com/docs/ip-licensing/license-manager) that allow rights holders to detect and manage their intellectual property on the Services. If a rights holder believes that their intellectual property is being used in your UGC, they can either offer you a licence to use their intellectual property or request your UGC’s removal.
+    
+    #### 5.6.1 Licensing Games
+    
+    When a rights holder offers a licence for their intellectual property under this Section 5.6.1 to be used in your UGC, the rights holder licences its intellectual property for continued incorporation in your UGC, and grants Roblox the licence described below, so that the UGC may remain on and continue to be distributed and monetised through the Services (“**Licensed UGC**”). First, the rights holder will receive a share of any Robux earnings attributable to the Licensed UGC. That share is a Creator Payment and is paid by Roblox to the rights holder in accordance with Section 6 of these Creator Terms and the DevEx Terms. Second, the rights holder may monitor the Licensed UGC, in which case the rights holder may receive aggregated engagement data about the Licensed UGC. Third, the rights holder may require you to take reasonable steps to comply with additional content standards.
+    
+    In doing so, the rights holder grants Roblox a licence to its intellectual property as incorporated in the Licensed UGC, on the terms of Section 3.2 of the User Terms (extending to trademarks, and lasting only while the rights holder’s licence to you remains in effect). The rights holder is an Earning Party; amounts Roblox pays it are Creator Payments governed by Sections 4.2, 6 and 6.2, and are not consideration for any forbearance, release, or covenant not to sue.
+    
+    The rights holder’s share is deducted in determining your Creator Payment for the Licensed UGC. Roblox pays you and the rights holder each in its own right, and you have no obligation to pay the rights holder in respect of Roblox’s distribution or monetisation of the Licensed UGC on the Services. Your own obligations to the rights holder outside the Services, if any, remain as between you and the rights holder.
+    
+    #### 5.6.2 Disputes and Appeals
+    
+    If a rights holder offers you a licence, you will have a limited time period to dispute or appeal if you believe your UGC was identified in error or if you have removed the relevant UGC. At the time of licence offer, you will receive additional information and instructions on how to dispute or appeal.
+    
+    #### 5.6.3 Release of Claims
+    
+    To the extent permissible under applicable law, during the period when your UGC is licenced in this manner, including during any dispute or appeal process, you agree not to take legal action against the rights holder for any claims arising from the presence of their intellectual property in your UGC. You agree that the rights holder shall not be liable for any similarity between your Licensed UGC (specifically the derivative elements based on the rights holder’s intellectual property) and any future rights holder works.
+    
+6.  Roblox economy
+    
+    “**Earning Party/Parties**” is (a) a Creator, Group/Community or its members who creates UGC in accordance with Section 3.2 of the User Terms that Users access and engage with by using Robux or, in the alternative, by paying money to Roblox through the Services, and (b) a third-party intellectual property rights holder entitled to a share of Robux earnings in respect of Licensed UGC under Section 5.6.1.
+    
+    By uploading or publishing UGC to the Platform, you explicitly appoint Roblox to act as the principal distributor and supplier of such User Content to Users. You acknowledge that Roblox, as the Merchant of Record, will directly contract with Users and may generate revenue based on or otherwise attributable to User interactions with your licenced User Content. In consideration for Roblox’s exercise of the rights granted in Section 3.2 of the User Terms (reproduction, distribution, creation of derivative works, public performance, and display) subject to the royalty-bearing modifications granted in Section 4.2 of the Creator Terms with respect to the User Content, Roblox will remit a royalty to you in accordance with the DevEx Terms (such amount, the “**Creator Payments**”). All amounts payable by Roblox to Earning Parties under any program described in this Section 6 or Section 5.6.1 constitute Creator Payments paid as consideration for your licence of UGC to Roblox under Section 3.2 of the User Terms and are subject to the royalty treatment set forth in Section 4.2 of the Creator Terms, and not compensation for any services, referral, or marketing activities performed by you. The primary benefit and value Roblox receives under Sections 4.2 and 6 of the Creator Terms, and Section 3.2 of the User Terms, is the right to reproduce, distribute to the public, prepare derivative works of, publicly perform, and publicly display the UGC. Any activity undertaken by a Creator in connection with the UGC is ancillary to that grant, and the predominant character of the arrangement is accordingly the transfer of copyright rights in the UGC. Creators retain all copyright rights in the UGC and do not provide development or modification services to Roblox in respect of the UGC. Roblox will withhold taxes from such payments as required by applicable law. 
+    
+    Except for transactions within the Creator Store, Roblox acts as the principal and sole seller of record for the distribution and monetisation of all UGC on the Platform. 
+    
+    For purchases of assets within the Creator Store, Roblox acts as a marketplace or platform facilitator and enables the processing of payments on behalf of the Creator by our Third-Party Payment Processor. Accordingly, the tax withholding on Creator Payments described above applies to payments for monetisation and distribution where Roblox acts as the principal, and does not apply to direct sales revenue you generate within the Creator Store or Roblox Commerce.
+    
+    #### 6.1 Creator Payments
+    
+    Roblox makes available UGC to Users through the Services, pursuant to the licence you grant Roblox under Section 3.2 of the User Terms. You acknowledge and agree that, pursuant to the licence grant in Section 3.2 of the User Terms, Roblox may generate direct revenue or otherwise monetise your UGC on the Services, including by displaying ads on or within Content. Neither your licence grant to Roblox nor any other provision in the Terms automatically entitles you to any rights to revenues generated by Roblox. 
+    
+    Notwithstanding the foregoing, you may be eligible to receive a share of the revenues generated by Roblox based on User access or engagement with your UGC made available by Roblox with Robux or any applicable money payments. You must be in good standing in compliance with the Roblox Terms and its Community Standards in order to earn money for your UGC and receive payments. To the extent you are so eligible, the licence granted in Section 3.2 of the User Terms becomes royalty-bearing solely with respect to, and to the extent of, such monetisation. Any money you are entitled to receive from Roblox will be treated by Roblox as royalties paid to you by Roblox in consideration for the intellectual property rights and licences granted to Roblox to host and distribute UGC in accordance with Section 3.2 of the User Terms.
+    
+    #### 6.2 Taxes and Withholding
+    
+    Your Creator Payments are paid by Roblox (for purposes of this Section 6.2, including any affiliates or agents of Roblox). Prior to any Creator Payments being made, Roblox requires you to have an IRS Form W-9 (for U.S. taxpayers), IRS Form W-8 (for non-U.S. taxpayers), or such other documentation as we may request from time to time (collectively, “**Tax Forms**”), on file with us. All Creator Payments made to users (other than for certain limited exceptions due to reporting requirements) will be reported to the IRS and to you using the applicable IRS form as required by applicable law.
+    
+    Roblox has the right to deduct or withhold taxes from any Creator Payments or other payments to the extent it determines it is required to do so under applicable law. Roblox may additionally be required to deduct or withhold taxes from payments to users if the required documentation is not provided or if otherwise required by the IRS or applicable law. Any amounts deducted or withheld from any such payment will be remitted to the IRS and will be reflected on the applicable tax reporting forms to the extent required by applicable law. All such deducted or withheld amounts will be treated as paid to you in accordance with these Creator Terms, and Roblox will not make any additional payments to you in respect of such withholdings.
+    
+    You are responsible for (a) ensuring that the information provided on your Tax Forms is accurate and up to date and (b) updating any Tax Forms or other information provided to Roblox that have expired or become obsolete or inaccurate. Failure to provide any required Tax Form, information, or other documentation may result in delays or withholding of payments.
+    
+    #### 6.3 DevEx Program and Earned Robux
+    
+    Earning Parties may: (a) enroll in our [Developer Exchange Program](https://create.roblox.com/docs/production/monetization/developer-exchange) (“**DevEx**”); and (b) be eligible to receive money as consideration for the rights to reproduce, distribute to the public, prepare derivative works of, publicly perform, and publicly display your licenced UGC. The DevEx Program and associated Creator Payments are governed by the [DevEx Terms](https://en.help.roblox.com/hc/articles/115005718246-Developer-Exchange-Terms-of-Use).
+    
+    “**Earned Robux**” is the mechanism Roblox uses to track and calculate the amounts that Earning Parties may receive from Roblox. Earned Robux can only be accumulated in the ways described in the [Monetisation](https://create.roblox.com/docs/production/monetization) section of Creator Hub or as provided in this Section 6 of the Creator Terms. Earning Parties may, in each case as determined based on the Earned Robux amount:
+    
+    1.  enroll in DevEx to receive money as described in Section 6.1 (Creator Payments); or 
+    2.  elect to receive Robux that can be used on the Services.
+    
+    #### 6.4 Creator Rewards
+    
+    “**Creator Rewards**” is an incentive program through which Roblox credits additional amounts that you may receive from Roblox that are tracked as Earned Robux. Creator Rewards are based on certain interactions and purchases on Roblox and in connection with Roblox’s distribution and public performance of your UGC. 
+    
+    Any amounts you are eligible to receive as part of Creator Rewards are paid as consideration for Roblox’s exercise of the copyright rights licenced under Section 3.2 of the User Terms and constitute Creator Payments subject to Sections 4.2 and 6 of the Creator Terms and to the royalty treatment described therein, and are not for any services, referral, or marketing activities performed by you. Engagement and purchase metrics are used solely to measure the value of Roblox’s exploitation of the licenced UGC and do not represent consideration for any activity performed by the Creator. If you take certain actions described in the [Creator Rewards Program](https://create.roblox.com/docs/creator-rewards), you may be eligible to receive additional amounts from Roblox, which will be tracked and calculated as Earned Robux as described in the [Creator Rewards Program](https://create.roblox.com/docs/creator-rewards). To be eligible for Creator Rewards, you must be in complete compliance at all times with these Creator Terms and the Roblox Terms, including the [Community Standards](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards). We reserve the right to review, investigate, as well as, suspend you from Creator Rewards in instances where we identify behaviour we believe to be abusive or fraudulent, such as: 
+    
+    1.  attempts to gain Earned Robux by opening multiple accounts, using different email addresses, using different phone numbers, or using bots;
+    2.  attempts to gain a referral reward by impersonating Roblox, another person, or misrepresenting your affiliation with a person or entity; 
+    3.  attempts to acquire Users by encouraging existing players to sign up for alternate accounts; or 
+    4.  having a disproportionately high percentage of chargebacks. See the [Creator Rewards Program](https://create.roblox.com/docs/creator-rewards) for more information.
+    
+7.  Music on Roblox
+    
+    #### 7.1 Licensed Music
+    
+    Roblox, through third party licences, may choose to make sound recordings and musical works (including sound effects) available to you for use in your UGC on the Services (“**Licensed Music**”). Your use of the Licensed Music is subject to the following terms and conditions.
+    
+    Roblox grants you: (a) a non-exclusive, personal, limited, revocable, non-transferable licence only to synchronise Licensed Music into a Game or other Content solely on the Services and only during the period when Roblox makes such Licensed Music available; and (b) the right to play, listen, and interact with Content with Licensed Music, but only on the Services and only during the period when Roblox makes the Licensed Music available. Licensed Music made available by Roblox under third-party licences is licenced to Roblox on the terms in this Section. If you upload music subject to Performing Rights Organisation (“**PRO”**) or publisher obligations, you remain responsible for those obligations as between you and the rights holder, except for Licensed Music supplied by Roblox.
+    
+    #### 7.1.1 250 Track Limit
+    
+    You have the right to place, play, and have played up to 250 distinct tracks of Licensed Music at any one time in a single Game or other Content. You may replace existing tracks of Licensed Music in a Game or other Content with new tracks at any time, provided that at any one time there are no more than 250 tracks in the Game or Content with Licensed Music.
+    
+    #### 7.1.2 Synchronisation
+    
+    You may synchronise the Licensed Music into a Game. You may use a portion of a track of Licensed Music or sample portions of Licensed Music.
+    
+    #### 7.1.3 Restrictions
+    
+    When you use the Licensed Music on the Services, you will not (and will not attempt to or permit or enable others to):
+    
+    1.  use Licensed Music to create a streaming service or music library within a Game or other Content, nor may you charge Users to listen to a specific track of the Licensed Music; or
+    2.  export, extract, download, or provide a way for anyone else to export, extract, or download the Licensed Music for use anywhere outside of the Services.
+        
+    
+    #### 7.1.4 Attribution
+    
+    Attribution means giving credit to the person who created something. You are not required to provide attribution for Licensed Music in any Game or other Content, but you may do so at your discretion. For example, if Roblox identifies the owner of Licensed Music as APM Music, you can message that the Licensed Music is provided “Courtesy of APM Music.ˮ
+    
+    #### 7.1.5 Loss of License
+    
+    As Licensed Music is licenced by Roblox from third parties, your rights to use Licensed Music are revocable at any time and for any or no reason, at Roblox’s sole discretion. Additionally, Roblox can revoke your right to all or part of the Licensed Music (with or without notice) if:
+    
+    1.  Roblox determines that your use of the Licensed Music may violate the Roblox Terms, including the Creator Terms and [Community Standards](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards);
+    2.  Roblox otherwise determines that the Licensed Music may harm the Services or Roblox’s reputation; 
+    3.  Roblox is required to remove the Licensed Music use from the Services by the copyright owner; or 
+    4.  the Licensed Music is no longer available for distribution on the Service.
+    
+    #### 7.1.6 Notice and your responsibilities
+    
+    Roblox will try to provide you with advance notice before revoking any usage rights to Licensed Music, but Roblox reserves the right to do so with no advance notice. If Roblox revokes your right to use Licensed Music (for any reason), you agree to immediately: (a) remove the Licensed Music concerned from your Game or other Content; and (b) cease all use of the Licensed Music concerned on the Services.
+    
+    #### 7.2 Music written/owned by Creators
+    
+    The following applies to musical works written or otherwise owned by you (and/or others with whom you collaborated) for use on the Services.
+    
+    #### 7.2.1 Creator as sole composer
+    
+    If you are a sole composer and/or writer of a musical work that you publish on the Services and you are affiliated with a PRO that represents the musical work, then you:
+    
+    1.  must notify the PRO in writing of the royalty-free licence that you grant to Roblox through Section 3 of the User Terms; and
+    2.  are responsible for complying with the PRO’s reporting obligations.
+    
+    #### 7.2.2 Creator as non-sole composer
+    
+    If you are not the sole composer and/or writer of a musical work that you publish on the Services, and you (and/or co-composers or co-writers) are affiliated with a PRO that represents the musical work, you:
+    
+    1.  are responsible for ensuring that all co-composers and/or co-writers also notify their respective PROs in writing; and 
+    2.  must have written proof of co-composers’ and/or co-writers’ approval to publish and use the musical work on the Services.
+    
+    #### 7.2.3 Assignment to music publisher
+    
+    If you have assigned your rights in/to a musical work to a music publisher, then you must obtain that music publisher’s written consent or cooperation to grant the royalty-free licences outlined in Section 3 of the User Terms.
+    
+    #### 7.2.4 Record label
+    
+    If you are a recording artist under contract with a record label, then you are responsible for making sure that your use of the Services complies with the obligations that you have to the record label.
+    
+    #### 7.2.5 Sound Recordings
+    
+    If you have the rights in and to a sound recording but are not authorised to licence the sound recording or the underlying musical work(s) embodied in those sound recordings, then you cannot upload or otherwise make those sound recordings available on the Services.
+    
+    #### 7.2.6 Clearances
+    
+    You are solely responsible for any necessary clearances and payments of any nature that may arise in connection with the use and synchronisation of your original sound recording(s) and/or musical work(s) on the Services, including, without limitation, any and all distribution rights, mechanical rights, public performance rights, synchronisation rights, and/or any other rights that may be claimed by a third party. You are also solely responsible for any union new use or re-use fees pursuant to the rules and regulations of any applicable union and/or guild agreements in connection with the publishing, upload, distribution, synchronisation, and other use of the sound recording(s) and/or musical works(s) on the Services.
+    
+8.  Conflicts and Disputes
+    
+    #### 8.1 Conflicts between you and a User 
+    
+    Roblox reserves the right, but has no obligation, to overturn any action or decision of a Creator with respect to Game Rules if Roblox believes that such action or decision: (a) conflicts with our Roblox Terms, including our [Community Standards](https://en.help.roblox.com/hc/articles/203313410-Roblox-Community-Standards); or (b) is not in the interest of Roblox or the Roblox Community.
+    
+    #### 8.2 Disputes between you and Roblox
+    
+    Section 11.2 of the User Terms applies to Disputes between you and Roblox.
+    
+9.  Indemnification, Disclaimer and limitation of liability and other important legal matters
+    
+    These Creator Terms apply in addition to the User Terms. In particular and without limitation, Sections 12 to 14 of the User Terms also apply to the Creator Terms.
     
 
-OSA Annex
-
-_**Summary of this OSA Annex for younger Users:** Roblox does many things to help keep you safe and protect you from content that is harmful and against the law and we’ve explained it in more detail below. We use technology and human moderators to check that content on Roblox doesn’t break_ [_our rules_](https://en.help.roblox.com/hc/articles/203313410)_. We take extra steps to remove and protect you from harmful content. For example, we check that images uploaded in experiences are appropriate. If you are worried about anything you see on Roblox and think it breaks_ [_our rules_](https://en.help.roblox.com/hc/articles/203313410)_, you can_ [_report it_](https://en.help.roblox.com/hc/articles/203312410)_, and if you need help you should speak to an adult who can support you._ [_Section 1_](#section-1-illegal-content) _of this Annex describes how Roblox protects all Users from illegal content._ [_Section 2_](#section-2-content-harmful-to-children) _of this Annex describes how Roblox protects Users, including those under the age of 18, from content harmful to children._
-
-_The above paragraph does not form part of the Roblox Terms. It is intended to help our younger Users understand this Annex and is provided solely for this purpose._
-
-**Roblox’s obligations under the UK Online Safety Act**
-
-Roblox aims to create a safe and civil online environment for our Users.
-
-*   Roblox has specific duties under the OSA to protect UK Users from certain types of illegal content, which the OSA refers to as "priority illegal content", and Roblox has to explain to Users how we do this. This includes terrorism content and child sexual exploitation and abuse (CSEA) content, as well as other types of illegal content. You can click [here](#protect-from-illegal-content) to learn about the measures we have taken to protect Users from this type of content, or scroll down.
-*   Roblox also has specific duties under the OSA to protect UK Users who are under the age of 18 from certain types of harmful content, which the OSA refers to as “primary priority content”, “priority content” and “non-designated content”, and Roblox has to explain to Users how we do this. This includes suicide and self-harm content, eating disorder content, pornographic content, abuse and hate content, as well as other types of content harmful to children. You can click [here](#protect-from-content-harmful-to-children) to learn about the measures we have taken to protect Users from this type of content, or scroll down.
-*   Roblox has policies and processes in place to help ensure the proper handling and resolution of relevant complaints under the OSA. You can click [here](#h_01JMZJ6GXTXBJZFYWFYPADVVK4) to learn more, or scroll down.
-
-1.  Section 1: Illegal content
-    
-    **How** **Roblox** **helps protect individuals from illegal content**
-    
-    Roblox takes a number of measures, and integrates multiple systems, including automated and human moderation, to help protect Users from illegal content including priority illegal content.
-    
-    Roblox has a multilayered moderation system that is designed to assess content uploaded to Roblox for potential violations of the Community Standards:
-    
-    *   For text, we use techniques such as text-filters and keyword lists. If a User attempts to send text that would be recognized by these methods, the text is filtered, preventing other Users from being exposed to the violative content.
-    *   For visual assets, including avatars and avatar accessories, we use a detection technique that involves taking photographs of 3D assets from multiple angles and flagging potentially harmful items for review.
-    *   For voice chat, we use Automatic Speech Recognition to transcribe voice into text, then use an in-house AI model to classify and detect violating language. This is done in real-time, allowing us to take action such as temporarily suspending or banning Users violating our Community Standards in voice chats on Roblox.
-    
-    The Community Standards, coupled with User behavior, inform a wide range of AI algorithms. Those algorithms are backed up by a team of thousands of moderators focused on improving quality and handling the most difficult decisions. We also actively encourage our Users to [report](https://en.help.roblox.com/hc/articles/203312410) any activity they feel concerned about directly to Roblox. Identified content is reviewed and we swiftly take action on violations. Roblox may suspend or permanently ban Users who severely or repeatedly violate our Community Standards.
-    
-    CSEA Content
-    ------------
-    
-    Roblox’s “Child Exploitation” Community Standard (“CE Community Standard”) is broad and covers CSEA content as defined by the OSA, among other types of violations.
-    
-    Roblox uses a variety of text-filtering, voice moderation, content moderation and other automated systems designed to proactively identify content and behaviours that may violate the CE Community Standard, including:
-    
-    *   using automated measures designed to specifically filter for CSEA content;
-    *   evaluating published and updated Experiences with a suite of AI driven tools designed to help identify problematic language, potential bypasses to our safety systems and violative content;
-    *   reviewing content including images prior to upload; and
-    *   scanning algorithms that review and monitor communications to proactively block and protect Users from inappropriate behavior.
-    
-    Additionally, images and videos are evaluated for child sexual exploitation and abuse imagery using PhotoDNA and Google’s Content Safety API. If flagged by these systems, the content is sent to trained agents to verify. If the content is confirmed to be CSEA content, this content is reported to the [National Center for Missing and Exploited Children](https://www.missingkids.org/home) upon review.
-    
-    These automated measures are designed to minimise the amount of time CSEA content is present on the Platform. Where Roblox identifies content that violates the CE Community Standard through automated measures, or is made aware of it through [reports](https://en.help.roblox.com/hc/articles/203312410), Roblox swiftly removes it.
-    
-    Roblox may suspend or permanently ban Users who severely or repeatedly violate our CE Community Standard.
-    
-    Terrorism Content
-    -----------------
-    
-    Roblox’s “Terrorism and Violent Extremism” Community Standard (“TVE Community Standard”) is broad and covers terrorism content as defined by the OSA, among other types of violations.
-    
-    Roblox uses a variety of text-filtering, voice moderation, content moderation and other automated systems designed to proactively identify content and behaviours that may violate the TVE Community Standard, including:
-    
-    *   using automated measures designed to specifically filter for content glorifying and associated with terrorist organisations and mass violence;
-    *   evaluating published and updated Experiences with a suite of AI driven tools designed to identify problematic language, potential bypasses to our safety systems and violative content;
-    *   reviewing content including images prior to upload; and
-    *   scanning algorithms that review and monitor communications to proactively block and protect Users from inappropriate behavior.
-    
-    These automated measures are designed to minimise the amount of time Terrorism Content is present on the Platform. Where Roblox identifies content that violates the TVE Community Standard, or is made aware of it through [reports](https://en.help.roblox.com/hc/articles/203312410), Roblox swiftly removes it.
-    
-    Roblox may suspend or permanently ban Users who severely or repeatedly violate the TVE Community Standard.
-    
-    Other Priority Illegal Content
-    ------------------------------
-    
-    Other types of priority illegal content as defined by the OSA are largely covered in our [Community Standards](https://en.help.roblox.com/hc/articles/203313410). In addition to our Community Standards, our [Advertising Standards](https://en.help.roblox.com/hc/articles/13722260778260) prohibit the promotion or solicitation of weapons, illicit drugs and other goods or services that could constitute priority illegal content.
-    
-    Roblox uses a variety of text-filtering, voice moderation, content moderation and other automated systems that are designed to proactively identify content and behaviours that may violate the Community Standards, including:
-    
-    *   using automated measures designed to specifically filter for content;
-    *   evaluating published and updated Experiences with a suite of AI driven tools designed to identify problematic language, potential bypasses to our safety systems and violative content;
-    *   reviewing content including images prior to upload; and
-    *   scanning algorithms that review and monitor communications to proactively block and protect Users from inappropriate behavior.
-    
-    These automated measures are designed to minimise the amount of time other priority illegal content is present on the Platform. Where Roblox identifies content that violates its [Community Standards](https://en.help.roblox.com/hc/articles/203313410), or is made aware of it through [reports](https://en.help.roblox.com/hc/articles/203312410), Roblox swiftly removes it.
-    
-    Roblox may suspend or permanently ban Users who severely or repeatedly violate our Community Standards.
-    
-2.  Section 2: Content harmful to children
-    
-    **How** **Roblox** **helps protect individuals from content harmful to children**
-    
-    Roblox takes a number of measures, and integrates multiple systems, including automated and human moderation, to help protect Users from primary priority content, priority content and non-designated content harmful to children. Our Community Standards prohibit all of these kinds of content harmful to children as well as other types of content that might be harmful to children and Users more generally.
-    
-    Roblox has a multilayered moderation system that is designed to assess content uploaded to the Platform for potential violations of the [Community Standards](https://en.help.roblox.com/hc/articles/203313410):
-    
-    *   For text, we use techniques such as text filters and keyword lists. If Users attempt to send text that would be recognized by these methods, the text is filtered, preventing other Users from being exposed to it.
-    *   For visual assets, including avatars and avatar accessories, we use a detection technique that involves taking photographs of 3D assets from multiple angles and flagging potentially harmful items for review.
-    *   For voice chat, we use Automatic Speech Recognition to transcribe voice into text, then use an in-house AI model to classify and detect violating language. This is done in real-time, allowing us to take subsequent action such as temporarily suspending or banning Users that violate our Community Standards.
-    
-    The Community Standards, coupled with User behavior, inform a wide range of AI algorithms. Those algorithms are backed up by a team of thousands of moderators focused on improving quality and handling the most difficult decisions.
-    
-    Users can also [report](https://en.help.roblox.com/hc/articles/203312410) any activity they feel concerned about directly to Roblox. Reported content is reviewed and we swiftly take action on violations.
-    
-    Independently of the OSA requirements, Roblox also takes additional measures to help protect Users, including Users under the age of 18, more generally from content that Roblox considers is not appropriate for them or that they do not wish to see, for example:
-    
-    *   Roblox uses [Content Maturity Ratings](https://en.help.roblox.com/hc/articles/8862768451604) to help Users make informed decisions about the Experiences they interact with and help to reduce the chances of encountering content they don't want to see. Our maturity ratings (Minimal, Mild, Moderate, Restricted) and content descriptors (for example, strong language, violence, blood) appear on Experience pages and are used to recommend Experiences to Users on [Home](https://www.roblox.com/home) and [Discover](https://www.roblox.com/discover) pages based on age group and regional content policies. Roblox’s language policies apply to both in-Experience content and how Users communicate within text and voice chat.
-    *   Roblox deploys detection systems that help identify conversations that attempt to direct Users off Roblox to another platform.
-    *   Roblox tailors Users’ experiences based on their age (Under Age 9 and 9-13, Ages 13-17, Age 17, and Age 18+). For example, Users under the age of 13 need parent permission to access certain chat features and unrated Experiences are not searchable or playable by them. Further details can be found [here](https://en.help.roblox.com/hc/articles/30428367965460).
-    *   Roblox requires Users to [verify their age](https://en.help.roblox.com/hc/articles/4407282410644) to access certain Platform features like 17+ Experiences.
-    *   Roblox offers a robust set of parental controls to help families shape a safe and age-appropriate experience for their children on the Platform. These [tools](https://corp.roblox.com/newsroom/2025/04/new-parental-controls-on-roblox) are designed to give parents visibility and control over how their child interacts on Roblox. To enable parental controls, parents can create their own Roblox account (on their own device) and link it to their child’s account through our [Account Linking](https://en.help.roblox.com/hc/articles/30428321333140) feature. Once linked, parents can monitor activity, set boundaries, manage the maturity levels of experiences their child is able to access, and update settings in real time. Further details can be found [here](https://en.help.roblox.com/hc/articles/30428248050068) and [here](https://en.help.roblox.com/hc/articles/30428310121620).
-    
-    Primary priority content (suicide, self-harm, eating disorder and pornography)
-    ------------------------------------------------------------------------------
-    
-    Roblox’s [Community Standards](https://en.help.roblox.com/hc/articles/203313410) prohibit primary priority content as defined by the OSA:
-    
-    *   The Suicide, Self-Injury and Harmful Behaviour Community Standard is broad and covers suicide, self-harm and eating disorder content as defined by the OSA, among other types of violations.
-    *   The Romantic and Sexual Content Community Standard is broad and covers pornographic content as defined by the OSA, among other types of violations.
-    
-    Roblox uses a variety of text-filtering, voice moderation, content moderation and other automated systems designed to proactively identify content and behaviours that may violate the Suicide, Self-Injury and Harmful Behaviour and/or the Romantic and Sexual Content Community Standards, including:
-    
-    *   a combination of human review and AI-powered tools to monitor and moderate content on the Services (including text, images, audio, and video), to help determine whether it includes violative content. AI tools review and block identified violative content contained in text-based communications before other Users can see it, and flag conversations containing suspicious content to human moderators for further review.
-    *   using detection techniques to identify and prevent uploads of assets similar or identical (depending on the asset) to those previously identified as violative.
-    *   using automatic speech recognition tools to transcribe voice chat into text and using our in-house AI model to classify and detect certain violative content. This is done in real-time, allowing Roblox to take subsequent action such as sending a 'nudge' to the User, or temporarily suspending or banning the User.
-    
-    These measures are designed to prevent Users from encountering primary priority content. Where Roblox identifies content that violates our Community Standards, or is made aware of it through [reports](https://en.help.roblox.com/hc/articles/203312410), Roblox swiftly removes it.
-    
-    Users that violate our Community Standards may experience warnings, content removals, and/or account-level restrictions or may be sent helpful resources where appropriate.
-    
-    Where Roblox is made aware of potential primary priority content, we may also perform internal investigations and take action where appropriate. This may include reports to appropriate law enforcement authorities if Roblox believes there is a credible threat of imminent self-harm.
-    
-    Priority content (abuse and hate, bullying, violent, harmful substances, dangerous stunts and challenges)
-    ---------------------------------------------------------------------------------------------------------
-    
-    Roblox’s [Community Standards](https://en.help.roblox.com/hc/articles/203313410) cover priority content as defined by the OSA:
-    
-    *   The Discrimination, Slurs and Hate Speech Community Standard is broad and covers abuse and hate content as defined by the OSA, among other types of violations.
-    *   The Threats, Bullying and Harassment and the Violent Content and Gore Community Standards are broad and cover bullying and violent content as defined by the OSA, among other types of violations. One of the key principles of our Community Standards is Child Protection and Preventing Threats and Harassment: any form of bullying, stalking or intimidation or threats of harm is not allowed.
-    *   The Suicide, Self-Injury and Harmful Behaviour and the Illegal and Regulated Goods and Activities Community Standards are broad and cover harmful substances content and dangerous stunts and challenges content as defined by the OSA, among other types of violations.
-    
-    Roblox uses a variety of text-filtering, voice moderation, content moderation and other automated systems that are designed to proactively identify content and behaviours that may violate the Discrimination, Slurs and Hate Speech, the Threats, Bullying and Harassment, the Violent Content and Gore, the Suicide, Self-Injury and Harmful Behaviour, and/or the Illegal and Regulated Goods and Activities Community Standards, including:
-    
-    *   a combination of human review and AI-powered tools to monitor and moderate content on the Services (including text, images, audio, and video), to help determine whether it includes violative content. AI tools review and block violative content contained in text-based communications before others can see it, and flag conversations containing suspicious content to human moderators for further review.
-    *   using detection techniques to identify and prevent uploads of assets similar or identical (depending on the asset) to those previously identified as violative.
-    *   using automatic speech recognition tools to transcribe voice chat into text and using our in-house AI model to help classify and detect certain violative content. This is done in real-time, allowing Roblox to take subsequent action such as sending a 'nudge' to the User, or temporarily suspending or banning the User.
-    
-    These measures are designed to protect Users from encountering priority content. Where Roblox identifies content that violates our Community Standards or is made aware of it through [reports](https://en.help.roblox.com/hc/articles/203312410), Roblox swiftly removes it.
-    
-    Users that violate our Community Standards may experience warnings, content removals, as well as account-level restrictions.
-    
-    Where Roblox is made aware of potential priority content, we may also perform internal investigations and take action where appropriate. This may include reports to appropriate law enforcement authorities if Roblox believes there is a credible threat of imminent harm.
-    
-    Non-designated content (depression, body stigma)
-    ------------------------------------------------
-    
-    Roblox’s [Community Standards](https://en.help.roblox.com/hc/articles/203313410) cover non-designated content identified by Ofcom:
-    
-    *   The Suicide, Self-Injury and Harmful Behaviour Community Standard is broad and covers depression content as defined by Ofcom, among other types of violations.
-    *   The Threats, Bullying and Harassment Community Standard is broad and covers body stigma content as defined by Ofcom, among other types of violations.
-    
-    Roblox uses a variety of text-filtering, voice moderation, content moderation and other automated systems that are designed to proactively identify content and behaviours that may violate the Threats, Bullying and Harassment, and/or the Suicide, Self-Injury and Harmful Behaviour Community Standards, including:
-    
-    *   a combination of human review and AI-powered tools to monitor and moderate content on the Services (including text, images, audio, and video), to help determine whether it includes violative content. AI tools review and block violative content contained in text-based communications before other Users can see it, and flag conversations containing suspicious content to human moderators for further review.
-    *   using detection techniques to identify and prevent uploads of assets similar or identical (depending on the asset) to those previously identified as violative.
-    *   using automatic speech recognition tools to transcribe voice chat into text and using our in-house AI model to classify and detect certain violative content. This is done in real-time, allowing Roblox to take subsequent action such as sending a 'nudge' to the User, or temporarily suspending or banning the User.
-    
-    These measures are designed to protect Users from encountering non-designated content. Where Roblox identifies content that violates our Community Standards, or is made aware of it through [reports](https://en.help.roblox.com/hc/articles/203312410), Roblox swiftly removes it.
-    
-    Users that violate our Community Standards may experience warnings, content removals, and/or account-level restrictions or may be sent helpful resources where appropriate.
-    
-    Where Roblox is made aware of potential non-designated content, we may also perform internal investigations and take action where appropriate. This may include reports to appropriate law enforcement authorities if Roblox believes there is a credible threat of imminent self-harm.
-    
-
-How to make a relevant complaint
---------------------------------
-
-Roblox has policies and processes in place to ensure the proper handling and resolution of relevant complaints under the OSA.
-
-UK Users can report content they suspect to be illegal under UK laws using our reporting functionality available [here](https://www.roblox.com/illegal-content-reporting), and make other OSA-specific complaints using a process we will make available. UK Users will also be able to report content they suspect to be harmful to children using a reporting functionality we will make available. Further details will be made available [here](https://en.help.roblox.com/hc/articles/203312410). Details about how to appeal decisions will be made available [here](https://en.help.roblox.com/hc/articles/360000245263).
-
-Summary of Recent Changes
-
-_Terms of Use_
-
-*   We are simplifying our Terms of Use, including clarifications around the use of AI tools, and their data use.
-    *   We have moved the terms that describe AI Features, which were previously written for a Creator audience and located under the AI-Based Tools Supplemental Terms and Disclaimer, into the User and Creator Terms.
-    *   We have added clarifying language in Creator Analytics, DevForum, and Talent Hub
-    *   We added clarifying language to our Online Safety section describing our moderation practices.
-    *   We added clarifying language about the role of Group/Community Owners and made related edits to our Creator and User Terms.
-*   We are updating our policies to improve transparency around ads on the platform, to clarify eligibility for ads, and to provide more disclosure around how Roblox uses content for brand advertising.
-    *   We are making changes to our Terms of Use and Privacy Policy to better moderate commercial content in experiences and permit ads to all users on the platform.
-    *   We added language clarifying who can see personalized and non-personalized ads on Roblox.
-    *   We simplified and clarified Roblox's rights to use Creator UGC in marketing and advertising.
-    *   We’ve provided clarification regarding using our intellectual property tools and derivative works.
-*   We are clarifying language around pricing for Premium subscriptions, and for Creators who utilize Extended Services.
-    *   We have updated references to Premium subscription to broaden for all subscriptions and linking out to newly created stand-alone Subscription Terms.
-    *   We have added terms for Roblox Extended Services describing overage dues 
-*   We have updated language describing requirements for using our API’s and for government and law enforcement requests.
-    *   We added language describing our practices for sharing information with authorities.
-    *   We added language clarifying the terms applicable to Roblox APIs.
-
-We are also making changes to other portions of the Roblox Terms to align with these changes. Please take some time to review them.
+Effective Date: 1 November, 2026
 
 - - -
 
