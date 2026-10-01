@@ -100,7 +100,7 @@ Some examples that do NOT violate this policy
 How can I report potential violations of this policy?
 -----------------------------------------------------
 
-To report content that potentially violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on reddit.com (if you have a Reddit account) or you can file a report [here](https://support.reddithelp.com/hc/requests/new?ticket_form_id=15968767746196&tf_15968861076756=report_content_policy_violation) (if you do not have a Reddit account).
+To report content that potentially violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on [reddit.com](https://www.reddit.com/).
 
 To find out more about Reddit's enforcement philosophy, please click [here](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://www.redditinc.com/policies/transparency).
 
@@ -153,7 +153,7 @@ Some examples that do NOT violate this policy
 How can I report potential violations of this policy?
 --------------------------------------------------------
 
-To report content that potentially violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on reddit.com (if you have a Reddit account) or you can file a report [here](https://support.reddithelp.com/hc/requests/new?ticket_form_id=15968767746196&tf_15968861076756=report_content_policy_violation) (if you do not have a Reddit account).
+To report content that potentially violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on [reddit.com](https://www.reddit.com/).
 
 To find out more about Reddit's enforcement philosophy, please click [here](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report.](https://www.redditinc.com/policies/transparency)
 
@@ -224,7 +224,7 @@ Some examples that do NOT violate this policy
 How can I report potential violations of this policy? 
 ---------------------------------------------------------
 
-To report content that potentially violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on reddit.com (if you have a Reddit account) or you can file a report [here](https://support.reddithelp.com/hc/requests/new?ticket_form_id=15968767746196&tf_15968861076756=report_content_policy_violation) (if you do not have a Reddit account).
+To report content that potentially violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on [reddit.com](https://www.reddit.com/).
 
 To find out more about Reddit's enforcement philosophy, please click [here](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://redditinc.com/policies/transparency).
 
@@ -394,7 +394,7 @@ Here's a non-exhaustive list of examples that violate this policy: 
 
 We enforce Rule 4 against a range of harmful content and behaviors. Some of our prohibitions go above and beyond legally-defined requirements.  However, in some cases, we do rely on contextual information or signals from the community to determine the inappropriate nature of the content or behaviors. We also recognize that child sexual exploitation and related topics may be discussed in the context of news stories, societal concern, or preventative education, and we may allow this discourse to happen as long as it does not violate the letter or spirit of the prohibitions listed above.
 
-To report sexual or suggestive content or inappropriate behavior involving minors, you can use the in-line report feature on the app or website, or you can visit [this page](https://www.reddit.com/report). You can also submit a report [here](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=15968767746196) if you don't have a Reddit account.
+To report sexual or suggestive content or inappropriate behavior involving minors, you can use the in-line report feature on the app or website, or you can visit [this page](https://www.reddit.com/report).
 
 - - -
 
@@ -418,7 +418,7 @@ It is important to note that this Rule does not prohibit conversations about mal
 
 Similarly, if the content is clearly newsworthy or the context of its posting is deemed relevant to the public interest (e.g. a teacher denouncing abuse practices normalized at their school), we will evaluate if the Rule applies on a case-by-case basis. However, as a rule of thumb, if the content depicts the abuse of a child without any context – or the context is malicious or insufficient – we will apply a zero tolerance approach. We ask that you bear that in mind when posting. 
 
-To report abuse content involving minors, you can use the inline report feature on the app or website, or you can visit [this page](https://www.reddit.com/report). You can also submit a report [here](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=15968767746196) if you don't have a Reddit account.
+To report abuse content involving minors, you can use the inline report feature on the app or website, or you can visit [this page](https://www.reddit.com/report).
 
 - - -
 
@@ -504,7 +504,7 @@ Some examples that DO NOT violate this policy
 How can I report potential violations of this policy?
 --------------------------------------------------------
 
-To report content that potentially violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on reddit.com (if you have a Reddit account) or you can [file a report](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=15968767746196&tf_15968861076756=report_content_policy_violation) (if you do not have a Reddit account).
+To report content that potentially violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on [reddit.com](https://www.reddit.com/).
 
 For more information, please visit Reddit's [enforcement philosophy](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://redditinc.com/transparency).
 
@@ -560,7 +560,7 @@ Some examples that do NOT violate this policy
 Where can I report potential violations of this policy?
 -----------------------------------------------------------
 
-To report content that violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on reddit.com (if you have a Reddit account) or you can [file a report](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=15968767746196&tf_15968861076756=report_content_policy_violation) (if you do not have a Reddit account).  
+To report content that violates this policy, you can use the [report button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) next to the content you’d like to report in the app or on [reddit.com](https://www.reddit.com/).
 
 For more information, please visit Reddit's [enforcement philosophy](https://support.reddithelp.com/hc/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals). You can also learn about our policy enforcement data in the latest [Reddit Transparency Report](https://redditinc.com/transparency).
 
