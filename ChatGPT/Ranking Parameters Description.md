@@ -48,11 +48,62 @@ For more information on how product results are selected, accompanying descripti
 Shopping with ChatGPT Search
 ============================
 
-Understand how ChatGPT selects shopping results, presents product information, and supports purchases.
+Shop from images, try on clothing and accessories virtually, save products for later, and understand how ChatGPT selects shopping results.
 
 When your question suggests shopping intent (for example, “Help me find costumes for my dog”), ChatGPT can show product options with imagery, product details, and links to sites where you can learn more or purchase. For some eligible products and merchants, ChatGPT may also show an Instant Checkout option that lets you complete checkout in ChatGPT instead of leaving for the merchant's site.
 
 Product results are selected independently by ChatGPT and are not ads, nor influenced by any OpenAI partnerships. Ads are separate from product results, and you can learn more [here](https://help.openai.com/en/articles/20001047-ads-in-chatgpt).
+
+Virtually try on clothing and accessories
+=========================================
+
+A “Try on” button appears on product listings for clothes and accessories. Use it to see how the item could look on you. Your virtual try-on is created with ChatGPT Images.
+
+To try on an item:
+
+*   Select the “Try on” button on a product listing for clothes or accessories.
+    
+*   Take or upload a selfie.
+    
+*   View your generated try-on image.
+    
+
+You can also upload a picture of clothing or accessories in a conversation and ask ChatGPT to show how the item could look on you.
+
+Try-on images may not represent the product or your appearance exactly and do not guarantee fit or size. Check the merchant’s measurements, product details, and return policy before buying.
+
+Save and manage reference photos
+--------------------------------
+
+Your reference photos are saved for future try-ons, so you can reuse them without uploading them each time. You can change or remove your photos in Settings.
+
+To manage your reference photos:
+
+*   Open Settings → Personalization → Reference photos.
+    
+*   Select the photo you want to manage.
+    
+*   Select Change photo to replace it, or select the delete icon to remove it.
+    
+
+Save products in Library
+========================
+
+Save any product to Favorites or create a folder to organize your finds in your ChatGPT Library. 
+
+*   To save a product, select its bookmark icon and it will save to  your favorites.
+    
+*   You can also choose to save and create a new folder for your saved items. 
+    
+*   To remove a saved product 
+    
+
+Return to ChatGPT Library to browse your saved products and folders.
+
+Availability
+============
+
+Available in ChatGPT on mobile and web. 
 
 How Product Results are Selected
 --------------------------------
