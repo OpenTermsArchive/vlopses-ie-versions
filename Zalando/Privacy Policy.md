@@ -3346,7 +3346,7 @@ Zalando **Privacy Notice**
 
 This Privacy Notice gives you an overview of how Zalando processes your data. (As at: 07/2025)
 
-Zalando SE - Corporate Website - Privacy Notice - 2025-07 (pdf, 408.37 KB)[Download](https://corporate.zalando.com/sites/default/files/media-download/Zalando-SE_Corporate-Website_Privacy-Notice_%202025-07.pdf)
+Zalando SE - Corporate Website - Privacy Notice - 2025-07 (pdf, 408.37 KB)[Download](https://corporate.zalando.com/public/media-download/Zalando-SE_Corporate-Website_Privacy-Notice_%202025-07.pdf?VersionId=jZSin7HbFaNznCCNpC_5wbE3Qb7WbuBc)
 
 ### How you can read this Privacy Notice:
 
