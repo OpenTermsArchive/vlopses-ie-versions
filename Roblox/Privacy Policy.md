@@ -1,16 +1,19 @@
 Roblox Privacy and Cookie Policy
 ================================
 
-Effective Date: April 30, 2026
+Effective Date: November 1, 2026
 
 [Summary of Recent Changes](#change-summary)
 
-We are updating our [Roblox Privacy and Cookie Policy](https://www.roblox.com/info/privacy), effective April 30, 2026, to reflect certain changes we are making on Roblox.
+We are updating our [Roblox Privacy and Cookie Policy](https://www.roblox.com/info/privacy), effective November 1, 2026, to reflect certain changes we are making on Roblox.
 
 Here’s a high-level summary of the changes we are making:
 
-*   We added language clarifying who can see personalized ads and non-personalized ads on Roblox.
+*   We added language describing regional variation for access to certain features.
+*   We added information about data collection from researchers.
 *   We added language describing our practices for sharing information with authorities.
+
+Click [here](https://en.help.roblox.com/hc/articles/14663460303380) to review the upcoming changes.
 
 You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/38873040764180).
 
@@ -842,15 +845,6 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/
     Before responding to any of your requests, we may ask you to provide us with some information to confirm your identity. We will only respond to your request after validating your identity.
     
     Please also note that these rights are not absolute and may not apply in certain circumstances. For example, we may continue to process and retain Personal Information regardless of your request to delete, object, block or anonymize it, to comply with legal, contractual and/or regulatory obligations, and to protect and exercise rights, including in judicial, administrative and arbitration proceedings, and as otherwise required by law. To exercise your rights or ask questions, you can contact us by completing this [Customer Support Form](https://www.roblox.com/support). To appeal a decision about your privacy rights, please contact our Brazilian Data Protection Officer by emailing [dpo.roblox@leonardi.adv.br](mailto:dpo.roblox@leonardi.adv.br), or otherwise reaching out to us as described in Section 1.
-    
-
-Summary of Recent Changes
-
-*   We added language clarifying who can see personalized ads and non-personalized ads on Roblox.
-*   We added language describing our practices for sharing information with authorities.
-
-Effective Date: April 30, 2026  
-Last Updated: April 30, 2026
 
 - - -
 
