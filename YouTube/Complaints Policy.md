@@ -126,6 +126,10 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | Eurovision Song Contest \| Deutschland | SWR Rundfunkrat |
 | FTW | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | FollowtheMoneyEU | De Raad voor de Journalistiek |
+| France TV | Autorité de régulation de la communication audiovisuelle et numérique (Arcom) |
+| France Televisions | Autorité de régulation de la communication audiovisuelle et numérique (Arcom) |
+| France tv slash | Autorité de régulation de la communication audiovisuelle et numérique (Arcom) |
+| Franceinfo | Autorité de régulation de la communication audiovisuelle et numérique (Arcom) |
 | GazetvanAntwerpen | Vlaamse Regulator voor de Media |
 | Gogi – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | HAND DRAUF | SWR Rundfunkrat |
@@ -172,12 +176,15 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | Siol.net | AKOS |
 | Svenska.yle.fi | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | TEEN | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| TV Vendée | Autorité de régulation de la communication audiovisuelle et numérique (Arcom) |
+| TV Vendée Actu | Autorité de régulation de la communication audiovisuelle et numérique (Arcom) |
 | TV5MONDE | Autorité de régulation de la communication audiovisuelle et numérique (Arcom) |
 | Tarmac | Conseil Supérieur de l'Audiovisuel |
 | Tiede-Henkka – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Timo Korpi – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Tipik-RTBF | Conseil Supérieur de l'Audiovisuel |
 | Toinen kanava | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Tébéo & Tébésud | ARCOM |
 | Uuden Musiikin Kilpailu | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | VAL DE LOIRE TV | ARCOM (Autorité de régulation de la communication audiovisuelle et numérique) |
 | Vews-RTBF | Conseil Supérieur de l'Audiovisuel |
@@ -251,12 +258,14 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | radio1slovenia | Agencija za komunikacijska omrežja in storitve Republike Slovenije |
 | radiowienchor2310 | Kommunikationsbehörde Austria (KommAustria) |
 | revistasabado | Entidade Reguladora para a Comunicação Social (ERC) |
+| sag\_mal | Kommunikationsbehörde Austria (KommAustria) |
 | sikkomgroningen2621 | Commissariaat voor de Media, Raad voor de Journalistiek |
 | silviakochtforfans6017/videos | Kommunikationsbehörde Austria (KommAustria) |
 | spilnews | Commissariaat voor de Media, Raad voor de Journalistiek |
 | summeriVLOG | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | telesport300 | Commissariaat voor de Media, Raad voor de Journalistiek |
 | testtube | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| tv78 | ARCOM (ex-CSA) |
 | vertelevideo | CNMC |
 | vrouwnlmagazine | Commissariaat voor de Media, Raad voor de Journalistiek |
 | À feu doux | ARCOM |
