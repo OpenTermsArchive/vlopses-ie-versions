@@ -124,7 +124,7 @@ Examples of violations:
 
 *   Encouraging, allowing, or engaging in [sitewide rules](https://redditinc.com/policies/reddit-rules) violations, such as content containing [non-consensual intimate media](https://support.reddithelp.com/hc/articles/360043513411-Never-Post-Intimate-or-Sexually-Explicit-Media-of-Someone-Without-Their-Consent), [promotion of hate based on identity or vulnerability](https://support.reddithelp.com/hc/articles/360045715951-Promoting-Hate-Based-on-Identity-or-Vulnerability), or [prohibited transactions](https://support.reddithelp.com/hc/articles/360043513471-Reddit-s-policy-against-transactions-involving-prohibited-goods-or-services)
     *   Examples: 
-        *   Targeting redditors with bans based on identity or vulnerability
+        *   Targeting users with bans based on identity or vulnerability
         *   A mod encourages community members to trade or post non-consensual intimate media
         *   A mod team approves content that is engaging in [harassment](https://support.reddithelp.com/hc/articles/360043071072-Do-not-threaten-harass-or-bully) against another individual
 *   Assigning user flair that promotes hate based on identity or vulnerability
@@ -134,10 +134,10 @@ Examples of violations:
 *   Allowing community members to [instigate harassment or share personally identifiable information](https://support.reddithelp.com/hc/articles/360043066452-Is-posting-someone-s-private-or-personal-information-okay) of someone.
 *   Using a bot to automate [bans that target users at scale based on subreddit affinity](https://www.reddit.com/r/modnews/comments/1rllqrw/ban_bot_policy_update_removing_automated_bans/).  
     *   **Examples of rule-breaking activity:** 
-        *   A mod uses a bot to automatically ban all redditors who participate in a specific community.
-        *   A mod develops a bot that automatically bans redditors based on their participation in other communities.
-        *   A mod configures ban messaging to include language attacking or excluding redditors’ identities.  
-        *   A mod team makes a post announcing they will be banning all redditors of a certain identity group moving forward.
+        *   A mod uses a bot to automatically ban all users who participate in a specific community.
+        *   A mod develops a bot that automatically bans users based on their participation in other communities.
+        *   A mod configures ban messaging to include language attacking or excluding users’ identities.  
+        *   A mod team makes a post announcing they will be banning all users of a certain identity group moving forward.
     *   **Examples of permissible activity:**
         *   A mod team uses a Devvit app to ban inauthentic accounts that are detected for nonhuman activity.
         *   A mod bans a user because they saw the user post something that violates the [Reddit Rules](https://redditinc.com/policies/reddit-rules) in another community.
@@ -161,8 +161,8 @@ Common violations of this rule include:
 *   **Mislabeling content and communities.** A community should be marked 18+ (found in [Community Settings](https://support.reddithelp.com/hc/articles/15484546290068-Community-settings)) if the community’s topic is about mature content. If you only allow occasional mature content, that content should be marked _NSFW_.
 *   **Suddenly changing the set expectations of the community.** This includes behavior that abruptly and without reason prohibits community members from their usual engagement in the community. 
 *   **Mislabeling your community as “official” if it is about a company or a brand, but not professionally affiliated.** To properly label your community, you should add a note [about it being unofficial or official](https://support.reddithelp.com/hc/articles/360043075032-Impersonation) in the [description](https://support.reddithelp.com/hc/articles/15484546290068-Community-settings#h_01G2WNYG94589PKR34K7KX1YGW).
-*   **Using mod tools, such as mod mail, to** [**threaten, harass, or bully**](https://support.reddithelp.com/hc/articles/360043071072-Do-not-threaten-harass-or-bully) **redditors.** As stated in [Rule 2](https://redditinc.com/policies/moderator-code-of-conduct#text-content2), you should respect your community and co-moderators. Using mod tools to harass redditors may incite negative reactions and can destabilize your community. 
-    *   If you feel a redditor is engaging in bad-faith in mod mail, you shouldn't engage. You can click _Report_ on the redditor's content if you feel it contains a violation of the [Reddit Rules](https://redditinc.com/policies/reddit-rules).
+*   **Using mod tools, such as mod mail, to** [**threaten, harass, or bully**](https://support.reddithelp.com/hc/articles/360043071072-Do-not-threaten-harass-or-bully) **users.** As stated in [Rule 2](https://redditinc.com/policies/moderator-code-of-conduct#text-content2), you should respect your community and co-moderators. Using mod tools to harass users may incite negative reactions and can destabilize your community. 
+    *   If you feel a user is engaging in bad-faith in mod mail, you shouldn't engage. You can click _Report_ on the user's content if you feel it contains a violation of the [Reddit Rules](https://redditinc.com/policies/reddit-rules).
 
 To set appropriate and reasonable expectations, you should also set up [rules](https://support.reddithelp.com/hc/articles/15484500104212-Rules) so your community members know what is expected of them.
 
@@ -184,12 +184,12 @@ Examples of Rule 3 violations are: 
 *   **Content that makes a call to action to interfere in another community.**
     *   “I got banned. Post this in r/Hedgehogs\_On\_Motorcycles and see if you get banned too.”
     *   “I modmailed the r/Dalmatians\_On\_Yachts team to tell them they’re a bunch of losers. I encourage all of you to do the same.”
-    *   Redditors replying, “Me too!”, "I just tried it. Me three!" to a post stating: “LOL, I just got banned from r/Dalmatians\_On\_Yachts!”
+    *   Users replying, “Me too!”, "I just tried it. Me three!" to a post stating: “LOL, I just got banned from r/Dalmatians\_On\_Yachts!”
         *   _Note: This is an example that illustrates how indirect calls to action can be made._
 *   **Mod tools and/or community styling that are used to encourage interference or harassment.**
-    *   A redditor makes a post that brags about being banned from a community, and a mod adds a “Badge of Honor” flair to the post.
+    *   A user makes a post that brags about being banned from a community, and a mod adds a “Badge of Honor” flair to the post.
     *   A mod uploads a community banner that contains harassing imagery of another community’s mod team.
-*   **A community intended for harassment created by a redditor who is banned from your community.**
+*   **A community intended for harassment created by a user who is banned from your community.**
     *   “I got banned from r/Ants\_Riding\_On\_Ferries, so I made r/Ants\_Riding\_On\_Ferries\_Mods\_Suck. I also added a community description that states that we should go harass the mod team.”  
           
          
@@ -200,19 +200,19 @@ Examples of Rule 3 violations are: 
 Actions that are typically permissible include: 
 ---------------------------------------------------
 
-*   **A redditor mentions being actioned (banned, muted, having content removed, etc) from a community or discusses actioning they saw in a community.**
+*   **A user mentions being actioned (banned, muted, having content removed, etc) from a community or discusses actioning they saw in a community.**
     *   “I was banned by r/Cats\_Flying\_On\_Planes and feel this is unfair.”
     *   “My post was removed by the mod team of r/Jaguars\_Driving\_Cars and they did not elaborate on why when I asked.”
     *   “I was called an offensive term in modmail. I feel this is inappropriate. What should I do?”
-    *   _Note: Redditors are allowed to discuss the experiences they have on Reddit (provided they follow site policies when doing so). We encourage moderators to engage with their community members in a way that abides by the_ [_Reddit Rules_](https://redditinc.com/policies/reddit-rules) _and_ [_Moderator Code of Conduct_](https://redditinc.com/policies/moderator-code-of-conduct)_._
-*   **A redditor is banned from a community and makes an alternative community.**
+    *   _Note: Users are allowed to discuss the experiences they have on Reddit (provided they follow site policies when doing so). We encourage moderators to engage with their community members in a way that abides by the_ [_Reddit Rules_](https://redditinc.com/policies/reddit-rules) _and_ [_Moderator Code of Conduct_](https://redditinc.com/policies/moderator-code-of-conduct)_._
+*   **A user is banned from a community and makes an alternative community.**
     *   “I got banned from r/Ants\_Riding\_On\_Ferries because I made a post about politics and Rule #4 states politics are not allowed. I decided to make my own community, and I am allowing politics to be discussed in it.”
     *   _Note: If you decide to create an alternative community, please be mindful to follow the Moderator Code of Conduct. This includes removing content if your community members make calls to action to interfere with another community._
 *   **Community members discuss another community’s activity, content, and/or its topic.**
-    *   “It looks like some drama happened in r/Cats\_Flying\_On\_Planes this weekend. A bunch of redditors were fighting about a piece of artwork that sold out.”
+    *   “It looks like some drama happened in r/Cats\_Flying\_On\_Planes this weekend. A bunch of users were fighting about a piece of artwork that sold out.”
     *   “I saw this post in r/Jaguars\_Driving\_Cars that made me feel upset. What the original poster said about the jaguar was offensive to me.”
     *   “Can we talk about how r/Cats\_Flying\_Planes banned photos of jaguars flying planes? The mods added a rule stating that jaguars are not cats, but we all know jaguars ARE cats.”
-*   **Redditors encourage others to report violative content in a community.**
+*   **Users encourage others to report violative content in a community.**
     *   “I think this community is posting violative content, and we should report it. Here’s a link to report it.”
     *   _Note: If you notice that members are encouraging others to report content in your community, you can write in to the_ [Code of Conduct form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=19300233728916) _if you are concerned. We can help if you have questions about site policies, if there is additional context you want to provide, and/or if you think your community may be in violation and need help resolving that or stepping away._  
           
@@ -224,7 +224,7 @@ Actions that are typically permissible include: 
 Further guidance around rule 3
 ---------------------------------
 
-We understand that it can be challenging to see redditors discuss a community’s topic, criticize its content, or express disagreement with mod actions, but these are usually not Rule 3 violations. This is especially important to keep in mind if you see redditors reacting to content in your community that may evoke a strong emotion, such as content that may be offensive or upsetting.
+We understand that it can be challenging to see users discuss a community’s topic, criticize its content, or express disagreement with mod actions, but these are usually not Rule 3 violations. This is especially important to keep in mind if you see users reacting to content in your community that may evoke a strong emotion, such as content that may be offensive or upsetting.
 
 Here are some tools we recommend using to mitigate unwanted activity, whether that is due to increased attention from real-world events, content in your community, or controversy related to moderator decisions: 
 
@@ -232,9 +232,9 @@ Here are some tools we recommend using to mitigate unwanted activity, whether th
 *   [Crowd Control](https://support.reddithelp.com/hc/articles/15484545006996-Crowd-Control): Automatically collapses or filters content from people who aren’t trusted members within the community yet.
 *   [Modmail Harassment Filter](https://support.reddithelp.com/hc/articles/15484158762260-Mod-mail-folders#h_01G8YBFB9VYVREXYWH1SCDP141): Automatically filters inbound mod mail messages that are likely to contain harassment. 
 *   [Ban Evasion Filter](https://support.reddithelp.com/hc/articles/15484544471444-Ban-Evasion-Filter): Filters posts and comments from suspected community ban evaders.
-*   [Contributor Quality Score](https://support.reddithelp.com/hc/articles/19023371170196-What-is-the-Contributor-Quality-Score): User classification used with AutoMod that identifies and filters content from potential spammers or redditors less likely to contribute positively on Reddit. 
-*   [Reputation Filter](https://support.reddithelp.com/hc/articles/27441485903124-Reputation-filter): Filters content by redditors who may be potential spammers, are likely to have content removed, or have unestablished accounts.
-*   [AutoModerator:](https://support.reddithelp.com/hc/articles/15484574206484-Automoderator#h_01G7N78R3914C5QBT6X2E90S3Y) This can be used to filter content for review.
+*   [Contributor Quality Score](https://support.reddithelp.com/hc/articles/19023371170196-What-is-the-Contributor-Quality-Score): User classification used with automod that identifies and filters content from potential spammers or users less likely to contribute positively on Reddit. 
+*   [Reputation Filter](https://support.reddithelp.com/hc/articles/27441485903124-Reputation-filter): Filters content by users who may be potential spammers, are likely to have content removed, or have unestablished accounts.
+*   [Automoderator:](https://support.reddithelp.com/hc/articles/15484574206484-Automoderator#h_01G7N78R3914C5QBT6X2E90S3Y) This can be used to filter content for review.
 *   [Devvit](https://developers.reddit.com/docs/): Mods have found a lot of value with peer-created apps. We recommend exploring Devvit for tools that may bolster the strength of your moderation. 
 
 We also encourage you to [use the ‘report’ button](https://support.reddithelp.com/hc/articles/360058309512-How-do-I-report-a-post-or-comment) on specific pieces of content if you believe they contain violations of the [Reddit Rules](https://redditinc.com/policies/reddit-rules), such as harassment.
