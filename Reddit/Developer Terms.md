@@ -951,7 +951,7 @@ You must not sell, license, share, or otherwise commercialize Reddit data withou
 You may not use Reddit data for illegal or malicious purposes. This includes any deceptive, improper use, or actions that encourage illegal activity or violate third-party rights. All content posted through a Reddit Data API must comply with the [Reddit Rules](https://redditinc.com/policies/reddit-rules). 
 
 **Zero Tolerance for Privacy Violations**  
-You are strictly prohibited from processing data to derive or infer potentially sensitive characteristics about Reddit users (e.g., health, political affiliation, sexual orientation). Furthermore, you must never attempt to re-identify, de-anonymize, or reverse engineer data about Redditors including by matching data with off-platform identifiers.
+You are strictly prohibited from processing data to derive or infer potentially sensitive characteristics about Reddit users (e.g., health, political affiliation, sexual orientation). Furthermore, you must never attempt to re-identify, de-anonymize, or reverse engineer data about Reddit users including by matching data with off-platform identifiers.
 
 **Do not disrupt or compromise Reddit’s Data APIs**  
 You must not circumvent or exceed limitations on calls and use of the Data APIs. Excessive or abusive usage or any action that disrupts or unreasonably interferes with the Data APIs or supporting networks is prohibited.   
