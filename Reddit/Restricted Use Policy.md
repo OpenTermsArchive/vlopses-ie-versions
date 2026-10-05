@@ -10,7 +10,7 @@ If you’re looking to place an advertisement regarding a promotion on Reddit, s
 
 ### What do we mean by “promotions”?
 
-Promotions is an umbrella term for contests, sweepstakes, and lotteries. Some examples include using Reddit to give away free stuff or to ask redditors to perform certain activities in order to win prizes. 
+Promotions is an umbrella term for contests, sweepstakes, and lotteries. Some examples include using Reddit to give away free stuff or to ask Reddit users to perform certain activities in order to win prizes. 
 
 Lotteries require a purchase (or similar consideration) for entry and involve a random draw of winners. Unless you have our explicit permission to do so, you may not conduct lotteries on or using Reddit.  
  
@@ -21,7 +21,7 @@ Lotteries require a purchase (or similar consideration) for entry and involve a 
 
 *   Comply with law. You alone are responsible for compliance with all applicable laws and regulations, including any local licensing requirements and data protection laws.
 *   Follow Reddit policies. Always comply with Reddit’s [User Agreement](https://redditinc.com/policies/user-agreement), [sitewide rules](https://redditinc.com/policies/reddit-rules), and other related policies when you’re using Reddit, including to run a promotion. 
-*   Have clear rules. Make sure you make available to redditors the official rules for your promotion (_for example_, by stating them on or linking to them from your post). 
+*   Have clear rules. Make sure you make available to users the official rules for your promotion (_for example_, by stating them on or linking to them from your post). 
 *   Release of liability & disclaimer. You must require each participant to release Reddit from any liability related to the promotion in your promotion rules. You must clearly state that the promotion is not sponsored by, endorsed by, or associated with Reddit.
 
 **Don'ts:**
