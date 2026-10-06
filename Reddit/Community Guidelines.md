@@ -1,6 +1,6 @@
 Effective June 5, 2025.
 
-Reddit’s mission is to bring community, belonging, and empowerment to everyone in the world. Moderators are key to making this happen: you are at the frontlines using your creativity, decision-making, and passion to create fun and engaging spaces for redditors. The Moderator Code of Conduct serves to clarify our expectations of mods, help you develop subreddit rules and norms to create and nurture your communities, and empower you to make decisions more easily.
+Reddit’s mission is to bring community, belonging, and empowerment to everyone in the world. Moderators are key to making this happen: you are at the frontlines using your creativity, decision-making, and passion to create fun and engaging spaces for users. The Moderator Code of Conduct serves to clarify our expectations of mods, help you develop subreddit rules and norms to create and nurture your communities, and empower you to make decisions more easily.
 
 Your role as a moderator is an important one in shaping a positive community experience. Whether you’re new to moderating, or have been moderating for years, our goal is to make sure you feel safe and supported.
 
@@ -26,7 +26,7 @@ Moderators are expected to uphold the [Reddit Rules](https://redditinc.com/polic
 
 #### [Rule 2: Set Appropriate and Reasonable Expectations](https://support.reddithelp.com/hc/articles/27031214413588)
 
-Users who enter your community should know exactly what they’re getting into, and should not be surprised by what they encounter. It is critical to be transparent about what your community is and what your rules are in order to create stable and dynamic engagement among redditors. Moderators can ensure people have predictable experiences on Reddit by doing the following:
+Users who enter your community should know exactly what they’re getting into, and should not be surprised by what they encounter. It is critical to be transparent about what your community is and what your rules are in order to create stable and dynamic engagement among users. Moderators can ensure people have predictable experiences on Reddit by doing the following:
 
 *   Providing a clear and concise description of the topic(s) discussed by your community.
 *   Respecting your community and co-moderators. Your community may evolve over time, but we expect that you will strive to keep it stable and usable.
@@ -37,7 +37,7 @@ Users who enter your community should know exactly what they’re getting into, 
 
 #### [Rule 3: Respect Your Neighbors](https://support.reddithelp.com/hc/articles/27031145215252)
 
-While we allow meta discussions about Reddit, including other subreddits, your community should not be used to direct, coordinate, or encourage interference in other communities and/or to target redditors for harassment. As a moderator, you cannot interfere with or disrupt Reddit communities, nor can you facilitate, encourage, coordinate, or enable members of your community to do this.
+While we allow meta discussions about Reddit, including other subreddits, your community should not be used to direct, coordinate, or encourage interference in other communities and/or to target users for harassment. As a moderator, you cannot interfere with or disrupt Reddit communities, nor can you facilitate, encourage, coordinate, or enable members of your community to do this.
 
 Interference includes:
 
@@ -48,7 +48,7 @@ Interference includes:
 
 #### [Rule 4: Be Active and Engaged](https://support.reddithelp.com/hc/articles/27031272792084)
 
-Whether your community is big or small, it is important for communities to be actively and consistently moderated. This will ensure that issues are being addressed, and that redditors feel safe as a result. Being active and engaged means that:
+Whether your community is big or small, it is important for communities to be actively and consistently moderated. This will ensure that issues are being addressed, and that users feel safe as a result. Being active and engaged means that:
 
 *   You have enough Mods to effectively and consistently manage your community. This involves regularly monitoring and addressing content in ModQueue and ModMail and, if possible, actively engaging with your community via posts, comments, and voting.
 *   Camping or sitting on a community is discouraged.
@@ -173,7 +173,7 @@ If you need help using mod tools, such as to set up a description or rules, or l
 Moderator Code of Conduct - Rule 3: Respect Your Neighbors
 ==========================================================
 
-Rule 3 of the [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct) states that “your community should not be used to direct, coordinate, or encourage interference in other communities and/or to target redditors for harassment.”
+Rule 3 of the [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct) states that “your community should not be used to direct, coordinate, or encourage interference in other communities and/or to target users for harassment.”
 
 * * *
 
