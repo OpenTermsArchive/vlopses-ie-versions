@@ -975,26 +975,26 @@ This is a policy about how we handle information that is made public on Reddit. 
 #### **Introduction**
 
 In this public content policy, we want to help you understand what happens when you create, submit, and make content publicly available on the Reddit platform, and how and why Reddit protects and, where appropriate, licenses public content and related data. Reddit has long supported the open internet and protecting user rights. This policy outlines how those values apply to public content in a new AI era. If you have any questions on this policy, please [ask us](https://www.reddit.com/policies/privacy-policy#contact-us).  
-  
+ 
 
 #### **Reddit is a public platform and so is the content you post on it**
 
 Most of Reddit’s platform is public and accessible to everyone, even without an account. This is intentional. We believe in the open internet and in keeping Reddit publicly accessible to foster human learning and research, and to ensure Reddit is a place where all people can find community, belonging, and empowerment. As a result, anyone who has access to the internet can see public posts, comments, usernames, profiles, karma scores, and related metadata (collectively, “**public content**”).
 
-You do not need an account to view the Reddit platform or public content contributed by other Redditors. You also do not need to contribute public posts or comments on the Reddit platform to use it. You choose how much (or how little) you want to interact with the Reddit platform and contribute publicly. If you choose to contribute public content on the Reddit platform, you are making that public content available to the general public.    
-  
+You do not need an account to view the Reddit platform or public content contributed by other Reddit users. You also do not need to contribute public posts or comments on the Reddit platform to use it. You choose how much (or how little) you want to interact with the Reddit platform and contribute publicly. If you choose to contribute public content on the Reddit platform, you are making that public content available to the general public.    
+ 
 
-#### **Reddit may provide public content to others, but never private Redditor data** 
+#### **Reddit may provide public content to others, but never private user data** 
 
-Reddit may share public content on the Reddit platform with others, including moderators, researchers, developers, and other data licensees. But Reddit does not license or make publicly available private data about Redditors, including:
+Reddit may share public content on the Reddit platform with others, including moderators, researchers, developers, and other data licensees. But Reddit does not license or make publicly available private data about users, including:
 
 *   Private messages, private group chats, mod mail, and deleted posts and comments; 
 *   Non-public account information (e.g., email address, IP address, phone number, etc.);
 *   Posts and comments in quarantined or private communities; and
 *   Browsing or purchasing history.
 
-Redditors place great trust in us to respect their private, non-public information, and we take our role as stewards of this information seriously. That’s why we never license private Redditor data, nor do we otherwise share it without your permission unless legally compelled to do so. See our [privacy policy](https://www.reddit.com/policies/privacy-policy) for further details.   
-  
+Reddit users place great trust in us to respect their private, non-public information, and we take our role as stewards of this information seriously. That’s why we never license private user data, nor do we otherwise share it without your permission unless legally compelled to do so. See our [privacy policy](https://www.reddit.com/policies/privacy-policy) for further details.   
+ 
 
 #### **Reddit believes in an open internet, but not the misuse of public content**
 
@@ -1003,7 +1003,7 @@ One of Reddit’s values is Default Open. We believe that the free flow of ideas
 Unfortunately, we see more and more entities using unauthorized access (for example, by scraping or using data brokers) or misusing authorized access to collect public data in bulk, especially with the rise of use cases like generative AI. These entities amass public data, including Reddit content, for their own commercial gain, with no perceived limits to their use of that data, and with no regard for user rights or privacy. This sort of misuse of public data has become more prominent as more and more platforms close themselves off from the open internet.  
 
 We still believe in an open internet, but we do not believe that third parties have a right to misuse public content just because it’s public.    
-  
+ 
 
 #### **Reddit may license public content for commercial or non-commercial use**
 
@@ -1013,28 +1013,30 @@ Data licensing arrangements enable Reddit to: 
 
 *   Know who is accessing Reddit public content and why;
 *   Place contractual restrictions on prohibited use of public content to protect user rights; and
-*   Ensure data licensees honor public content deletions by Redditors and Reddit.
+*   Ensure data licensees honor public content deletions by users and Reddit.
 
 Our data licensees are primarily:
 
 *   Companies that help brands monitor trends associated with their brands;
 *   Large language model makers that share our values that not all public data on the open internet is free to use without restraint; and
-*   Researchers trying to better humanity and the open internet, to whom we continue to provide access to Reddit public content for research. 
+*   Researchers trying to better humanity and the open internet, to whom we continue to provide access to Reddit public content for research.   
+     
 
-#### **Protecting Redditors in our data licensing arrangements is essential**
+#### **Protecting users in our data licensing arrangements is essential**
 
-Our data licensing arrangements include strict restrictions – that we will strongly enforce – to protect Redditors and the anonymity and privacy that is core to our platform. Our licensees cannot, for example:
+Our data licensing arrangements include strict restrictions – that we will strongly enforce – to protect users and the anonymity and privacy that is core to our platform. Our licensees cannot, for example:
 
-*   Continue to use or display public content [deleted](https://support.reddithelp.com/hc/en-us/sections/360008917951-Deleting-Your-Reddit-Data) by Redditors or Reddit for content policy violations; 
+*   Continue to use or display public content [deleted](https://support.reddithelp.com/hc/en-us/sections/360008917951-Deleting-Your-Reddit-Data) by users or Reddit for content policy violations; 
 *   Access or display sexually explicit content;  
-*   Use public content to segment, target, or profile Redditors based on their health, negative financial status or condition, political affiliation or beliefs, sex life or sexual orientation, racial or ethnic origin, religious or philosophical affiliation or beliefs, trade union membership, criminal data, or other legally restricted sensitive personal information;
-*   Combine third-party data with Reddit public content to target ads to Redditors or build customer data sets without Reddit or Redditor consent; 
+*   Use public content to segment, target, or profile users based on their health, negative financial status or condition, political affiliation or beliefs, sex life or sexual orientation, racial or ethnic origin, religious or philosophical affiliation or beliefs, trade union membership, criminal data, or other legally restricted sensitive personal information;
+*   Combine third-party data with Reddit public content to target ads to users or build customer data sets without Reddit or user consent; 
 
-*   Use public content to spam or harass Redditors; 
+*   Use public content to spam or harass users; 
 *   Track, alert, monitor, or investigate sensitive events (for example, protests or rallies) or sensitive groups or organizations (for example, unions or activist groups) using public content;
 *   Perform background checks, extreme vetting, credit or risk insurance analyses, individual profiling, psychographic segmentation, or facial recognition using public content;
 *   Make public content available to the government or other third parties for surveillance, intelligence, or other law enforcement purposes; or
-*   Use public content for any illegal, deceptive, unethical, false, misleading, or improper purpose, including the infringement of third-party intellectual property rights.
+*   Use public content for any illegal, deceptive, unethical, false, misleading, or improper purpose, including the infringement of third-party intellectual property rights.  
+     
 
 #### **How to make your content non-public**
 
