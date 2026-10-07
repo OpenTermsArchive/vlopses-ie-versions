@@ -1,22 +1,6 @@
 Privacy Policy
 ==============
 
-Updated on 23 July 2026
-
-We've updated our Privacy Policy with details about agentic AI capabilities and how we personalise your AI experiences.
-
-[View details](#banner.subpage.agentic-ai-2026-h1-row)
-
-Updated on 23 July 2026
------------------------
-
-Our Privacy Policy now includes more details about AI integrations, how we personalise your AI experiences and new agentic AI capabilities (for example, AI tools that you can direct to take actions for you, such as booking a restaurant or sending an email). Info shared with AI at Meta features is used to improve AI at Meta unless you have objected. [Learn more.](https://www.facebook.com/privacy/genai?entry_point=POLICY_SUBPAGE%3Abanner.subpage.agentic-ai-2026-h1-eu)
-
-Updated on 23 July 2026
------------------------
-
-Our Privacy Policy now includes more details about AI integrations, how we personalise your AI experiences and new agentic AI capabilities (for example, AI tools that you can direct to take actions for you, such as booking a restaurant or sending an email).
-
 Explore the policy
 ------------------
 
@@ -62,6 +46,13 @@ It's important to us that you know how to control your privacy, so we also show 
 Read the full Policy below.
 
 [](#annotation-1)[](https://www.facebook.com/privacy/center/)
+
+1
+
+What Products does this Policy cover?
+-------------------------------------
+
+This Policy describes the information that we, Meta Platforms, Inc., process to provide [Meta Products](https://www.facebook.com/legal/meta-products?entry_point=POLICY_ANNOTATION%3A0.ex.0-WhatProductsDoesThis), which we also call "Products".
 
 What information do we collect?
 ===============================
@@ -203,6 +194,341 @@ Take control
 ------------
 
 [](https://www.facebook.com/privacy/guide/collection/)
+
+2
+
+Partner
+-------
+
+A person, business, organisation or body using or integrating our Products to advertise, market or support their products and services
+
+3
+
+What Products does this Policy cover?
+-------------------------------------
+
+This Policy describes the information that we, Meta Platforms, Inc., process to provide [Meta Products](https://www.facebook.com/legal/meta-products?entry_point=POLICY_ANNOTATION%3A0.ex.0-WhatProductsDoesThis), which we also call "Products".
+
+4
+
+Information that we collect and receive if you use or interact with our Products but don't have an account
+----------------------------------------------------------------------------------------------------------
+
+Even if you don't have an account, you may interact with or use [Meta Products\[3\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.41-InformationWeCollectIf#annotation-3). Then, we collect things such as:
+
+*   Browser and app logs of your visits to public content, such as Facebook Pages and videos
+*   Basic information about [devices\[11\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.41-InformationWeCollectIf#annotation-11) that downloaded our apps, such as device model and OS
+
+We also receive information using cookies and similar technologies, such as the Meta pixel or Social plugins, when you visit other websites and apps that use our [business tools](https://www.facebook.com/help/331509497253087/?helpref=uf_share&entry_point=POLICY_ANNOTATION%3A1.ex.41-InformationWeCollectIf) or other Meta Products. Read more about information that we receive from partners, vendors and other third parties in [this policy](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.41-InformationWeCollectIf#4-HowDoWeShare) and in our [cookies policy](https://www.facebook.com/policies/cookies?entry_point=POLICY_ANNOTATION%3A1.ex.41-InformationWeCollectIf).
+
+Examples of why we collect and receive information
+--------------------------------------------------
+
+### Security of our Products
+
+For example, we collect information to monitor attempted attacks on our systems, such as overloading our servers with traffic. Also, if we see someone without an account trying to load too many pages, they could be trying to [scrape](https://www.facebook.com/help/463983701520800/?helpref=search&entry_point=POLICY_ANNOTATION%3A1.ex.41-InformationWeCollectIf) our site in violation of our terms. Then we can take action to prevent it.
+
+### Safety and integrity
+
+We can take action according to our Community Standards against someone without an account interacting with Meta Products. For example, we can share information with law enforcement when we believe that there is a genuine risk of death or imminent bodily harm.
+
+### Advertising
+
+For example, you may also see ads for the [Meta Company Products](https://www.facebook.com/legal/meta-company-products?entry_point=POLICY_ANNOTATION%3A1.ex.41-InformationWeCollectIf) shown through [Meta Audience Network](https://www.facebook.com/help/119468292028768/?helpref=search&entry_point=POLICY_ANNOTATION%3A1.ex.41-InformationWeCollectIf) when you visit other apps if we can't recognise you as a registered user of the Meta Products.
+
+### Performance
+
+For example, we collect information when people use our Products, even if they don't have an account, to measure how fast our pages load in different countries and whether they're working properly. This helps us identify and fix issues with local networks.
+
+5
+
+Information that you provide
+----------------------------
+
+For example, when you create a Facebook account, you must provide some information, such as a password and your email address or phone number. You might choose to add other details to your account, such as a profile photo or payment information.
+
+We also collect information you provide when you:
+
+*   Create your avatar
+*   Fill in a form
+*   Contact us
+
+6
+
+What we collect from our camera feature
+---------------------------------------
+
+José likes using Instagram's Camera feature to take pictures of his flower garden. We collect information about how José uses the Camera feature. For example, if he chooses a background effect for the photo that he's about to take, we collect information from the camera, so we can apply the effect to his photo.
+
+How filters, effects, masks and avatars work
+--------------------------------------------
+
+If you use our camera or allow access to photos and videos, on certain Meta Products you can add filters, effects, masks or avatars. Some of these features process parts of faces or bodies within the camera frame, photo or video. Then they can do things such as fit a mask correctly over the eyes, nose and mouth. The information we use for this process is used to create the feature. It's not used to identify you.
+
+What we collect from voice-enabled features
+-------------------------------------------
+
+Ren tells Meta's voice-enabled Assistant to take a photo on smart glasses. A visual indicator shows that Assistant is activated and listening for Ren's command. We collect this voice interaction, which includes any background sound that occurs when Ren says the command. Collecting Ren's voice interactions lets us provide and, depending on Ren's settings, improve the Assistant feature.
+
+7
+
+Metadata
+--------
+
+*   Information about the content itself, such as the location where a photo was taken or the date that a file was created
+*   Information about the message itself, such as the type of message or the date and time that it was sent
+
+8
+
+Interactions with our features that are part of AI at Meta
+----------------------------------------------------------
+
+Across Meta Company Products, you can interact with Meta's generative AI features and experiences that are part of [AI at Meta](https://www.facebook.com/privacy/genai?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange).
+
+When you or others use or exchange information with these features, or when they perform actions, we collect and use information, such as:
+
+*   Prompts that can include questions, messages, media and other information that you or others share with or send to these features
+*   Responses and other information that you receive from these features. Sometimes, these are provided with the help of our [AI integrations](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#4.subpage.15-AiIntegrations)
+*   Information relating to the actions that these features take, such as booking you a restaurant reservation or sending an email, including the data that these features access or share to take these actions
+*   Feedback that you give to these features and responses to your feedback
+*   [Information we collect](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#1-WhatInformationDoWe) to personalise these features. [See examples](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#2.subpage.5-HowWeUseInformationAI)
+*   Information about you and others from third-party apps and services that you connect to Meta Products to enhance your experience, including our features that are part of AI at Meta. [Learn more](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#4.subpage.15-AiIntegrations)
+
+9
+
+Apps and features that you use, and how you use them
+----------------------------------------------------
+
+For example, we log:
+
+*   What apps, posts, videos, ads, games, Shops and other content you view or interact with on our Products
+*   What features you access from our messaging products
+*   When you use [Social plugins](https://developers.facebook.com/products/social-plugins/?entry_point=POLICY_ANNOTATION%3A1.ex.12-AppsAndFeaturesYou), [Facebook Login](https://developers.facebook.com/products/facebook-login/?entry_point=POLICY_ANNOTATION%3A1.ex.12-AppsAndFeaturesYou), in-app browser link history or auto-fill
+
+10
+
+Purchases or other transactions
+-------------------------------
+
+We collect information when you use our Products to buy or sell things, or make or receive financial transactions.
+
+Some examples are:
+
+*   Purchases within an online game
+*   Donations to a friend's fundraiser
+*   Purchases in Marketplace, Shops or groups
+*   Payments or purchases made using Meta Pay or other Meta checkout experiences
+*   Money transfers to friends and family (where available)
+
+### What we collect from transactions
+
+When you use our Products to buy or sell things, or make or receive financial transactions, including payments using Meta Pay or in Marketplace, Shops or groups, or use other Meta checkout experiences that we collect information about your purchase or other financial transactions, such as:
+
+*   Credit or debit card number and other financial account information
+*   Billing, delivery and contact details
+*   Items you bought and how many
+*   Other account and authentication information
+
+### Why we collect this information
+
+We collect and store this information to facilitate your purchase, receipt of payments and other financial transactions, to personalise your experience on our Products, for advertising and to allow you to access and view your payment and transaction history, where available. And, depending on your choices, we store this information to provide you WITH faster and easier payment and financial transactions experiences.
+
+More in the Privacy Policy
+--------------------------
+
+[](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.15-PurchasesOrOtherTransactions#2-HowDoWeUse)[](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.15-PurchasesOrOtherTransactions#10-HowDoWeRespond)
+
+11
+
+Device
+------
+
+Devices include computers, phones, hardware, connected TVs, Meta Quest and other web-connected devices.
+
+12
+
+When we collect information based on others' activity
+-----------------------------------------------------
+
+For example, we collect information about you on Meta Products when others:
+
+*   Share or comment on a photo you're tagged in
+*   Send you a message
+*   Invite you to join a conversation
+*   Upload their contact or connection information, such as an address book or follower list
+*   Invite you to play a game
+*   Connect with you, for example, as a friend or follower
+*   Block or report you
+*   Provide information about you to [AI at Meta](https://www.facebook.com/privacy/genai?entry_point=POLICY_ANNOTATION%3A1.ex.20-WhenWeCollectInformation), including messages and content that you have shared. [See examples\[8\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.20-WhenWeCollectInformation#annotation-8).
+
+13
+
+What device you're using and other device characteristics
+---------------------------------------------------------
+
+We collect device information such as:
+
+*   The type of device
+*   Details about its operating system
+*   Details about its hardware and software
+*   Brand and model
+*   Battery level
+*   Signal strength
+*   Available storage
+*   Browser type
+*   App and file names, and types
+*   Plugins
+
+14
+
+Identifiers that tell your device apart from other users' devices
+-----------------------------------------------------------------
+
+Identifiers we collect include device IDs, mobile advertiser ID or IDs from games, apps or accounts you use. We also collect Family device IDs or other identifiers unique to [Meta Company Products](https://www.facebook.com/legal/meta-company-products?entry_point=POLICY_ANNOTATION%3A1.ex.26-IdentifiersThatTellYour) associated with the same device or account.
+
+15
+
+Device signals
+--------------
+
+Device signals include GPS, Bluetooth signals, nearby Wi-Fi access points, beacons and cell towers.
+
+16
+
+Related metadata
+----------------
+
+For example, if you give us permission to access your device's camera roll, we collect metadata. This metadata is from and about your photos and videos, and includes the date and time they were made. We use this to do things such as remind you when you have new photos to upload.
+
+17
+
+IP address
+----------
+
+Stands for "Internet protocol address". It's a unique number assigned to a device, such as a phone or computer, which allows it to communicate over the Internet. Numbers are assigned according to standard guidelines, or protocols.
+
+Just like you need a postal address to receive a letter from a friend, your device needs an IP address to receive information on the Internet.
+
+18
+
+Information about the network that you connect your device to and your Internet connection
+------------------------------------------------------------------------------------------
+
+Information about your network and connection includes:
+
+*   The name of your mobile operator or Internet service provider (ISP)
+*   Language
+*   Time zone
+*   Mobile phone number
+*   IP address
+*   Connection and download speed
+*   Network capability
+*   Information about other devices that are nearby or on your network
+*   Wi-Fi hotspots you connect to using our Products
+
+One reason why we collect this information is to make your experience better. For example, if we know that your phone and TV are connected to the same network, we can help you use your phone to control a video stream on your TV.
+
+More in the Privacy Policy
+--------------------------
+
+[](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.28-InformationAboutTheNetwork#2-HowDoWeUse)
+
+19
+
+Information about our Products' performance on your device
+----------------------------------------------------------
+
+We collect device information to prevent, diagnose, troubleshoot and fix errors and bugs. This includes how long the app was running, what model of device you were using and other performance and diagnostic information.
+
+20
+
+Information from cookies and similar technologies
+-------------------------------------------------
+
+Cookies are small pieces of text used to store information on web browsers. We use cookies and similar technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, Social plugins and the Meta pixel. They help us provide, protect and improve our Products, such as by personalising content, tailoring and measuring ads and providing a safer experience.
+
+We collect information from cookies stored on your device, including cookie IDs and settings.
+
+Read our [Meta cookies policy](https://www.facebook.com/policies/cookies/?entry_point=POLICY_ANNOTATION%3A1.ex.17-CookiesCookiesAreSmall).
+
+21
+
+Types of partners
+-----------------
+
+### Partners
+
+Our [partners\[2\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.37-OurPartnersBusinessesAnd#annotation-2) use our Products, including our business tools and other technologies that allow businesses to advertise or support their products. Business tools also help our partners understand and measure how people are using their products and services and how well their ads are working. For example, they might put one of our business tools, the Meta pixel, on their website. Or they might use Meta Audience Network tools to monetise their apps by showing ads from businesses that advertise on Facebook.
+
+### Integrated partners
+
+[Integrated partners\[24\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.37-OurPartnersBusinessesAnd#annotation-24) also use our Products, specifically the technologies that help you make a connection to them. For example, you might log in to their app or website using Facebook Login. Or you might play their game on Facebook, which we call an integration because you can play without leaving our app.
+
+### Who are our partners and integrated partners?
+
+Here are some examples:
+
+*   Advertisers
+*   Businesses and people who use our Products to sell or offer goods and services
+*   Publishers (e.g. a website or app) and their vendors
+*   App developers
+*   Game developers
+*   Device manufacturers, Internet service providers and mobile network operators
+*   E-commerce platforms
+
+22
+
+Other third parties that we get information from
+------------------------------------------------
+
+Some people, businesses, organisations and bodies share information with Meta but don't necessarily use our Products. We collect and receive information from these other [third parties\[25\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.40-ThirdPartiesWeGet#annotation-25), including:
+
+*   Publicly available sources, such as academic papers and public forums
+*   Industry peers, such as other online platforms and technology companies
+*   Marketing and advertising vendors and data providers, who have the rights to provide us with your information
+*   Companies or organisations that provide content, including videos, photos and audio
+*   Law enforcement
+*   Government authorities
+*   Professional and charitable groups, such as [NGOs](https://lm.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2017%2F07%2Fglobal-internet-forum-to-counter-terrorism-to-hold-first-meeting-in-san-francisco%2F%3Fentry_point%3DPOLICY_ANNOTATION%253A1.ex.40-ThirdPartiesWeGet), and charities
+*   Academic and research institutions, such as universities, charitable research groups and think tanks
+
+### Third-party public sources
+
+We get datasets from publicly available sources, research institutions, data providers and professional and non-profit groups. We use these datasets to:
+
+*   Detect and stop [scraping](https://www.facebook.com/help/463983701520800/?helpref=search&entry_point=POLICY_ANNOTATION%3A1.ex.40-ThirdPartiesWeGet) in violation of our terms
+*   Take other actions to promote the safety, security and integrity of our Products, our users, the public and our personnel and property
+*   Improve our AI technologies and support AI research and product development, such as translations, computer vision, content understanding, natural language processing and tools for people and businesses to create content
+*   Undertake analytics
+*   Engage with research survey respondents who choose to participate in additional conversations
+
+More in the Privacy Policy
+--------------------------
+
+[](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.40-ThirdPartiesWeGet#2-HowDoWeUse)
+
+23
+
+What happens if you don't let us collect certain information
+------------------------------------------------------------
+
+For example, if you don't provide your email address, phone number or age, we won't be able to create an account for you to use our Products.
+
+Or you can choose not to add Facebook friends, but then your Facebook Feed won't show friends' photos and status updates.
+
+24
+
+Integrated partner
+------------------
+
+A partner who uses technologies that help you make a connection to them through our Products, including plugins, login, checkout experiences, Instant Games and other such integrations
+
+25
+
+Third party
+-----------
+
+A person, business, organisation or body that is not part of the Meta Companies
 
 How do we use your information?
 ===============================
@@ -421,6 +747,176 @@ More in the Privacy Policy
 
 [](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A2-HowDoWeUse#19-WhyAndHowWe)
 
+26
+
+Using information across our Products
+-------------------------------------
+
+We use [information across your accounts on our Products](https://www.meta.com/help/accounts-center/Information-used-across-accounts/?entry_point=POLICY_ANNOTATION%3A2.ex.5-UsingInformationAcrossOur) to:
+
+*   Personalise ads for you and others. [Learn more](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A2.ex.5-UsingInformationAcrossOur#2.subpage.2-HowWeShowAds).
+*   Measure the performance of those ads. [Learn more](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A2.ex.5-UsingInformationAcrossOur#2.subpage.10-ProvidingMeasurementAnalyticsAnd).
+*   Provide more personalised features, content and suggestions across our Products. [See examples\[38\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A2.ex.5-UsingInformationAcrossOur#annotation-38).
+*   More accurately count people and understand how they use our Products
+*   Help keep you and others safe. [Learn more](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A2.ex.5-UsingInformationAcrossOur#2.subpage.8-PromotingSafetySecurityAnd).
+
+If you add accounts to the same [Accounts Centre](https://www.facebook.com/help/943858526073065/?entry_point=POLICY_ANNOTATION%3A2.ex.5-UsingInformationAcrossOur), we also use your information to offer [connected experiences](https://www.facebook.com/help/509817036774018/?entry_point=POLICY_ANNOTATION%3A2.ex.5-UsingInformationAcrossOur) and improve your experiences across accounts. [See an example.\[39\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A2.ex.5-UsingInformationAcrossOur#annotation-39)
+
+Take control
+------------
+
+[](https://www.facebook.com/help/213446087365127/?entry_point=POLICY_ANNOTATION%3A2.ex.5-UsingInformationAcrossOur)
+
+[Manage accounts](https://accountscenter.facebook.com/accounts/)
+
+27
+
+Why we use information across devices
+-------------------------------------
+
+One reason why we use your information across [devices\[40\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A2.ex.1-WhyWeUseInformation#annotation-40) is to help us give you a more personalised experience. For example, we might show you an ad on your phone, and later you might use your laptop to click on the ad and buy the product. By combining that information across your devices, we can understand what ads are relevant to you and help businesses measure how well their ad performed.
+
+28
+
+Manual review
+-------------
+
+### Examples of when we use manual review
+
+*   Our reviewers help us promote safety, security and integrity across our Products. For example, reviewers can look for and remove content that violates our terms and policies, and keep content that doesn't break our terms and policies available. Their work supplements our [technology that detects violations](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fen-gb%2Fenforcement%2Fdetecting-violations%2Ftechnology-detects-violations%2F%3Fentry_point%3DPOLICY_ANNOTATION%253A2.ex.2-ManualReviewExamplesOf).
+*   When our algorithms detect that [someone might need help](https://www.facebook.com/safety/wellbeing/suicideprevention?entry_point=POLICY_ANNOTATION%3A2.ex.2-ManualReviewExamplesOf), a reviewer can review their post and offer support if needed.
+*   We also use manual review to analyse content to train our algorithms to review content the same way a person would. This improves our automatic processing, which in turn helps us improve our products.
+
+### Who reviews this information
+
+Our reviewers work at Meta, for [Meta Companies](https://www.facebook.com/help/111814505650678?ref=tos&entry_point=POLICY_ANNOTATION%3A2.ex.2-ManualReviewExamplesOf) or for a trusted [service provider\[41\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A2.ex.2-ManualReviewExamplesOf#annotation-41). We require every reviewer who's allowed access to your information to meet privacy and security standards.
+
+[Learn more](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fpolicies%2Fimproving%2Fprioritizing-content-review%2F%3Fentry_point%3DPOLICY_ANNOTATION%253A2.ex.2-ManualReviewExamplesOf) about how Meta prioritises content for manual review.
+
+29
+
+What Products does this Policy cover?
+-------------------------------------
+
+This Policy describes the information that we, Meta Platforms, Inc., process to provide [Meta Products](https://www.facebook.com/legal/meta-products?entry_point=POLICY_ANNOTATION%3A0.ex.0-WhatProductsDoesThis), which we also call "Products".
+
+30
+
+Your activity on our Products
+-----------------------------
+
+For example, William checks in to a local bakery on Facebook, so later we might show him ads on Instagram for other local bakeries.
+
+Your activity on third-party websites and apps, depending on your settings
+--------------------------------------------------------------------------
+
+For example, Jane buys a pair of shoes from an online shoe shop or in an online chat with a shoe seller. The seller shares Jane's activity with us using our business tools, subject to our Business Tools Terms.
+
+Later, Jane sees an ad on Instagram for a discount on her next shoe purchase from the online shop.
+
+If she doesn't want to see ads from this shoe shop again, she can hide them in her [Advertisers setting](https://www.facebook.com/adpreferences/advertisers?entry_point=POLICY_STORY_ANNOTATION%3A2.story.6-YourActivityOnOur). Or if she doesn't want us to show her any ads based on her activity on other websites and apps, she can make sure that this setting is turned off in her [ad preferences](https://www.facebook.com/adpreferences/ad_settings?entry_point=POLICY_STORY_ANNOTATION%3A2.story.6-YourActivityOnOur).
+
+Topics that we think you might be interested in
+-----------------------------------------------
+
+For example, Jon likes several Facebook Pages about famous musicians, so we think he has an interest in "music".
+
+Based on this interest, we might show him an ad for a local record shop or an online music publication.
+
+Jon can manage his interests in his [ad topics](https://www.facebook.com/adpreferences/ad_topics?entry_point=POLICY_STORY_ANNOTATION%3A2.story.6-YourActivityOnOur).
+
+Your connections
+----------------
+
+For example, Fiona's friend likes an Instagram account for a local art fair. Based on her friend's activity, we might show Fiona an ad for the art fair.
+
+31
+
+Other device signals we receive
+-------------------------------
+
+We receive different types of device signals from different operating systems. They include things such as nearby Bluetooth or Wi-Fi connections.
+
+32
+
+IP address
+----------
+
+Stands for "Internet protocol address". It's a unique number assigned to a device, such as a phone or computer, which allows it to communicate over the Internet. Numbers are assigned according to standard guidelines, or protocols.
+
+Just like you need a postal address to receive a letter from a friend, your device needs an IP address to receive information on the Internet.
+
+33
+
+Personalising ads for you and others
+------------------------------------
+
+For example, Marcus is going on a trip and wants to use Find Wi-Fi to find free, public Wi-Fi at the airport. He has turned on Location services on his device and allowed location access in the Facebook app, so we can use his GPS information to help him find the most relevant public Wi-Fi networks. We'll also use this information to show him ads for local businesses near the airport.
+
+Later, Marcus turns off Location services before he lands, so we don't collect his GPS information anymore. Later on his trip, he opens the Facebook app, and we can use the IP address that we receive to estimate Marcus' general location and show him ads for businesses nearby.
+
+34
+
+Helping to keep your account secure
+-----------------------------------
+
+For example, we use information about the locations that you normally log in from, combined with other information, to detect suspicious activity. So if we detect an attempt to log in to your account from a new location, we can check that it's really you.
+
+35
+
+Partner
+-------
+
+A person, business, organisation or body using or integrating our Products to advertise, market or support their products and services
+
+36
+
+Information we provide about different types of people
+------------------------------------------------------
+
+For example, we might tell an advertiser that their ad was seen by women aged 25-34 who live in Madrid and like software engineering.
+
+37
+
+Third party
+-----------
+
+A person, business, organisation or body that is not part of the Meta Companies
+
+38
+
+Providing more personalised features, content and suggestions across our Products
+---------------------------------------------------------------------------------
+
+For example we can:
+
+*   Automatically fill in registration information, such as your phone number, from one Meta Product when you sign up for an account on a different Product
+*   Let others see and search your name and profile photo across our Products and communicate with you
+*   Show all interactions in one place for content you've crossposted to different Products
+
+39
+
+Using your information if you add accounts to the same Accounts Centre
+----------------------------------------------------------------------
+
+For example, if you follow your favourite team on Instagram, we can more easily suggest that you follow that team's Page on Facebook.
+
+[Learn more](https://www.meta.com/help/accounts-center/433719745369721/?entry_point=POLICY_ANNOTATION%3A2.ex.7-UsingYourInformationIf) about how we use information across accounts if you add accounts to the same Accounts Centre.
+
+40
+
+Device
+------
+
+Devices include computers, phones, hardware, connected TVs, Meta Quest and other web-connected devices.
+
+41
+
+Service provider
+----------------
+
+A person, business, organisation or body that provides services to Meta or to our users on behalf of Meta. For example, our service providers do things such as investigate suspicious activity and provide customer support.
+
 How is your information shared on Meta Products or with integrated partners?
 ============================================================================
 
@@ -630,6 +1126,106 @@ Take control
 
 [Manage apps and websites](https://mbasic.facebook.com/privacy/policy/printable/?back_id=link-collection-8&link_dialog=MANAGE_APPS&entry=0&entry_point=POLICY_SECTION%3A3-HowIsYourInformation)
 
+42
+
+What Products does this Policy cover?
+-------------------------------------
+
+This Policy describes the information that we, Meta Platforms, Inc., process to provide [Meta Products](https://www.facebook.com/legal/meta-products?entry_point=POLICY_ANNOTATION%3A0.ex.0-WhatProductsDoesThis), which we also call "Products".
+
+43
+
+Choosing an audience
+--------------------
+
+On Facebook, the audience can be made up of:
+
+*   The public, including people on and off Facebook
+*   Your friends and other connections, such as the friends of people you tag
+*   A customised list of people
+*   Yourself
+*   The members of a single community, such as a group
+
+On Instagram, you can set the audience for what you share by choosing between a private or public account. With a [private account](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F448523408565555%3Fentry_point%3DPOLICY_ANNOTATION%253A3.ex.2-ChoosingAnAudienceOn), only followers you approve can see what you share. With a public account, your posts and other content on Instagram can be seen by anyone, on or off our Products, including if they don't have an account. You can restrict the audience for your content by blocking individual accounts from viewing them. You can also create a close friends list for certain types of content that only the people on that list can see.
+
+Take control
+------------
+
+[](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AAUDIENCE_SETTINGS&element=privacy_policy_list_cell&containing_element_id=POLICY_ANNOTATION%3A3.ex.2-ChoosingAnAudienceOn&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fprivacy%2Fpolicy%2Fprintable%2F%3Flink_dialog%3DAUDIENCE_SETTINGS%26entry%3D0%26entry_point%3DPOLICY_ANNOTATION%253A3.ex.2-ChoosingAnAudienceOn)
+
+### Audience settings are different from app permissions
+
+Your audience settings are different from the permissions that you give to individual apps and websites to access your information. [Read our policy](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A3.ex.2-ChoosingAnAudienceOn#3.subpage.4-WhenYouUseAn) about how you may share information with integrated partners.
+
+44
+
+Supervision
+-----------
+
+Supervision provides supervisors chosen by a teen, such as parents and guardians, with tools and insights to help support a teen account.
+
+45
+
+Interactions with our features that are part of AI at Meta
+----------------------------------------------------------
+
+Across Meta Company Products, you can interact with Meta's generative AI features and experiences that are part of [AI at Meta](https://www.facebook.com/privacy/genai?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange).
+
+When you or others use or exchange information with these features, or when they perform actions, we collect and use information, such as:
+
+*   Prompts that can include questions, messages, media and other information that you or others share with or send to these features
+*   Responses and other information that you receive from these features. Sometimes, these are provided with the help of our [AI integrations](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#4.subpage.15-AiIntegrations)
+*   Information relating to the actions that these features take, such as booking you a restaurant reservation or sending an email, including the data that these features access or share to take these actions
+*   Feedback that you give to these features and responses to your feedback
+*   [Information we collect](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#1-WhatInformationDoWe) to personalise these features. [See examples](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#2.subpage.5-HowWeUseInformationAI)
+*   Information about you and others from third-party apps and services that you connect to Meta Products to enhance your experience, including our features that are part of AI at Meta. [Learn more](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A1.ex.62-InformationYouOrOthersExchange#4.subpage.15-AiIntegrations)
+
+46
+
+Search engines
+--------------
+
+You can visit your [privacy settings](https://www.facebook.com/settings?tab=privacy&entry_point=POLICY_ANNOTATION%3A3.ex.5-SearchEnginesYouCan) to control whether search engines can show your profile or public photos and videos in search results outside Meta. Some public content might still be accessible through search engines, for example:
+
+*   If you post with your audience or profile set to Public,
+*   If you post on public Pages or accounts, depending on the settings of that account,
+*   If your public content is reshared by a professional account on Instagram.
+
+47
+
+Integrated partner
+------------------
+
+A partner who uses technologies that help you make a connection to them through our Products, including plugins, login, checkout experiences, Instant Games and other such integrations
+
+48
+
+When an integrated partner might receive your information
+---------------------------------------------------------
+
+For example, you might use your Facebook login to play an online game with your Facebook friends. The game developer automatically receives information about your activities in the game.
+
+When an integrated partner might receive your information
+---------------------------------------------------------
+
+Or you might use the Facebook Like button on an article posted on a news website. The website developer automatically receives information about your "like" on their article.
+
+49
+
+Sharing friend lists
+--------------------
+
+### When you share your friend list
+
+If you use Facebook Login to log in to an app, the app developer might request access to your list of Facebook friends. Here's what happens if you give the app developer permission to view these lists:
+
+*   They can view and access a list of your Facebook friends who use the same app and have given the app permission to access their list of friends. They can't access non-public information about your friends or followers through this process. Note that the app developer will receive more information about your friends if your friends choose to share it themselves. They can share it by providing the information directly or giving the developer permission to access information from their account.
+*   You'll appear on friends lists that your Facebook friends can choose to share with the same app. You can remove this permission, or the app entirely, if you later decide that you don't want to share your friends list with an app, or don't want to appear on other friends lists shared with that app.
+
+### When your friends share their friend list
+
+Your friends might choose to share their friends lists with app developers through Facebook Login. But your friends can't use Facebook Login to share non-public information about you.
+
 How do we share information with third parties?
 ===============================================
 
@@ -794,6 +1390,106 @@ We also share information with other [third parties\[51\]](https://mbasic.facebo
 
 And if we sell or transfer all or part of our business to someone else, in some cases, we'll give the new owner your information as part of that transaction, but only as the law allows.
 
+50
+
+Partner
+-------
+
+A person, business, organisation or body using or integrating our Products to advertise, market or support their products and services
+
+51
+
+Third party
+-----------
+
+A person, business, organisation or body that is not part of the Meta Companies
+
+52
+
+General demographics and interests
+----------------------------------
+
+For example, a bike shop creates a Page on Facebook and wants to place an ad to reach an audience of people in Atlanta interested in cycling. We determine whether someone fits in this audience based on, for example, whether they liked a Page about bikes. Then people in that audience could see the bike shop's ad.
+
+You can see the "interests" assigned to you in your [ad preferences](https://www.facebook.com/ads/preferences/?entry_point=POLICY_ANNOTATION%3A4.ex.4-GeneralDemographicsAndInterests) and remove them if you want.
+
+The bike shop can then see reports showing aggregated statistics about the audience seeing their ads and how their ads are performing. The reports would show statistics to the advertiser that, for example, most of the people who saw or clicked on their ad:
+
+*   Were women
+*   Were between the ages of 25 and 34
+*   Clicked on the ad from their phone
+
+53
+
+When you might give us permission
+---------------------------------
+
+For example, you might request more information from a business by clicking their ad in your Facebook Feed and submitting a form with your name and contact information. Then the advertiser would receive the information that you provided.
+
+54
+
+What Products does this Policy cover?
+-------------------------------------
+
+This Policy describes the information that we, Meta Platforms, Inc., process to provide [Meta Products](https://www.facebook.com/legal/meta-products?entry_point=POLICY_ANNOTATION%3A0.ex.0-WhatProductsDoesThis), which we also call "Products".
+
+55
+
+Transactions you might make
+---------------------------
+
+*   Subscribing to premium content
+*   Buying, selling or using products
+*   Buying, selling or using services
+*   Donating to charities
+
+56
+
+Commerce services platforms
+---------------------------
+
+Commerce services platforms provide a range of commerce services, including:
+
+*   Payments
+*   Marketing
+*   Delivery
+*   Customer engagement tools
+
+57
+
+Measurement vendor
+------------------
+
+A third party that creates reports to help advertisers understand how their content and ads are performing. These reports also measure whether people took an action after seeing an ad.
+
+58
+
+Marketing vendor
+----------------
+
+A third party that helps market or advertise Meta and our Products, measures the effectiveness of our own marketing campaigns and performs advertising research
+
+59
+
+Manage the ads that you see on our Products
+-------------------------------------------
+
+Visit your [ad preferences](https://accountscenter.facebook.com/ad_preferences?entry_point=POLICY_ANNOTATION%3A6.ex.5-AdPreferences).
+
+Manage Meta ads that you see off our Products
+---------------------------------------------
+
+We advertise our own products and services on non-Meta ad platforms. We use marketing vendors to deliver these ads. If we use your activity on our Products to tailor these ads, you can opt out of this type of use.
+
+If you have an account:
+
+*   Visit your [Ad preferences](https://accountscenter.facebook.com/ads/ads_about_meta/?entry_product=ad_profile_center&entry_point=POLICY_ANNOTATION%3A6.ex.5-AdPreferences) to opt out.
+
+If you don't have an account:
+
+*   You can use the [Digital Advertising Alliance](https://lm.facebook.com/l.php?u=https%3A%2F%2Foptout.aboutads.info%2F%3Fc%3D2%26entry_point%3DPOLICY_ANNOTATION%253A6.ex.5-AdPreferences) industry opt-out platform on your web browser. If you live in Canada, you can use the [Digital Advertising Alliance of Canada](https://lm.facebook.com/l.php?u=https%3A%2F%2Fyouradchoices.ca%2F%3Fentry_point%3DPOLICY_ANNOTATION%253A6.ex.5-AdPreferences) industry opt-out platform. Certain ad blockers and tools to restrict cookies can interfere with your ability to opt out.
+*   Check your mobile device settings. Device manufacturers provide different ways to opt out.
+
 How do the Meta Companies work together?
 ========================================
 
@@ -829,6 +1525,50 @@ More resources
 
 [](https://www.facebook.com/legal/meta-companies?entry_point=POLICY_SECTION%3A5-HowDoTheMeta)
 
+60
+
+What Products does this Policy cover?
+-------------------------------------
+
+This Policy describes the information that we, Meta Platforms, Inc., process to provide [Meta Products](https://www.facebook.com/legal/meta-products?entry_point=POLICY_ANNOTATION%3A0.ex.0-WhatProductsDoesThis), which we also call "Products".
+
+61
+
+Service provider
+----------------
+
+A person, business, organisation or body that provides services to Meta or to our users on behalf of Meta. For example, our service providers do things such as investigate suspicious activity and provide customer support.
+
+62
+
+Why we share across the Meta Companies
+--------------------------------------
+
+### Promoting safety, security and integrity, and complying with applicable law
+
+For example, we share information with Meta Companies that provide financial products and services to help them promote safety, security and integrity and comply with applicable law. This includes:
+
+*   Complying with their legal obligations
+*   Helping keep you and others safe
+*   Performing account verification
+*   Investigating suspicious activities
+*   Creating analytics
+
+For these purposes, we might share your name, email address, who you're friends with and other account information within the Meta Companies.
+
+### Developing and providing features and integrations
+
+For example, where available in your country, you can choose to use certain integrations that connect your WhatsApp experiences with other Meta Company Products. These integrations let you do things such as:
+
+*   Use your Meta Pay account to pay for things on WhatsApp
+*   Chat with your friends on other Meta Company Products, such as smart glasses, by connecting your WhatsApp account
+
+We also share information with Meta Companies to support innovation. For example, your videos can help train our products to recognise objects, such as trees, or activities, such as when a dog chases a ball. They can also help train tools that let people and businesses create content such as images and videos. This technology is used to help us offer new products or features in the future.
+
+### Understanding how people use our products
+
+We count the number of unique users, monthly active users and daily active users on our products. This information helps us to understand the community using our products and publicly share important trends about how our products are used.
+
 How can you manage or delete your information and exercise your rights?
 =======================================================================
 
@@ -860,6 +1600,50 @@ Port, download or delete your information
 
 You can learn more about how privacy works on [Facebook](https://www.facebook.com/privacy/center/) and on [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp%26entry_point%3DPOLICY_SECTION%253A6-HowCanYouManage), and in the [Facebook Help Centre](https://www.facebook.com/help/?entry_point=POLICY_SECTION%3A6-HowCanYouManage). If you have any questions about this policy, you can [contact us](https://help.meta.com/support/privacy/?entry_point=POLICY_SECTION%3A6-HowCanYouManage) as described below. In some countries, you may also be able to contact the Data Protection Officer for Meta Platforms, Inc., and depending on your jurisdiction, you may also contact your local Data Protection Authority ("DPA") directly.
 
+63
+
+Manage the ads that you see on our Products
+-------------------------------------------
+
+Visit your [ad preferences](https://accountscenter.facebook.com/ad_preferences?entry_point=POLICY_ANNOTATION%3A6.ex.5-AdPreferences).
+
+Manage Meta ads that you see off our Products
+---------------------------------------------
+
+We advertise our own products and services on non-Meta ad platforms. We use marketing vendors to deliver these ads. If we use your activity on our Products to tailor these ads, you can opt out of this type of use.
+
+If you have an account:
+
+*   Visit your [Ad preferences](https://accountscenter.facebook.com/ads/ads_about_meta/?entry_product=ad_profile_center&entry_point=POLICY_ANNOTATION%3A6.ex.5-AdPreferences) to opt out.
+
+If you don't have an account:
+
+*   You can use the [Digital Advertising Alliance](https://lm.facebook.com/l.php?u=https%3A%2F%2Foptout.aboutads.info%2F%3Fc%3D2%26entry_point%3DPOLICY_ANNOTATION%253A6.ex.5-AdPreferences) industry opt-out platform on your web browser. If you live in Canada, you can use the [Digital Advertising Alliance of Canada](https://lm.facebook.com/l.php?u=https%3A%2F%2Fyouradchoices.ca%2F%3Fentry_point%3DPOLICY_ANNOTATION%253A6.ex.5-AdPreferences) industry opt-out platform. Certain ad blockers and tools to restrict cookies can interfere with your ability to opt out.
+*   Check your mobile device settings. Device manufacturers provide different ways to opt out.
+
+64
+
+Port your information
+---------------------
+
+In certain cases and subject to applicable law, you have the right to [port your information](https://www.facebook.com/tyi/?source=yfi_web_settings&entry_point=POLICY_ANNOTATION%3A6.ex.4-PortYourInformationIn).
+
+65
+
+Delete your information or account
+----------------------------------
+
+To delete your information, you can:
+
+*   **Find and delete specific information.** We offer tools that you can use to delete certain information. For example, you can use Delete buttons to delete content that you've posted to your account. You can also use tools such as [activity log](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACTIVITY_LOG&element=privacy_policy_inline_text&containing_element_id=POLICY_ANNOTATION%3A6.ex.2-DeleteYourInformationOr&redirect_uri=https%3A%2F%2Fwww.facebook.com%2F0%2Fallactivity%2F%3Fentry_point%3DPOLICY_ANNOTATION%253A6.ex.2-DeleteYourInformationOr%26should_load_landing_page%3D1) on Facebook to send content to the recycle bin in bulk. When you delete content, it's no longer visible to other users. Visit the [Facebook Help Centre](https://www.facebook.com/help/356107851084108?entry_point=POLICY_ANNOTATION%3A6.ex.2-DeleteYourInformationOr) or [Instagram Help Centre](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F711062676142607%3Fentry_point%3DPOLICY_ANNOTATION%253A6.ex.2-DeleteYourInformationOr) to learn what happens when you delete your content or move it to the [recycle bin](https://www.facebook.com/help/3094200253964092?entry_point=POLICY_ANNOTATION%3A6.ex.2-DeleteYourInformationOr).
+*   **Permanently delete your account.** If you delete your account on [Facebook](https://www.facebook.com/help/224562897555674?entry_point=POLICY_ANNOTATION%3A6.ex.2-DeleteYourInformationOr) or [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F370452623149242%3Fentry_point%3DPOLICY_ANNOTATION%253A6.ex.2-DeleteYourInformationOr), we delete your information, including the things you've posted, such as your photos and status updates, unless we need to keep it as described in ["How long do we keep your information?"](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A6.ex.2-DeleteYourInformationOr#8-HowLongDoWe) Once your account is [permanently deleted](https://www.facebook.com/help/250563911970368/?ref=dp&entry_point=POLICY_ANNOTATION%3A6.ex.2-DeleteYourInformationOr), you won't be able to reactivate it, and you won't be able to retrieve information, including content you've posted.
+
+### How long does it take to delete your information?
+
+If you request that we delete your account or content, it may take up to 90 days to delete your information after we begin the account deletion process or receive a content deletion request. After the information is deleted, it may take us up to another 90 days to remove it from backups and disaster recovery.
+
+If you leave your deleted content in your recycle bin on Facebook or your Recently deleted folder on Instagram, the deletion process will begin automatically in 30 days. Or you can start the deletion process straight away by deleting the content from your recycle bin or Recently Deleted folder.
+
 How long do we keep your information for?
 =========================================
 
@@ -878,6 +1662,95 @@ We keep information for as long as we need it to provide our products, comply wi
 *   If we need it for other legitimate purposes, such as to prevent harm; investigate possible violations of our terms or policies; promote safety, security and integrity; or protect ourselves, including our rights, property or products
 
 In some instances and for specific reasons, we'll keep information for an extended period of time. [Read our Policy\[69\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A8-HowLongDoWe#annotation-69) about when we may preserve your information.
+
+66
+
+If we need it to operate or provide our Products
+------------------------------------------------
+
+For example, we keep profile information, photos you've posted (and not deleted) and security information for the lifetime of your account.
+
+And when you search for something on Facebook, we keep your search history until you clear the search in your [activity log](https://www.facebook.com/0/allactivity?entry_point=POLICY_ANNOTATION%3A8.ex.1-IfWeNeedIt) or delete your account. Once you clear a search or delete your account, it will no longer be visible to you, and it will be [deleted\[70\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A8.ex.1-IfWeNeedIt#annotation-70).
+
+But even if you don't clear your search or delete your account, within six months of your search, we delete information about that search that isn't necessary to show you your search history, such as information about the device you were using, or your location.
+
+67
+
+The feature we use it for, and how that feature works
+-----------------------------------------------------
+
+For example, May is planning a surprise party for Yang. She sends Cynthia the party details in Messenger using vanish mode so that the message will disappear. The message will no longer be visible to May once she leaves the chat, and Cynthia will only see the message the first time she opens the chat thread.
+
+After Cynthia reads the message, the content is deleted after one hour. If Cynthia never reads it, it's deleted after 14 days.
+
+68
+
+How long we need to retain the information to comply with certain legal obligations
+-----------------------------------------------------------------------------------
+
+For example, we retain information for as long as we need it for:
+
+*   A legal request or obligation, including obligations of Meta Companies or to comply with applicable law
+*   A governmental investigation
+*   A legal claim, complaint, litigation or regulatory proceedings
+
+69
+
+Why we may preserve your information longer
+-------------------------------------------
+
+Your information, including financial transaction data related to purchases or money transfers made on our Products, may be preserved and accessed for a longer time period if it's related to any of the following:
+
+*   A legal request or obligation, including obligations of Meta Companies or to comply with applicable law
+*   A governmental investigation
+*   An investigation of possible violations of our terms or policies
+*   To prevent harm
+*   For safety, security and integrity purposes
+*   To protect ourselves, including our rights, property or products
+*   If it's needed in relation to a legal claim, complaint, litigation or regulatory proceedings
+
+[See some examples\[71\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A8.ex.3-WhyWeMayPreserve#annotation-71).
+
+In some cases, we may preserve your information based on the above reasons even after you request deletion of your account or some of your content. We may also preserve information from accounts that have been disabled and content that has been removed for violations of our terms and policies.
+
+70
+
+Delete your information or account
+----------------------------------
+
+To delete your information, you can:
+
+*   **Find and delete specific information.** We offer tools that you can use to delete certain information. For example, you can use Delete buttons to delete content that you've posted to your account. You can also use tools such as [activity log](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AACTIVITY_LOG&element=privacy_policy_inline_text&containing_element_id=POLICY_ANNOTATION%3A6.ex.2-DeleteYourInformationOr&redirect_uri=https%3A%2F%2Fwww.facebook.com%2F0%2Fallactivity%2F%3Fentry_point%3DPOLICY_ANNOTATION%253A6.ex.2-DeleteYourInformationOr%26should_load_landing_page%3D1) on Facebook to send content to the recycle bin in bulk. When you delete content, it's no longer visible to other users. Visit the [Facebook Help Centre](https://www.facebook.com/help/356107851084108?entry_point=POLICY_ANNOTATION%3A6.ex.2-DeleteYourInformationOr) or [Instagram Help Centre](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F711062676142607%3Fentry_point%3DPOLICY_ANNOTATION%253A6.ex.2-DeleteYourInformationOr) to learn what happens when you delete your content or move it to the [recycle bin](https://www.facebook.com/help/3094200253964092?entry_point=POLICY_ANNOTATION%3A6.ex.2-DeleteYourInformationOr).
+*   **Permanently delete your account.** If you delete your account on [Facebook](https://www.facebook.com/help/224562897555674?entry_point=POLICY_ANNOTATION%3A6.ex.2-DeleteYourInformationOr) or [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F370452623149242%3Fentry_point%3DPOLICY_ANNOTATION%253A6.ex.2-DeleteYourInformationOr), we delete your information, including the things you've posted, such as your photos and status updates, unless we need to keep it as described in ["How long do we keep your information?"](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A6.ex.2-DeleteYourInformationOr#8-HowLongDoWe) Once your account is [permanently deleted](https://www.facebook.com/help/250563911970368/?ref=dp&entry_point=POLICY_ANNOTATION%3A6.ex.2-DeleteYourInformationOr), you won't be able to reactivate it, and you won't be able to retrieve information, including content you've posted.
+
+### How long does it take to delete your information?
+
+If you request that we delete your account or content, it may take up to 90 days to delete your information after we begin the account deletion process or receive a content deletion request. After the information is deleted, it may take us up to another 90 days to remove it from backups and disaster recovery.
+
+If you leave your deleted content in your recycle bin on Facebook or your Recently deleted folder on Instagram, the deletion process will begin automatically in 30 days. Or you can start the deletion process straight away by deleting the content from your recycle bin or Recently Deleted folder.
+
+71
+
+Examples of why we might preserve your information
+--------------------------------------------------
+
+### To respond to a legal request
+
+For example, we might preserve your information after you've deleted your account when we receive a valid legal request, such as a preservation order or search warrant, related to your account.
+
+### To comply with applicable law
+
+For example, we preserve certain information about purchases or transactions associated with an account, in line with Meta's accounting obligations.
+
+### For safety, security and integrity purposes
+
+For example, if we disable an account for violating our terms or policies, we preserve information about that user to prevent them from opening a new account.
+
+We might also preserve some of your account information as part of our review of suspicious activity. This includes any suspicious activity associated with our financial products, such as suspected money laundering or terrorist funding.
+
+### For litigation
+
+We may preserve your information where we deem it necessary for reasons related to a legal claim or complaint. For example, we may be required to defend ourselves in legal proceedings in a claim related to your information.
 
 How do we transfer information?
 ===============================
@@ -912,6 +1785,52 @@ We rely on [appropriate mechanisms\[77\]](https://mbasic.facebook.com/privacy/po
 
 We also make sure that appropriate safeguards are in place whenever we transfer your information. For example, we encrypt your information when it's in transit over public networks to protect it from unauthorised access.
 
+72
+
+Partner
+-------
+
+A person, business, organisation or body using or integrating our Products to advertise, market or support their products and services
+
+73
+
+Measurement vendor
+------------------
+
+A third party that creates reports to help advertisers understand how their content and ads are performing. These reports also measure whether people took an action after seeing an ad.
+
+74
+
+Service provider
+----------------
+
+A person, business, organisation or body that provides services to Meta or to our users on behalf of Meta. For example, our service providers do things such as investigate suspicious activity and provide customer support.
+
+75
+
+Third party
+-----------
+
+A person, business, organisation or body that is not part of the Meta Companies
+
+76
+
+What Products does this Policy cover?
+-------------------------------------
+
+This Policy describes the information that we, Meta Platforms, Inc., process to provide [Meta Products](https://www.facebook.com/legal/meta-products?entry_point=POLICY_ANNOTATION%3A0.ex.0-WhatProductsDoesThis), which we also call "Products".
+
+77
+
+Mechanisms we use for global data transfers
+-------------------------------------------
+
+We rely on appropriate mechanisms for international data transfers. For example, for [information we collect](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A9.ex.2-MechanismsWeUseFor#1-WhatInformationDoWe):
+
+*   We utilise [standard contractual clauses](https://www.facebook.com/help/566994660333381?ref=dp&entry_point=POLICY_ANNOTATION%3A9.ex.2-MechanismsWeUseFor) approved by the European Commission and by other relevant authorities.
+*   We rely on determinations from the European Commission, and from other relevant authorities, about whether other countries have [adequate levels of data protection.](https://lm.facebook.com/l.php?u=https%3A%2F%2Fec.europa.eu%2Finfo%2Flaw%2Flaw-topic%2Fdata-protection%2Finternational-dimension-data-protection%2Fadequacy-decisions_en%3Fentry_point%3DPOLICY_ANNOTATION%253A9.ex.2-MechanismsWeUseFor)
+*   We use equivalent mechanisms under applicable laws that apply to data transfers to the United States and other relevant countries.
+
 How do we respond to legal requests, comply with applicable law and prevent harm?
 =================================================================================
 
@@ -929,6 +1848,103 @@ We access, preserve, use and share your information:
 *   To promote the safety, security and integrity of [Meta Products\[80\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A10-HowDoWeRespond#annotation-80), users, employees, property and the public. [Learn more\[81\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A10-HowDoWeRespond#annotation-81).
 
 We may access or preserve your information for an extended amount of time. [Learn more\[82\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SECTION%3A10-HowDoWeRespond#annotation-82).
+
+78
+
+Third party
+-----------
+
+A person, business, organisation or body that is not part of the Meta Companies
+
+79
+
+When we respond to legal requests
+---------------------------------
+
+We respond to legal requests where we're required by law to do so, and at times where we're not compelled by law, but a response:
+
+*   May affect users in that jurisdiction, and
+*   Is consistent with internationally recognised standards including, for example, our [Corporate Human Rights Policy](https://lm.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fwp-content%2Fuploads%2F2021%2F04%2FFacebooks-Corporate-Human-Rights-Policy.pdf%3Fentry_point%3DPOLICY_ANNOTATION%253A10.ex.1-WhenWeRespondTo).
+
+Learn more about [government requests](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fdata%2Fgovernment-data-requests%2Ffurther-asked-questions%3Fentry_point%3DPOLICY_ANNOTATION%253A10.ex.1-WhenWeRespondTo) and [how we've responded.](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.fb.com%2Fdata%2Fgovernment-data-requests%3Fentry_point%3DPOLICY_ANNOTATION%253A10.ex.1-WhenWeRespondTo)
+
+80
+
+What Products does this Policy cover?
+-------------------------------------
+
+This Policy describes the information that we, Meta Platforms, Inc., process to provide [Meta Products](https://www.facebook.com/legal/meta-products?entry_point=POLICY_ANNOTATION%3A0.ex.0-WhatProductsDoesThis), which we also call "Products".
+
+81
+
+How we promote safety, security and integrity
+---------------------------------------------
+
+We share your information with law enforcement, government authorities, Meta Companies and other third parties (including industry peers) when we have a good faith belief that it's necessary to detect, prevent and address a variety of situations, such as:
+
+*   Unauthorised use of our Products. [See an example.\[83\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A10.ex.2-HowWePromoteSafety#annotation-83)
+*   Violations of our terms and policies. [See an example.\[84\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A10.ex.2-HowWePromoteSafety#annotation-84)
+*   Investigating suspicious activity
+*   Protecting ourselves, including our rights, property, personnel or Products
+*   Preventing abuse, fraud or other harmful or illegal activity, on and off our Products
+*   Protecting you or others, including as part of investigations or regulatory enquiries
+*   Emergency situations, such as risk of death or imminent bodily harm
+
+82
+
+Why we may preserve your information longer
+-------------------------------------------
+
+Your information, including financial transaction data related to purchases or money transfers made on our Products, may be preserved and accessed for a longer time period if it's related to any of the following:
+
+*   A legal request or obligation, including obligations of Meta Companies or to comply with applicable law
+*   A governmental investigation
+*   An investigation of possible violations of our terms or policies
+*   To prevent harm
+*   For safety, security and integrity purposes
+*   To protect ourselves, including our rights, property or products
+*   If it's needed in relation to a legal claim, complaint, litigation or regulatory proceedings
+
+[See some examples\[85\]](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_ANNOTATION%3A8.ex.3-WhyWeMayPreserve#annotation-85).
+
+In some cases, we may preserve your information based on the above reasons even after you request deletion of your account or some of your content. We may also preserve information from accounts that have been disabled and content that has been removed for violations of our terms and policies.
+
+83
+
+Unauthorised use of our Products
+--------------------------------
+
+For example, if you unlawfully collect and use Facebook user data, we may share your information to defend ourselves against claims or in litigation.
+
+84
+
+Violations of our terms and policies
+------------------------------------
+
+For example, if you post threatening or harmful content, we may share your information across the Meta Companies to protect ourselves and others. This can include blocking your access to certain features or disabling your account across the Meta Companies.
+
+85
+
+Examples of why we might preserve your information
+--------------------------------------------------
+
+### To respond to a legal request
+
+For example, we might preserve your information after you've deleted your account when we receive a valid legal request, such as a preservation order or search warrant, related to your account.
+
+### To comply with applicable law
+
+For example, we preserve certain information about purchases or transactions associated with an account, in line with Meta's accounting obligations.
+
+### For safety, security and integrity purposes
+
+For example, if we disable an account for violating our terms or policies, we preserve information about that user to prevent them from opening a new account.
+
+We might also preserve some of your account information as part of our review of suspicious activity. This includes any suspicious activity associated with our financial products, such as suspected money laundering or terrorist funding.
+
+### For litigation
+
+We may preserve your information where we deem it necessary for reasons related to a legal claim or complaint. For example, we may be required to defend ourselves in legal proceedings in a claim related to your information.
 
 How will you know that the Policy has changed?
 ==============================================
@@ -1569,6 +2585,63 @@ The categories of information depend on the specific circumstances of each manda
 *   Information from cookies and similar technologies
 
 [Information from partners, vendors and third parties](https://mbasic.facebook.com/privacy/policy/printable/?entry_point=POLICY_SUBSECTION%3A19.1-TheCategoriesOfInformation#1.subpage.4-InformationFromPartnersVendors)
+
+86
+
+How our ads system works
+------------------------
+
+Our ads system works in the following way:
+
+*   **We use your information to determine the ad interests most relevant to you.** We try to predict your ad interests based on the information that we have, including any choices that you've made in ad preferences.
+*   **Advertisers tell us which audience they want to reach based on who they think will be most interested.** This can include things such as age, gender, location where advertisers want to show their ad or interests, such as women, based in Dublin, who like golf.
+*   **We review the potential ads that we could show you to identify the most relevant ones.** Our ads system automatically reviews all of the potential ads where you might fit the audience that advertisers want to reach. For example, you may see potential ads because you match the age range and interest category. We determine which ones to show you based on things such as whether it best achieves the advertiser's goal and is most relevant to you. To do this, we use algorithms and machine learning to order the ads that we may show you. We use different factors, such as the ad quality, the advertiser's desired audience and budget. We also consider how likely we think it is that you will react to the ad based on things such as your activity on Meta Products. [Learn more](https://www.facebook.com/help/447278887528796?entry_point=POLICY_ANNOTATION%3A11.ex.1-HowOurAdsSystemWorks).
+*   **All of this information helps us show you the most relevant ads.** When you see an ad on Meta Company Products, we use this process to choose the most relevant ad to show you.
+
+87
+
+Metadata
+--------
+
+*   Information about the content itself, such as the location where a photo was taken or the date that a file was created
+*   Information about the message itself, such as the type of message or the date and time that it was sent
+
+88
+
+Device
+------
+
+Devices include computers, phones, hardware, connected TVs, Meta Quest and other web-connected devices.
+
+89
+
+IP address
+----------
+
+Stands for "Internet protocol address". It's a unique number assigned to a device, such as a phone or computer, which allows it to communicate over the Internet. Numbers are assigned according to standard guidelines, or protocols.
+
+Just like you need a postal address to receive a letter from a friend, your device needs an IP address to receive information on the Internet.
+
+90
+
+Partner
+-------
+
+A person, business, organisation or body using or integrating our Products to advertise, market or support their products and services
+
+91
+
+Third party
+-----------
+
+A person, business, organisation or body that is not part of the Meta Companies
+
+92
+
+Service provider
+----------------
+
+A person, business, organisation or body that provides services to Meta or to our users on behalf of Meta. For example, our service providers do things such as investigate suspicious activity and provide customer support.
 
 - - -
 
