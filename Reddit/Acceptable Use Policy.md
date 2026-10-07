@@ -303,7 +303,7 @@ What are some things that may violate this policy?
 
 Note: The [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct) also prohibits moderators from encouraging or allowing organized community interference. (_See Rule 3: Respect Your Neighbors_).
 
-**Some examples that DO NOT violate this policy**
+Some examples that DO NOT violate this policy
 
 *   Visiting a community you're not a member of to ask for advice or a recommendation.
 *   Downvoting a piece of content that is off topic in a community you are part of.
