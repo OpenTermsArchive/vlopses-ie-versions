@@ -288,14 +288,13 @@ Rule 5 of the [Moderator Code of Conduct](https://www.redditinc.com/policies/mod
 Examples of **violations** include:
 
 *   A mod accepts or asks for money in exchange for a post to be approved
-*   A redditor expresses interest in joining a mod team and one of the mods asks how much they would pay to be added as a mod
-*   A redditor submits an offer to purchase a community and the mod begins negotiating
-*   A mod says they will give a redditor special flair if the redditor gifts them digital goods
-*   A redditor offers cryptocurrency to a mod to advertise their product using a highlighted AutoMod comment and the mod accepts
-*   A redditor is asked to send personal images or other content they have created in exchange for a mod action
-*   A mod instructs a redditor that giving them a gift will result in a specific mod action  
-      
-    
+*   A user expresses interest in joining a mod team and one of the mods asks how much they would pay to be added as a mod
+*   A user submits an offer to purchase a community and the mod begins negotiating
+*   A mod says they will give a user special flair if the user gifts them digital goods
+*   A user offers cryptocurrency to a mod to advertise their product using a highlighted AutoMod comment and the mod accepts
+*   A user is asked to send personal images or other content they have created in exchange for a mod action
+*   A mod instructs a user that giving them a gift will result in a specific mod action  
+     
 
 * * *
 
@@ -304,15 +303,14 @@ Examples of **permissible activity** include:
 
 *   A company or brand moderates a community
 *   A company offers a mod team gifts for their community members
-*   A redditor or a brand sends a mod team stickers as a thank you for moderating 
+*   A user or a brand sends a mod team stickers as a thank you for moderating 
 *   A mod recommends or allows authentic, non-sponsored recommendations via linking to products or services in posts, comments, community styling, etc.
 
 Note: While mods are generally allowed to recommend things, mods are not allowed to violate the [Reddit Rules](https://redditinc.com/policies/reddit-rules), including recommending things that violate [Reddit’s policy against transactions involving prohibited goods or services](https://support.reddithelp.com/hc/articles/360043513471-Reddit-s-policy-against-transactions-involving-prohibited-goods-or-services).
 
 *   A mod attributes (credits) an artist in the sidebar or banner image after an artist gifted or was commissioned to make a banner for their subreddit
 *   A mod team hosts a community event and spreads awareness for the community event via mod tools and community styling  
-      
-    
+     
 
 * * *
 
@@ -327,12 +325,12 @@ Why can’t you take action on suspicious activity that happens on a different p
 
 We will take action through conducting an investigation on Reddit if appropriate. However, we cannot confirm the authenticity of activity that happens on a different platform; we do not have access to investigation tools on different platforms.
 
-As a mod, what should I do if a redditor asks me to do something that would be a Rule 5 violation?
+As a mod, what should I do if a user asks me to do something that would be a Rule 5 violation?
 
 1.  You are encouraged not to reply.
 2.  If you wish to reply, feel free to use this standard response below:
     *   Hi - Thanks for reaching out. This would likely be a violation of [Rule 5 of the Mod Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct) for mods. If you are interested in advertising, please visit [Reddit Ads](https://ads.reddit.com/).
-3.  You are also encouraged to report the redditor by writing in to the [Mod Code of Conduct report form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=19300233728916).
+3.  You are also encouraged to report the user by writing in to the [Mod Code of Conduct report form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=19300233728916).
 
 Myself and/or my mod team have an idea we are considering, but we are worried it will violate Rule 5.
 
