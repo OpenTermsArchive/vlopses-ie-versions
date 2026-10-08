@@ -616,17 +616,17 @@ What are some things that may violate this policy?
 What is ban evasion?
 ====================
 
-Ban evasion usually refers to a redditor being banned from a community, then using an alternative Reddit account to continue participating in that community.
+Ban evasion usually refers to a user being banned from a community, then using an alternative Reddit account to continue participating in that community.
 
 Ban evasion can also refer to a community being created or repurposed to reconstitute or serve the same objective as a previously banned community. This will be addressed directly by the site admins and does not require a moderator report.
 
 Both are a violation of the [Reddit Rules](https://redditinc.com/policies/reddit-rules) and could result in a sitewide suspension. 
 
-**Community ban evasion:** It's up to community moderators to decide who participates in their community, so even if you disagree with the reason for your ban you shouldn't attempt to evade it. Some moderators may be okay with a redditor returning to their community on another account so long as they participate in good faith, as such **we only review ban evasion reports when they are reported by the community moderators.**
+**Community ban evasion:** It's up to community moderators to decide who participates in their community, so even if you disagree with the reason for your ban you shouldn't attempt to evade it. Some moderators may be okay with a user returning to their community on another account so long as they participate in good faith, as such **we only review ban evasion reports when they are reported by the community moderators.**
 
-The redditor must be banned from the community in question for us to consider them as evading their ban, we will not consider automoderator shadow bans as community bans.
+The user must be banned from the community in question for us to consider them as evading their ban, we will not consider automoderator shadow bans as community bans.
 
-**To report ban evasion, please visit [this page](https://www.reddit.com/report).**
+**To report ban evasion, please visit** [**this page**](https://www.reddit.com/report)**.**
 
 - - -
 
