@@ -340,7 +340,7 @@ If you wish to raise a concern about our [data processing practices](https://hel
 
 We offer >x< and other services in order to give everyone the power to create and share ideas and information instantly, without barriers.
 
-*   [\>x<, our services, and corporate affiliates](#help-article-title)
+*   [\>x<, our services, and corporate affiliates](#help-page-title)
 
 Some of our services, like [\>x< Pro](https://tweetdeck.x.com/), provide you with tools to customize and curate your \>x< experience. Other services may enable experiences outside of \>x<. These services link to and are covered by our [Privacy Policy](https://x.com/privacy), which describes how and when they collect, use and share your information. When these services that are covered by our [Privacy Policy](https://x.com/privacy) have additional privacy terms specific to them, we tell you that through the service.
 
@@ -349,7 +349,7 @@ We also operate companies that provide services under their own separate terms a
 *   [Vine Archive](https://vine.co/privacy)
 *   [Twitpic Archive](https://twitpic.com/static/privacy)
 
-*   [\>x<, our services, and corporate affiliates](#help-article-title)
+*   [\>x<, our services, and corporate affiliates](#help-page-title)
 
 © 2026 \>x< Corp.
 
@@ -401,3 +401,4 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
