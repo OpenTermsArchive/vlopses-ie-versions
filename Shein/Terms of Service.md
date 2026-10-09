@@ -984,7 +984,7 @@ The Customer also benefits from the legal guarantee for hidden defects for a per
 
 \- Via the Customer account, by clicking on "My orders", then "Return the item".
 
-\- By informing us of his/her decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post to SHEIN-1C3TE0UNPE; Address: DC-1,Logistyczna 1A 55-080 kąty wrocławskie, Poland, an e-mail sent to eurcsteam@shein.com, by phone or via our Customer Service). The Customer may use the model withdrawal form provided at the end of this section, but this is not mandatory. Upon receipt of a withdrawal notification by any of the means described above, we will acknowledge receipt of such a withdrawal on a durable medium (e.g. by e-mail) without delay
+\- By informing us of his/her decision to withdraw from this contract by an unequivocal statement (e.g. a letter sent by post to SHEIN; Address: DC-1,Logistyczna 1A 55-080 kąty wrocławskie, Poland, an e-mail sent to eurcsteam@shein.com, by phone or via our Customer Service). The Customer may use the model withdrawal form provided at the end of this section, but this is not mandatory. Upon receipt of a withdrawal notification by any of the means described above, we will acknowledge receipt of such a withdrawal on a durable medium (e.g. by e-mail) without delay
 
 (4) Return of Products: If the Customer uses this right of withdrawal the Products must be returned within fourteen (14) days of the communication of the exercise of the right of withdrawal, properly packaged and accompanied by all accessories and user manuals. Please note that:
 
@@ -994,7 +994,7 @@ The Customer also benefits from the legal guarantee for hidden defects for a per
 
 \- The return package must be returned to the nearest point of return according to the logistics company corresponding to the return label. The Customer shall send the return package to the address indicated on the return label.
 
-\- In the event that the Customer chooses to exercise the right of withdrawal by means of a postal notification to the address indicated above (SHEIN-1C3TE0UNPE, DC-1,Logistyczna 1A 55-080 kąty wrocławskie, Poland), the Customer must return the Product to that same address at the Customer’s own cost.
+\- In the event that the Customer chooses to exercise the right of withdrawal by means of a postal notification to the address indicated above (SHEIN, DC-1,Logistyczna 1A 55-080 kąty wrocławskie, Poland), the Customer must return the Product to that same address at the Customer’s own cost.
 
 \- The Customer shall bear the cost of returning the Products when exercising the right of withdrawal.
 
@@ -1012,7 +1012,7 @@ The Customer also benefits from the legal guarantee for hidden defects for a per
 
 Model withdrawal form
 
-To Infinite Styles Services Co, Ltd, (and, if sent by the post, at SHEIN-1C3TE0UNPE, DC-1,Logistyczna 1A 55-080 kąty wrocławskie, Poland) on behalf of \[INSERT NAME OF SELLER\]
+To Infinite Styles Services Co, Ltd, (and, if sent by the post, at SHEIN, DC-1,Logistyczna 1A 55-080 kąty wrocławskie, Poland) on behalf of \[INSERT NAME OF SELLER\]
 
 I/We hereby give notice that I/We withdraw from my/our Contract of sale of the following goods:
 
