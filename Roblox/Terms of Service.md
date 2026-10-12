@@ -1284,14 +1284,14 @@ Effective Date: June 30, 2025
 
 - - -
 
-Content Maturity Labels
-=======================
+Content Maturity Ratings
+========================
 
-Roblox’s content maturity labels were created so all users can make informed decisions about the content they interact with. To develop these labels, we examined global industry standards and consulted child development experts to guide our policymaking.
+Roblox’s content maturity ratings were created so all users can make informed decisions about the content they interact with. To develop these ratings, we examined global industry standards and consulted child development experts to guide our policymaking.
 
-For younger users, content maturity labels also work together with Roblox Kids and Roblox Select. These account types help determine what kinds of experiences are available by default based on age, while parents can still use Parental Controls to manage content settings for their family.  
+For younger users, content maturity ratings also work together with Roblox Kids and Roblox Select. These account types help determine what kinds of experiences are available by default based on age, while parents can still use Parental Controls to manage content settings for their family.  
   
-When viewing an experience, you can see its content maturity label as well as descriptors about what kind of content exists within an experience.  
+When viewing an experience, you can see its content maturity rating as well as descriptors about what kind of content exists within an experience.  
   
 _Content descriptors are determined by the experience creator and descriptors may vary between experiences._
 
@@ -1299,12 +1299,14 @@ _Content descriptors are determined by the experience creator and descriptors ma
 | --- | --- |
 | #### **Minimal** | May contain occasional mild violence, light unrealistic blood, and/or occasional mild fear. |
 | #### **Mild** | May contain repeated mild violence, heavy unrealistic blood, mild crude humor, and/or repeated mild fear. |
-| #### **Moderate** | May contain moderate violence, light realistic blood, moderate crude humor, unplayable gambling content, and/or moderate fear. |
-| #### **Restricted** | May contain strong violence, heavy realistic blood, moderate crude humor, romantic themes, unplayable gambling content, the presence of alcohol, strong language, social hangouts and private spaces, extended AI interactions, and/or moderate fear. <br><br>_These experiences are only available to 18+ users who are age checked. For more information, see our_ [_Restricted Content Policy_](https://en.help.roblox.com/hc/en-us/articles/15869919570708) _and_ [_Understanding Age Checks on Roblox_](https://en.help.roblox.com/hc/en-us/articles/39143693116052)_._ |
+| #### **Moderate** | May contain moderate violence, light realistic blood, moderate crude humor, unplayable gambling content, social hangouts without private spaces, free-form user creation such as in-game drawing tools, and/or moderate fear. <br><br>_Games with social hangouts or free-form user creation are only available to age-checked users 16 and older._ |
+| #### **Content May Vary** | May contain Minimal, Mild, or Moderate content. The creator hasn't completed the full Maturity & Compliance questionnaire, so this game doesn't have a more precise rating.<br><br>_These games are only available to age-checked users 16 and older in most regions. They must follow the_ [_Community Standards_](https://en.help.roblox.com/hc/en-us/articles/203313410) _like every other game on Roblox._ |
+| #### **16+ Content** | May contain themes centered on sensitive social, political, or religious issues. Can also contain social hangouts without private spaces, free-form user creation, and other content listed under Moderate. <br><br>_These games are only available to age-checked users 16 and older. Parents can allow games about sensitive issues for children of any age. For more information, see_ [_Age-Restricted Content on Roblox_](https://en.help.roblox.com/hc/en-us/articles/15869919570708)_._ |
+| #### **Restricted and 18+ Content** | May contain strong violence, heavy realistic blood, moderate crude humor, romantic themes, unplayable gambling content, the presence of alcohol, strong language, social hangouts with private spaces, extended AI interactions, and/or moderate fear. <br><br>_These games are only available to 18+ users who are age checked. For more information, see our_ [_Age-Restricted Content Policy_](https://en.help.roblox.com/hc/en-us/articles/15869919570708) _and_ [_Understanding Age Checks on Roblox_](https://en.help.roblox.com/hc/en-us/articles/39143693116052)_._ |
 
 Strong language policies will apply to both in-experience content and how users communicate within text and voice chat. Users must still comply with Roblox’s [Restricted Content Policy](https://en.help.roblox.com/hc/en-us/articles/15869919570708) and [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410). Roblox won’t allow language that is used to harass, discriminate, incite violence, or threaten others, or used in a sexual context.
 
-#### **How do these labels work with Roblox Kids and Roblox Select?**
+#### **How do these ratings work with Roblox Kids and Roblox Select?**
 
 Roblox Kids and Roblox Select use age-based defaults to determine what games are available to younger users. Parents with linked accounts can still manage content restrictions, and may also be able to allow or block specific games for their child. Access to some content, features, and games may also depend on region and account settings.
 
@@ -1312,77 +1314,94 @@ _Restricted games are not accessible in certain regions. Games with AI interacti
 
 Parents should also note that some games may not be available by default for children using Roblox Kids or Roblox Select, even when other parental settings are changed.
 
+#### **What does Content May Vary mean?**
+
+**Content May Vary** is a content rating for games published to players 16 and older without the full Maturity & Compliance questionnaire. The game may have **Minimal**, **Mild**, or **Moderate** content.
+
+Before they publish, creators answer a question about whether their game includes age-restricted content. If it does, they must complete the full [Maturity & Compliance questionnaire](https://create.roblox.com/docs/production/promotion/content-maturity) to get a more precise rating. If it doesn't, they can publish to players 16 and older, and the game is receives a **Content May Vary** rating.
+
+All games must follow the [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410), including games with a **Content May Vary** rating.
+
+Games with a **Content May Vary** rating aren't available in all regions.
+
 - - -
 
 Content maturity and compliance
 ===============================
 
-Content maturity provides information on the experience's main details page about what kinds of content the experience contains so that players can make informed decisions about what they interact with. Roblox uses this information to recommend experiences on the [Home](https://www.roblox.com/home) and [Charts](https://www.roblox.com/charts#/) pages according to each user's age group and regional content policies. When applicable, this information is also used to generate country or locale-specific experience labels, which may include different age and maturity recommendations from Roblox's.
-
-Additional rules apply to uploaded assets (such as images and meshes). Realistic or excessive depictions of violence, blood, crude humor, or romantic themes may be moderated regardless of your experience’s content maturity label. See the [Restricted Content Policy](https://en.help.roblox.com/hc/en-us/articles/15869919570708-Restricted-Content-Policy) for details.
+Content maturity provides information on the game's main details page about what kinds of content the game contains so that players can make informed decisions about what they interact with. Roblox uses this information to recommend games on the [Home](https://www.roblox.com/home) and [Charts](https://www.roblox.com/charts#/) pages according to each user's age group and regional content policies. When applicable, this information is also used to generate country or locale-specific game labels, which may include different age and maturity recommendations from Roblox's.
 
 Content maturity consists of two components:
 
-*   Content maturity label - Indicates the level of maturity suitable for the experience according to child development research and industry standards.
+*   Content maturity label - Indicates the level of maturity suitable for the game according to child development research and industry standards.
     
-*   Content descriptors - Indicates what type of content is within an experience, such as realistic depictions of blood or paid item trading.
-    
-
-If an experience does not have accurate or all content maturity information, Roblox restricts the playability of the experience on the platform for all players. In addition, experiences without content maturity information cannot contain any [Restricted content](https://en.help.roblox.com/hc/en-us/articles/15869919570708-Roblox-17-Policy-Standards) without risk of moderation. For this reason, Roblox strongly recommends that you fill out the questionnaire for each of your experiences so that they're available to the largest appropriate audience as possible.
-
-Content maturity labels determine which Roblox account types can access your experience:
-
-*   Games rated Minimal or Mild are eligible for Roblox Kids (ages 5–8) and Roblox Select (ages 9–15).
-    
-*   Games rated Moderate are eligible for Roblox Select (ages 9–15) and standard Roblox (16+).
-    
-*   Games rated Restricted are only accessible to age-verified Roblox users 18 and older.
+*   Content descriptors - Indicates what type of content is within a game, such as realistic depictions of blood or paid item trading.
     
 
-To reach Roblox Kids and Select audiences, creators must also meet additional publishing requirements. See [Roblox Kids and Select](https://create.roblox.com/docs/en-us/production/publishing/kids-and-select).
+If a game does not have content maturity information, Roblox automatically restricts the playability of the game on the platform for all players. For this reason, Roblox strongly recommends that you fill out the questionnaire for each of your games so that they're available to the largest appropriate audience as possible. If your game contains inaccurate content maturity information, your game and account are subject to moderation.
 
-Content descriptors that generate content maturity labels are separate from [genres](https://create.roblox.com/docs/en-us/production/publishing/experience-genres) that classify experiences according to their core gameplay. In cases where there is overlap between genres and in-experience content or behavior, answer the Maturity & Compliance questionnaire as accurately as you can regardless of your genre selection or assignment from Roblox.
+Additional rules apply for assets you upload for your game, such as images, meshes, and audio. Realistic or excessive depictions of violence, blood, crude humor, or romantic themes may be moderated regardless of your game's content maturity label. For more information, see the [Age-Restricted Content Policy](https://en.help.roblox.com/hc/en-us/articles/15869919570708-Restricted-Content-Policy).
 
-Content maturity information only applies to the content you create for your experience. It does not apply to user-generated content that players bring with them into your experience, such as avatar clothing and accessories.
+Content maturity information does not apply to user-generated content that players bring with them into your game, such as avatar clothing and accessories.
+
+Content labels
+--------------
+
+Content maturity labels determine which Roblox account types can access your game by default:
+
+*   Games with a Minimal or Mild label are eligible for Roblox Kids (ages 5–8) and Roblox Select (ages 9–15).
+    
+*   Games with a Moderate label are eligible for Roblox Select (ages 9–15) and standard Roblox (ages 16+).
+    
+*   Games with a Content May Vary label are only accessible to [age-checked](https://about.roblox.com/age-estimation) Roblox users ages 16+.
+    
+*   Games with a Restricted label are only accessible to [age-verified](https://create.roblox.com/docs/en-us/production/publishing/account-verification) Roblox users ages 18+.
+    
+
+To reach Roblox Kids and Select audiences, creators must also meet additional publishing requirements aside from their content maturity label. For more information, see [Roblox Kids and Select](https://create.roblox.com/docs/en-us/production/publishing/kids-and-select).
+
+Content descriptors that generate content maturity labels are separate from [genres](https://create.roblox.com/docs/en-us/production/publishing/experience-genres) that classify games according to their core gameplay. In cases where there is overlap between genres and in-game content or behavior, answer the Maturity & Compliance questionnaire as accurately as you can regardless of your genre selection or assignment from Roblox.
 
 Generate labels
 ---------------
 
-You can generate content maturity information by filling out the Maturity & Compliance Questionnaire, which contains a set of questions about the type of content players can possibly encounter within your experience, as well as how frequently it occurs. Your answers give Roblox an understanding of the content in your experience and ensure that the experience is available to the appropriate audience.
+You can generate content maturity information by filling out the Maturity & Compliance Questionnaire, which contains a set of questions about the type of content players can possibly encounter within your game, as well as how frequently it occurs. Your answers give Roblox an understanding of the content in your game and ensure that the game is available to the appropriate audience.
 
-If your experience is going to have [Restricted content](https://en.help.roblox.com/hc/articles/15869919570708), it must first receive a Restricted maturity label so that its content is restricted to age-verified players who are at least 18 years old. You must not add any restricted content to your experience before adding content maturity information.
+If you only want to publish your game to age-checked Roblox users ages 16+ in most regions, you only need to complete the first question of the questionnaire. However, if you want to publish your game to [Roblox Kids and Select](https://create.roblox.com/docs/en-us/production/publishing/kids-and-select) audiences or regions with specific content policies, you must complete the entirety of the questionnaire.
 
-As you are completing the questionnaire, base your answers on the most mature or extreme content players can encounter within your experience. You can retake the questionnaire and generate a new maturity label at any time to accurately reflect the content in your experience. For restricted experiences, you can't change the maturity, but you can update its content descriptors.
+If your game is going to have [age-restricted content](https://en.help.roblox.com/hc/articles/15869919570708), you must also fill out the entirety of the questionnaire and receive a Moderate or Restricted maturity label so that its content is restricted to the appropriate [age-checked](https://about.roblox.com/age-estimation) 16+ or [age-verified](https://create.roblox.com/docs/en-us/production/publishing/account-verification) 18+ audience. You must not add any age-restricted content to your game before receiving this label.
+
+As you are completing the questionnaire, base your answers on the most mature or extreme content players can encounter within your game. You can retake the questionnaire and generate a new maturity label at any time to accurately reflect the content in your game. For restricted games, you can't change the maturity, but you can update its content descriptors.
 
 To generate content maturity information:
 
 1.  OPTIONAL
     
-    If you want your experience to include restricted content, confirm you are at least 18 years old by [verifying your account](https://create.roblox.com/docs/en-us/production/publishing/account-verification) so the questionnaire can ask questions to generate the Restricted maturity label.
+    If you want your game to include restricted content, confirm you are at least 18 years old by [verifying your account](https://create.roblox.com/docs/en-us/production/publishing/account-verification) so the questionnaire can ask questions to generate the Restricted maturity label.
     
-2.  Navigate to the [Creator Dashboard](https://create.roblox.com/dashboard/creations) and click on the thumbnail of the experience you want to generate content maturity information for. The experience's Overview page displays.
+2.  Navigate to the [Creator Dashboard](https://create.roblox.com/dashboard/creations) and click on the thumbnail of the game you want to generate content maturity information for. The game's Overview page displays.
     
-3.  In the left-hand navigation, navigate to the Configure section, then select Questionnaire.
+3.  In the left-hand navigation, navigate to Configurations > Content Rating.
     
 4.  If you've never taken the questionnaire before, read the notes and details, then click Start to proceed. If you've previously completed the questionnaire, the Questionnaire Completed page displays, but you can click the Restart button to start over.
     
-5.  Answer each page of questions based on the content within your experience, then click the Save and Continue button. After you have answered every question, the Questionnaire Preview page displays all of your answers, the maturity label, applicable content descriptors, and any regions where your experience is non-compliant according to your answers.
+5.  Answer each page of questions based on the content within your game, then click the Save and Continue button. After you have answered every question, the Questionnaire Preview page displays all of your answers, the maturity label, applicable content descriptors, and any regions where your game is non-compliant according to your answers.
     
-    Please review your experience and confirm that your answers accurately reflect the content of your experience. If you intentionally misrepresent your experience, you may be subject to [moderation consequences](#content-maturity-moderation).
+    Please review your game and confirm that your answers accurately reflect its content. If you intentionally misrepresent your game, you may be subject to [moderation consequences](#content-maturity-moderation).
     
-6.  If you need to modify a previous answer, click the Edit button, otherwise click the Submit button to immediately publish the content maturity information to the experience's main page. If your experience receives a Restricted maturity label, servers running the experience restart to remove all players except those age-verified as 18+, and Studio removes all creators from any active [collaboration](https://create.roblox.com/docs/en-us/projects/collaboration) session except those age-verified as 18+.
+6.  If you need to modify a previous answer, click the Edit button, otherwise click the Submit button to immediately publish the content maturity information to the game's main details page. If your game receives a Restricted maturity label, servers running the game restart to remove all players except those age-verified as 18+, and Studio removes all creators from any active [collaboration](https://create.roblox.com/docs/en-us/projects/collaboration) session except those age-verified as 18+.
     
 
-As long as your experience doesn't have a Restricted maturity label, if you believe that your content maturity information doesn't match your intended audience, you can update the content in your experience so that your experience is appropriate for your target audience, then resubmit the questionnaire. To learn how you can dynamically adjust the content of your experience for different audiences, see the [PolicyService](https://create.roblox.com/docs/en-us/reference/engine/classes/PolicyService) API reference.
+As long as your game doesn't have a Restricted maturity label, if you believe that your content maturity information doesn't match your intended audience, you can update the content in your game so that your game is appropriate for your target audience, then resubmit the questionnaire. To learn how you can dynamically adjust the content of your game for different audiences, see the [PolicyService](https://create.roblox.com/docs/en-us/reference/engine/classes/PolicyService) API reference.
 
 If you publish an update that changes any of the answers from the questionnaire, you must update your answers and resubmit the questionnaire to remain compliant with Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards) and [Terms of Use](https://en.help.roblox.com/hc/articles/115004647846).
 
 Questionnaire categories
 ------------------------
 
-The following sections provide guidance on answering the questions within each category of the Maturity & Compliance questionnaire. Content maturity information only applies to content that you create for your experience, not user-generated content that players bring with them, such as avatar clothing or accessories.
+The following sections provide guidance on answering the questions within each category of the Maturity & Compliance questionnaire. Content maturity information only applies to content that you create for your game, not user-generated content that players bring with them, such as avatar clothing or accessories.
 
-After you submit the questionnaire, your experience receives a maturity label with content descriptors according to the following table, as well as a regional compliance result.
+After you submit the questionnaire, your game receives a maturity label with content descriptors according to the following table, as well as a regional compliance result.
 
 | Maturity label | Description |
 | --- | --- |
@@ -1391,50 +1410,50 @@ After you submit the questionnaire, your experience receives a maturity label wi
 | Moderate | May contain moderate violence, light realistic blood, moderate fear-based content, moderate crude humor, and/or unplayable gambling content. |
 | Restricted | May contain strong violence, heavy realistic blood, moderate crude humor, romantic themes, unplayable gambling content, the presence of alcohol, and/or strong language. |
 
-To remain compliant with local laws and regulations, experiences with a Restricted maturity label are unplayable for players who created their accounts or are located in certain countries or regions, such as Korea, Saudi Arabia, and Türkiye (Turkey).
+To remain compliant with local laws and regulations, games with a Restricted maturity label are unplayable for players who created their accounts or are located in certain countries or regions, such as Korea, Saudi Arabia, and Türkiye (Turkey).
 
 While parents can use parental controls to bypass most content restrictions according to what they believe is appropriate for their child, Roblox restricts [free-form user creation](#free-form-user-creation) and [social hangouts](#social-hangout) to players over 16.
 
 ### Violence
 
-Question 1: Does this experience depict violence and/or violent content?
+Question 1: Does this game depict violence and/or violent content?
 
-Violence is the intentional use of physical or psychological force against players or non-playable characters (NPCs). If your experience includes violence, including within any [asset type](https://create.roblox.com/docs/en-us/projects/assets#asset-types), you must disclose it in the Maturity & Compliance Questionnaire.
+Violence is the intentional use of physical or psychological force against players or non-playable characters (NPCs). If your game includes violence, including within any [asset type](https://create.roblox.com/docs/en-us/projects/assets#asset-types), you must disclose it in the Maturity & Compliance Questionnaire.
 
 Question 2: How intense is the violence?
 
-If your experience contains violence, you must specify the violence's maximum level of intensity according to the following table:
+If your game contains violence, you must specify the violence's maximum level of intensity according to the following table:
 
 | Violence intensity | Description |
-| --- | --- | --- |
+| --- | --- |
 | Mild | Implied or unrealistic depictions of violence, such as bodies disappearing the moment their health reaches zero. |
 | Moderate | Non-graphic, realistic-looking depictions of violence and/or death that don't violate Roblox Community Standards, such as realistic depictions of real-life injuries. |
-| Restricted | Graphic and realistic-looking depictions of violence and/or death that do not violate the [Restricted Content Policy](https://en.help.roblox.com/hc/en-us/articles/15869919570708-Roblox-17-Policy-Standards), such as non-real world beheadings/decapitation, impalement, hangings, dismemberment, mutilation, severed/severing body parts, presence of organs, maiming, disfiguration, and electrocution.  <br>  <br>Experiences with strong violence are only available to age-verified players that are at least 18 years old. |     |
+| Restricted | Graphic and realistic-looking depictions of violence and/or death that do not violate the [Age-Restricted Content Policy](https://en.help.roblox.com/hc/en-us/articles/15869919570708-Roblox-17-Policy-Standards), such as non-real world beheadings/decapitation, impalement, hangings, dismemberment, mutilation, severed/severing body parts, presence of organs, maiming, disfiguration, and electrocution.  <br>  <br>Games with strong violence are only available to age-verified players that are at least 18 years old. |
 
-If you imply violence anywhere within your experience, such as violence that occurs off-screen that players can hear but can't see, your experience automatically meets the mild criteria.
+If you imply violence anywhere within your game, such as violence that occurs off-screen that players can hear but can't see, your game automatically meets the mild criteria.
 
-If you visually show violence, the criteria for meeting mild, moderate, or strong violence depends on the consequence of the violence. For example, if the consequence of violence is unrealistic, your experience meets the mild criteria, but if there is any moment that the consequence of violence is realistic, your experience meets either the moderate or strong criteria, even if the realistic violence only occurs once.
+If you visually show violence, the criteria for meeting mild, moderate, or strong violence depends on the consequence of the violence. For example, if the consequence of violence is unrealistic, your game meets the mild criteria, but if there is any moment that the consequence of violence is realistic, your game meets either the moderate or strong criteria, even if the realistic violence only occurs once.
 
-Roblox doesn't allow content that contains extreme violence or serious physical or psychological abuse. This includes animal abuse and torture, realistic depictions of extreme gore, or the depiction, support, or glorification of war crimes or human rights violations, including torture. For more information, see Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410) and [Restricted Content Policy](https://en.help.roblox.com/hc/articles/15869919570708).
+Roblox doesn't allow content that contains extreme violence or serious physical or psychological abuse. This includes animal abuse and torture, realistic depictions of extreme gore, or the depiction, support, or glorification of war crimes or human rights violations, including torture. For more information, see Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410) and [Age-Restricted Content Policy](https://en.help.roblox.com/hc/articles/15869919570708).
 
 Question 3: How frequent is the violence?
 
-After you specify its intensity, you must also specify how often the violence occurs within your experience according to the following table. Note that even a small part of your experience contains repeated violence, it meets the Repeated criteria.
+After you specify its intensity, you must also specify how often the violence occurs within your game according to the following table. Note that even if a small part of your game contains repeated violence, it meets the Repeated criteria.
 
 | Violence frequency | Description |
 | --- | --- |
-| Occasional | Violence occurs either rarely or occasionally, such as at a couple key moments of the experience. |
+| Occasional | Violence occurs either rarely or occasionally, such as at a couple key moments of the game. |
 | Repeated | Violence either occurs often, or it occurs rarely, but when it does occur, many violent events happen in quick succession. |
 
 ### Blood
 
-Question 1: Does this experience depict any blood?
+Question 1: Does this game depict any blood?
 
-Blood is one of the primary liquids that flows through human and animal bodies that's essential to life. If your experience includes blood, including within any [asset type](https://create.roblox.com/docs/en-us/projects/assets#asset-types), you must disclose it within the Maturity & Compliance Questionnaire.
+Blood is one of the primary liquids that flows through human and animal bodies that's essential to life. If your game includes blood, including within any [asset type](https://create.roblox.com/docs/en-us/projects/assets#asset-types), you must disclose it within the Maturity & Compliance Questionnaire.
 
 Question 2: How realistic is the blood?
 
-If your experience contains blood, you must specify the blood's realism according to the following table:
+If your game contains blood, you must specify the blood's realism according to the following table:
 
 | Blood realism | Description |
 | --- | --- |
@@ -1443,7 +1462,7 @@ If your experience contains blood, you must specify the blood's realism accordin
 
 Question 3 for unrealistic blood: Are the depictions of blood infrequent and/or fleeting?
 
-If you answer unrealistic for question 2, you must also specify how often the unrealistic blood occurs within your experience according to the following table:
+If you answer unrealistic for question 2, you must also specify how often the unrealistic blood occurs within your game according to the following table:
 
 | Unrealistic blood frequency | Description |
 | --- | --- |
@@ -1452,22 +1471,22 @@ If you answer unrealistic for question 2, you must also specify how often the un
 
 Question 3 for realistic blood: What level of blood and/or gore is depicted?
 
-If you answer realistic for question 2, you must also specify the blood's maximum level of intensity according to the following table. Note that if you depict realistic blood anywhere within your experience, such as blood splatter from a distance, your experience automatically meets the Light criteria.
+If you answer realistic for question 2, you must also specify the blood's maximum level of intensity according to the following table. Note that if you depict realistic blood anywhere within your game, such as blood splatter from a distance, your game automatically meets the Light criteria.
 
 | Blood intensity | Description |
-| --- | --- | --- |
+| --- | --- |
 | Light | The bloodshed is minimal, such as blood spatter from a distance. |
-| Heavy | The bloodshed is significant, such as pools of blood, gushing blood, and up-close blood spatter.  <br>  <br>Experiences with heavy, realistic blood are only available to age-verified players that are at least 18 years old. |     |
+| Heavy | The bloodshed is significant, such as pools of blood, gushing blood, and up-close blood spatter.  <br>  <br>Games with heavy, realistic blood are only available to age-verified players that are at least 18 years old. |
 
 ### Fear
 
-Question 1: Does this experience include scary elements that may trigger fear?
+Question 1: Does this game include scary elements that may trigger fear?
 
-Fear-based content contains scary or horrifying elements that trigger fear in players. If your experience includes scary elements, including within any [asset type](https://create.roblox.com/docs/en-us/projects/assets#asset-types), you must disclose it in the Maturity & Compliance Questionnaire.
+Fear-based content contains scary or horrifying elements that trigger fear in players. If your game includes scary elements, including within any [asset type](https://create.roblox.com/docs/en-us/projects/assets#asset-types), you must disclose it in the Maturity & Compliance Questionnaire.
 
 Question 2: What level of scary elements are there?
 
-If your experience contains scary elements, you must specify the intensity of the elements according to the following table:
+If your game contains scary elements, you must specify the intensity of the elements according to the following table:
 
 | Scary elements intensity | Description |
 | --- | --- |
@@ -1494,22 +1513,22 @@ Includes realistic open wounds and leaking/bleeding eyes.
 
 Question 3: How frequently do the scary elements occur?
 
-After you specify its intensity, you must also specify how often the scary elements occur within your experience according to the following table. Note that even a small part of your experience contains repeated scary elements, it meets the Repeated criteria.
+After you specify its intensity, you must also specify how often the scary elements occur within your game according to the following table. Note that even a small part of your game contains repeated scary elements, it meets the Repeated criteria.
 
 | Scary elements frequency | Description |
 | --- | --- |
-| Occasional | Scary elements occur either rarely or occasionally, such as at a couple key moments of the experience. |
-| Repeated | Scary elements either occur often, or they occur rarely, but when they do occur, many violent events happen in quick succession. |
+| Occasional | Scary elements occur either rarely or occasionally, such as at a couple key moments of the game. |
+| Repeated | Scary elements either occur often, or they occur rarely, but when they do occur, many scary events happen in quick succession. |
 
 ### Crude humor
 
-Question 1: Does this experience depict, reference, or encourage crude humor?
+Question 1: Does this game depict, reference, or encourage crude humor?
 
-Crude humor is a type of humor that depicts or references crude bodily functions, such as burping, farting, vomit, pee, and/or poop for comical purposes. If your experience includes crude humor, including within any [asset type](https://create.roblox.com/docs/en-us/projects/assets#asset-types), you must disclose it in the Maturity & Compliance Questionnaire.
+Crude humor is a type of humor that depicts or references crude bodily functions, such as burping, farting, vomit, pee, and/or poop for comical purposes. If your game includes crude humor, including within any [asset type](https://create.roblox.com/docs/en-us/projects/assets#asset-types), you must disclose it in the Maturity & Compliance Questionnaire.
 
 Question 2: What is the level of crude humor?
 
-If your experience contains crude humor, you must specify the intensity of the elements according to the following table:
+If your game contains crude humor, you must specify the intensity of the elements according to the following table:
 
 | Level of crude humor | Description |
 | --- | --- |
@@ -1518,25 +1537,25 @@ If your experience contains crude humor, you must specify the intensity of the e
 
 ### Unplayable gambling content
 
-Question 1: Does this experience contain unplayable gambling content?
+Question 1: Does this game contain unplayable gambling content?
 
-Gambling is the practice of exchanging real world money, Robux, or in-experience items of value for a game of chance. While experiences cannot contain playable gambling content, including simulated gambling, you can depict unplayable gambling content, such as showing a casino or people playing cards that players cannot bet on or play.
+Gambling is the practice of exchanging real-world money, Robux, or in-game items of value for a game of chance. While games cannot contain playable gambling content, including simulated gambling, you can depict unplayable gambling content, such as showing a casino or people playing cards that players cannot bet on or play.
 
 You do not need to report depictions of, and/or references to, items or activities that are typically associated with gambling, but are not games of chance/luck, such as horse racing, car racing, and poker chips.
 
 ### Strong language
 
-Question 1: Do you depict and/or want to allow strong language in your experience?
+Question 1: Do you depict and/or want to allow strong language in your game?
 
 Strong language is vulgar and obscene language that is not used to harass, discriminate, incite violence, or threaten others, or used in a sexual context. For example, strong language content could be depictions of a non-playable character (NPC) using obscenity like the "f-word" that is not directed towards another character or group of people (e.g. "f\* off").
 
-If your experience includes strong language, you must disclose it within the Maturity & Compliance Questionnaire. Experiences that include strong language are only available to age-verified players that are at least 18 years old.
+If your game includes strong language, you must disclose it within the Maturity & Compliance Questionnaire. Games that include strong language are only available to age-verified players that are at least 18 years old.
 
-If you want to enable strong language in player communication aside from content for your experiences with Restricted content maturity labels, see [here](https://create.roblox.com/docs/en-us/projects/configure-games#allow-strong-language).
+If you want to enable strong language in player communication aside from content for your games with Restricted content maturity labels, see [here](https://create.roblox.com/docs/en-us/projects/configure-games#allow-strong-language).
 
 ### Romantic themes
 
-Question 1: Does this experience depict or reference (including in the title) romantic themes and/or primarily take place in private spaces (e.g. shower stalls, hotel rooms) or settings intended for adults (e.g. clubs, bars)?
+Question 1: Does this game depict or reference (including in the title) romantic themes and/or primarily take place in private spaces (e.g. shower stalls, hotel rooms) or settings intended for adults (e.g. clubs, bars)?
 
 To understand this question, it's important to understand three different definitions:
 
@@ -1552,38 +1571,38 @@ To understand this question, it's important to understand three different defini
 *   Settings intended for adults are settings that are designed to cater to adult clientele. These settings are often legally restricted to individuals who have reached the age of majority and are otherwise deemed inappropriate or unsuitable for minors, such as clubs or bars.
     
 
-If your experience includes (including in the title) romantic themes and/or primarily takes place in private spaces or settings intended for adults, you must disclose it within the Maturity & Compliance Questionnaire, and it will only be available to age-verified players that are at least 18 years old.
+If your game includes (including in the title) romantic themes and/or primarily takes place in private spaces or settings intended for adults, you must disclose it within the Maturity & Compliance Questionnaire, and it will only be available to age-verified players that are at least 18 years old.
 
 ### Alcohol
 
-Question 1: Does this experience depict, reference, or include use of alcohol?
+Question 1: Does this game depict, reference, or include use of alcohol?
 
-Alcohol is an intoxicating adult beverage. If your experience includes, depicts, or references alcohol, or depicts adult business and locations that provide or sell alcohol, such as characters drinking alcohol at a bar, you must disclose it within the Maturity & Compliance Questionnaire. Experiences that depict alcohol are only available to age-verified players that are at least 18 years old.
+Alcohol is an intoxicating adult beverage. If your game includes, depicts, or references alcohol, or depicts adult business and locations that provide or sell alcohol, such as characters drinking alcohol at a bar, you must disclose it within the Maturity & Compliance Questionnaire. Games that depict alcohol are only available to age-verified players that are at least 18 years old.
 
 ### Social hangout
 
-Question 1: Is the primary theme or activity of this experience a social hangout?
+Question 1: Is the primary theme or activity of this game a social hangout?
 
-Social hangouts are experiences where the primary theme or activity is to talk to or interact with other players using voice or text chat. This includes hangouts, vibe games, socializing spaces, and supportive places like sad rooms. It does not apply to experiences where the primary theme or activity is roleplay. To be considered a roleplay experience, the roleplay components, such as adopting a new role and using in-game items to play your role with, must be central to the experience. Note that if your title or description includes content referencing social hangouts, your experience will be classified as a social hangout. If this is inaccurate, please update your title or description and re-take the questionnaire.
+Social hangouts are games where the primary theme or activity is to talk to or interact with other players using voice or text chat. This includes hangouts, vibe games, socializing spaces, and supportive places like sad rooms. It does not apply to games where the primary theme or activity is roleplay. To be considered a roleplay game, the roleplay components, such as adopting a new role and using in-game items to play your role with, must be central to the game. Note that if your title or description includes content referencing social hangouts, your game will be classified as a social hangout. If this is inaccurate, please update your title or description and re-take the questionnaire.
 
-If your experience is a social hangout, you must disclose it within the Maturity & Compliance Questionnaire.
+If your game is a social hangout, you must disclose it within the Maturity & Compliance Questionnaire.
 
-Question 2: Does your experience include private spaces?
+Question 2: Does your game include private spaces?
 
-If your experience is a social hangout, you must specify if it includes private spaces. Private spaces are enclosed spaces that meet the following two criteria:
+If your game is a social hangout, you must specify if it includes private spaces. Private spaces are enclosed spaces that meet the following two criteria:
 
 *   They are designed for activities that are personal and secluded, such as sleeping, changing clothes, or bathing.
     
 *   They are designed for one person or for a very small number of people, such as a bathroom stall, bedroom, or small tent.
     
 
-If your experience is a social hangout that includes private spaces, you must disclose it within the Maturity & Compliance Questionnaire. Social hangouts without private spaces are only available to players that are at least 16 years old, and social hangouts with private spaces are only available to age-verified players that are at least 18 years old.
+If your game is a social hangout that includes private spaces, you must disclose it within the Maturity & Compliance Questionnaire. Social hangouts without private spaces are only available to players that are at least 16 years old, and social hangouts with private spaces are only available to age-verified players that are at least 18 years old.
 
 ### Free-form user creation
 
-Question 1: Does this experience include free-form user creation?
+Question 1: Does this game include free-form user creation?
 
-Free-form user creation refers to features that allow players to create the following within an experience for other users to see:
+Free-form user creation refers to features that allow players to create the following within a game for other users to see:
 
 *   Freehand drawing, painting, writing, or spray paint on any visible 2D or 3D surface.
     
@@ -1592,13 +1611,13 @@ Free-form user creation refers to features that allow players to create the foll
 *   Temporary, per-round, or timed-reveal drawings, if another player can see them.
     
 
-Free-form user creation does not apply to in-experience creations that players assemble with 3D assets, such as building a house or creating an outfit, or anything that goes through Roblox moderation before it's published or replicated.
+Free-form user creation does not apply to in-game creations that players assemble with 3D assets, such as building a house or creating an outfit, or anything that goes through Roblox moderation before it's published or replicated.
 
-If your experience includes free-form user creation features, you must disclose it within the Maturity & Compliance Questionnaire. Free-form user creation is only available to players that are at least 16 years old.
+If your game includes free-form user creation features, you must disclose it within the Maturity & Compliance Questionnaire. Free-form user creation is only available to players that are at least 16 years old.
 
 ### Sensitive issues
 
-Question 1: Is the primary theme of this experience a sensitive issue?
+Question 1: Is the primary theme of this game a sensitive issue?
 
 Sensitive issues are any current social, political, and religious issue that meets the following criteria:
 
@@ -1609,75 +1628,75 @@ Sensitive issues are any current social, political, and religious issue that mee
 
 Sensitive issues are frequently in the news and inspire strong opinions and debate. For example: immigration, capital punishment, gun control, marriage equality, pay equity in sports, prayer in schools, racial profiling, affirmative action, vaccination policies, and reproductive rights. What meets the criteria can differ significantly depending on your location and cultural context, so answer from your local perspective.
 
-If your experience includes content related to a sensitive issue or people implicated by them, but it isn't primarily themed on that issue, such as a religious building in a city, guns in a first-person shooter experience, or a national holiday parade in a hangout experience, you do not need to disclose it within the Maturity & Compliance Questionnaire.
+If your game includes content related to a sensitive issue or people implicated by them, but it isn't primarily themed on that issue, such as a religious building in a city, guns in a first-person shooter game, or a national holiday parade in a hangout game, you do not need to disclose it within the Maturity & Compliance Questionnaire.
 
-However, if the majority of the content or gameplay of your experience refers to a sensitive issue, you must disclose it within the Maturity & Compliance Questionnaire. Experiences with a primary theme of a sensitive issue are only available to players who are at least 16 years old, but they aren't recommended and discoverable unless the players have age-verified themselves. Parents can [manually allow access](https://en.help.roblox.com/hc/en-us/articles/30428310121620-Parental-Controls-Overview) to these experiences, regardless of their child's age.
+However, if the majority of the content or gameplay of your game refers to a sensitive issue, you must disclose it within the Maturity & Compliance Questionnaire. Games with a primary theme of a sensitive issue are only available to players who are at least 16 years old, but they aren't recommended and discoverable unless the players have age-verified themselves. Parents can [manually allow access](https://en.help.roblox.com/hc/en-us/articles/30428310121620-Parental-Controls-Overview) to these games, regardless of their child's age.
 
 Individual assets, as well as text and voice chat, do not qualify for this descriptor.
 
 ### Paid random items
 
-Question 1: Does this experience contain paid random items?
+Question 1: Does this game contain paid random items?
 
-Paid random items are virtual items players can purchase with Robux or other currency. If your experience includes paid random items, such as a coin players can purchase with Robux to later redeem for a random virtual item, you must disclose it within the Maturity & Compliance Questionnaire.
+Paid random items are virtual items players can purchase with Robux or other currency. If your game includes paid random items, such as a coin players can purchase with Robux to later redeem for a random virtual item, you must disclose it within the Maturity & Compliance Questionnaire.
 
 You do not need to report virtual items that you provide in exchange for players completing an action that doesn't involve the payment of Robux or any other currency.
 
-Question 2: Does this experience respect the ArePaidRandomItemsRestricted policy API?
+Question 2: Does this game respect the ArePaidRandomItemsRestricted policy API?
 
-If your experience contains paid random items, it's recommended to take the mandatory precautions to protect players in certain regions that don't allow paid random items so that they can still access your experience. To check when these precautions are necessary, use [PolicyService.GetPolicyInfoForPlayerAsync](https://create.roblox.com/docs/en-us/reference/engine/classes/PolicyService#GetPolicyInfoForPlayerAsync) to return a dictionary of values that determine whether certain aspects of the experience need to change for that unique player.
+If your game contains paid random items, it's recommended to take the mandatory precautions to protect players in certain regions that don't allow paid random items so that they can still access your game. To check when these precautions are necessary, use [PolicyService.GetPolicyInfoForPlayerAsync](https://create.roblox.com/docs/en-us/reference/engine/classes/PolicyService#GetPolicyInfoForPlayerAsync) to return a dictionary of values that determine whether certain aspects of the game need to change for that unique player.
 
-One entry within the policy information is ArePaidRandomItemsRestricted, a boolean that represents whether a player is eligible to pay for random items. Random items can remain purchasable if ArePaidRandomItemsRestricted returns false, but if ArePaidRandomItemsRestricted returns true, include additional logic to hide, replace, or block the purchase of random items for those players so that your experience is available to the largest audience as possible.
+One entry within the policy information is ArePaidRandomItemsRestricted, a boolean that represents whether a player is eligible to pay for random items. Random items can remain purchasable if ArePaidRandomItemsRestricted returns false, but if ArePaidRandomItemsRestricted returns true, include additional logic to hide, replace, or block the purchase of random items for those players so that your game is available to the largest audience as possible.
 
 ### Paid item trading
 
-Question 1: Does this experience contain the ability for users to trade items that they paid for?
+Question 1: Does this game contain the ability for users to trade items that they paid for?
 
-Paid item trading is the ability for players to purchase virtual items that they can then trade with other players. If your experience includes paid item trading, such as a marketplace for exchanging Limited items, you must disclose it within the Maturity & Compliance Questionnaire.
+Paid item trading is the ability for players to purchase virtual items that they can then trade with other players. If your game includes paid item trading, such as a marketplace for exchanging Limited items, you must disclose it within the Maturity & Compliance Questionnaire.
 
-Question 2: Does this experience respect the IsPaidItemTradingAllowed policy API?
+Question 2: Does this game respect the IsPaidItemTradingAllowed policy API?
 
-If your experience contains paid item trading, it's recommended to take the mandatory precautions to protect players in certain regions that don't allow paid item trading so that they can still access your experience. To check when these precautions are necessary, use [PolicyService.GetPolicyInfoForPlayerAsync](https://create.roblox.com/docs/en-us/reference/engine/classes/PolicyService#GetPolicyInfoForPlayerAsync) to return a dictionary of values that determine whether certain aspects of the experience need to change for that unique player.
+If your game contains paid item trading, it's recommended to take the mandatory precautions to protect players in certain regions that don't allow paid item trading so that they can still access your game. To check when these precautions are necessary, use [PolicyService.GetPolicyInfoForPlayerAsync](https://create.roblox.com/docs/en-us/reference/engine/classes/PolicyService#GetPolicyInfoForPlayerAsync) to return a dictionary of values that determine whether certain aspects of the game need to change for that unique player.
 
-One entry within the policy information is IsPaidItemTradingAllowed, a boolean that represents whether a player is eligible to trade paid items. Paid items can remain tradeable if IsPaidItemTradingAllowed returns true, but if IsPaidItemTradingAllowed returns false, include additional logic to hide, replace, or block the trading of paid items for those players so that your experience is available to the largest audience as possible.
+One entry within the policy information is IsPaidItemTradingAllowed, a boolean that represents whether a player is eligible to trade paid items. Paid items can remain tradeable if IsPaidItemTradingAllowed returns true, but if IsPaidItemTradingAllowed returns false, include additional logic to hide, replace, or block the trading of paid items for those players so that your game is available to the largest audience as possible.
 
 ### Media
 
-Question 1: Does your experience allow users to share media content (videos, images, text, audio, 3D models) from their gameplay that other users can see?
+Question 1: Does your game allow users to share media content (videos, images, text, audio, 3D models) from their gameplay that other users can see?
 
-This question only applies if your experience lets users share gameplay content using tools built into the experience itself.
+This question only applies if your game lets users share gameplay content using tools built into the game itself.
 
-Question 2: Does your experience contain content feeds with continuous loading or audio/video that plays automatically?
+Question 2: Does your game contain content feeds with continuous loading or audio/video that plays automatically?
 
 Continuous loading means that content loads automatically as the user scrolls, without requiring any specific user interaction (such as a manual "load more" button or pagination).
 
-Question 3: Does your experience allow users to view content that was captured from other experiences on Roblox?
+Question 3: Does your game allow users to view content that was captured from other games on Roblox?
 
-This question applies to any in-experience viewing functionality, such as a [SurfaceGui](https://create.roblox.com/docs/en-us/reference/engine/classes/SurfaceGui) for static images, a [VideoFrame](https://create.roblox.com/docs/en-us/reference/engine/classes/VideoFrame), or an asset viewer.
+This question applies to any in-game viewing functionality, such as a [SurfaceGui](https://create.roblox.com/docs/en-us/reference/engine/classes/SurfaceGui) for static images, a [VideoFrame](https://create.roblox.com/docs/en-us/reference/engine/classes/VideoFrame), or an asset viewer.
 
 ### AI interaction
 
-Question 1: Does your experience allow users to interact with generative AI components?
+Question 1: Does your game allow users to interact with generative AI components?
 
-This question includes experiences in which a user can interact with a generative AI model in any way that triggers a response from the model. These interactions can include text chat, voice chat, images, 3D generations, avatar movement, etc.
+This question includes games in which a user can interact with a generative AI model in any way that triggers a response from the model. These interactions can include text chat, voice chat, images, 3D generations, avatar movement, etc.
 
-Your answer to this question should not consider whether you used generative AI to help develop the experience, only whether users can interact with it in the experience.
+Your answer to this question should not consider whether you used generative AI to help develop the game, only whether users can interact with it in the game.
 
-Question 2: What type of interactions does your experience allow between users and a generative AI model?
+Question 2: What type of interactions does your game allow between users and a generative AI model?
 
 Extended interactions meet at least one of the following criteria:
 
-*   Cross-session memory is enabled. The experience saves the context of a user's prior interactions with AI and loads it on subsequent sessions.
+*   Cross-session memory is enabled. The game saves the context of a user's prior interactions with AI and loads it on subsequent sessions.
     
-*   The experience's main purpose is to interact with a generative AI bot or character. Users can interact with the AI continuously with no time limit.
+*   The game's main purpose is to interact with a generative AI bot or character. Users can interact with the AI continuously with no time limit.
     
 
-Experiences that do not meet at least one of these criteria are considered limited interactions.
+Games that do not meet at least one of these criteria are considered limited interactions.
 
 Content maturity moderation
 ---------------------------
 
-Roblox relies on the information you provide in the Maturity & Compliance Questionnaire to generate accurate content maturity information, so the Moderation team may review your content maturity to ensure its validity based on the content of your experience. Whenever Roblox discovers a discrepancy between your submission and the content in your experience, the following actions occur:
+Roblox relies on the information you provide in the Maturity & Compliance Questionnaire to generate accurate content maturity information, so the Moderation team may review your content maturity to ensure its validity based on the content of your game. Whenever Roblox discovers a discrepancy between your submission and the content in your game, the following actions occur:
 
 *   You receive a moderation notification through a private message on Roblox.
     
@@ -1685,19 +1704,19 @@ Roblox relies on the information you provide in the Maturity & Compliance Questi
     
 *   Roblox provides a moderation action.
     
-    *   If your experience contains restricted content without a Restricted maturity label, your experience is subject to moderation consequences.
+    *   If your game contains restricted content without a Restricted maturity label, your game is subject to moderation consequences.
         
-    *   If your experience contains content that is prohibited by Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410), [Terms of Use](https://en.help.roblox.com/hc/articles/115004647846), or [Restricted Content Policy](https://en.help.roblox.com/hc/articles/15869919570708), your experience is subject to moderation consequences.
+    *   If your game contains content that is prohibited by Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410), [Terms of Use](https://en.help.roblox.com/hc/articles/115004647846), or [Age-Restricted Content Policy](https://en.help.roblox.com/hc/articles/15869919570708), your game is subject to moderation consequences.
         
-    *   If your experience otherwise has inaccurate content maturity information according to its content, Roblox may remove the maturity label (or only some or all descriptors if the maturity label is Restricted) from your experience. If an experience does not have content maturity information, Roblox restricts the playability of the experience on the platform for all players.
+    *   If your game otherwise has inaccurate content maturity information according to its content, Roblox may replace the maturity label or remove the maturity label (or only some or all descriptors if the maturity label is Restricted) from your game. If a game does not have content maturity information, Roblox restricts the playability of the game on the platform for all players.
         
-    *   If you repeatedly include inaccurate content maturity information, your experience and/or account is subject to moderation consequences.
+    *   If you repeatedly include inaccurate content maturity information, your game and/or account is subject to moderation consequences.
         
     
 
-If your experience receives a moderation action and you believe Roblox made a mistake, you can appeal the decision:
+If your game receives a moderation action and you believe Roblox made a mistake, you can appeal the decision:
 
-1.  If you are the owner of a user-owned experience or the group owner of a group-owned experience, navigate to [roblox.com/report-appeals](https://www.roblox.com/report-appeals#/).
+1.  If you are the owner of a user-owned game or the group owner of a group-owned game, navigate to [roblox.com/report-appeals](https://www.roblox.com/report-appeals#/).
     
 2.  Select the violation you want to appeal.
     
@@ -1718,7 +1737,7 @@ Even if the violation does not appear on the Violations & Appeals page, you can 
     
 4.  Set Help Subcategory Type to I was wrongly moderated for other content I created.
     
-5.  Input your experience ID into the Asset ID field.
+5.  Input your game ID into the Asset ID field.
     
 6.  In the Please describe your issue field, describe why the moderation action was a mistake.
     
