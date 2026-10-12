@@ -85,6 +85,8 @@ Whether or not you are the original creator of the asset, you must ensure that y
     
 *   Do not miscategorize your items, such as listing a pants asset in the Shirt category. See [Miscategorization](#miscategorization).
     
+*   Accessory attachment points must fit on the visible surface of the head mesh. Attachment points that float away from the visible head violate this policy.
+    
 
 Accessory and clothing guidelines
 ---------------------------------
