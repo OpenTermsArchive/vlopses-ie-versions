@@ -351,29 +351,66 @@ For more information about how to safely offer text chat in your game, please se
 
 - - -
 
-Restricted Content Policy
-=========================
+Age-Restricted Content on Roblox
+================================
 
-Our vision is that Roblox is a platform for all ages with safety and civility at its foundation. Building on that vision, our Content Maturity Labels allow creators who are the age of 18 and up to create content exclusively for older audiences on Roblox. Both creators that develop this content and people who engage with it have to be 18 or older and age checked to access this category. Such content will remain inaccessible to those who are under 18 or not age checked.
+Our vision is that Roblox is a platform for all ages with safety and civility at its foundation. Building on that vision, our Content Maturity Labels describe what content players may encounter, while age restrictions help determine age-appropriate access.
 
-These Standards apply to the Restricted Experiences you create on Roblox except where otherwise impacted. Local law or regulation may impose additional requirements on this content. We ask that you respect our Standards and each other at all times — and understand that violating them may result in enforcement action against your account(s) and content. All experiences labeled Minimal, Mild, and Moderate, as well as all assets submitted to us for moderation, must still adhere to Roblox’s  [Community Standards](https://en.help.roblox.com/hc/articles/203313410). User behavior (including text and voice chat) must also adhere to Roblox’s [Community Standards](https://en.help.roblox.com/hc/articles/203313410), with the exception of the use of Strong Language which is allowed in user communications in Restricted experiences which have Strong Language enabled for user communications. All public-facing information related to Restricted experiences must be appropriate for all ages (including experience details pages, thumbnails, and videos).  
- 
+The content below is accessible only to users who are age checked. All user behavior, games, and assets submitted to us for moderation must adhere to Roblox’s [Community Standards](https://en.help.roblox.com/hc/articles/203313410). Games with age-restricted content will need to complete the [Maturity & Compliance Questionnaire](https://create.roblox.com/docs/production/promotion/content-maturity). All public-facing information related to Age-Restricted games must be appropriate for general audiences (including game descriptions, thumbnails, and videos).
 
-We’re always learning, so as our community evolves and our platform grows, these Standards may change too. When they do, we’ll let you know [here](https://en.help.roblox.com/hc/articles/203313410#change-log). If you see something that you think violates Roblox’s Restricted Content Policy, or otherwise makes you feel unsafe, please let us know by using the [Report Abuse](https://en.help.roblox.com/hc/articles/203312410) feature.  
- 
+We’re always learning, so as our community evolves and our platform grows, these standards may change too. When they do, we’ll let you know [here](https://en.help.roblox.com/hc/articles/203313410#change-log). If you see something that you think violates Roblox’s Community Standards, Age-Restricted Content Policy, or otherwise makes you feel unsafe, please let us know by using the [Report Abuse](https://en.help.roblox.com/hc/articles/203312410) feature.
 
 We appreciate your cooperation with these Standards and commitment to keeping Roblox safe and civil.
 
-Violent Content and Gore
+**16+ Age-Restricted Content**
+==============================
 
-Restricted experiences on Roblox may include graphic and realistic-looking depictions of violence and heavy bloodshed, but we do not allow content that contains extreme violence or serious physical or psychological abuse, including:
+Players who engage with this content must be 16 or older and age checked. This content remains inaccessible to anyone under 16 and to anyone who has not been age checked.
+
+Social Hangouts
+
+Roblox games are considered social hangouts when the primary theme or activity is to chat or interact with other players with voice or text. This includes hangouts, vibe games, socializing spaces, and supportive places like sad rooms. 
+
+Note that if the title or description includes content referencing social hangouts, the game will be classified as a social hangout.
+
+Social hangouts without private spaces are only available to age-checked players that are at least 16 years old, and social hangouts with private spaces are only available to age-checked players that are at least 18 years old.
+
+Free-form User Creation
+
+Free-form user creation refers to features that allow players to create anything within a game, such as writing or drawing on a chalkboard. 
+
+While this applies to in-game freeform drawing or creation tools, it does not apply to in-game creations that players assemble with 3D assets, such as building a house or creating an outfit, or anything that goes through Roblox moderation before it's published or replicated.
+
+Sensitive Issues
+
+Games with a primary theme of a sensitive issue are only available to players who are at least 16 years old. Parents can [manually allow access](https://en.help.roblox.com/hc/en-us/articles/30428310121620-Parental-Controls-Overview) to this category of games, regardless of their child's age.
+
+Sensitive issues are any current social, political, and religious issue that meets the following criteria:
+
+*   Polarized Viewpoints - The issue has a limited number of strongly opposing viewpoints, with little room for compromise or middle ground.
+*   Strong Emotional Response - The issue evokes strong emotional reactions and/or passionate debate.
+
+Cross-Experience Content
+
+Cross-experience content refers to games where players can see screen captures from other games on Roblox. 
+
+Creators can allow players to upload screenshots or screen recordings that they captured in other games. As a result, players may encounter content from a game with a different Content Maturity Label than the game they are in. Games that allow this are only available to players who are at least 16 years old and age checked.
+
+**18+ Age-Restricted Content**
+==============================
+
+Creators who are 18 or older can create content exclusively for older audiences on Roblox. Both the creators who develop this content and the players who engage with it must be 18 or older and age checked. This content remains inaccessible to anyone under 18 and to anyone who has not been age checked.
+
+Local law or regulation may impose additional requirements on this content. We ask that you respect our standards and each other at all times — and understand that violating them may result in enforcement action against your account(s) and content. Violent Content and Gore
+
+Restricted games on Roblox may include graphic and realistic-looking depictions of violence and heavy bloodshed, but we do not allow content that contains extreme violence or serious physical or psychological abuse, including:
 
 *   Animal abuse and torture
 *   Real-world depictions of extreme gore, graphic violence, or death
 *   The depiction, support, or glorification of war crimes or human rights violations, including torture
 *   The depiction, support, or glorification of real-world mass shootings and/or terrorism Romantic and Sexual Content
 
-Restricted experiences may take place in private spaces or settings intended for adults. They may also contain non-sexual expressions of love and affection and reference romantic themes and topics. However, we prohibit content that depicts sexual activity or seeks real-world romantic relationships, including:
+Restricted games may take place in private spaces or settings intended for adults. They may also contain non-sexual expressions of love and affection and reference romantic themes and topics. However, we prohibit content that depicts sexual activity or seeks real-world romantic relationships, including:
 
 *   Romantic or flirtatious gestures or communication between users in a romantic context
 *   Pursuing or soliciting romantic relationships online
@@ -381,9 +418,9 @@ Restricted experiences may take place in private spaces or settings intended for
 *   Engaging in sexually explicit conversations or soliciting sexual material from other users
 *   Content or behavior that depicts, implies, or explicitly describes sexual acts
 *   Nudity, partial nudity or other content produced for sexual arousal
-*   Sexually suggestive content or behavior, including but not limited to: avatar bodies, assets and clothes, avatar emotes, or settings/environments in experiences Alcohol
+*   Sexually suggestive content or behavior, including but not limited to: avatar bodies, assets and clothes, avatar emotes, or settings/environments in games Alcohol
 
-Restricted experiences on Roblox may include references to, and depictions of, alcohol use and intoxicated behavior. However, we prohibit users from discussing, depicting, or promoting illegal and some regulated goods, including:
+Restricted games on Roblox may include references to, and depictions of, alcohol use and intoxicated behavior. However, we prohibit users from discussing, depicting, or promoting illegal and some regulated goods, including:
 
 *   Illegal and regulated drugs, including marijuana and the misuse of prescription or over-the-counter drugs, and the depiction of intoxication as a result of these substances
 *   Drug, tobacco, vaping, or other smoking paraphernalia
@@ -391,21 +428,19 @@ Restricted experiences on Roblox may include references to, and depictions of, a
 
 _If you or someone you know is struggling with substance abuse, help is available. You can start_ [_here_](https://www.samhsa.gov/public-messages)_._ Strong Language
 
-Restricted experiences on Roblox may include vulgar or obscene language and allow it in user communications (including text and voice chat). However, we do not allow users to use Strong Language to discriminate, insult, harass, or intimidate others, including:
+Restricted games on Roblox may include strong language in the game itself. They may also allow strong language in user communications (including text and voice chat) when enabled by the creator. However, we do not allow users to use Strong Language to discriminate, insult, harass, or intimidate others, including:
 
-*   Slurs or hate speech
+*   Slurs or disciminatory speech
 *   Strong Language used in a sexual context Social Hangouts and Private Spaces
 
-Roblox experiences are considered social hangouts where the primary theme or activity is to chat or interact with other players with voice or text. Note that if the title or description includes content referencing social hangouts, the experience will be classified as a social hangout.
+Roblox games are considered social hangouts where the primary theme or activity is to chat or interact with other players with voice or text. Note that if the title or description includes content referencing social hangouts, the game will be classified as a social hangout.
 
-Social hangouts that include private spaces (e.g. bedrooms or bathrooms) are Restricted. AI Interaction
+Social hangouts that include private spaces (e.g. bedrooms or bathrooms) are 18+ Age-Restricted. AI Interaction
 
-Roblox experiences may include generative AI components for users to interact with.
+Roblox games may include generative AI components for users to interact with. However, if the interaction between users and the AI model is extended, the game will be Restricted if it meets at least one of the following criteria:
 
-However, if the nature of the interactions between users and the AI model is an extended interaction, it will be Restricted if it meets at least one of the following criteria:
-
-*   The experience's main purpose is to interact with a generative AI bot or character. Users can interact with the AI continuously with no time limit.
-*   The experience features cross-session memory where the experience saves the context of a user's prior interactions with AI and loads it on subsequent sessions.
+*   The game's main purpose is to interact with a generative AI bot or character. Users can interact with the AI continuously with no time limit.
+*   The game features cross-session memory where the game saves the context of a user's prior interactions with AI and loads it on subsequent sessions.
 
 - - -
 
