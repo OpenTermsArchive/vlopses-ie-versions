@@ -101,7 +101,6 @@ Advertising Integrations
 *   Ad Integrations must not falsely represent the content being advertised to encourage user engagement (e.g., offer free Robux). 
 *   Developers must not implement reward mechanisms to incentivize users under the age of 13 to engage with any type of advertising content.
 *   Developers must use Roblox’s Rewarded Video advertising product to offer rewarded video advertising to 13+ users only.
-*   Developers must use Roblox’s Portal advertising product to offer portal advertising as part of the Ad Integration.
 
 Ad Fraud
 
@@ -113,7 +112,6 @@ Ad Fraud
 *   Publishers may not force users to initiate the video ad as a progress gate in the experience, including by taking over user screen visibility or avatar motion.
 *   Publishers must issue the reward to the user immediately after the rewarded video ad has completed.
 *   Publishers may not promote or implement fraudulent rewards (including free Robux or money) to deceptively incentivize video completion, including using reward descriptions that are inaccurate or mechanisms that do not fulfill the promised reward to the user.
-*   Publishers may not implement any kind of reward mechanism to incentivize users to interact and/or engage with Portal Ads.
 
 Ad System Abuse
 
@@ -241,8 +239,8 @@ Real World Physically Dangerous Activities
 
 Martial Arts
 
-*   Ads may not promote martial arts training or events in the real world.
-*   Ads may not promote fighting sports training or events in the real world.
+*   Ads may promote martial arts training or events in the real world to users aged 18 and above only.
+*   Ads may promote fighting sports training or events in the real world to users aged 18 and above only.
 
 Discrimination, Slurs, or Hate Speech
 
@@ -304,11 +302,14 @@ Funeral Services
 
 *   Ads may not promote funeral services or funeral-related products including caskets or burial tools.
 
-Multi-level marketing
+Economic Opportunity
 
-*   Ads may not promote participation in a multi-level marketing campaign or recruitment to an organization.
-*   Ads may not solicit users to become influencers in marketing campaigns.
+*   Ads may not promote any kind of employment, contractual, or volunteer work opportunities, including digital micro-tasking sites or services offering financial compensation for some digital tasks (e.g., completing surveys, clicking links, downloading apps, etc.). 
+    *   Ads may promote job boards, professional network platforms, and professional freelance marketplaces
+    *   Ads may promote platforms facilitating real-world, physical gig economy services (e.g., food delivery, ride-sharing).
+*   Ads may not promote participation in a multi-level marketing campaign.
 *   Ads may not promote the purchase of products affiliated with multi-level marketing campaigns.
+*   Ads may not solicit users to become influencers in marketing campaigns.
 
 Financial Services
 
@@ -336,8 +337,8 @@ Financial Services
 Cryptocurrencies & NFTs
 
 *   Ads may not promote specific cryptocurrencies or specific blockchain-based assets.
-*   Ads may not promote non-fungible tokens (NFTs), NFT publishing or NFT trading platforms.
-*   Ads may not promote digital wallets for cryptocurrencies or blockchain-based assets.
+*   Self-serve or independent ads may not promote non-fungible tokens (NFTs), NFT publishing or NFT trading platforms.
+*   Self-serve or independent ads may not promote digital wallets for cryptocurrencies or blockchain-based assets.
 *   Ads may not promote cryptocurrency or blockchain asset exchanges or portfolio management services.
 
 Animals & Insects
@@ -395,6 +396,13 @@ Financial Services
     *   Self-directed brokerage services that do not promote any specific security, mortgage, or real-estate listing;
     *   Accounting, financial planning, or budget management.
 
+Cryptocurrency Exchanges
+
+*   For 18+ audiences in the United States only, Roblox-managed ads only may promote: 
+    *   Cryptocurrency exchanges
+    *   Custodial cryptocurrency wallets
+*   Ads may not promote any specific tradable assets available on the platform. 
+
 Entertainment, Music, and Gaming
 
 *   For 18+ audiences only, Roblox-managed ads may advertise the following content with appropriate disclosures and in compliance with Roblox's Community Standards:
@@ -449,7 +457,8 @@ Personal Care
 
 Food and Beverages
 
-*   Ads may not promote any type of food or beverage.
+*   Self-serve or independent ads may not promote any type of food or beverage.
+    *   Ads may promote food or beverage to U13 users only in direct partnership with Roblox. 
 
 Sporting
 
@@ -477,13 +486,14 @@ Online Services
 
 Violations of our Community Standards or Advertiser Integrity requirements may result in removal of advertising content, ad campaign suspension, ad account suspension or Roblox account suspension. Roblox may also prevent violators or suspected affiliate accounts from creating new ad campaigns or ad accounts.
 
-Last Updated: June 5, 2026
+Last Updated: Oct 9, 2026
 
 Change Log
 
 |     |     |
 | --- | --- |
 | **Announcement Date** | **Change Summary** |
+| October 9, 2026 | Removing some restrictions on Portal Ads implementation. <br><br>Renaming “Multi-level marketing” to “Economic Opportunity” and adding new detail. <br><br>Adding new detail for Food and Beverages to the Restricted Advertising Categories for U13 Users section. <br><br>Adding new detail for Cryptocurrencies or NFTs, and Cryptocurrency Exchanges to the Prohibited Advertising Content section. <br><br>Adding new section “Cryptocurrency Exchange” to the Regulated Advertising Content section.<br><br>Adding new detail for Martial Arts to the Prohibited Advertising Content section. |
 | June 5, 2026 | Adding new detail for Politics and Illegal and Regulated Goods (Tobacco) to the Prohibited Advertising Content section.<br><br>Adding new detail for Health, Diet, and Medical to the Regulated Advertising Content section. <br><br>Adding new detail for Entertainment, Music, and Gaming to the Restricted Advertising Categories for U13 User section.<br><br>Adding new Food and Beverages section under Illegal and Regulated Goods to the Prohibited Advertising Content section.<br><br>Effective immediately. |
 | March 20, 2026 | Adding new sections:<br><br>*   Advertising Integrations under Publisher Integrity<br>*   Age-Appropriate Advertising Content under Advertiser Integrity<br>*   Restricted Advertising Categories for U13 Users<br><br>Effective May 4, 2026 |
 | Feb 27, 2026 | Adding new detail for Directing Users Off-Platform |
