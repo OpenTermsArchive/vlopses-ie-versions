@@ -1381,7 +1381,7 @@ To generate content maturity information:
     
 2.  Navigate to the [Creator Dashboard](https://create.roblox.com/dashboard/creations) and click on the thumbnail of the game you want to generate content maturity information for. The game's Overview page displays.
     
-3.  In the left-hand navigation, navigate to Configurations > Content Rating.
+3.  In the left-hand navigation, navigate to Publish settings > Content rating.
     
 4.  If you've never taken the questionnaire before, read the notes and details, then click Start to proceed. If you've previously completed the questionnaire, the Questionnaire Completed page displays, but you can click the Restart button to start over.
     
