@@ -139,7 +139,7 @@ Merchants must provide truthful listings and imagery and address customer concer
 
 - - -
 
-Published: 15 June 2026
+Updated: 13 October 2026
 
 OpenAI Merchant Feed Terms of Service
 =====================================
@@ -149,7 +149,7 @@ These OpenAI Merchant Feed Terms of Service (“Terms”) are entered into by Op
 1\. Delivery
 ------------
 
-Merchant may submit (itself or through its agent(s)) product content (“Merchant Content”) to OpenAI using agreed-upon means, including through feeds. Merchant agrees to submit Merchant Content in a manner that complies with the instructions and specifications at [https://developers.openai.com/commerce/specs/feed⁠](https://developers.openai.com/commerce/specs/feed) (as may be updated by OpenAI periodically) (the “Product Feed Spec”). Merchant will be responsible for the acts and omissions of any such agent.
+Merchant may submit (itself or through its agent(s)) product content (“Merchant Content”) to OpenAI using agreed-upon means, including through feeds. Merchant will be responsible for the acts and omissions of any such agent in connection with the submission. Merchant agrees to submit Merchant Content in a manner that complies with the instructions and specifications at [https://developers.openai.com/commerce/specs/feed⁠](https://developers.openai.com/commerce/specs/feed) (as may be updated by OpenAI periodically) (the “Product Feed Spec”). Merchant Affiliates may submit product content under these Terms, and such product content will be considered "Merchant Content". Merchant will be responsible for such Merchant Content and all acts and omissions of its Affiliates in connection with these Terms.
 
 2\. Policies
 ------------
@@ -168,7 +168,9 @@ Merchant may submit (itself or through its agent(s)) product content (“Merchan
     
 *   In addition, OpenAI and its Affiliates may access the Merchant Content for purposes of a search index and improving the OpenAI Services. 
     
-*   For purposes of these Terms, “Affiliate” means any entity that directly or indirectly controls, is controlled by, or is under common control with OpenAI. OpenAI and its Affiliates may use suppliers, contractors, and service providers to perform services for OpenAI and its Affiliates using the Merchant Content. 
+*   During the term, Merchant will ensure that (a) Merchant will not and will not allow its Affiliates, or any agents, contractors, or service providers acting on their behalf, to prevent or disallow crawling by OpenAI’s and its Affiliates’ web crawlers, including through robots.txt files or other machine-readable tags or instructions on Merchant and its Affiliates’ website(s); (b) Merchant and its Affiliates will permit OpenAI’s and its Affiliates’ agents to visit and interact with Merchant and its Affiliates’ respective website(s), including by allowlisting OpenAI’s and its Affiliates’ signed Web Bot Auth traffic; and (c) Merchant and its Affiliates do not exercise or reserve any rights under any text and data mining exception, opt out, or similar mechanism with respect to OpenAI or its Affiliates in relation to any Merchant or its Affiliates’ website(s), Merchant Content or other content, data, or materials (and if Merchant or any of its Affiliates does reserve or exercise any such rights, Merchant agrees on behalf of itself and its Affiliates that such rights will have no effect with respect to OpenAI or its Affiliates).
+    
+*   For purposes of these Terms, “Affiliate” means, with respect to a party, any entity that directly or indirectly controls, is controlled by, or is under common control with that party. OpenAI and its Affiliates may use suppliers, contractors, and service providers to perform services for OpenAI and its Affiliates using the Merchant Content. 
     
 *   Nothing in these Terms requires OpenAI to use or surface any Merchant Content. OpenAI may remove or decide not to display any Merchant Content at its sole discretion.
     
@@ -186,7 +188,7 @@ Merchant may submit (itself or through its agent(s)) product content (“Merchan
     
 *   Exceptions. The obligations in this Section 4 do not apply to information that: (a) is or becomes generally available to the public through no fault of recipient; (b) was in recipient’s possession or known by it prior to receipt from discloser; (c) was rightfully disclosed to recipient without restriction by a third party; or (d) was independently developed without use of discloser’s Confidential Information. 
     
-*   Permitted Disclosure. Recipient may disclose Confidential Information only to its Affiliates, employees, contractors, and agents who have a need to know and who are bound by confidentiality obligations at least as restrictive as those in these Terms. Recipient will be responsible for any breach of this Section 4 by its employees, contractors, and agents. Recipient may also disclose Confidential Information to the extent required by applicable law or legal process, and, where legally permitted, recipient will provide discloser reasonable notice and cooperation to seek protective treatment. 
+*   Permitted Disclosure. Recipient may disclose Confidential Information only to its Affiliates, employees, contractors, and agents who have a need to know and who are bound by confidentiality obligations at least as restrictive as those in these Terms. Recipient will be responsible for any breach of this Section 4 by its Affiliates, employees, contractors, and agents. Recipient may also disclose Confidential Information to the extent required by applicable law or legal process, and, where legally permitted, recipient will provide discloser reasonable notice and cooperation to seek protective treatment. 
     
 *   Remedies. Recipient acknowledges that disclosure of Confidential Information in violation of these Terms would cause substantial harm for which damages alone would not be a sufficient remedy, and therefore upon any such disclosure by recipient, discloser will be entitled to seek appropriate equitable relief in addition to whatever other remedies it might have at law.
     
@@ -234,7 +236,7 @@ Merchant may submit (itself or through its agent(s)) product content (“Merchan
 8\. Termination
 ---------------
 
-Either party may terminate these Terms by written notice to the other party for any reason or no reason upon 30 days’ written notice. Merchant may cease to provide the Merchant Content to OpenAI at any time. Neither termination of these Terms nor any other provision of these Terms will require OpenAI or its Affiliates to modify, delete, or cease providing any OpenAI Service (and Merchant hereby waives and agrees not to assert any claim for any equitable remedy, including injunctive relief, against OpenAI or any of Affiliates with respect to any of the foregoing matters).
+Either party may terminate these Terms by written notice to the other party for any reason or no reason upon 30 days’ written notice. Merchant may cease to provide the Merchant Content to OpenAI at any time. Neither termination of these Terms nor any other provision of these Terms will require OpenAI or its Affiliates to modify, delete, or cease providing any OpenAI Service (and Merchant hereby waives and agrees not to assert any claim for any equitable remedy, including injunctive relief, against OpenAI or any of its Affiliates with respect to any of the foregoing matters).
 
 9\. Sanctions, Export Control, and International Trade Compliance
 -----------------------------------------------------------------
@@ -271,8 +273,8 @@ Before filing a claim, each party agrees to try to resolve the dispute by contac
 *   (j)The following provisions will survive any expiration or termination of these Terms: 3-9, and 11-12.
     
 
-Exhibit A:  Data Protection
----------------------------
+Exhibit A: Data Protection
+--------------------------
 
 “Data Protection Legislation” means the following legislation to the extent applicable from time to time: (a) national laws implementing the Directive on Privacy and Electronic Communications (2002/58/EC); (b) the General Data Protection Regulation (2016/679) and any national law issued under that Regulation; and (c) the UK GDPR, Data Protection Act 2018 and Privacy and Electronic Communications (EC Directive) Regulations 2003; and (d) any other similar national or state privacy law relevant to the processing of Personal Data hereunder.
 
