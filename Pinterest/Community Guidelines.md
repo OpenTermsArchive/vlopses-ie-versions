@@ -371,9 +371,9 @@ You must have JavaScript enabled to use this form.
 
 User feedback
 
-**Was this article helpful?**
-
  
+
+**Was this article helpful?**
 
 collection\_fields
 ------------------
@@ -418,9 +418,9 @@ You must have JavaScript enabled to use this form.
 
 User feedback
 
-**Was this article helpful?**
-
  
+
+**Was this article helpful?**
 
 collection\_fields
 ------------------
