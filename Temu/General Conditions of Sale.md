@@ -2,7 +2,7 @@
 
 Support
 
-![](https://aimg.kwcdn.com/upload_aimg/openingemail/flagEU/d1561a22-d277-491e-ab7d-f86a4aaa5163.png.slim.png?imageMogr2/thumbnail/48x9999%3E/quality/70/format/avif)
+![](https://aimg.kwcdn.com/upload_aimg/openingemail/flagEU/d1561a22-d277-491e-ab7d-f86a4aaa5163.png.slim.png?imageMogr2/thumbnail/48x9999\>/quality/70/format/avif)
 
 English
 
