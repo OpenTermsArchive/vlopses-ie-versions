@@ -52,20 +52,20 @@ Shop from images, try on clothing and accessories virtually, save products for l
 
 When your question suggests shopping intent (for example, “Help me find costumes for my dog”), ChatGPT can show product options with imagery, product details, and links to sites where you can learn more or purchase. For some eligible products and merchants, ChatGPT may also show an Instant Checkout option that lets you complete checkout in ChatGPT instead of leaving for the merchant's site.
 
-Product results are selected independently by ChatGPT and are not ads, nor influenced by any OpenAI partnerships. Ads are separate from product results, and you can learn more [here](https://help.openai.com/en/articles/20001047-ads-in-chatgpt).
+Product results are selected independently by ChatGPT and are not ads, nor influenced by any OpenAI partnerships. Ads are separate from product results, and you can learn more [about ads in ChatGPT](https://help.openai.com/articles/20001047).
 
 Virtually try on clothing and accessories
 =========================================
 
-A “Try on” button appears on product listings for clothes and accessories. Use it to see how the item could look on you. Your virtual try-on is created with ChatGPT Images.
+A “**Try on**” button appears on product listings for clothes and accessories. Use it to see how the item could look on you. Your virtual try-on is created with ChatGPT Images.
 
 To try on an item:
 
-*   Select the “Try on” button on a product listing for clothes or accessories.
+1.  Select the “**Try on**” button on a product listing for clothes or accessories.
     
-*   Take or upload a selfie.
+2.  Take or upload a selfie.
     
-*   View your generated try-on image.
+3.  View your generated try-on image.
     
 
 You can also upload a picture of clothing or accessories in a conversation and ask ChatGPT to show how the item could look on you.
@@ -75,15 +75,19 @@ Try-on images may not represent the product or your appearance exactly and do no
 Save and manage reference photos
 --------------------------------
 
-Your reference photos are saved for future try-ons, so you can reuse them without uploading them each time. You can change or remove your photos in Settings.
+Your reference photos are saved for future try-ons, so you can reuse them without uploading them each time. You can change or remove your photos in **Settings**.
 
 To manage your reference photos:
 
-*   Open Settings → Personalization → Reference photos.
+1.  Open **Settings**.
     
-*   Select the photo you want to manage.
+2.  Select **Personalization**.
     
-*   Select Change photo to replace it, or select the delete icon to remove it.
+3.  Select **Reference photos**.
+    
+4.  Select the photo you want to manage.
+    
+5.  Select **Change photo** to replace it, or select the delete icon to remove it.
     
 
 Save products in Library
@@ -91,11 +95,11 @@ Save products in Library
 
 Save any product to Favorites or create a folder to organize your finds in your ChatGPT Library. 
 
-*   To save a product, select its bookmark icon and it will save to  your favorites.
+*   To save a product, select its bookmark icon and it will save to your favorites.
     
 *   You can also choose to save and create a new folder for your saved items. 
     
-*   To remove a saved product 
+*   To remove a saved product, select its filled bookmark icon (**Remove from Favorites**). 
     
 
 Return to ChatGPT Library to browse your saved products and folders.
@@ -105,13 +109,13 @@ Availability
 
 Available in ChatGPT on mobile and web. 
 
-How Product Results are Selected
---------------------------------
+How product results are selected
+================================
 
 A product appears in the carousel when ChatGPT perceives it to be relevant to your intent. It considers your query and context (such as Memory or Custom instructions).  
   
   
-_Learn more about_ [_Memory_](https://help.openai.com/en/articles/8590148-memory-faq) _and_ [_Custom instructions_](https://help.openai.com/en/articles/8096356-custom-instructions-for-chatgpt).  
+_For more information, see:_ [_Memory_](https://help.openai.com/articles/8590148) _and_ [_Custom instructions_](https://help.openai.com/articles/8096356).  
   
 For example, if you ask for goofy dog costumes, ChatGPT may consider available options, price, reviews, and ease of use, as well as any other context you provide. If you’ve said you dislike clowns, it may leave out clown costumes.
 
@@ -119,44 +123,45 @@ Since the model interprets user intent, it can occasionally make mistakes—for 
   
 When determining which products to surface, ChatGPT considers:
 
-*   Structured metadata from first-party and third-party providers (e.g., price, product description) and other third-party content. [Learn more](https://help.openai.com/en/articles/9237897-chatgpt-search).
+*   Structured metadata from first-party and third-party providers (e.g., price, product description) and other third-party content. For details, see: [ChatGPT Search](https://help.openai.com/articles/9237897).
     
-*   Model responses generated by ChatGPT before it considers any new search results. [Learn more](https://help.openai.com/en/articles/7842364-how-chatgpt-and-our-foundation-models-are-developed)_._
+*   Model responses generated by ChatGPT before it considers any new search results. For details, see: [How ChatGPT and our foundation models are developed](https://help.openai.com/articles/7842364)_._
     
-*   OpenAI safety standards and product policies. [Learn more](https://openai.com/safety/).
+*   OpenAI safety standards and product policies. For details, see: [OpenAI safety](https://openai.com/safety/).
     
 
 Depending on your needs, some of these factors will be more relevant than others. For example, if you specify a budget of $30, ChatGPT will focus more on price, whereas if price isn’t mentioned, it may focus on other aspects instead.  
   
 Keep in mind that not all available products will necessarily be shown (there are a lot of dog costumes out there). We recommend verifying that products meet your specific needs before purchasing.
 
-Product Descriptions, Labels, Reviews, and Ratings
---------------------------------------------------
+Product descriptions, labels, reviews, and ratings
+==================================================
 
 ChatGPT may generate simplified product titles and descriptions based on information it receives from third-party providers to make results easier to read, since merchants often use varying titles and descriptions for the same product.  
   
-Some product images may include feature labels, like “Budget-friendly” or “Most popular.” These labels are generated by ChatGPT based on information available to the model, which may include third party data. They’re not guarantees or verified statements, and may not reflect all available market data. For example, a “Budget-friendly” label might mean that reviewers frequently mention good value, not necessarily that it’s the lowest price available.  
+Some product images may include feature labels, like “Budget-friendly” or “Most popular.” These labels are generated by ChatGPT based on information available to the model, which may include third-party data. They’re not guarantees or verified statements, and may not reflect all available market data. For example, a “Budget-friendly” label might mean that reviewers frequently mention good value, not necessarily that it’s the lowest price available.  
   
 ChatGPT may also display product review summaries. These model-generated summaries are based on reviews from public websites and are intended to highlight common user likes and dislikes about a product. Reviews and ratings are not verified by OpenAI.
 
 Pricing
--------
+=======
 
-Product listings shown by ChatGPT may include prices, which we receive from third-party providers. After clicking on that product, users may see additional options from other merchants who also offer that product, at the same or different prices.
+Product listings shown by ChatGPT may include prices, which we receive from third-party providers. After selecting that product, you may see additional options from other merchants who also offer that product, at the same or different prices.
 
 Prices shown in ChatGPT’s initial response typically reflect the price from the first merchant listed, which may not be the lowest available price. ChatGPT works to highlight the lowest priced option it is aware of in the product detail page and merchant rankings. When more than one merchant offers the product, that option may be labeled “Best price”; if another label such as “Instant checkout” applies, the lowest-price option may not also show a “Best price” label.
 
 When merchants update their pricing or shipping terms, there may be some delay before it is reflected in the information you see. We are actively working on faster methods to update this information. If you spot an error, please let us know by submitting feedback (instructions below).
 
-How Merchants Are Selected
---------------------------
+How merchants are selected
+==========================
 
-When a user clicks on a product, ChatGPT may show a list of merchants offering it. This list is generated by ChatGPT based on merchant and product metadata from third-party providers or directly from the merchants themselves. Merchants are ranked based on factors like availability, price, quality, and whether they are the maker or primary seller of that item. We expect this to evolve as we continue to improve the shopping experience, such as by personalizing merchant rankings even more to user preferences.  
+When you select a product, ChatGPT may show a list of merchants offering it. This list is generated by ChatGPT based on merchant and product metadata from third-party providers or directly from the merchants themselves. Merchants are ranked based on factors like availability, price, quality, and whether they are the maker or primary seller of that item. We expect this to evolve as we continue to improve the shopping experience, such as by personalizing merchant rankings even more to user preferences.  
   
 For merchants on Shopify, product data is already integrated into ChatGPT through Shopify Catalog, helping products appear more accurately and completely in relevant user conversations. No additional work is required from individual merchants.  
   
-Merchants interested in providing a direct product feed to OpenAI to ensure ChatGPT always reflects the most up-to-date information about its products can read the Product Feed documentation on our developer site here and apply here for direct feeds access.
+Merchants interested in providing a direct product feed to OpenAI to ensure ChatGPT always reflects the most up-to-date information about its products can read the [Product Feed documentation](https://developers.openai.com/commerce/specs) on our developer site and [apply for direct feeds access](https://chatgpt.com/merchants/).
 
-### How to Provide Feedback
+Provide feedback
+================
 
-We’re continuously working to improve product results and welcome your feedback. You can share your thoughts by clicking the thumbs-up or thumbs-down icon in the product, by reporting any products that have incorrect information or violate our policies by using the menu in the product, or by filling out [this form](https://openai.com/form/report-content/).
+We’re continuously working to improve product results and welcome your feedback. You can share your thoughts by selecting the thumbs-up or thumbs-down icon in the product, by reporting any products that have incorrect information or violate our policies by using the menu in the product, or by filling out [the content reporting form](https://openai.com/form/report-content/).
