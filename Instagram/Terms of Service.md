@@ -164,6 +164,6 @@ We may change our Service and policies, and we may need to make changes to these
 Other ways to get help
 ----------------------
 
-Get a call from Meta AI assistant
+Chat with Meta AI support assistant
 
-Get help from Meta AI assistant by phone
+Resolve issues, make changes and get support in real time
