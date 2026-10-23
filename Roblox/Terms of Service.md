@@ -1329,6 +1329,8 @@ Games with a **Content May Vary** rating aren't available in all regions.
 Content maturity and compliance
 ===============================
 
+[Edit](https://github.com/Roblox/creator-docs/blob/main/content/en-us/production/promotion/content-maturity.md)
+
 Content maturity provides information on the game's main details page about what kinds of content the game contains so that players can make informed decisions about what they interact with. Roblox uses this information to recommend games on the [Home](https://www.roblox.com/home) and [Charts](https://www.roblox.com/charts#/) pages according to each user's age group and regional content policies. When applicable, this information is also used to generate country or locale-specific game labels, which may include different age and maturity recommendations from Roblox's.
 
 Content maturity consists of two components:
