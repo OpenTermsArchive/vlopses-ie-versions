@@ -601,7 +601,7 @@ These OpenAI Advertising Terms (“Advertising Terms”) are entered into betwee
 
 - - -
 
-Published: 24 August 2026
+Published: 21 October 2026
 
 Ad Tools Terms
 ==============
@@ -610,8 +610,8 @@ These Ad Tools Terms (“Ad Tools Terms”) govern your access to and use of the
 
 By enabling, accessing, or using an Ad Tool, or by providing data or materials through it, you agree to the terms applicable to that Ad Tool and represent that you have authority to bind the applicable entity.
 
-1\. Conversion Tools.
----------------------
+1\. Conversion Tools
+--------------------
 
 Your access to and use of the Conversion Tools is subject to the Conversion Terms, which are incorporated into these Ad Tools Terms by reference.
 
@@ -641,10 +641,10 @@ Your access to and use of the Conversion Tools is subject to the Conversion Term
 *   3.4. Restrictions. You will not: (a) provide any Prohibited Data through the Creative Tools;  (b) use the Creative Tools to generate Ads that violate applicable law or OpenAI Policies; (c) create or use an unauthorized digital replica, voice, likeness, endorsement, or representation of another person; (d) impersonate a person or organization or falsely suggest an affiliation, sponsorship, endorsement, or approval; (e) create or distribute fraudulent, deceptive, or misleading synthetic media; (f) bypass protective measures or other restrictions on the Creative Tools; or (g) configure or use the Creative Tools to reveal, reproduce, infer, or imply access to non-public information about an OpenAI user or the user’s interactions with OpenAI. Generated Creatives may not be used outside the Advertising Services unless expressly permitted by OpenAI.
     
 
-4\. Sponsored Agents
---------------------
+4\. Business Agents
+-------------------
 
-If OpenAI creates, configures, or makes available a Sponsored Agent on your behalf, the provisions under “For Builders of GPTs” in Section 5 of the Service Terms are incorporated into these Ad Tools Terms and apply to the Sponsored Agent. For the purposes of those provisions, you are deemed the builder of the Sponsored Agent and remain responsible for the Sponsored Agent, its content, configurations, Actions, and Output as if you had created it yourself, and for all Ad Materials used in connection with the Sponsored Agent. For the purposes of the indemnification provisions of the Advertising Terms, any Claim related to a Sponsored Agent, including its content, configurations, Actions, Output, or Ad Materials used in connection with the Sponsored Agent, will be deemed a Claim related to an Ad.
+If OpenAI creates, configures, or makes available a Business Agent on your behalf, the provisions under “For Builders of GPTs” in Section 5 of the Service Terms are incorporated into these Ad Tools Terms and apply to the Business Agent. For the purposes of those provisions, you are deemed the builder of the Business Agent and remain responsible for the Business Agent, its content, configurations, Actions, and Output as if you had created it yourself, and for all Ad Materials used in connection with the Business Agent. For the purposes of the indemnification provisions of the Advertising Terms, any Claim related to a Business Agent, including its content, configurations, Actions, Output, or Ad Materials used in connection with the Business Agent, will be deemed a Claim related to an Ad.
 
 5\. Definitions
 ---------------
@@ -663,6 +663,8 @@ If OpenAI creates, configures, or makes available a Sponsored Agent on your beha
 
 “Ad Tools DPA” means OpenAI’s Ad Tools Data Processing Addendum available at [https://openai.com/policies/ad-tools-dpa⁠](https://openai.com/policies/conversion-dpa). 
 
+“Business Agent” means advertiser-sponsored conversational experiences that allow users to interact with an AI-generated representative for an Advertiser’s business, products, or services.
+
 “Campaign” means a request submitted through Ads Manager, an approved API, or another method designated by OpenAI for OpenAI to deliver one or more Ads based on the budget, schedule, targeting, Destinations, and other information and settings reflected in Ads Manager.
 
 “Conversion Terms” means OpenAI’s Conversion Terms available at [https://openai.com/policies/conversion-terms](https://openai.com/policies/conversion-terms/). 
@@ -678,8 +680,6 @@ If OpenAI creates, configures, or makes available a Sponsored Agent on your beha
 “Reverse Engineer” means reverse assemble, reverse compile, decompile, translate, engage in model extraction or stealing attacks, or otherwise attempt to discover the source code or underlying components of the Ad Tools, algorithms, and systems (except to the extent these restrictions are contrary to applicable law).
 
 “Service Terms” means OpenAI’s terms available at: [https://openai.com/policies/service-terms/](https://openai.com/policies/service-terms/). 
-
-“Sponsored Agent” means advertiser-sponsored conversational experiences that allow users to interact with an AI-generated representative for an Advertiser’s business, products, or services.  
 
 The terms “Data Controller”, “Personal Data”, “Data Processor”, “Process”, and “Processing” have the meanings given under applicable data privacy and data protection law.
 
