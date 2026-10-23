@@ -443,11 +443,16 @@ Entertainment, Music, and Gaming
 
 *   For users aged 9 - 12, ads may not depict or promote:
     *   Movies and other video content that is rated R, TV-MA, or equivalent
+    *   Movies and other video content that is rated PG-13, TV-14, or equivalent, and that contains strong themes. Strong themes include, but are not limited to:
+        *   Intense, realistic, or bloody violence
+        *   Sexual content, suggestive material, partial nudity
+        *   Strong or frequent profanity
+        *   Mature thematic elements, such as suicide, abuse, or war
     *   Video games that are rated M, PEGI 18, or equivalent
     *   Music with warnings of explicit lyrics
     *   Audio or print books with adult themes or mature content
 *   For users aged 5 - 8, in addition to the restrictions above, ads may not depict or promote:
-    *   Movies and other video content that is rated PG-13, TV-14, or equivalent
+    *   Movies and other video content that is rated PG-13, TV-14, or equivalent, regardless of themes
     *   Video games that are rated Teen, PEGI-12, or equivalent
 
 Personal Care
@@ -493,6 +498,7 @@ Change Log
 |     |     |
 | --- | --- |
 | **Announcement Date** | **Change Summary** |
+| October 22, 2026 | Adding new detail to Entertainment, Music, and Gaming in the Restricted Advertising Categories for U13 Users section. |
 | October 9, 2026 | Removing some restrictions on Portal Ads implementation. <br><br>Renaming “Multi-level marketing” to “Economic Opportunity” and adding new detail. <br><br>Adding new detail for Food and Beverages to the Restricted Advertising Categories for U13 Users section. <br><br>Adding new detail for Cryptocurrencies or NFTs, and Cryptocurrency Exchanges to the Prohibited Advertising Content section. <br><br>Adding new section “Cryptocurrency Exchange” to the Regulated Advertising Content section.<br><br>Adding new detail for Martial Arts to the Prohibited Advertising Content section. |
 | June 5, 2026 | Adding new detail for Politics and Illegal and Regulated Goods (Tobacco) to the Prohibited Advertising Content section.<br><br>Adding new detail for Health, Diet, and Medical to the Regulated Advertising Content section. <br><br>Adding new detail for Entertainment, Music, and Gaming to the Restricted Advertising Categories for U13 User section.<br><br>Adding new Food and Beverages section under Illegal and Regulated Goods to the Prohibited Advertising Content section.<br><br>Effective immediately. |
 | March 20, 2026 | Adding new sections:<br><br>*   Advertising Integrations under Publisher Integrity<br>*   Age-Appropriate Advertising Content under Advertiser Integrity<br>*   Restricted Advertising Categories for U13 Users<br><br>Effective May 4, 2026 |
