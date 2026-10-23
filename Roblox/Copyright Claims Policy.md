@@ -62,6 +62,8 @@ These IP Platform Terms of Use (“**IP Platform Terms**”) are entered into by
 Intellectual Property Guidelines
 ================================
 
+[Edit](https://github.com/Roblox/creator-docs/blob/main/content/en-us/production/publishing/ip-guidelines.md)
+
 This documentation is for general informational purposes only and is not legal advice. If you have any questions about this information or your specific situation or rights, please contact an attorney.
 
 Roblox respects the intellectual property rights of others, and we ask everyone in our community to do the same. This page explains how to report content you believe infringes your rights, how to respond if your content is removed, and what happens to accounts that repeatedly infringe.
