@@ -27,6 +27,8 @@ Use of the Creator Store is subject to the [Roblox User and Creator Terms](https
 Marketplace policy
 ==================
 
+[Edit](https://github.com/Roblox/creator-docs/blob/main/content/en-us/marketplace/marketplace-policy.md)
+
 Avatar assets you sell on the [Marketplace](https://www.roblox.com/catalog), such as clothing accessories, must follow specific requirements. Some requirements may require additional configuration on a third-party modeling software, such as Blender or Maya.
 
 If you are ready to sell an item and the item meets the requirements below, see [Publish Marketplace items](https://create.roblox.com/docs/en-us/marketplace/publish-to-marketplace) for details on publishing the asset.
@@ -34,7 +36,7 @@ If you are ready to sell an item and the item meets the requirements below, see 
 Creator requirements
 --------------------
 
-To upload, publish, and keep existing content on-sale, Roblox requires users and groups to have [government ID verification](https://create.roblox.com/docs/en-us/production/publishing/account-verification#verify-through-government-id) or a linked [parental account](https://about.roblox.com/parental-controls). In addition, to publish and keep existing content on-sale, Roblox requires a [Roblox Plus](https://create.roblox.com/docs/en-us/production/monetization/roblox-plus) or [Premium 1000/2200](https://en.help.roblox.com/hc/en-us/articles/360024256251-Roblox-Premium-Membership) membership.
+To upload, publish, and keep existing content on-sale, Roblox requires users and groups to have [government ID verification](https://create.roblox.com/docs/en-us/production/publishing/account-verification#verify-through-government-id) or a linked [parental account](https://about.roblox.com/parental-controls) that has government ID verification. In addition, to publish and keep existing content on-sale, Roblox requires a [Roblox Plus](https://create.roblox.com/docs/en-us/production/monetization/roblox-plus) or [Premium 1000/2200](https://en.help.roblox.com/hc/en-us/articles/360024256251-Roblox-Premium-Membership) membership.
 
 See the following requirements for an individual creator or group:
 
