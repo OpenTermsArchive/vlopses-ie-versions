@@ -49,3 +49,13 @@ Three types of materials must be submitted to the IPP Platform to facilitate pro
 Alibaba.com will evaluate intellectual property infringement claims filed via the IPP Platform promptly. Members subject to intellectual property infringement claims will be notified of the claims and the contact information of the intellectual property right holders will be provided to the members to facilitate direct conflict resolution and claim handling.  
   
 Members subject to intellectual property infringement claims may submit counter-notifications to dispute the corresponding claims. Intellectual property right holders will be notified if and when any counter-notifications are filed and may accept or reject such counter-notifications. Alibaba.com reserves the right to reinstate any listing subject to intellectual property infringement claims at our discretion.
+
+[1． Overview](#kgyzl)
+
+[2．Intellectual Property Right (“IPR”) Protection](#i1R89)
+
+[3．Repeat violations of our IPR policy may result in a range of actions, including without limitation to:](#tDZsk)
+
+[4．Infringement Claims](#QQGUl)
+
+[5．IP Protection Platform (“IPP Platform”), the online report system](#kCEEn)
