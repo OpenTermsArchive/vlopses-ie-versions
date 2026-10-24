@@ -105,19 +105,22 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | ARD Food | SWR Runfunkrat |
 | Adoptivbrüder - mit Hannes und Jeremy | SWR Rundfunkrat |
 | Aleksi Rantamaa - Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
-| BKTelevizija | Agencija za komunikacijska omrežja in storitve Republike Slovenije (akos) |
+| BKTelevizija | Agencija za komunikacijska omrežja in storitve Republike Slovenije ( akos ) |
 | BussiBlaBla | Kommunikationsbehörde Austria (KommAustria) |
 | C'saint-jo TV | ARCOM |
 | CORDOPOLIS | CNMV |
 | CRoDvojka | Rada Českého rozhlasu |
 | Ca Va Chez vous | ARCOM |
 | Ceskyrozhlas | The Council for Radio and Television Broadcasting |
+| Courrier international | Commission paritaire des publications et agences de presse (CPPAP) |
 | Crimeworld | Press Council of Ireland |
 | Côté Sports Vosges Télévision | ARCOM |
 | DJ Orion | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Dallas Vlod / HasBeen | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Dernières Nouvelles d'Alsace | Commission paritaire des publications et agences de presse (CPPAP) |
 | DragonSlayer666 | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Du Champ à l'Assiette | ARCOM |
+| Démocrate | ARCOM |
 | EGOvlogi\_ Sonja Ollila | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | El Diario Andalucia | CNMC |
 | Emma Karasjoki - Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
@@ -134,12 +137,17 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | Gogi – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | HAND DRAUF | SWR Rundfunkrat |
 | Hanna Hantula – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Hebdo de l'Ardèche | ARCOM |
 | Hrvatska radiotelevizija | The Agency for Electronic Media (AEM) |
 | Ina Mikkola – Valtapeli x Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Irish Independent | Press Council of Ireland |
 | Jaakko Keso – Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Journal L'ALSACE | Commission paritaire des publications et agences de presse (CPPAP) |
 | Klassinen Musiikki | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Kovan viikon ilta | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| L'Observateur | ARCOM |
+| La Semaine des Pyrénées | ARCOM |
+| Le Dauphine Libere | Commission paritaire des publications et agences de presse (CPPAP) |
 | Le Grand Cactus-RTBF | Conseil Supérieur de l'Audiovisuel |
 | Les Niouzz | Conseil Supérieur de l'Audiovisuel |
 | Menny pahaks - Yle Kioski | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
@@ -170,9 +178,11 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | Robomestarit | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | SONG TINDERN | SWR Rundfunkrat |
 | SPIT | Conseil Supérieur de l'Audiovisuel |
+| SUN Le Son Unique | ARCOM |
 | SWR Aktuell | SWR Rundfunkrat |
 | SWR DRM | SWR Rundfunkrat |
 | SWR Wissen | SWR Rundfunkrat |
+| Semaine de l'Allier | ARCOM |
 | Siol.net | AKOS |
 | Svenska.yle.fi | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | TEEN | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
@@ -187,8 +197,10 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | Tébéo & Tébésud | ARCOM |
 | Uuden Musiikin Kilpailu | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | VAL DE LOIRE TV | ARCOM (Autorité de régulation de la communication audiovisuelle et numérique) |
+| Val d'Adour | ARCOM |
 | Vews-RTBF | Conseil Supérieur de l'Audiovisuel |
 | Viki ja Köpi Show | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
+| Voix de l'Ain | ARCOM |
 | Vosges TV | ARCOM |
 | Y-Kollektiv | SWR Rundfunkrat |
 | Yle Abitreenit | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
@@ -239,8 +251,10 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | eldiariocves | CNMC |
 | eldiarioes | CNMC |
 | hbvl\_hetbelangvanlimburg | Vlaamse Regulator voor de Media |
+| investigacecz | Asociace Online Vydavatelů z.s. |
 | jornaldenegocios7907 | Entidade Reguladora para a Comunicação Social (ERC) |
 | leeuwardercourant | Commissariaat voor de Media, Raad voor de Journalistiek |
+| leprogres | Commission paritaire des publications et agences de presse (CPPAP) |
 | limburgertv | Commissariaat voor de Media, Raad voor de Journalistiek |
 | marjuttuulikki - Yle | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | metinalista1 | Ministry of culture |
