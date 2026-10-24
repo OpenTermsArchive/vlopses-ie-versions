@@ -958,13 +958,13 @@ Can I report an infringement of someone else's intellectual property on Facebook
 
 Copy link
 
-How do I report an infringement?
+How do I report intellectual property?
 
-What is intellectual property infringement?
+What is intellectual property?
 
-How do I report Facebook copyright?
+What is a copyright infringement?
 
-How do I report Facebook trademark?
+What is a trademark infringement?
 
 I have a different question
 
@@ -1804,6 +1804,14 @@ How do you know if you own the copyright in a work
 
 Copy link
 
+What is copyright ownership?
+
+What is an original work?
+
+What if I appear in a photo?
+
+I have a different question
+
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you are likely to own the copyright in that painting. Similarly, if you take a photo, you are likely to own the copyright in that photo.
 
 There may be situations where you might think you have a copyright in an original work, but you may not. For example:
@@ -1994,11 +2002,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
+What is Facebook copyright law?
+
 How do I avoid Facebook copyright?
 
-What is Facebook intellectual property?
-
 What is Facebook fair use?
+
+What is Facebook public domain?
 
 I have a different question
 
@@ -2838,13 +2848,13 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-What are Facebook intellectual property tools?
+What are Facebook copyright tools?
 
-How does Facebook Rights Manager work?
+How does Rights Manager work?
 
-How does Facebook content protection work?
+How does content protection work?
 
-How do I apply for Facebook tools?
+How do I report copyright infringement?
 
 I have a different question
 
