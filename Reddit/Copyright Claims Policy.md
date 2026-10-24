@@ -118,18 +118,18 @@ Trademark overview
 
 This article provides answers to common questions about third-party trademark usage on Reddit, including examples of what does and doesn’t violate Reddit’s Trademark Policy, how to report Trademark Policy violations, and how Reddit addresses trademark takedown notices.  
   
+ 
 
 #### Jump to:
 
-*   [Trademark Overview](#h_01HV3G4QP2EJNW0Q58Q46HP14A)
+*   [Trademark Overview](#h_01HV3G540M2NGYSTJ4VHS576AX)
 *   [What is a trademark?](#h_01HV3G540M2NGYSTJ4VHS576AX)
 *   [What is Reddit’s Trademark Policy?](#h_01HV3G58D5PAM3TKTFBZ6VVV14)
 *   [What is not a Reddit Trademark Policy violation?](#h_01HV3G5F9W325CNY4HRBTZCSSC)
 *   [How can trademark owners report Trademark Policy violations to Reddit?](#h_01HV3GCA3XAR5JVR5VBRTPQ797)
 *   [What steps might Reddit take in response to trademark takedown notices?](#h_01HV3GCR14WHMHGWA8PYBYM9RK)
 *   [What can I do if content I posted to Reddit was removed as a result of a trademark takedown notice?](#h_01HV3GEFB61WQVYVZKXN0WHJHM)  
-      
-    
+     
 
 * * *
 
