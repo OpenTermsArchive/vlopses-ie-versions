@@ -890,14 +890,6 @@ How do I report trademark infringement on Facebook?
 
 Copy link
 
-How do I report trademark infringement?
-
-What happens after I report trademark infringement?
-
-What are the legal consequences?
-
-I have a different question
-
 Meta can't adjudicate disputes between third parties, and so we wouldn't be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside Facebook. In these situations, rather than contacting Meta, you may want to contact the party that you believe is infringing your rights directly, or seek any resolution in court or by other judicial means.
 
 You can report trademark infringement to us by [filling in this form](https://www.facebook.com/help/ipreporting/report/trademark).
@@ -940,13 +932,6 @@ Related articles
 * * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
 [What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2848,13 +2833,13 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-What are Facebook copyright tools?
+What are Facebook intellectual property tools?
 
-How does Rights Manager work?
+How does Facebook Rights Manager work?
 
-How does content protection work?
+How does Facebook content protection work?
 
-How do I report copyright infringement?
+How do I apply for Facebook tools?
 
 I have a different question
 
