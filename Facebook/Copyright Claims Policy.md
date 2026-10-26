@@ -890,6 +890,14 @@ How do I report trademark infringement on Facebook?
 
 Copy link
 
+How do I report trademark infringement?
+
+What happens after I report trademark infringement?
+
+What are the legal consequences?
+
+I have a different question
+
 Meta can't adjudicate disputes between third parties, and so we wouldn't be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside Facebook. In these situations, rather than contacting Meta, you may want to contact the party that you believe is infringing your rights directly, or seek any resolution in court or by other judicial means.
 
 You can report trademark infringement to us by [filling in this form](https://www.facebook.com/help/ipreporting/report/trademark).
@@ -932,6 +940,13 @@ Related articles
 * * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
 [What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1004,14 +1019,6 @@ Can I report a Facebook username for infringing my trademark?
 =============================================================
 
 Copy link
-
-How do I report a Facebook username?
-
-What is Facebook trademark infringement?
-
-How do I contact the username owner?
-
-I have a different question
 
 [Usernames](https://www.facebook.com/help/105399436216001?helpref=faq_content) are generally claimed on a first-come, first-served basis. This means that you may see a Facebook Page or profile with a username that includes your trademark.
 
@@ -2833,16 +2840,6 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-What are Facebook intellectual property tools?
-
-How does Facebook Rights Manager work?
-
-How does Facebook content protection work?
-
-How do I apply for Facebook tools?
-
-I have a different question
-
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we provide rights holders with tools to identify and enforce on content posted to Facebook that may contain their copyrighted work. We provide tailored tooling specific to a content owner's demonstrated needs.
 
 Rights Manager
@@ -2904,10 +2901,3 @@ Related articles
 * * *](https://www.facebook.com/help/399224883474207/?helpref=related_articles)
 
 [Unintentional actions can still violate copyright on Facebook](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
