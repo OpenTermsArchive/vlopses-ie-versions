@@ -2086,11 +2086,13 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
-What is fair use of copyrighted material?
+What is fair use?
 
 What are copyright exceptions?
 
-How do I know if my use is fair?
+How does fair use apply to my content?
+
+What happens if I infringe copyright?
 
 I have a different question
 
@@ -2254,16 +2256,6 @@ A video that I posted on Facebook was removed immediately. What happened, and wh
 ==================================================================================================
 
 Copy link
-
-What happens if my video is removed?
-
-What is Facebook copyright content?
-
-How do I check my email settings?
-
-How do I check my notification settings?
-
-I have a different question
 
 If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else's copyrighted content. This could include video, audio or both.
 
@@ -2491,14 +2483,6 @@ How do I report copyright infringement on Facebook?
 ===================================================
 
 Copy link
-
-How do I report copyright?
-
-What is copyright infringement?
-
-How do I contact Facebook agent?
-
-I have a different question
 
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
