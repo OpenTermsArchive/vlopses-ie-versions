@@ -1,4 +1,4 @@
-Last updated: July 29, 2026
+Last updated: October 27, 2026
 
 Transparency & content moderation
 =================================
