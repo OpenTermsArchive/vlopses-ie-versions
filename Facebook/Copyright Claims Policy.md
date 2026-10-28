@@ -550,9 +550,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -566,13 +566,13 @@ Related articles
 
 * * *](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?
-
-* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [What are trademarks and what they protect
 
 * * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
+[Does a trademark need to be registered to be protected?
+
+* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -592,16 +592,6 @@ What's the difference between copyright and trademark?
 ======================================================
 
 Copy link
-
-What is copyright?
-
-What is trademark?
-
-What does copyright protect?
-
-What does trademark protect?
-
-I have a different question
 
 The law in most countries recognises copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
@@ -641,13 +631,6 @@ Related articles
 * * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1024,7 +1007,9 @@ How do I report a Facebook username?
 
 What is Facebook trademark infringement?
 
-How do I contact the username owner?
+How do I contact a Facebook user?
+
+What are Facebook username rules?
 
 I have a different question
 
@@ -2086,13 +2071,11 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
-What is fair use?
+What is fair use of copyrighted material?
 
 What are copyright exceptions?
 
-How does fair use apply to my content?
-
-What happens if I infringe copyright?
+How do I know if my use is fair?
 
 I have a different question
 
@@ -2256,6 +2239,16 @@ A video that I posted on Facebook was removed immediately. What happened, and wh
 ==================================================================================================
 
 Copy link
+
+What happens if my video is removed?
+
+What is Facebook copyright content?
+
+How do I check my email settings?
+
+How do I check my notification settings?
+
+I have a different question
 
 If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else's copyrighted content. This could include video, audio or both.
 
@@ -2483,6 +2476,14 @@ How do I report copyright infringement on Facebook?
 ===================================================
 
 Copy link
+
+How do I report copyright?
+
+What is copyright infringement?
+
+How do I contact Facebook agent?
+
+I have a different question
 
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
@@ -2832,13 +2833,13 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-What are Facebook intellectual property tools?
+What are Facebook copyright tools?
 
 How does Facebook Rights Manager work?
 
 How does Facebook content protection work?
 
-How do I apply for Facebook tools?
+How do I report copyright infringement?
 
 I have a different question
 
