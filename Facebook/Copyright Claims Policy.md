@@ -1874,6 +1874,16 @@ What rights do I have as a copyright owner?
 
 Copy link
 
+What rights do I have?
+
+What is copyright infringement?
+
+How do I grant permission?
+
+How do I prevent others from using my work?
+
+I have a different question
+
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner's permission.
 
 For example, when someone uploads your photo or video, they make a copy of that photo or video. The same is true if someone uses a song in the soundtrack to a video, even if they paid for a copy of that song on another service.
@@ -1912,6 +1922,13 @@ Related articles
 * * *](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 [What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2071,11 +2088,13 @@ What are fair use and other exceptions to copyright?
 
 Copy link
 
-What is fair use of copyrighted material?
+What is fair use?
 
 What are copyright exceptions?
 
-How do I know if my use is fair?
+How does fair use apply to my content?
+
+What happens if I infringe copyright?
 
 I have a different question
 
@@ -2477,9 +2496,9 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report copyright?
+How do I report Facebook copyright?
 
-What is copyright infringement?
+What is Facebook copyright infringement?
 
 How do I contact Facebook agent?
 
