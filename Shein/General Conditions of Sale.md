@@ -18,7 +18,7 @@ We hope you like what you’ve ordered! However, should you wish to return an it
 
 **\- [SHEIN’s Return Policy](javascript:;):**this is a commercial policy we have voluntarily put in place to offer you additional terms **beyond the fourteen (14) days**, because your satisfaction is our priority. This policy allows Customers, subject to certain conditions and in accordance with the terms set out below, to return items that are no longer eligible for the statutory right of withdrawal, to obtain a refund. This policy therefore supplements the statutory right of withdrawal.
 
-We have simplified the returns process as much as possible. Please note that Infinite Styles Services Co. Ltd ("SHEIN") will process any returns on behalf of the relevant seller (please see our [information on the allocation of obligations](https://eur.shein.com/information-and-obligations-of-the-seller-a-3174.html)). ONLY FOR Customers in the Netherlands/Poland: Your return is also subject to the Fair Use Policy. (See our [SHEIN Fair Use Returns Policy](https://eur.shein.com/shein-fair-use-policy-for-returns-a-3642.html).)
+We have simplified the returns process as much as possible. Please note that Infinite Styles Services Co. Ltd ("SHEIN") will process any returns on behalf of the relevant seller (please see our [information on the allocation of obligations](https://eur.shein.com/information-and-obligations-of-the-seller-a-3174.html)).ONLY FOR Customers in the Ireland: Your return is also subject to the Fair Use Policy.(See our [SHEIN Fair Use Returns Policy](https://eur.shein.com/shein-fair-use-policy-for-returns-a-3642.html).)
 
 1\. Right of withdrawal
 
@@ -170,7 +170,7 @@ NOTE:
 
 | Return Method | Return Documentation | Printer Required | Return Fees |
 | --- | --- | --- | --- |
-| Anpost  <br>Store drop-off | Return Label | Yes | **Return shipping is free on your first return** of one or multiple returnable items for **EVERY order** within the Voluntary Return Window.<br><br>For the second and subsequent refunds from the same order, a **4.50 EUR** shipping fee will be deducted from your refund for each return. |
+| Anpost  <br>Store drop-off | Return Label | Yes | Returns are free for your first return of one or more eligible items from any order within the voluntary return period, but are subject to our Fair Use Policy (see our [SHEIN Fair Use Returns Policy](https://eur.shein.com/shein-fair-use-policy-for-returns-a-3642.html)).<br><br>  <br><br>For the second and any subsequent returns from the same order, a shipping fee of **4,5 EUR** will be deducted from your refund. |
 | Self-Return | Depends on your logistics provider |     | You need to pay the return fee directly to your logistics provider, and we Do Not reimburse the costs. |
 
   
