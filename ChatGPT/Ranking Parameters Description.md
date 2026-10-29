@@ -50,9 +50,17 @@ Shopping with ChatGPT Search
 
 Shop from images, try on clothing and accessories virtually, save products for later, and understand how ChatGPT selects shopping results.
 
-When your question suggests shopping intent (for example, “Help me find costumes for my dog”), ChatGPT can show product options with imagery, product details, and links to sites where you can learn more or purchase. For some eligible products and merchants, ChatGPT may also show an Instant Checkout option that lets you complete checkout in ChatGPT instead of leaving for the merchant's site.
+Overview
+--------
+
+When your question suggests shopping intent (for example, “Help me find costumes for my dog”), ChatGPT can show product options with imagery, product details, and links to sites where you can learn more or purchase.
 
 Product results are selected independently by ChatGPT and are not ads, nor influenced by any OpenAI partnerships. Ads are separate from product results, and you can learn more [about ads in ChatGPT](https://help.openai.com/articles/20001047).
+
+Compare products and refine your options
+----------------------------------------
+
+You can ask ChatGPT to compare products, explain trade-offs, or suggest alternatives. Include your budget, preferences, and any requirements. If the results don’t match what you need, ask ChatGPT to adjust them.
 
 Virtually try on clothing and accessories
 =========================================
@@ -148,9 +156,21 @@ Pricing
 
 Product listings shown by ChatGPT may include prices, which we receive from third-party providers. After selecting that product, you may see additional options from other merchants who also offer that product, at the same or different prices.
 
-Prices shown in ChatGPT’s initial response typically reflect the price from the first merchant listed, which may not be the lowest available price. ChatGPT works to highlight the lowest priced option it is aware of in the product detail page and merchant rankings. When more than one merchant offers the product, that option may be labeled “Best price”; if another label such as “Instant checkout” applies, the lowest-price option may not also show a “Best price” label.
+Prices shown in ChatGPT’s initial response typically reflect the price from the first merchant listed, which may not be the lowest available price. ChatGPT works to highlight the lowest priced option it is aware of in the product detail page and merchant rankings. When more than one merchant offers the product, that option may have a “Best price” label.
 
 When merchants update their pricing or shipping terms, there may be some delay before it is reflected in the information you see. We are actively working on faster methods to update this information. If you spot an error, please let us know by submitting feedback (instructions below).
+
+Check details before you buy
+----------------------------
+
+Before buying, confirm these details with the merchant:
+
+*   The final price, including taxes, fees, and shipping costs.
+    
+*   Availability and any size or color options.
+    
+*   Return and warranty policies.
+    
 
 How merchants are selected
 ==========================
