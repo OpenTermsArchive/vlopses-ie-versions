@@ -97,7 +97,7 @@ European Union monthly active recipients for ChatGPT search
 
 In accordance with our obligations under Article 24(2) of the DSA, OpenAI Ireland Limited publishes information on the average ‘monthly active recipients’ of ChatGPT search (i.e. our online search features) in the European Union, calculated over a six-month period.  
   
-For the six-month period ending 31 March 2026, ChatGPT search had approximately 159.1 million average monthly active recipients in the European Union.  
+For the six-month period ending 30 September 2026, ChatGPT search had approximately 185.6 million average monthly active recipients in the European Union.  
   
 This average has been calculated solely for the purposes of complying with our DSA obligations and should not be relied upon or used for other purposes.
 
