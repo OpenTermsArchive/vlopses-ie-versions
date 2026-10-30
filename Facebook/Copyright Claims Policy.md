@@ -337,6 +337,14 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
+What is a trademark registration?
+
+What is a business registration?
+
+What is the USPTO?
+
+I have a different question
+
 In some states in the US and in some countries outside the US, a company might be able to register with a government office, or obtain a permit or licence to do business in that country or state. These registrations, such as ones issued by a state's Secretary of State, generally aren't the same as a trademark registration and may not create trademark rights for the company.
 
 In the US, a [trademark](https://www.facebook.com/help/1378807958858854?helpref=faq_content) can be registered with the United States Patent and Trademark Office (USPTO). In the European Union, a trademark can be registered with the European Union Intellectual Property Office (EUIPO) or with the national intellectual property offices within the Member States.
@@ -515,6 +523,14 @@ Are there any limits to trademark rights?
 
 Copy link
 
+What are trademark rights limits?
+
+What is nominative fair use?
+
+What is a geographic trademark limit?
+
+I have a different question
+
 Not all uses of a trademark without permission from the rights owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it's likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, that use is generally not considered infringing.
 
 Simply referring to a trademark for the purpose of discussing the product or service offered probably won't be an infringing use of the trademark, as long as that reference doesn't use more of the trademark than is needed to make its point. In fact, you might need to use the trademark to describe or comment on a particular product or service. This is known as the doctrine of nominative fair use, and typically permits such uses as commentary, criticism, parody, reviews and, in some countries, comparative advertising.
@@ -559,6 +575,13 @@ Related articles
 * * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -636,14 +659,6 @@ How can I make sure that the content I post to Facebook doesn't violate trademar
 
 Copy link
 
-What is trademark infringement?
-
-What are Facebook's trademark policies?
-
-How do I avoid trademark issues?
-
-I have a different question
-
 Under Facebook's [Terms of Service](https://www.facebook.com/terms) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook if it doesn't violate someone else's intellectual property rights, including trademarks. Please note that as a Facebook user, you are responsible for the content you post. If your content violates Facebook's policies or is reported to Meta as infringing the intellectual property rights of another party, Facebook may remove that content.
 
 Before you post content, you might want to ask:
@@ -685,13 +700,6 @@ Related articles
 * * *](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
 
 [Facebook removed content as a result of my trademark report. What information is sent to the person who posted that content?](https://www.facebook.com/help/509605252475371/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1127,6 +1135,14 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
+What information do I include?
+
+What is a trademark report?
+
+How do I find a URL?
+
+I have a different question
+
 The fastest and easiest way to submit a report of trademark infringement to us is to [contact Facebook](https://www.facebook.com/help/191999230901156?helpref=faq_content). Whether you submit your report through our online form or another method, Meta needs the following information to be able to process your report:
 
 *   Your complete contact information (full name, postal address and phone number)
@@ -1546,6 +1562,14 @@ What tools does Facebook provide to help me enforce my intellectual property rig
 
 Copy link
 
+How do I report intellectual property?
+
+What is Brand Rights Protection?
+
+How do I apply for Brand Rights Protection?
+
+I have a different question
+
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across many of our platforms. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
 Related articles
@@ -1832,6 +1856,16 @@ What rights do I have as a copyright owner?
 ===========================================
 
 Copy link
+
+What rights do I have?
+
+What is copyright infringement?
+
+How do I grant permission?
+
+How do I prevent others from using my work?
+
+I have a different question
 
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner's permission.
 
