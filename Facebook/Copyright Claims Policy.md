@@ -14,16 +14,6 @@ Intellectual property
 
 Copy link
 
-What is Facebook copyright?
-
-What is Facebook trademark?
-
-How do I report copyright violations?
-
-How do I report trademark violations?
-
-I have a different question
-
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
 Copyright
@@ -41,6 +31,74 @@ A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that dis
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=hc_fnav)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=hc_fnav)
+
+Popular articles
+----------------
+
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=popular_articles)
+
+[What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=popular_articles)
+
+[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=popular_articles)
+
+[What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=popular_articles)
+
+Popular articles
+
+[What is copyright and what does it protect?
+
+* * *](https://www.facebook.com/help/116772962146447/?helpref=popular_articles)
+
+[What are fair use and other exceptions to copyright?
+
+* * *](https://www.facebook.com/help/337995452911154/?helpref=popular_articles)
+
+[Repeated intellectual property infringement on Facebook
+
+* * *](https://www.facebook.com/help/350712395302528/?helpref=popular_articles)
+
+[What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=popular_articles)
+
+Related topics
+--------------
+
+[Notifications
+
+Change what you get notifications about on Facebook and decide how you get them.](https://www.facebook.com/help/1036755649750898/?helpref=related_topics)
+
+[Your home page
+
+Learn how Feed works, control what you see in Feed and react to posts.](https://www.facebook.com/help/753701661398957/?helpref=related_topics)
+
+[Your privacy
+
+Learn how privacy settings help you connect and share with people that you know and trust.](https://www.facebook.com/help/238318146535333/?helpref=related_topics)
+
+[Notifications](https://www.facebook.com/help/1036755649750898/?helpref=related_topics)
+
+[Your home page](https://www.facebook.com/help/753701661398957/?helpref=related_topics)
+
+[Your privacy](https://www.facebook.com/help/238318146535333/?helpref=related_topics)
+
+*   [About](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.meta.com%2F%3Futm_source%3Dhelp-center%26utm_medium%3Dreferral)
+
+*   [Privacy](https://www.facebook.com/privacy/explanation/)
+
+*   [Terms and policies](https://www.facebook.com/policies/)
+
+*   [Ad choices](https://www.facebook.com/help/568137493302217/)
+
+*   [Careers](https://www.facebook.com/)
+
+*   [Cookies](https://www.facebook.com/policies/cookies/)
+
+*   [Create ad](https://www.facebook.com/business/)
+
+*   [Create Page](https://www.facebook.com/pages/creation/)
+
+* * *
+
+© 2026 Meta
 
 - - -
 
@@ -149,11 +207,11 @@ Related articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -163,17 +221,17 @@ Related articles
 
 * * *](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Trademark
+[Does a trademark need to be registered to be protected?
 
-* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [Are there any limits to trademark rights?
 
 * * *](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[What's the difference between copyright and trademark?
+[Trademark
 
-* * *](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -1402,7 +1460,7 @@ Related articles
 
 [Report content on Facebook](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
 
-[Tools Facebook provides to help protect your intellectual property](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
+[Tools Facebook provides to protect your intellectual property](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
@@ -1420,7 +1478,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
 
-[Tools Facebook provides to help protect your intellectual property
+[Tools Facebook provides to protect your intellectual property
 
 * * *](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
@@ -1592,7 +1650,7 @@ Related articles
 
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
-[Tools Facebook provides to help protect your intellectual property](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
+[Tools Facebook provides to protect your intellectual property](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
 [Does Facebook sell my information?](https://www.facebook.com/help/152637448140583/?helpref=related_articles)
 
@@ -1608,7 +1666,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
-[Tools Facebook provides to help protect your intellectual property
+[Tools Facebook provides to protect your intellectual property
 
 * * *](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
@@ -1711,7 +1769,7 @@ Retract an intellectual property report that you've submitted to Facebook
 Rights Manager and other intellectual property tools
 ----------------------------------------------------
 
-Tools Facebook provides to help protect your intellectual property
+Tools Facebook provides to protect your intellectual property
 
 What tools does Facebook provide to help me enforce my intellectual property rights in advertisements and sale posts?
 
@@ -2849,8 +2907,8 @@ Resolve issues, make changes and get support in real time
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
 *   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-Tools Facebook provides to help protect your intellectual property
-==================================================================
+Tools Facebook provides to protect your intellectual property
+=============================================================
 
 Copy link
 
@@ -2864,12 +2922,12 @@ How do I apply for Facebook tools?
 
 I have a different question
 
-In addition to our other measures, including our online reporting forms and our repeat infringer policy, we provide rights holders with tools to identify and enforce on content posted to Facebook that may contain their copyrighted work. We provide tailored tooling specific to a content owner's demonstrated needs.
+In addition to our other measures, including our online reporting forms and our repeat infringer policy, we provide rights holders with tools to identify and take action on content posted to Facebook that may contain their copyrighted work. We provide tailored tooling specific to a content owner's demonstrated needs.
 
 Rights Manager
 --------------
 
-Rights Manager allows rights holders to manage, authorise and protect their video, audio and image content at scale. Participating rights holders can upload reference files of the content that they own directly into the tool. Rights Manager will then scan Instagram and Facebook to detect user content matching those reference files. Rights Manager provides rights holders with tailored protection capabilities that meet their particular needs.
+Rights Manager allows rights holders to manage, authorise and protect their video, audio and image content at scale. Participating rights holders can upload reference files of the content that they own directly into the tool. Rights Manager will then scan Instagram and Facebook to detect content matching those reference files. Rights Manager provides rights holders with tailored protection capabilities that meet their particular needs.
 
 Learn more about [Rights Manager](https://l.facebook.com/l.php?u=https%3A%2F%2Frightsmanager.fb.com%2F).
 
@@ -2878,31 +2936,31 @@ Content protection
 
 Content protection is for creators seeking to manage and protect their original content. It uses the same technology as Rights Manager to detect video matches across Facebook and Instagram, but the features of the tool are tailored specifically to creators. Learn more about [content protection](https://www.facebook.com/business/help/1024655109288450?helpref=faq_content).
 
-Actions that you can take with our copyright management tools
--------------------------------------------------------------
+Actions that you can take with Meta copyright management tools
+--------------------------------------------------------------
 
 When your content is detected on a Page, profile or Instagram account, you can choose to take the enforcement actions available to you based on your demonstrated needs. Actions include:
 
 *   **Allow**: Allow matching content to remain posted and visible on Facebook and/or Instagram, and have visibility into how it performs over time.
 *   **Hide**: Prevent the matching content from being visible to anyone other than the Page, profile or Instagram account that posted it.
-*   **Claim earnings**: You may be able to claim money earned from a video that is eligible for monetisation on Meta platforms. Note: At this time, this feature is not available to all creators using content protection and/or Rights Manager.
+*   **Claim earnings**: You may be able to claim money earned from a video that is eligible for monetisation on Meta platforms. **Note:** This feature is not available to all creators using content protection or Rights Manager at this time.
 *   **Apply credit links**: You may be able to insert a banner below selected Facebook matches linking it to your own content, Page or profile.
 *   **Report and request takedown**: You can choose to send a copyright report to Facebook, which may result in the reported content being removed.
 
-If you want scaled copyright management, you can apply for access to our tools [here](https://www.facebook.com/rights_manager/apply). Our team will assess your application and, if you are eligible, will grant access to protection features specific to your needs.
+If you want scaled copyright management, you can [apply for access to these tools](https://www.facebook.com/rights_manager/apply). Meta will assess your application and, if you are eligible, will grant access to protection features specific to your needs.
 
-Please note that all users on Meta platforms have access to the [copyright report form](https://www.facebook.com/help/ipreporting/report/copyright) to report individual instances when content has been used without permission. The form can be submitted to request a takedown of content at any time; no application is necessary.
+All people on Meta platforms have access to the [copyright report form](https://www.facebook.com/help/ipreporting/report/copyright) to report individual instances when content has been used without permission. You can submit the form to request a takedown of content at any time. No application is necessary.
 
 Related articles
 ----------------
 
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
+[Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=related_articles)
+
 [How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
-[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
-
-[Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=related_articles)
+[Data scraping and what can you do to protect your information on Facebook](https://www.facebook.com/help/463983701520800/?helpref=related_articles)
 
 [Unintentional actions can still violate copyright on Facebook](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
 
@@ -2912,17 +2970,17 @@ Related articles
 
 * * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
+[Intellectual property
+
+* * *](https://www.facebook.com/help/399224883474207/?helpref=related_articles)
+
 [How can I make sure that the content I post to Facebook doesn't violate copyright law?
 
 * * *](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
-[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?
+[Data scraping and what can you do to protect your information on Facebook
 
-* * *](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
-
-[Intellectual property
-
-* * *](https://www.facebook.com/help/399224883474207/?helpref=related_articles)
+* * *](https://www.facebook.com/help/463983701520800/?helpref=related_articles)
 
 [Unintentional actions can still violate copyright on Facebook](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
 
