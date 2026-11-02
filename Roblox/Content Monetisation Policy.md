@@ -1,81 +1,70 @@
 Developer Exchange Terms of Use
 ===============================
 
-The Roblox Developer Exchange Program (also known as DevEx) is a program that allows Roblox creators to exchange their Earned Robux for real money. Any creator can use Roblox Studio to learn to code, create experiences or items to enjoy with their friends, but certain creators who meet the eligibility requirements (described below) are able to earn money through DevEx. 
-
-1.  Acceptance of Terms
+1.  Introduction
     
-    Below are the terms and conditions that govern DevEx (“the DevEx Terms”). These DevEx Terms are part of the Roblox [Terms of Use](https://en.help.roblox.com/hc/articles/115004647846), which define some of the capitalized words used below. You must agree to the Terms of Use, which include these DevEx Terms, to participate in DevEx.
+    Welcome! Thank you for your interest in the [Developer Exchange Program](https://en.help.roblox.com/hc/articles/203314100) (“**DevEx**”) provided by Roblox Corporation and its affiliates (**“we,” “us,” “our”**). These Developer Exchange Terms of Use (“**DevEx Terms**”) apply to your participation in DevEx in addition to the Roblox Terms, including, the Creator Terms and User Terms.
     
-2.  DevEx Eligibility Requirements
+2.  Accepting these terms
     
-    Eligibility to participate in DevEx is solely up to Roblox, and the requirements may be changed by Roblox at any time by updating the DevEx Terms. To participate in DevEx you must meet all the following minimum requirements (“the DevEx Eligibility Requirements”):
+    By participating in DevEx and accepting these DevEx Terms, you confirm that you are at least 13 years of age. If you are using the Roblox on behalf of an entity, you represent and warrant that you have authority to bind that entity to the DevEx Terms and by accepting the DevEx Terms, you are doing so on behalf of that entity. You also confirm and agree that: (a) you are at least 18 years of age; and/or (b) if you are a minor not old enough to have authority to consent to these DevEx Terms in your country, your parent or legal guardian must accept these DevEx Terms on your behalf and you to use DevEx. See Section 2.1 of the User Terms for more details.
     
-    1.  Be at least 13 years of age or older;
-    2.  Have at least 30,000 Earned Robux (defined below) in your account;
-    3.  Have a Roblox-verified email address;
-    4.  Have a valid [DevEx portal account](https://suppliers.tipalti.com/Roblox/Account/Login);
-    5.  Have an IRS form W-9 (for U.S. taxpayers) or W-8 (for non-U.S. taxpayers) on file with Roblox;
-    6.  Comply with the Ongoing Service Requirements for Developers (described below); and
-    7.  Be in complete compliance at all times with the Roblox [Terms of Use](https://en.help.roblox.com/hc/articles/115004647846), which include these DevEx Terms and the [Roblox Community Standards](https://en.help.roblox.com/hc/articles/203313410). By way of example, the following will disqualify you from DevEx: scamming, phishing, false advertising, attempting to exchange Robux for real currency other than through DevEx, and any illegal or unethical activities.
+3.  Eligibility requirements
     
-3.  Amount eligible to cash out
+    To participate in DevEx, you must meet all of the following requirements:
     
-    We will determine how much you are eligible to Cash Out by totaling the amount of Robux earned (over the lifetime of the account) and subtracting the amounts previously paid out to you through DevEx.
+    1.  have an active Account in good standing with no significant history of [Community Standards](https://en.help.roblox.com/hc/articles/203313410) violations including but not limited to scamming, phishing, false advertising, or egregious intellectual property violations; 
+    2.  be an Earning Party who is at least 13 years old;
+    3.  have contributed Content to the Platform;
+    4.  have at least 30,000 Earned Robux in your Account;
+    5.  have a Roblox-verified email address associated with your Account; and
+    6.  be in compliance with these DevEx Terms (including the [Community Standards](https://en.help.roblox.com/hc/articles/203313410)) at all times.
     
-4.  Earned Robux
+4.  DevEx Request
     
-    Roblox allows Creators to earn Robux (“Earned Robux”) by selling or monetizing certain UGC (including Virtual Content and access to Games) they create on the Services. Earned Robux only include Robux you have earned in complete compliance with the Roblox [Terms of Use](https://en.help.roblox.com/hc/articles/115004647846), which include the [Roblox Community Standards](https://en.help.roblox.com/hc/articles/203313410), through the Services from the direct sale or other monetization (e.g., Creator Rewards) of Virtual Content or other UGC that you create (either alone or with a Group) on the Services or Robux awarded by Roblox in designated promotional campaigns. This includes, but is not limited to, Robux earned from:
+    Earning Parties may request to receive fiat currency based on their Earned Robux (“**DevEx Request**”). If you satisfy all the DevEx eligibility requirements in Section 3 above, Roblox may, in its sole discretion, decide to provide you payment for your DevEx Request.
     
-    1.  Earnings from your listings in Marketplace or Creator Store,
-    2.  Creator Rewards,
-    3.  In-game purchases of virtual products,
-    4.  Ad revenue in the Publisher program, and
-    5.  Affiliate sales fees
+    #### 4.1 Roblox review
     
-    Robux acquired in ways other than monetization of compliant Virtual Content you created (such as Robux obtained from a membership plan or referral bonus, a purchase of Robux or gift card, or trading/selling virtual goods that you did not create) are not considered Earned Robux. This includes, but is not limited to, Robux obtained from:
+    When you initiate a DevEx Request on Creator Hub, Roblox will review activity associated with your Account to confirm that you accumulated Earned Robux in compliance with these DevEx Terms, and will decide whether you are eligible to receive a payment for your DevEx Request. As part of the review process, you may be required to provide Roblox with evidence that you meet the eligibility requirements listed in Section 3. 
     
-    1.  A gift card redemption or direct Robux purchase
-    2.  A monthly Robux grant as part of Premium membership
-    3.  Trading or resale of virtual products
-    4.  Gamepasses sold for template games with no legitimate user visits
-    5.  Violative content that was moderated
+    #### 4.1.1 Public Game requirement
     
-    The determination of whether Robux are Earned Robux resides solely in Roblox’s discretion. The fact that Robux qualify as Earned Robux does not guarantee that they will be eligible for any particular promotional or designated DevEx exchange rate; any such rates apply only to Designated-Rate Eligible Earned Robux (defined herein), as determined by Roblox in its sole discretion.
+    Roblox will decline DevEx Requests that are associated with private Games. You are required to keep your Games set to public (as opposed to private) throughout the DevEx lifecycle. For the distinction between public and private Games, see the [Games and places documentations](https://create.roblox.com/docs/production/publishing/publish-experiences-and-places#publish-experiences).
     
-    For more information on monetizing UGC, please read the Developer Guides [here](https://create.roblox.com/docs/production/monetization).
+    #### 4.1.2 Monthly limit
     
-5.  Ongoing Service Requirements for Developers
+    You are not allowed to initiate a DevEx Request more than once per calendar month.
     
-    To participate in DevEx, you must meet the “Ongoing Service Requirements for Developers,” which are to provide an on-going service that complies with the Roblox [Terms of Use](https://en.help.roblox.com/hc/articles/115004647846), including the [Roblox Community Standards](https://en.help.roblox.com/hc/articles/203313410), and any instructions you receive from Roblox. As part of this requirement, you must do the following:
+    #### 4.2 DevEx account
     
-    1.  Work with Roblox and Roblox users to resolve any issues involving the Roblox [Terms of Use](https://en.help.roblox.com/hc/articles/115004647846) and [Roblox Community Standards](https://en.help.roblox.com/hc/articles/203313410);
-    2.  Update your Virtual Content for security and technical reasons and ensure your content complies with Roblox’s latest technical and security updates and best practices; and
-    3.  Assist Roblox upon request with legal requirements, such as removing Virtual Content that has been accused of violating copyright laws.
+    If your request is approved and this is your first DevEx Request, you will receive an email inviting you to create a DevEx account on Roblox’s [DevEx portal](https://suppliers.tipalti.com/Roblox/Account/Login). To create a DevEx account, you may be required to provide certain information to Roblox and Roblox's third party service provider including but not limited to name, email address, address, date of birth, bank account information, and the tax information in Section 5 below. Roblox reserves the right to take steps to verify the information you provide for your DevEx account and DevEx Request.
     
-6.  Cash Out
+    #### 4.3 DevEx Request amount
     
-    A “Cash Out” is an option to exchange your Earned Robux for U.S. dollars at the applicable exchange rate(s) for Cash Out set forth by Roblox. Different categories of Earned Robux may be subject to different Cash Out exchange rates, including promotional or designated rates that Roblox may offer from time to time. Roblox may change these exchange rates at any time by updating these DevEx Terms and/or the DevEx help page. If you satisfy all the DevEx Eligibility Requirements, Roblox will decide in its sole discretion whether to offer you a Cash Out and how much you are eligible to receive in a Cash Out. Under normal circumstances, a Cash Out will total the amount of Earned Robux you obtained over the lifetime of the account minus all Earned Robux previously exchanged by you through DevEx and any Earned Robux you spent on the Services. Roblox may, in its discretion, require eligible Creators to Cash Out amounts in excess of 5.7 billion Earned Robux. Further information on the Cash Out process can be found at the [DevEx help page](https://en.help.roblox.com/hc/articles/203314100). The following additional limitations apply to Cash Outs:
+    Roblox provides a base exchange rate for DevEx Request for standard Earned Robux as determined in Roblox's sole discretion. From time to time, Roblox may pay different rates on DevEx Request based on certain Earned Robux that Roblox designates, in its sole discretion. See [Developer Exchange – Help and Information Page](https://en.help.roblox.com/hc/articles/13061189551124-Developer-Exchange-Help-and-Information-Page) for more information about the DevEx Request process, rates, and methods for calculating payment amounts for DevEx Requests. Roblox’s third party service provider may charge transaction fees as detailed in the [DevEx portal](https://suppliers.tipalti.com/Roblox/Account/Login) in association with payments for DevEx Requests.
     
-    1.  Roblox provides a base exchange rate for Cash Out for standard Earned Robux as determined in Roblox's sole discretion. From time to time, Roblox may pay different Cash Out exchange rates on certain Earned Robux that Roblox designates, in its sole discretion, as Designated-Rate Eligible Earned Robux, which are eligible for a promotional or designated DevEx rate, as described on the DevEx help page or in other program-specific documentation. Information on rates applicable to Robux earned before 10 AM PT on September 5, 2025 is available [here](https://en.help.roblox.com/hc/articles/13061189551124).
-    2.  In these DevEx Terms, “Designated-Rate Eligible Earned Robux” means the subset of Earned Robux that Roblox designates, in its sole discretion, as qualifying for any such promotional or designated DevEx exchange rate.
-    3.  You are not allowed to initiate a Cash Out more than once a month.
-    4.  Eligibility to Cash Out is reviewed after you submit a request to Cash Out.
-    5.  When you initiate Cash Out, Roblox will perform a close review of activities on your account to confirm that you earned Robux in compliance with Terms of Use and Roblox Community Standards. We are not able to predetermine your eligibility for Cash Out.
+    #### 4.4 Geographic limitations
     
-7.  Acknowledgements and Further Agreements
+    Roblox may not be able to approve DevEx Requests to Earning Parties in certain countries due to legal and regulatory reasons. Please check [here](https://help.tipalti.com/hc/articles/31314361313815-Payment-methods-coverage-US-ROW) to see if your country is eligible for DevEx.
     
-    In order to participate in DevEx, you further acknowledge and agree to the following:
+5.  Tax
     
-    1.  Clicking the “Cash Out” button does not guarantee that you are eligible to, in fact, Cash Out. When you click that button, Roblox will then determine whether you meet the DevEx Eligibility Requirements and whether to provide a Cash Out at Roblox's discretion.
-    2.  Prior to any payments being made, Roblox requires you to have an IRS form W-9 (for U.S. taxpayers) or W-8 (for non-U.S. taxpayers) on file with us. All payments made to U.S. users (other than for certain limited exceptions due to reporting requirements) will be reported to the IRS and to you using a form 1099. Payments made to non-U.S. users will not be reported to their home countries.
-    3.  Transaction fees are assessed on each payment (which will be paid from any amounts that would otherwise be owed to you hereunder). These fees are charged by our DevEx portal provider (Roblox does not assess any fees in addition to those charged by our provider), and vary depending on payment method chosen. Please see the [DevEx portal](https://suppliers.tipalti.com/Roblox/Account/Login) for information regarding fee schedules.
-    4.  You are responsible for any taxes that may be owed due to a Cash Out. For tax purposes, Roblox considers the Cash Out payments to be payments for the services you have provided. All participants (whether you live in the US or elsewhere) are responsible for ensuring that all payments received are reported to the proper taxing authorities. Income that Minors earn can impact their parents’ tax returns.
-    5.  We are not able to remit payments to certain countries, entities, or individuals because of legal or other considerations. But we are currently able to make payments to DevEx participants in over one hundred different countries. Check [here](https://support.tipalti.com/Content/Topics/UserGuide/PaymentInformation/PaymentMethodsCoverage/IntroUSD.htm?Highlight=payment%20methods) to see if your country is on the list.
-    6.  If your Roblox account is inactive (i.e. no authenticated sessions on the Roblox platform) for a period of two and a half years or more, your account will be considered inactive and ineligible to participate in DevEx, and you will need to re-apply should you wish to participate again.
-    7.  We may transfer information, including about the developer, their account, and traffic, to third parties, including Google, for purposes of protecting user and platform integrity, including protecting against fraud.
-    8.  Roblox reserves the right to modify, amend, or cancel the DevEx Program, add, remove, or modify the DevEx Eligibility Requirements, and change exchange rate or rates applicable to Cash Out for any category of Earned Robux (including any promotional or designated DevEx rates) all at any time and for any reason by updating the DevEx Terms. The existence of the DevEx Program today in no way creates an obligation for us to continue the program in the future, nor does it guarantee that Earned Robux can be exchanged in the future. We reserve the right to review activity on accounts to assess the validity of Earned Robux balances, and to deny payment to any user that we feel has violated the terms or the spirit of our program, including but not limited to these DevEx Terms, the Roblox Terms of Use, and the Roblox Community Standards.
-    9.  Roblox may deny, adjust, reclassify, or reverse any Cash Out, or the designation of any Earned Robux as Designated-Rate Eligible Earned Robux, if Roblox determines in its sole discretion that: (a) those Earned Robux were obtained through misrepresenting or encouraging others to misrepresent age, location, or other eligibility criteria; (b) you engaged in self-dealing or coordinated activity through alternate, group, or related accounts to route Robux into Designated-Rate Eligible Earned Robux; or (c) you otherwise violated these DevEx Terms, the Roblox Terms of Use, or the Roblox Community Standards.
+    Payments received in association with DevEx Request are Creator Payments as defined in Section 6 of the Creator Terms. They are paid as consideration for Roblox's exercise of the copyright rights licensed to Roblox under Section 3.2 of the User Terms, as modified by Section 4.2 of the Creator Terms, and are not consideration for any services, referral, or marketing activities performed by you. Please refer to Section 6.2 of the Creator Terms for the tax terms that apply to your payments for DevEx Requests.
+    
+6.  Your responsibilities
+    
+    As an Earning Party, you agree to provide Roblox with true, accurate, and up to date information in connection with your DevEx account and DevEx Request. Roblox may, in its sole discretion, require Earning Parties who have amounts in excess of 5.7 billion Earned Robux to submit DevEx Requests.
+    
+7.  Changes to DevEx
+    
+    Roblox reserves the right to change DevEx by updating these DevEx Terms as described in Section 14.8 of the User Terms. 
+    
+    We reserve the right to review activity on Accounts to assess the validity of Earned Robux balances, and to deny payments for DevEx Requests to any User who does not comply with these DevEx Terms or the Roblox Terms.
+    
+8.  Changes to DevEx
+    
+    Our [User Terms](https://en.help.roblox.com/hc/articles/115004647846) and [Creator Terms](https://en.help.roblox.com/hc/articles/115004647846) are incorporated by this reference into, and made a part of, these DevEx Terms. In particular and without limitation, Sections 12 to 14 also apply to the DevEx Terms. If there are any conflicts, these DevEx Terms control with respect to your participation in DevEx, except that Section 4.2 and Section 6 of the Creator Terms govern the characterization of, and tax treatment applicable to, all Creator Payments.
 
 - - -
 
