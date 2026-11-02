@@ -1,27 +1,33 @@
 Reporting Illegal Content in the European Union
 ===============================================
 
-Roblox visitors located in the European Union (EU) may report content that they believe violates the law of EU member states using our [Illegal Content Reporting Form](https://www.roblox.com/illegal-content-reporting). To file an illegal content report, please include as much detail as possible in your submission. If your report does not include sufficient information, we may not be able to take action.
+Roblox visitors located in the European Union (EU) may report content that they believe violates EU law or the law of any EU member state ("illegal content“). There are different processes depending on the type of content you would like to report.  If you’d like to report Community Standard or other Policy violations, or if you’re located outside of the EU, you can learn more about submitting a report [here](https://en.help.roblox.com/hc/en-us/articles/203312410). 
 
-If you’d like to report Community Standard or other Policy violations, or if you’re located outside of the EU, you can learn more about submitting a report [here](https://en.help.roblox.com/hc/en-us/articles/203312410). 
+### Reporting Illegal Content
 
-There are two ways EU users can access the illegal content reporting form to report content they believe violates EU law:
+To report content you believe violates EU law or EU member state law (other than intellectual property violations), please use our [Illegal Content Reporting Form](https://www.roblox.com/illegal-content-reporting).
 
-1.  Inside a Roblox experience by navigating to the "**Report**" tab in the experience menu
-2.  Selecting the "**Report**" button associated with the content you'd like to report
+There are two ways EU users can access the Illegal Content Reporting Form to report content they believe to be illegal:
 
-### To submit a report: 
+1.  Inside a Roblox experience by navigating to the **Report** tab in the experience menu
+2.  Selecting the **Report** button associated with the content you'd like to report.
 
-1.  Select the link **“Report Illegal Content under the EU Digital Services Act”** at the bottom of the “**Report**” window.
-    
+### To submit a report via the form: 
+
+1.  Select the link **Report Illegal Content under the EU Digital Services Act** at the bottom of the **Report** window.
 2.  Once there, enter the following information: name, email, type of content, exact location of the content you would like to report (e.g. URL), the country where you believe the content is illegal, and the reason why you believe it is illegal.
-    
 3.  Confirm the information shared is accurate to the best of your knowledge
-    
-4.  Hit “**Submit”**.
-    
+4.  Hit **Submit**.
 
-Content reported via the Illegal Content reporting form is first assessed against our [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410) - if the content is incompatible with our platform-level policies, it is actioned accordingly. Any reported items that do not violate our Community Standards are then escalated to legal experts for assessment against relevant local laws. EU Trusted Flaggers accredited in accordance with the Digital Services Act may submit notices of Illegal Content via our EU Illegal Content reporting form — such reports will be prioritized by our team of moderators. In accordance with the Digital Services Act, those who report illegal content on our platform via our EU illegal content reporting form also have the right to [appeal](https://en.help.roblox.com/hc/en-us/articles/360000245263) Roblox’s decision related to their report.
+Content reported via the Illegal Content Reporting Form is first assessed against our [Community Standards](https://about.roblox.com/community-standards) - if the content is incompatible with our platform-level policies, it is actioned accordingly. Any reported items that do not violate our Community Standards are then escalated to legal experts for assessment against relevant local laws. EU Trusted Flaggers accredited in accordance with the Digital Services Act may also submit notices of illegal content via our EU iIllegal Content Reporting Form — such reports will be prioritized by our team of moderators. 
+
+### Reporting Intellectual Property Violations
+
+If you believe content on Roblox infringes your intellectual property rights (such as copyright or trademark), please submit your report through our [Intellectual Property Reporting process](https://en.help.roblox.com/hc/articles/54837988783508). Intellectual property reports follow a dedicated review process separate from other illegal content reports.
+
+### Appeals and Redress
+
+In accordance with the Digital Services Act, if you report illegal content or intellectual property violations on Roblox you have the right to [appeal](https://en.help.roblox.com/hc/en-us/articles/360000245263) Roblox’s decision related to your report.
 
 - - -
 
@@ -70,7 +76,7 @@ This information is being provided solely for purposes of complying with Article
 Appeal Your Content or Account Moderation
 =========================================
 
-You can contact the Roblox Appeals team to review the situation if your content or account has been banned or moderated, or any of your content has been blocked or deleted. The Appeals team will give the moderation a second look and make any necessary adjustments to your asset or account's moderation status. Submitting an appeal does not guarantee the consequence will be removed. 
+You can contact the Roblox Appeals team to review the situation if your content or account has been banned or moderated, or any of your content has been blocked or deleted. The Appeals team will give the decision  a second review, taking into account all information you decide to include with your appeal,  and make any necessary adjustments to your content‘s or account's moderation status. Submitting an appeal does not guarantee that the decision will be reversed.
 
 Content is something you made such as experiences, decals, clothes, group logos, or audio files. Although most content cannot typically be restored once moderated, the Appeals team will do their best to find a satisfactory resolution.
 
@@ -81,7 +87,7 @@ For Appeals via Violations & Appeals
 
 Certain categories of violations may be appealed via [Violations & Appeals](https://www.roblox.com/report-appeals?t_source=support). If your violation category is eligible for an appeal there, you will find a direct link to “Violations & Appeals” in your moderation notification from Roblox.
 
-In Violations & Appeals, you can select the **Appeal** option, provide insights into why your case merits reevaluation, and monitor your asset's status. If you don’t see your violation listed in Violations & Appeals, you can file your appeal via the Support form.
+In Violations & Appeals, you can select the **Appeal** option, provide insights into why your case merits reevaluation, and monitor the status of your content or account. If you don’t see your violation listed in Violations & Appeals, you can file your appeal via the Support form.
 
 For Appeals via Support Form
 ----------------------------
@@ -91,11 +97,9 @@ For actions that may be appealed via the Support Form, contact the Appeals team 
 ### For account appeals:
 
 *   Account username
-    
 *   Brief statement regarding the reason for your appeal
-    
 
-###   For content appeals:
+### For content appeals:
 
 *   Account username
 *   Brief statement regarding the reason for your appeal
@@ -104,21 +108,20 @@ For actions that may be appealed via the Support Form, contact the Appeals team 
 
 There are some restrictions when submitting an appeal:
 
-*   An appeal must be submitted within **30** days of the moderation action affecting the account.
+*   An appeal must be submitted within **30** days of the moderation action affecting the account (See below for the time window applicable to EU users).
 *   Once a moderation has been reviewed, it cannot be reviewed again. Duplicate appeals for the same moderation action on an account will not be reviewed.
 *   To protect our users' privacy, only the owner of an account may send an appeal.
 *   Make sure you are contacting Appeals from a valid email address for the account you are appealing.
 
-**Additional Rights for European Union Users:**
+**Additional Rights for European Union Users under the Digital Services Act:**
 
-EU users will have 6 months to appeal an initial moderation action. Under the Digital Services Act, EU users also have the right to select a certified out-of-court dispute settlement body to resolve disputes relating to a content moderation decision we take, and may seek judicial redress. The EU Commission has a list of accredited out-of-court dispute settlement bodies for this purpose which can be found [here](https://digital-strategy.ec.europa.eu/en/policies/dsa-out-court-dispute-settlement).
+EU users will have 6 months to appeal an initial moderation action. Under the Digital Services Act, EU users also have the right to select a certified out-of-court dispute settlement body to resolve disputes relating to a content moderation decision we take, and may seek judicial redress. The European Commission has a list of accredited out-of-court dispute settlement bodies for this purpose which can be found [here](https://digital-strategy.ec.europa.eu/en/policies/dsa-out-court-dispute-settlement).
 
-EU reporters that file DSA [illegal content reports](https://en.help.roblox.com/hc/articles/23607654421524) also have the right to appeal Roblox’s decision related to their report.
+EU reporters that file DSA [illegal content reports](https://en.help.roblox.com/hc/articles/23607654421524) also have the right to appeal Roblox’s decision related to their report. If you submitted an intellectual property report, please visit our [Intellectual Property Help Center page](https://en.help.roblox.com/hc/articles/54837988783508) to learn about the appeals process for IP-related decisions.
 
 **Additional rights and information under the UK’s Online Safety Act (OSA)**
 
-UK reporters have a right to file an OSA [illegal content report](https://www.roblox.com/illegal-content-reporting) or an OSA [content harmful to children report](https://www.roblox.com/illegal-content-reporting) and users whose content or accounts are actioned have the right to an appeal.  
- 
+UK reporters have a right to file an OSA [illegal content report](https://www.roblox.com/illegal-content-reporting) or an OSA [content harmful to children report](https://www.roblox.com/illegal-content-reporting) and users whose content or accounts are actioned have the right to an appeal.
 
 *   We do not disclose (either routinely, upon request or otherwise) the fact that an illegal content report or a content harmful to children report has been submitted to the user that generated, uploaded or shared the content reported or to any other user. We only disclose the reason why content is moderated if we make such a decision.
 *   We do not disclose information about the complaint or the person who submitted the original complaint to appealers nor do we disclose information about appeals to the person who submitted the original complaint.
