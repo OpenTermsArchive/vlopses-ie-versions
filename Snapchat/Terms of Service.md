@@ -1147,7 +1147,7 @@ Advertising
 Legal
 
 *   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Law enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Law Enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 *   [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
 *   [Cookie Settings](https://www.snap.com/cookie-settings)
 *   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
@@ -1160,7 +1160,7 @@ Legal
 
 *   Language
     
-    English (UK)
+    English (US)
 
 - - -
 
