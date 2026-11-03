@@ -929,73 +929,6 @@ Snap welcomes comments, questions, concerns or suggestions. Please send feedback
 
 _In summary: You can contact us and we always love to hear from our users. But if you volunteer feedback or suggestions, just know that we can use your ideas without compensating you_.
 
-**14\. Country-specific terms**
-
-If you live in any of the countries listed below when you purchase a Paid Feature, the additional terms listed for that country apply to you. 
-
-United Kingdom, European Union and Norway:
-
-_Cancellation Rights_
-
-**Please note that the way you cancel and your cancellation rights may be different to those set out in this section if you have purchased your Paid Feature through a third-party Purchase Provider (e.g. an app store). In which case, your purchase will be subject to their terms and conditions of purchase, so please read the cancellation instructions provided to you by your Purchase Provider carefully to ensure you understand how and when you may cancel.**
-
-If you are a consumer resident in the United Kingdom, the European Union or Norway, for most Paid Features you have a legal right to change your mind and cancel the contract for your purchase within 14 days from the date of your purchase (the “Cancellation Period”). For example, if you make a purchase on the 1st day of the month, the Cancellation Period ends at the end of the 15th day of the month. Please note that this legal right to cancel does not apply to all Paid Features. More details on the limitations and exclusions that apply can be found later on in this section.
-
-To exercise your right to cancel, you must inform us of your decision by a clear statement, such as by email, post or through our online support page (see Section 14 for our contact details). You may use the cancellation form available below, but the easiest way to cancel is to follow the cancellation instructions provided in Snapchat.
-
-You do not have the right to change your mind and cancel the contract if: (i) you consented for us to start providing digital content during the Cancellation Period, and we do start providing the digital content during this period; or (ii) you requested for us to start providing digital services during the Cancellation Period and the digital services are fully completed during this period. 
-
-Your legal right to cancel applies to Paid Features as follows:
-
-*   Paid Subscriptions: Snapchat+ and other Paid Subscriptions are digital services. You can cancel a Paid Subscription during the Cancellation Period. If you do so, you will receive a partial refund of the price you have paid for the subscription, which will be prorated based on how many days of use you have enjoyed during the relevant subscription period. For example, if you cancel seven days into a monthly subscription, we would refund you the monthly subscription fee you have paid less a sum equivalent to seven days’ usage. If you live in the UK: (i) if you have an initial free trial or discounted period, a new Cancellation Period will apply when the subscription converts into a full-price Paid Subscription; and (ii) if you have an annual Paid Subscription, a new Cancellation Period will apply to any automatic annual renewals. In each case, the new Cancellation Period would begin on the day the full price subscription or renewal starts and would end 14 days later (e.g. if the start date is January 1, the end date is January 15).
-    
-*   Snapstreak Restores and similar digital services: A Snapstreak Restore is a service. It cannot be cancelled because the service (the reinstatement of your Snapstreak) is completed immediately following purchase. The same applies to other digital services that are fully completed immediately after purchase.
-    
-*   Digital content: Digital content purchases cannot be cancelled. When you purchase digital content you are consenting for us to start providing the digital content immediately.
-    
-
-If you are entitled to a refund, we will pay the refund to you within 14 days of receiving notice of your cancellation using the same means of payment as you used for the initial transaction. 
-
-_Cancellation Form_
-
-To Snap Group Limited,
-
-Address: Snap Group Limited 50 Cowcross Street, Floor 2, London, EC1M 6AL, United Kingdom or Contact us: [here](https://help.snapchat.com/hc/requests/new?lang=en-US).
-
-I/We \[\*\] hereby give notice that I/We \[\*\] cancel my/our \[\*\] contract of sale of the following goods \[\*\]/for the supply of the following service \[\*\],
-
-Ordered on \[\*\]/received on \[\*\],
-
-Name of consumer(s),
-
-Address of consumer(s),
-
-Signature of consumer(s) (only if this form is notified on paper),
-
-Date
-
-\[\*\] Delete as appropriate
-
-Belgium (in addition to those set out under “United Kingdom, European Union and Norway” above):
-
-Where the Snap Paid Features Terms refer to Snap's right to immediately suspend, discontinue or terminate your access to a Paid Feature, without prior notice or liability to you, this will constitute a unilateral termination of our agreement with you without prior intervention of a court or tribunal.
-
-France (in addition to those set out under “United Kingdom, European Union and Norway” above):
-
-Pursuant to the Code de la Consommation, you are entitled to consumer mediation to resolve disputes between us. You may choose any of the mediators listed at [http://www.economie.gouv.fr/mediation-conso/saisir-mediateur](http://www.economie.gouv.fr/mediation-conso/saisir-mediateur) under “Commerce électronique - Vente à distance”. Their contact details are available at the individual mediator websites listed there.
-
-Germany (in addition to those set out under “United Kingdom, European Union and Norway” above):
-
-Nothing in these Snap Paid Features Terms will affect your legal rights and remedies provided to you under mandatory German law, in particular the German law provisions on digital products and digital services pursuant to Section 327 pp. German Civil Code (BGB) and the provision on general terms and conditions pursuant to Sections 305 pp. German Civil Code (BGB) (each as amended or superseded from time to time). 
-
-The Netherlands (in addition to those set out under “United Kingdom, European Union and Norway” above):
-
-Nothing in these Snap Paid Features Terms will affect the legal rights and remedies that you have and/or are available to you under mandatory Dutch law, including, without limitation, provisions regarding digital content and digital services pursuant to articles 7:50aa – 50 ap DCC and general terms and conditions pursuant to articles 6:231-247 DCC.
-
-United Kingdom (in addition to those set out under “United Kingdom, European Union and Norway” above):
-
-Nothing in this section or these Snap Paid Features Terms affects your legal rights in relation to any Paid Features that do not meet the requirements of the contract or breach UK consumer laws such as the Consumer Rights Act 2015. This would be the case, for example, where they are defective or misdescribed. We are under a legal duty to provide Paid Features that conform with the contract. If you believe there is something wrong with any Paid Features you have purchased, please contact us using the contact details in Section 13. For detailed information about your consumer rights, please visit the Citizens Advice website at www.adviceguide.org.uk or call 0808 223 1133.
-
 Company
 
 *   [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
@@ -1168,6 +1101,49 @@ Public Content Display Terms
 
 
 --------------------------------
+
+In these Public Content Display Terms, “Snap”, “we” and “us” means either Snap Inc. (if you live in the United States or if you are using the Services on behalf of a business located in the United States) or Snap Group Limited (if you live or are using the Services on behalf of a business located elsewhere). By embedding Snap’s audiovisual player or other product(s) that we make available to you (the “**Embed**”), you agree to these Public Content Display Terms, which incorporate by reference our [Terms of Service](https://www.snap.com/terms), [Privacy Policy](https://www.snap.com/privacy/privacy-policy), [Community Guidelines](https://www.snap.com/community-guidelines), and [Advertising Policies](https://www.snap.com/ad-policies) (collectively, and together with these Public Content Display Terms, the “**Terms**”). The Embed is one of our Services, as that term is defined in our Terms of Service and used throughout the Terms. Please read the Terms carefully. We may update or change the Terms at any time without notice, so please also read them regularly. By continuing to use the Service, you accept any updates to the Terms. To the extent these Public Content Display Terms conflict with other terms governing the Service, these Public Content Display Terms will apply.
+
+**TERMS OF SERVICE REMINDER AND ARBITRATION NOTICE**: AS A REMINDER TO OUR USERS THAT LIVE IN THE UNITED STATES AND BUSINESSES LOCATED IN THE UNITED STATES, OUR TERMS OF SERVICE, WHICH INCLUDES THE FOLLOWING SECTIONS: INDEMNITY, DISCLAIMERS, LIMITATION OF LIABILITY, AND ARBITRATION, CLASS-ACTION, AND JURY WAIVER, APPLY TO AND ARE INCORPORATED INTO THESE PUBLIC CONTENT DISPLAY TERMS. THIS MEANS THAT, AMONG OTHER THINGS, EXCEPT FOR CERTAIN TYPES OF DISPUTES MENTIONED IN OUR TERMS OF SERVICE, YOU AND SNAP AGREE THAT DISPUTES BETWEEN US WILL BE RESOLVED BY MANDATORY BINDING ARBITRATION, AND YOU AND SNAP WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
+
+1\. License
+
+Snap grants you a personal, worldwide, non-exclusive, royalty-free, non-transferable, non-sublicensable, revocable license to (a) use the Embed on a website or mobile application in order to distribute Public Content (which is defined in our Terms of Service) and (b) display the Snapchat name and logo, solely to attribute the Snapchat application as the source of the Embed.
+
+All rights not expressly granted to you in this section are reserved by Snap. Nothing in these Terms grants you an implied license of any kind.
+
+2\. General Terms
+
+By using the Embed, you will be able to display Public Content outside of the Snapchat application. While we provide this feature so that members of our community (including you) can share Public Content to a broader audience, you must comply with the following while using it:
+
+*   Always use the Embed and display Public Content in compliance with any branding or attribution requirements that we provide, including the [Snapchat Brand Guidelines](https://www.snap.com/brand-guidelines).
+    
+*   As a reminder, your use of the Embed is still a use of Snapchat and must comply with our [Community Guidelines](https://www.snap.com/community-guidelines).
+    
+*   The license we’ve granted you in these Public Content Display Terms does not include a license to the third party intellectual property or other proprietary rights that may be included in Public Content. You agree to obtain all necessary rights, permissions, and licenses before you use and distribute the Public Content on a website, or mobile application using the Embed.
+    
+*   Always comply with any requirements or restrictions imposed on the use of Public Content by us or any other owner of the Public Content.
+    
+*   Promptly remove any Public Content and the related Embed that we — or the owner of the Public Content, if that isn’t us — ask you to remove.
+    
+*   Don’t use Public Content in any advertisement or advertising product without the explicit permission from the owner of the Public Content.
+    
+*   Don’t use the Embed or Public Content to imply sponsorship by, endorsement from, or a false association with Snap, any of its users, or third party content providers.
+    
+*   Don’t collect data related to the Embed or Public Content or the Snapchat application in a manner that violates the Terms.
+    
+*   Always use the Embed and display Public Content in compliance with all applicable laws, rules, and regulations.
+    
+*   Don’t use the Embed or Public Content on a website, or mobile application with terms that conflict with the Terms.
+    
+*   Don’t use the Embed or Public Content in a way that indicates it is from a social platform or medium other than the Snapchat application.
+    
+*   Don’t use the Embed or Public Content to replicate or compete with the Snapchat application.
+    
+
+3\. Content Appropriateness
+
+In addition to the disclaimers included in any of our other Terms, by displaying Public Content on a website, or mobile application, you understand that Public Content is created by our users and may not be appropriate for all audiences or ages. As such, you agree that Snap is not liable for any claims based on or arising from Public Content.
 
 Company
 
@@ -1623,45 +1599,88 @@ Snap welcomes comments, questions, concerns, or suggestions. Please send feedbac
 
 We always love to hear from our users. But if you volunteer feedback or suggestions, just know that we can use your ideas without compensating you.
 
-Company
+الشركة
 
-*   [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Careers](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [News](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Privacy and Safety](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [شركة سناب](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [الوظائف](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [الأخبار](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [الخصوصية والسلامة](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-Community
+المجتمع
 
-*   [Snapchat Support](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Spectacles Support](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [دعم سناب شات](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [دعم Spectacles](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [تعليمات التواصل الاجتماعي](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-Advertising
+الإعلانات
 
-*   [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Advertising Policies](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Political Ads Library](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [إعلانات سناب شات](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [سياسات الإعلان](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [مكتبة الإعلانات السياسية](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [إرشادات العلامة التجارية](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [قواعد الترويج](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-Legal
+الركن القانوني
 
-*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Law Enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Cookie Settings](https://www.snap.com/cookie-settings)
-*   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [شروط وسياسات أخرى](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [إنفاذ القانون](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [(سياسة ملفات تعريف الارتباط (كوكيز](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [إعدادات ملفات تعريف الارتباط](https://www.snap.com/cookie-settings)
+*   [إبلاغ عن انتهاك حقوق](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 *   [](https://www.snap.com/)
 *   [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 *   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Privacy Policy](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Terms of Service](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [سياسة الخصوصية](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [شروط الخدمة](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
 
-*   Language
+*   اللغة
     
-    English (US)
+    العربية
 
 - - -
 
 **PLEASE NOTE: WE’VE UPDATED THESE AI TOOLS TERMS, EFFECTIVE FEBRUARY 17, 2025. YOU CAN VIEW THE PRIOR AI TOOLS TERMS, WHICH APPLY TO ALL USERS UNTIL FEBRUARY 17, 2025,** [**HERE**](https://www.snap.com/terms/ai-tools-09-30-2024)**.**
+
+AI Tools Terms
+
+
+------------------
+
+Effective: February 17, 2025
+
+ARBITRATION NOTICE: YOU ARE BOUND BY THE [ARBITRATION](https://www.snap.com/terms/business-services#governing-law-and-disputes) PROVISION SET FORTH IN THE [BUSINESS SERVICES TERMS](https://www.snap.com/terms/business-services). IF YOU ARE CONTRACTING WITH SNAP INC., THEN YOU AND SNAP INC. WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
+
+**Introduction**
+
+These AI Tools Terms form a legally binding contract between you and Snap, govern your use of any generative AI and other AI-powered tools Snap makes available to you through or in connection with the Business Services (“AI Tools”), and are incorporated into the [Business Services Terms](https://www.snap.com/terms/business-services). Some terms used in these AI Tools Terms are defined in the [Business Services Terms](https://www.snap.com/terms/business-services).
+
+**1\. AI Tools**
+
+a. AI Tools use inputs including text prompts, images, audio files, videos, documents, data or other content provided by you or used at your direction (“Inputs”) to generate outputs based on those Inputs, including content and suggestions (“Outputs”).
+
+b. As between the parties (and to the extent permitted by Applicable Law), each party or their licensors shall retain ownership of any pre-existing rights in any Inputs and Outputs. Snap or its licensors own the AI Tools and any underlying technologies used to generate Outputs.
+
+c. All Inputs and Outputs will be treated for the purposes of the [Business Services Terms](https://www.snap.com/terms/business-services) as content you submit to the Services and accordingly any rights and licenses granted to us and obligations on you in respect of content submitted or made available by you in the [Terms of Service](https://www.snap.com/terms/snap.com/terms) shall apply to Inputs and Outputs, in addition to any rights, licenses, and obligations contained in any other applicable Supplemental Terms and Policies.
+
+**2\. Inputs**
+
+In addition to any restrictions set forth in the [Business Services Terms](https://www.snap.com/terms/business-services), you will ensure that: (a) Inputs do not contain or make use of, and otherwise could not reasonably be expected to generate Outputs that contain or make use of: (i) any personal data; or (ii) content that would violate the rights of others or has otherwise been unlawfully obtained; and (b) you comply with any submission guidelines or other policies we make available to you that apply to your use of an AI Tool or submission of Inputs. In addition you must not, and must not take any action that would reasonably be expected to, direct the AI Tools to generate any Outputs in violation of the [Business Services Terms](https://www.snap.com/terms/business-services), any applicable intellectual property right, contractual restriction or Applicable Laws. 
+
+**3\. Outputs**
+
+a. In addition to any restrictions set forth in the [Business Services Terms](https://www.snap.com/terms/business-services), you may only use Outputs in connection with the Business Services and you may not use those Outputs on or with any other service, platform, or technology, whether alone or in combination with other content.
+
+b. You must not and must not take any action that would reasonably be expected to: (i) misrepresent Outputs as having been human-generated or otherwise generated without the use of artificial intelligence; or (ii) alter, obscure or remove any watermark or disclosure applied to Outputs by the AI Tools.
+
+**4\. Disclaimer**
+
+a. You agree and acknowledge that: (i) Outputs are provided as-is and made available to you without representations or warranties of any kind, whether express or implied; (ii) Outputs may be inaccurate, incomplete, misleading, offensive, objectionable, inappropriate, infringing, unsuitable, unlawful, unfit for particular purpose, or the same or similar to content generated for other users of the Services; and (iii) you use the AI Tools and any Outputs at your own risk, and you should not rely on them for medical, legal, investment, financial or other professional advice. Outputs may also contain content inconsistent with Snap’s view and are not Snap representations. Snap does not endorse any content included in any Outputs.
+
+b. You are solely responsible for evaluating any Output to determine its suitability for use, and for any use of Outputs, including ensuring that any Output used with or in connection with the Services complies with the [Business Services Terms](https://www.snap.com/terms/business-services). 
+
+**5\. Entire Agreement**
+
+These AI Tools Terms set forth the entire understanding and agreement between you and Snap with respect to your use of the AI Tools and supersede all other agreements between you and Snap regarding the AI Tools.
+
+_In summary: you can use Snap’s AI Tools to submit various types of content and information (such as text prompts, images, video), to generate outputs for you to use with the Business Services. Snap is not responsible for any outputs you generate and you use outputs at your own risk. Your use of the outputs must comply with our_ [_Business Services Terms_](https://www.snap.com/terms/business-services) _and other applicable Supplemental Terms and Policies. There are certain restrictions on your use of our AI Tools, including that you must not submit anything or direct the AI Tools to create anything that: (i) you do not have the rights to; (ii) breaches our_ [_Business Services Terms_](https://www.snap.com/terms/business-services)_; or (iii) violates any laws or otherwise violates any rights of any person._
