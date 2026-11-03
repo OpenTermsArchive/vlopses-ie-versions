@@ -89,6 +89,13 @@ Certain categories of violations may be appealed via [Violations & Appeals](http
 
 In Violations & Appeals, you can select the **Appeal** option, provide insights into why your case merits reevaluation, and monitor the status of your content or account. If you don’t see your violation listed in Violations & Appeals, you can file your appeal via the Support form.
 
+Appealing game violations as a collaborator
+-------------------------------------------
+
+Game collaborators with edit permissions can also view game violations and submit appeals, in addition to the game or group owner, using the new **Issues & appeals** page on Creator Hub. To access it, go to [Creator Hub](https://create.roblox.com/), then **Creations > \[Game\] > Safety > Issues & appeals**.
+
+This page covers most game violations at launch. For any violation not yet shown there, the game or group owner should still use [the Support Form](https://www.roblox.com/support) as explained below. For more information on collaborators, see our [documentation](https://create.roblox.com/docs/projects/collaboration#manage-collaborators).
+
 For Appeals via Support Form
 ----------------------------
 
