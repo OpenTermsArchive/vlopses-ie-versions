@@ -288,6 +288,75 @@ EEA and UK Privacy Notice
 
 This notice provides additional information for users in the European Economic Area (EEA) and the United Kingdom (UK). Users in the EEA and UK have certain privacy rights as specified under EU and UK law, including the General Data Protection Regulations (GDPR) and UK Data Protection Act 2018. [Our Privacy Principles](https://values.snap.com/privacy/privacy-principles) and the privacy controls we offer to all users are in line with these laws – this notice makes sure we cover the EEA and UK-specific requirements. For example, all users can request a copy of their data, request deletion and control their privacy settings in the app. For the full picture, check out our [Privacy Policy](https://values.snap.com/privacy/privacy-policy).
 
+### 
+
+Data Controller
+
+If you’re a user in the EEA or UK, you should know that Snap Inc. is the controller of your personal information.
+
+### 
+
+Rights of Access, Deletion, Correction, and Portability
+
+You can exercise your rights of access, deletion, correction, and portability as described in the [Control Over Your Information](https://values.snap.com/privacy/privacy-policy#control-over-your-information) section of the Privacy Policy. You also have the right to request restriction of processing of your personal information and the right to lodge a complaint with a supervisory authority, as set out below. You may also have the right to request human review, express your view, and contest decisions made solely by automated processing that significantly affect you.
+
+### 
+
+Bases for Using Your Information
+
+Your country only allows us to use your personal information when certain conditions apply. These conditions are called “legal bases” and, at Snap, we typically rely on one of four:
+
+*   **Contract**. One reason we might use your information is because you’ve entered into an agreement with us. For instance, when you buy an On-Demand Geofilter and accept our Custom Creative Tools Terms, we need to use some of your information to collect payment and make sure we show your Geofilter to the right people at the right place and time.
+    
+*   **Legitimate interest.** Another reason we might use your information is because we have – or a third party has – a legitimate interest in doing so. For instance, we need to use your information to provide and improve our services, including protecting your account, delivering your Snaps, providing customer support and helping you find friends and content we think you’ll like. Because most of our services are free, we also use some information about you to try and show you ads you’ll find interesting. An important point to understand about legitimate interest is that our interests don’t outweigh your right to privacy, so we only rely on legitimate interest when we think the way we are using your data doesn’t significantly impact your privacy or would be expected by you, or there is a compelling reason to do so. We explain our legitimate business reasons for using your information in more detail [here](https://values.snap.com/privacy/your-information).
+    
+*   **Consent**. In some cases we’ll ask for consent to use your information for specific purposes. If we do, we’ll make sure you can revoke your consent in our services or through your device permissions. You have the right to withdraw your consent at any time. This will not affect the lawfulness of processing based on consent before its withdrawal. Even if we’re not relying on consent to use your information, we may ask you for permission to access data like contacts and location.
+    
+*   **Legal obligation.** We may be required to use your personal information to comply with the law, like when we respond to valid legal process or need to take action to protect our users. Our policy is to notify Snapchatters when we receive legal process seeking their account information, with some exceptions. Learn more [here](https://values.snap.com/privacy/transparency).
+    
+
+### 
+
+Your right to object
+
+You have the right to object to our use of your information. You have the right to object to processing of your personal information based on legitimate interests, including profiling related to such processing, and to object at any time to processing for direct marketing purposes. With many types of data, we’ve provided you with the ability to simply delete it if you don’t want us processing it anymore. For other types of data, we’ve given you the ability to stop the use of your data by disabling the feature altogether. You can do these things in the app. If there are other types of information you don’t agree with us processing, you can [contact us](https://help.snapchat.com/?lang=en-GB). [Learn more](https://help.snapchat.com/hc/articles/22534988598676-Learn-About-Snap-s-Data-Processing-and-How-to-Object?lang=en-GB) about how Snap processes personal data and how to object.
+
+### 
+
+International Data Transfers
+
+We may collect your personal information from, transfer it to and store and process it in the United States and other countries outside of where you live. You can find more information on the categories of third parties we share information with [here](https://help.snapchat.com/hc/articles/7012351145364?lang=en-GB).
+
+Whenever we share information with a third party outside of where you live we make sure an adequate transfer mechanism is in place (such as [Standard Contractual Clauses](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) or the [EU-U.S. /UK/Swiss Data Privacy Framework)](https://www.dataprivacyframework.gov/s/). You can request a copy of the relevant safeguards by contacting us.
+
+### 
+
+EU-U.S. /UK/Swiss Data Privacy Framework
+
+Snap Inc. complies with the EU-U.S. Data Privacy Framework, Swiss-U.S. Data Privacy Frameworks, and the UK Extension to the EU-U.S. DPF as set forth by the U.S. Department of Commerce (collectively, the “DPF”) when handling your personal information as described in our [Privacy Policy](https://values.snap.com/privacy/privacy-policy) received from third parties in the EEA, Switzerland, and the UK, respectively. Please visit the [DPF website](https://www.dataprivacyframework.gov/s/) to learn more about the DPF program and to view our certification in the [DPF list.](https://www.dataprivacyframework.gov/s/participant-search)
+
+In accordance with the DPF principles, Snap remains liable for failures to comply with the DPF when we share your personal information with third parties working on our behalf under the Onward Transfer Principle (except for failures that are not our responsibility).
+
+[If you have complaints or questions about how we are complying with the DPF’s principles when handling your personal information, please submit your inquiries as explained below.](https://values.snap.com/privacy/privacy-policy) Our compliance with the DPF’s principles is also subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain circumstances, you have the right to invoke binding arbitration to resolve complaints that are not resolved by other means, as described in [Annex I](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2) of the [DPF Framework](https://www.dataprivacyframework.gov/s/framework-text).
+
+  
+
+### 
+
+Complaints or Questions?
+
+We want you to know that you can submit any inquiries to our [privacy support team](https://help.snapchat.com/?lang=en-GB) or Data Protection Officer at dpo \[at\] snap \[dot\] com. You also have the right to file a complaint with your [supervisory authority](https://edpb.europa.eu/about-edpb/board/members_en) in the EEA, the [Federal Data Protection and Information Commissioner](https://www.edoeb.admin.ch/) in Switzerland, and in the UK you can file a complaint with the [Information Commissioner’s Office](https://ico.org.uk/) (or the [Gibraltar Regulatory Authority](https://www.gra.gi/data-protection) where applicable).
+
+### 
+
+Representative
+
+Snap Inc. has appointed Snap B.V. as its EEA representative. You can contact the representative [here](https://help.snapchat.com/hc/requests/new?start=5749439348080640&lang=en-GB) or at:
+
+Snap B.V.  
+Keizersgracht 165, 1016 DP  
+Amsterdam, The Netherlands
+
 - - -
 
 ### 
