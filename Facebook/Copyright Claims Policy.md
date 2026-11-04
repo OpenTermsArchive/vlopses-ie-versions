@@ -1732,6 +1732,14 @@ What is copyright and what does it protect?
 
 Copy link
 
+What does copyright protect?
+
+What is an original work?
+
+What is not protected by copyright?
+
+I have a different question
+
 In most countries, copyright is a legal right that protects original works of authorship. Typically, if you create an original work, you have a copyright from the moment that you create it.
 
 Copyright covers a wide variety of types of works, including:
@@ -1778,6 +1786,13 @@ Related articles
 * * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2839,13 +2854,13 @@ Tools Facebook provides to protect your intellectual property
 
 Copy link
 
-What are Facebook intellectual property tools?
+Apply for Rights Manager
 
-How does Facebook Rights Manager work?
+Report copyright infringement
 
-How does Facebook content protection work?
+Claim earnings from video
 
-How do I apply for Facebook tools?
+How does content protection work?
 
 I have a different question
 
