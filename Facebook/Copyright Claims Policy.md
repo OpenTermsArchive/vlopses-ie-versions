@@ -1381,6 +1381,14 @@ Report a third-party app on Facebook that you think infringes your intellectual 
 
 Copy link
 
+How do I report a third-party app?
+
+What is intellectual property infringement?
+
+How do I contact an app developer?
+
+I have a different question
+
 Some apps you may find on Facebook are created and operated by third-party developers. Meta doesn't control the content made available through these apps.
 
 If you believe that an app developer isn't following the Facebook [Terms of Service](https://www.facebook.com/terms.php), we suggest contacting the developer directly with your concerns.
@@ -1417,6 +1425,13 @@ Related articles
 * * *](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1717,14 +1732,6 @@ What is copyright and what does it protect?
 
 Copy link
 
-What does copyright protect?
-
-What is an original work?
-
-What is not protected by copyright?
-
-I have a different question
-
 In most countries, copyright is a legal right that protects original works of authorship. Typically, if you create an original work, you have a copyright from the moment that you create it.
 
 Copyright covers a wide variety of types of works, including:
@@ -1771,13 +1778,6 @@ Related articles
 * * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2165,6 +2165,16 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
+What is copyright infringement?
+
+What is Facebook copyright policy?
+
+What is fair use on Facebook?
+
+How do I report copyright infringement?
+
+I have a different question
+
 It's possible to infringe someone else's copyright, even if you don't intend to do so. In most cases, you shouldn't use someone else's copyrighted work if you don't have permission. Posting content that facilitates copyright infringement through unauthorised devices or services is also not allowed on Facebook.
 
 Bear in mind that your use of someone else’s content may infringe their copyright or facilitate copyright infringement, even if you:
@@ -2214,6 +2224,13 @@ Related articles
 * * *](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
 
 [What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
