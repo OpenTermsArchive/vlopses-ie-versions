@@ -371,68 +371,6 @@ As a privacy-centric visual communication platform for free expression, Snap is 
 
 We provide you control over your information, see the [Control of Your Information](https://values.snap.com/privacy/privacy-policy#control-over-your-information) Section of our Privacy Policy to learn more.
 
-### 
-
-CHD We Collect
-
-_Some of the information that we collect could be considered CHD, like photographs and location. However, we don’t use that information to make inferences about your specific health status._
-
-As described in the [Information We Collect](https://values.snap.com/privacy/privacy-policy) section of the Privacy Policy, we collect personal information directly from you, from your interactions with our Services, and from third parties. The data we collect depends on how you interact with us, the Services you use, and the choices you make. Because CHD is defined in these laws very broadly, many of the categories of data we collect are or could be considered CHD. For example:
-
-*   Photographs, videos, and audio may be considered CHD;
-    
-*   Precise location information, including where it could reveal your attempt to acquire health services or supplies — like if your location on Snap Map shows that you’re at a hospital; and
-    
-*   Information that could identify your attempt to seek health care services or information, like your search history, interaction with our Services and other webpages, certain conversations with My AI, or how you configure your Bitmoji.
-    
-
-### 
-
-How We Use CHD
-
-_We use the information we collect to provide you with Services, and where required, we’ll collect your consent to use information for other purposes._
-
-Since CHD is defined so broadly, we do collect and use CHD for the purposes described in the [How We Use Information](https://values.snap.com/privacy/privacy-policy#how-we-use-information) section of the Privacy Policy. Primarily, we collect and use CHD to operate, deliver, and maintain our Services. This may include personalization, ensuring the secure and reliable operation of the Services, troubleshooting, and other essential business operations that support the provision of the Services (such as analyzing our performance and meeting our legal obligations).
-
-We may use CHD for other purposes for which we give you choices and/or obtain your consent as required by law. See the How to Exercise Your Rights section below for more details on the controls and choices you may have.
-
-### 
-
-How We Share CHD
-
-_We generally share information when you ask us to do so or as necessary to provide the Services. We also, in rare cases, share information for other reasons. This section provides details about who we share information with and the reasons why._
-
-We may share each of the categories of CHD described above for the purposes described in the [How We Share Information](https://values.snap.com/privacy/privacy-policy#how-we-share-information) section of our Privacy Policy. For example, we share your content with third parties when you tell us to do so, such as when you post a Snap to your Story or Spotlight. And we may disclose data when we believe that doing so is necessary to comply with applicable law or respond to valid legal process.
-
-**Recipients and Reasons for Sharing**
-
-As necessary for the purposes described above, we share CHD with the following categories of third parties:
-
-*   **Service providers.** Vendors or agents (“processors”) working on our behalf may access CHD for the purposes described above. We maintain a list of categories of service providers [here](https://help.snapchat.com/hc/articles/7012351145364?lang=en-GB) (although not all of those service providers necessarily process data that could be considered CHD).
-    
-*   **Parties to a corporate transaction.** If we were to sell or negotiate to sell our business to a buyer or possible buyer, we may transfer your personal information, which may include CHD, to a successor or affiliate as part of that transaction.
-    
-*   **With our affiliates.** We may share personal information, which may include CHD, with entities within the [Snap Inc. family of companies](https://help.snapchat.com/hc/articles/7047492876308?lang=en-GB) where necessary to provide our Services.
-    
-*   **Third-Party Apps.** Sometimes we provide features that allow you to connect with third-party apps. If you decide to connect your Snapchat account with a third-party app, we will share any additional information you direct us to.
-    
-*   **Other third parties, like legal, safety, and security partners.** In certain circumstances, it may be necessary to provide CHD to other third parties, for example, to secure our Service, comply with the law or to protect our rights or those of other users. We will also disclose CHD to law enforcement or other government agencies only when we believe doing so is necessary to comply with applicable law or respond to valid legal process.
-    
-*   **Snapchat.** You may use our Services to share certain information with any Snapchat user (whether to all users of the app or selected recipients), such as your pictures, content, or geolocation data, which may be considered CHD.
-    
-
-### 
-
-Your Rights
-
-_Depending on where you live, you may have additional rights._
-
-Depending on the state in which you reside, you may have certain rights with respect to CHD. You can request to exercise such rights using the various tools and mechanisms described in the [Your Rights](https://values.snap.com/privacy/privacy-policy/us-state-privacy-notice#rights) section of the [U.S. State Privacy Notice](https://values.snap.com/privacy/privacy-policy/us-state-privacy-notice). For example, depending on the specific Services you use, you can access and make choices about your data through the self-service tools we offer. You can also obtain a copy of your data, including any CHD, by using [Download My Data](https://help.snapchat.com/hc/articles/7012305371156?lang=en-GB).
-
-If we obtain your consent for a particular processing purpose, you may withdraw your consent at any time. You may also opt out of location sharing at any time though the settings on your mobile device. 
-
-If your request to exercise a right is denied, you may appeal that decision by [contacting us](https://help.snapchat.com/hc/requests/new?lang=en-GB). If your appeal is unsuccessful and you are a Washington State resident, you can raise a concern or lodge a complaint with the [Washington Attorney General](https://www.atg.wa.gov/file-complaint).
-
 - - -
 
 ### 
@@ -440,6 +378,164 @@ If your request to exercise a right is denied, you may appeal that decision by [
 Snapchat Ads Transparency
 
 The purpose of this page is to provide transparency about how we collect, use and share your data with respect to ads. We also cover the Snapchat settings you can use to control how your data is used for advertising. You can find more information about our privacy practices regarding your data in our [Privacy Centre](https://values.snap.com/privacy/privacy-center).
+
+### 
+
+Why We Show Personalised Ads
+
+Like most online information services, Snapchat is primarily supported by advertising. Advertisers pay a lot more to show ads to people who are more likely to be interested in them. It is not possible for us to keep Snapchat a fun, safe and innovative online space, without charge, unless we show personalised ads.
+
+Personalised ads allow advertisers, especially small and medium-sized businesses, to reach people who are genuinely interested in their products, which helps reduce advertising costs. By focusing budgets on those most likely to engage, personalised ads empower smaller businesses to maximise their resources and compete effectively.
+
+Most people also prefer ads that are more relevant, fun and interesting – and find irrelevant ads annoying. If you’re on your way to becoming the next top chef, ads about cookware and recipes may enhance your time on Snapchat; ads about trampolines, maybe not so much (unless you also like jumping!).
+
+Your trust in Snap is very important to us. This is as true for advertising as it is for any other part of your experience on Snapchat. We believe personalised advertising can be a win for everyone, provided it is balanced correctly. To achieve this:
+
+*   We explain below how ads work on Snapchat, what information we collect and use to show you ads, and the settings we provide to control which ads you see.
+    
+*   We have rigorous privacy and safety by design processes. These ensure our approach to personalised advertising on Snapchat stays balanced.
+    
+*   We don’t share everything about you with advertisers. We only allow advertisers to specify what type of user should see their ads and measure whether their ads are successful.
+    
+*   We also hold our advertisers to certain standards. We expect them to be honest about their products, services and content, to be kind to our diverse community, and to not compromise your privacy.
+    
+
+We reject ads that do not meet our [Advertising Policies](https://snap.com/ad-policies?lang=en-GB), including where an ad is misleading, or fails to meet our community guidelines. If you spot a misleading ad, you can report it in-app using the learn more icon on the ad.
+
+### 
+
+The Information Snap Collects and Receives About You To Provide You Ads
+
+To make our ads relevant, we use information we learn about you and that our advertisers and partners provide to us to try and show you the right ads at the right time. This means that the ads you see are often driven by what we think your interests are, your activity on our platform and information that our partners and advertisers provide to us about you.
+
+Each type of information we collect or receive has an impact on our ads system, and some types are more heavily weighted than others. Note that as every ad has its own targeting and optimisation settings made by the advertiser, the weightings (as outlined below) may vary as a result of those settings.
+
+The main types of information we collect, including examples of how they are used, and their general relative weight in our ads systems (which is provided in parentheses), are:
+
+**Information we receive directly from you**
+
+*   _Account registration info._ When you sign up for Snapchat, we collect certain information about you.
+    
+    *   **Age.** (Higher weight) You provide us with your birthday, which we use to determine your age (and depending on your settings, this also leads to other fun experiences, like allowing your friends to wish you happy birthday!). As described further below, we also attempt to infer your age, which, among other things, serve as an additional way to increase the likelihood ads reach the correct and appropriate audience.
+        
+    *   **Country/Language.** (Higher weight) We collect your country of residence and the language you prefer for a number of reasons, including to allow Snapchat to provide you localised content and Services, to provide you with ads that are relevant to your locale and language, and to ensure ads we show you comply with local laws and regulations. We may also use your location (as described below) for these purposes.
+        
+    
+
+**Your activity on Snapchat**
+
+When you view or engage with the Camera, Stories, the Snap Map, Spotlight Snaps, Lenses, My AI (see below for more details on My AI and ads) and other content and features on Snapchat, we learn (and sometimes guess) what you might be interested in. For example, if you watch or create a lot of Spotlight Snaps about basketball, we may show you an advertisement for professional basketball tickets.
+
+We also make other inferences about you based on your activity on Snapchat, which may be informed by the information we collect from other sources, as described below. Inferences include:
+
+*   _Age_. (Higher weight) For example, while you enter your birthday when you sign up, we also infer your age based on your activity on Snapchat – this inference helps us keep our younger Snapchatters safe and enhances the accuracy of our age data. Advertisers might want to market certain products to certain age groups that may be more receptive to a particular ad or avoid groups for which an ad is not relevant or appropriate. For example, if you are under 21 in the US we won't show you ads for alcohol.
+    
+*   _Gender cohort._ (Higher weight) We also infer your gender cohort based on a number of signals, including your Bitmoji, username and display name, friend demographics and your activity on Snapchat. Similar to determining your interests, your inferred gender cohort assists our advertisers in showing you ads that may be relevant to you. For example, an advertiser may want to show ads to Snapchatters with a particular gender expression, and we use inferred gender cohort to assist in showing ads to users who most closely relate to that cohort.
+    
+*   _Interests._ (Higher weight) We are always trying to make our ads as relevant to you as possible, so we try to make inferences about your interests. For example, if you follow race car drivers and like watching or creating Stories about new cars or racing or click on Snapchat ads for auto racing gear, then we might guess that you're an "Automotive Enthusiast". Some of these guesses we call "Lifestyle Categories", and you can [review](https://help.snapchat.com/hc/articles/7012345515796?lang=en-GB) the Lifestyle Categories that we've guessed about you in Snapchat, and you can [change or clear](https://help.snapchat.com/hc/articles/7012345515796?lang=en-GB) those Lifestyle Categories at any time. We also make other inferences about your interests that assist us in showing you content that you may be interested in – for example, we have “Snapchat Content Categories,” which categorise the content on Snap that you interact with. You can review these Content Categories by downloading your data as described [here](https://help.snapchat.com/hc/articles/7012305371156-How-do-I-download-my-data-from-Snapchat-?lang=en-GB).
+    
+*   _Your friends and Snapchatters in your household._ (Lower weight) Many friends have similar interests. So, we may use information about your friends' interactions with ads or content to determine whether to show those ads to you. For example, if your friends clicked on an ad for a new pair of shoes, we may use that to prioritise showing the same ad to you. We also may use similar information from Snapchatters in your household who are over 18 to help us choose which ads to show you.
+    
+
+If you are located in the EU, UK, Norway or Switzerland and have a teen account (ages 13-17) we do not use inferences about your gender cohort, interests or interests of other people associated with you to personalise the ads you see.
+
+We also use information about what ads you interacted with previously to determine what ads to show you (or not show you) next. It's no secret that no one likes seeing the same advertisement over and over again!
+
+**Information we receive from our advertisers and partners**
+
+*   _Your activity on the websites and platforms of our advertisers and partners._ (Higher weight) Our advertisers and partners provide us data from their own apps, websites and platforms, which we use to help inform the ads we show. For example, if you search for a movie on a website that shares data with Snap, you may see ads for similar movies.
+    
+    *   We obtain this information in a few different ways, including through the Snap Pixel and Snap's Conversion API. In both instances, a small bit of code is embedded in third-party platforms (think websites and apps) that collects information about limited activities on those platforms. We also use this information to provide advertisers reports about the effectiveness of their ads.
+        
+    *   If you are located in the EU, UK, Norway or Switzerland and have a teen account (ages 13-17), we do not use information collected by Snap from your activity on the websites and platforms of our advertisers and partners (i.e. “Activity-Based Ads”) to determine which ads to show you. Similarly, we may also limit the use of this information to certain age ranges in other jurisdictions to comply with local laws.
+        
+    
+*   _Audiences._ (Higher weight) Our advertisers may also upload to Snap a list of their customers, so they can target ads to those customers (or individuals like their customers on Snapchat). Typically, this matching is based on a hashed version of your phone number or email. For example, let's say you're an avid consumer of comic books. If a new comic book is coming out, the publisher may share their fan list to Snap to help make sure that you'll see an ad about their latest release.
+    
+    *   If you are located in the EU, UK, Norway or Switzerland and have a teen account (ages 13-17), we do not include you in custom audiences.
+        
+    
+*   _Other data we receive from our advertisers and partners._ We may also use other data we receive about you from our advertisers and partners to inform which ads we show, as described in our [Privacy Policy](https://values.snap.com/privacy/privacy-policy).
+    
+
+**Information we collect about your context, device and location**
+
+*   _Device information._ (Lower weight) When you use our products and Services, we collect information about your device, which helps us understand the operating system, screen size, language selection, apps installed and other attributes. This in turn allows us to show you ads that are compatible with your device, in the language you prefer, targeted to specific operating systems and aligned with your interests. For example, if you are using an iPhone, we may show you an ad for an app that is only available on iOS. Similarly, you won't see ads in Mandarin if your device's language is set to Farsi.
+    
+*   _Location information._ (Lower weight) We think it's important to show you ads that are relevant to your location. For example, if you are in Germany, it wouldn't be fun or make sense for an advertiser to show you ads for movies that are only playing in the United States. We determine your approximate location based on a few pieces of data you provide us when you access our products and Services, including your IP address, and, if you grant us permission to collect it, your precise location based on GPS. We may also use places that you are near or frequent to show you ads that are relevant to you. For example, if you are near a coffee shop, an advertiser may want to show you ads for their coffee.
+    
+    *   If you are in California, you may [request](https://help.snapchat.com/hc/articles/11399265637012-Your-Privacy-Choices-on-Snapchat?lang=en-GB) that Snap limit the use of your personal information, including the use of your precise location history to show you ads.
+        
+    
+
+Keep in mind that Snap may use data from multiple sources described above to show you ads. For example, an advertiser may want to show ads to a certain population of Snapchat users, like 35-44 year olds interested in gardening. In that case, we might use your age and your activity on Snapchat or on other platforms to show ads to you if you fit in that audience.
+
+### 
+
+Controlling the Ads you see
+
+We believe you should have meaningful control over the ads you see. To change the ads you see, please use the settings described [here](https://help.snapchat.com/hc/articles/7012345515796?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB) to:
+
+*   _Opt-out of Activity-Based Ads._ If you do not want Snap to show you ads based on your activity on the websites and platforms of our advertisers and partners, you can opt out.
+    
+*   _Opt-out of Audience-Based Ads._ Use this opt-out if you do not want Snap to target you with ads based on audience lists we receive from advertisers and other partners.
+    
+*   _Opt-out of third party ad networks._ Use this opt-out if you do not want third-party ad networks to serve you ads.
+    
+*   _Opt-out of tracking (iOS users only)._ If you set the privacy controls on your device running iOS 14.5 or later to not allow Snapchat to track you, we will not link your activity on third-party apps and websites collected while using that device with user or device data from Snapchat for targeted advertising or advertising measurement purposes. However, we may link this information for advertising purposes either on your device or where we use technical privacy controls that significantly reduce the risk of specifically identifying you and your activity.
+    
+*   _Change the ad topics you see._ This setting allows you to decide whether you want to see certain types of ads about sensitive topics, like political, alcohol or gambling ads. Some of these ads are turned off by default for users under a specific age regardless of how this setting is set.
+    
+*   _Make changes to Lifestyle Categories._ This setting allows you to change the lifestyle category inferences Snap has made about you based on your interests and activity on Snapchat. This setting also will be overridden by age gating restrictions on certain types of ads and related categories.
+    
+
+If you are in the EU, the UK, Norway or in Switzerland, in addition to the controls above, you can also opt out of personalised content including advertising as set out in the section below. You can do this by accessing the “Personalisation Controls” section of the Settings page.
+
+### 
+
+European Contextual Advertising
+
+Personalised advertising is a core element of our service and essential for us to provide you with a fun, safe, and innovative Snapchat without charge. You can read more about why this is the case in the section. 
+
+If you are in the EU, the UK, Norway, or Switzerland, certain laws limit our service and determine whether we can show personalised ads. We are required to display ‘contextual ads’ to you if:
+
+1.  You have a teen account (13-17); or
+    
+2.  You have turned off the “Personalisation Controls” in the Settings page.
+    
+
+Contextual advertising means that the advertising you see will be based on:
+
+*   What public content is displayed around the ad (e.g. a sports video to show you a sport related ad)
+    
+*   The time of day the ad is shown (e.g. morning, afternoon, evening)
+    
+*   Your age
+    
+*   Language your device is set
+    
+*   Location (city level) 
+    
+*   Device information
+    
+
+### 
+
+Information We Provide to Advertisers and Measurement Partners
+
+We confirm to advertisers which of their ads you have viewed and clicked. Sometimes this occurs via third-party measurement partners. They can then check whether your view or click of a Snap ad led you to buy or use the advertiser’s products and services (for example, purchasing a new watch, subscribing to a video streaming platform or downloading an application). We have written agreements with advertisers (and measurement partners) that restrict their use of this ad data to measuring the effectiveness of their ad campaigns. We do not share information with advertisers that directly identifies you, like a name, phone number or email address.
+
+### 
+
+Ads in My AI
+
+Ads that are displayed in My AI work a bit different from other ads on Snapchat: they are determined by context of your My AI conversation and whether, for example, you are looking for recommendations for products or services. Another difference from other ads on Snapchat: My AI ads are contextual advertising and are provided by Snap’s advertising partners, rather than by Snap. Our advertising partners receive your queries (if we determine there’s commercial intent) and additional context, including your age range (i.e. whether you are under 18 or not), country/language, operating system type (i.e. iOS/Android) and IP address to help provide appropriate and relevant ads for you. For example, if you ask My AI "who makes the best electric guitar?" you might see a “sponsored” ad section for a guitar maker. All of this may sound familiar, as My AI ads work a lot like search ads on other platforms.
+
+### 
+
+Sponsored Snaps
+
+Ads may appear in your Chat feed. These “Sponsored Snaps” will be labelled as an Ad and are another format for advertising on Snapchat. Although Sponsored Snaps are displayed in your Chat feed they do not rely on your private communications between friends – we do not use the contents of private communications you send to your friends to personalise your experience, make recommendations or show you ads. The targeting of Sponsored Snaps follows the same logic as other personalised ads on Snapchat, as described on this page. If you are in the EU, Norway, Switzerland or Israel, you can choose how these Sponsored Snaps appear, either in your Chat feed with other chats or outside your Chat feed in a banner style format.  If you are under 18 in these countries, Sponsored snaps will only appear outside of your Chat feed.
 
 - - -
 
@@ -796,40 +892,6 @@ The last category is legal. This usually is the most boring category, but it’s
 
 **PLEASE NOTE: WE'VE UPDATED THESE PERSONAL DATA TERMS, EFFECTIVE JUNE 30, 2025. YOU CAN VIEW THE PRIOR PERSONAL DATA TERMS, WHICH APPLY TO ALL USERS UNTIL JUNE 30, 2025,** [**HERE**](https://www.snap.com/terms/personal-data/prior-12-09-2024?lang=en-GB)**.**
 
-Personal Data Terms
-
-
------------------------
-
-Effective: June 30, 2025
-
-ARBITRATION NOTICE: YOU ARE BOUND BY THE [ARBITRATION](https://www.snap.com/terms/business-services#governing-law-and-disputes) PROVISION SET FORTH IN THE [BUSINESS SERVICES TERMS](https://www.snap.com/terms/business-services). IF YOU ARE CONTRACTING WITH SNAP INC., THEN YOU AND SNAP INC. WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
-
-**Introduction**
-
-These Personal Data Terms form a legally binding contract between you and Snap, govern the provision or receipt (as applicable) of personal data via the Business Services, and are incorporated into the [Business Services Terms](https://www.snap.com/terms/business-services). Some terms used in these Personal Data Terms are defined in the [Business Services Terms](https://www.snap.com/terms/business-services).
-
-**1\. Representations and Warranties**
-
-If you provide or make available any personal data to Snap or its affiliates, including by enabling Snap to receive personal data through Snap tools like pixels, JavaScript SDKs, APIs or cookies, within content you approve or make available via the Business Services, or by providing personal data to a third party for the purposes of using the Business Services, then in addition to the representations and warranties in the [Business Services Terms](https://www.snap.com/terms/business-services), you represent and warrant that: (a) you will comply with Applicable Law, applicable self-regulatory standards and guidelines and any applicable mobile developer or app store terms, guidelines or policies (collectively, "Rules") when using the Business Services; (b) the personal data will not contain any information collected from an online service directed to children or about individuals that are under the age of 13 (or, if greater than the age of 13, the minimum age at which the processing of personal data of a data subject is lawful under Applicable Law) or any sensitive information or special category data, as defined in the Rules, including any information that is based on, or includes: (i) an alleged or actual commission of a crime; (ii) health information, including any health information further detailed in our [Business Help Center](https://businesshelp.snapchat.com/?language=en_US); or (iii) information about user's financial status, racial or ethnic origin, religious beliefs or preferences, sex life or sexual preferences or trade union membership; (c) the personal data will not contain, include, be based on, or otherwise reveal (directly or indirectly) any “protected health information” or “consumer health data” (as defined in the Rules); (d) you have secured, and will maintain, all necessary rights, licences and consents required to provide or make available the personal data and for the personal data to be used in accordance with the [Business Services Terms](https://www.snap.com/terms/business-services), including from all data subjects whose data is included in personal data; (d) you will provide sufficient notice to each data subject in compliance with the Rules that the data subject's information collected by you or your agents may be shared with and used by third parties for the purposes specified under the [Business Services Terms](https://www.snap.com/terms/business-services), including, at a minimum a clear and prominent notice about how and where users can opt out of the use of personal data for ad targeting and, where applicable: (i) for websites, a clear and prominent notice on each webpage where you utilise the Business Services stating that third parties, including Snap and its affiliates, may use cookies, web beacons and other technologies to collect or receive information from your websites, apps and elsewhere on the internet, and may use that information to provide measurement services, advertising targeting and other advertising services; and (ii) for apps, a clear and prominent link inside your apps' settings or your privacy policy, and from within any store or website where your apps are distributed, that explains that third parties, including Snap and its affiliates, may collect or receive information from your apps and other apps, and may use that information to provide measurement services, ad targeting, and other advertising services; (e) in jurisdictions that require informed consent for storing and accessing cookies or other information of a data subject (including the European Union), you must ensure, in a verifiable manner, that each data subject provides you with the necessary consent before you use the Business Services to send personal data in connection with that data subject; and (f) you will promptly notify Snap of any actual or threatened complaint relating to personal data, and you will reasonably cooperate with Snap, at your expense, in responding or defending against any such complaint. Snap may request further information in connection with your compliance with this Section.
-
-**2\. Supplemental Terms and Policies**
-
-*   If Snap processes personal data on your behalf then you agree to the [Data Processing Agreement](https://www.snap.com/terms/data-processing-agreement), [Data Transfer Agreement](https://www.snap.com/terms/data-transfer-agreement), and [EEA controller-processor Standard Contractual Clauses](https://www.snap.com/terms/standard-contractual-clauses).
-    
-*   If you provide personal data via the Business Services of consumers which are subject to the US state privacy laws further described in the [U.S. Privacy Terms](https://www.snap.com/terms/us-privacy), then you agree to the [U.S. Privacy Terms](https://www.snap.com/terms/us-privacy).
-    
-*   If you provide personal data via the Business Services of Turkish data subjects and you are using the Business Services either in your personal capacity and you live in Turkey, or on behalf of an entity which has its principal place of business in Turkey, then the [Turkish Privacy Terms](https://www.snap.com/terms/turkish-privacy) apply.
-    
-*   If you provide personal data via the Business Services of Saudi Arabian data subjects and you are using the Business Services either in your personal capacity and you live in the Kingdom of Saudi Arabia, or on behalf of an entity which has its principal place of business in the Kingdom of Saudi Arabia, then the [Saudi Privacy Terms](https://www.snap.com/terms/saudi-privacy) apply.
-    
-*   If Event Data you provide under the [Snap Conversion Terms](https://www.snap.com/terms/snap-conversion) includes a limited data use signal that Snap honors, then the [Limited Data Use Terms](https://www.snap.com/terms/ldu) apply.
-    
-*   If you and Snap are independent controllers of personal data provided via the Business Services then you agree to the [Data Sharing Agreement](https://www.snap.com/terms/data-sharing-agreement), [Data Transfer Agreement](https://www.snap.com/terms/data-transfer-agreement), and [EEA controller-controller Standard Contractual Clauses](https://www.snap.com/terms/eea-c-c-scc).
-    
-
-_In summary: you provide a number of assurances about the data you transfer to Snap, including that you have complied with all applicable laws in relation to the data; the data wasn't collected from an online service aimed at anyone under 13; the data will not include sensitive information; you obtained any necessary rights, licenses and consents to cover Snap's use of the data; you will include appropriate notices to data subjects; you will obtain and record data subject consent where required; and you will notify Snap of any complaints and assist Snap with dealing with such complaints at your cost. Please note that other supplemental terms and policies may apply, as set out above._
-
 - - -
 
 EEA Standard Contractual Clauses
@@ -847,3 +909,357 @@ EEA Standard Contractual Clauses
 ------------------------------------
 
 Effective: September 27, 2021
+
+**PLEASE NOTE: WE'VE PUBLISHED THE TERMS BELOW IN CONNECTION WITH THE NEW EUROPEAN COMMISSION-APPROVED STANDARD CONTRACTUAL CLAUSES, EFFECTIVE SEPTEMBER 27, 2021**
+
+SECTION I
+
+_Clause 1_
+
+Purpose and scope
+
+(a) The purpose of these standard contractual clauses is to ensure compliance with the requirements of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation) for the transfer of personal data to a third country. 
+
+(b) The Parties: 
+
+(i) the natural or legal person(s), public authority/ies, agency/ies or other body/ies (hereinafter “entity/ies”) transferring the personal data, as listed in Annex I.A. (hereinafter each “data exporter”), and 
+
+(ii) the entity/ies in a third country receiving the personal data from the data exporter, directly or indirectly via another entity also Party to these Clauses, as listed in Annex I.A. (hereinafter each “data importer”) 
+
+have agreed to these standard contractual clauses (hereinafter: “Clauses”). 
+
+(c) These Clauses apply with respect to the transfer of personal data as specified in Annex I.B. 
+
+(d) The Appendix to these Clauses containing the Annexes referred to therein forms an integral part of these Clauses. 
+
+_Clause 2_
+
+Effect and invariability of the Clauses
+
+(a) These Clauses set out appropriate safeguards, including enforceable data subject rights and effective legal remedies, pursuant to Article 46(1) and Article 46 (2)(c) of Regulation (EU) 2016/679 and, with respect to data transfers from controllers to processors and/or processors to processors, standard contractual clauses pursuant to Article 28(7) of Regulation (EU) 2016/679, provided they are not modified, except to select the appropriate Module(s) or to add or update information in the Appendix. This does not prevent the Parties from including the standard contractual clauses laid down in these Clauses in a wider contract and/or to add other clauses or additional safeguards, provided that they do not contradict, directly or indirectly, these Clauses or prejudice the fundamental rights or freedoms of data subjects. 
+
+(b) These Clauses are without prejudice to obligations to which the data exporter is subject by virtue of Regulation (EU) 2016/679. 
+
+_Clause 3_
+
+Third-party beneficiaries
+
+(a) Data subjects may invoke and enforce these Clauses, as third-party beneficiaries, against the data exporter and/or data importer, with the following exceptions: 
+
+(i) Clause 1, Clause 2, Clause 3, Clause 6, Clause 7; 
+
+(ii) Clause 8: Clause 8.5 (e) and Clause 8.9(b); 
+
+(iv) Clause 12: Clause 12(a) and (d); 
+
+(v) Clause 13; 
+
+(vi) Clause 15.1(c), (d) and (e); 
+
+(vii) Clause 16(e); 
+
+(viii) Clause 18: Clause 18(a) and (b); 
+
+(b) Paragraph (a) is without prejudice to rights of data subjects under Regulation (EU) 2016/679. 
+
+_Clause 4_
+
+Interpretation
+
+(a) Where these Clauses use terms that are defined in Regulation (EU) 2016/679, those terms shall have the same meaning as in that Regulation. 
+
+(b) These Clauses shall be read and interpreted in the light of the provisions of Regulation (EU) 2016/679. 
+
+(c) These Clauses shall not be interpreted in a way that conflicts with rights and obligations provided for in Regulation (EU) 2016/679. 
+
+_Clause 5_
+
+Hierarchy
+
+In the event of a contradiction between these Clauses and the provisions of related agreements between the Parties, existing at the time these Clauses are agreed or entered into thereafter, these Clauses shall prevail. 
+
+_Clause 6_
+
+Description of the transfer(s)
+
+The details of the transfer(s), and in particular the categories of personal data that are transferred and the purpose(s) for which they are transferred, are specified in Annex I.B. 
+
+_Clause 7_
+
+Docking clause
+
+(a) An entity that is not a Party to these Clauses may, with the agreement of the Parties, accede to these Clauses at any time, either as a data exporter or as a data importer, by completing the Appendix and signing Annex I.A. 
+
+(b) Once it has completed the Appendix and signed Annex I.A, the acceding entity shall become a Party to these Clauses and have the rights and obligations of a data exporter or data importer in accordance with its designation in Annex I.A. 
+
+(c) The acceding entity shall have no rights or obligations arising under these Clauses from the period prior to becoming a Party.
+
+SECTION II – OBLIGATIONS OF THE PARTIES
+
+_Clause 8_
+
+Data protection safeguards
+
+The data exporter warrants that it has used reasonable efforts to determine that the data importer is able, through the implementation of appropriate technical and organisational measures, to satisfy its obligations under these Clauses. 
+
+8.1 Purpose limitation 
+
+The data importer shall process the personal data only for the specific purpose(s) of the transfer, as set out in Annex I.B. It may only process the personal data for another purpose: 
+
+(i) where it has obtained the data subject’s prior consent; 
+
+(ii) where necessary for the establishment, exercise or defence of legal claims in the context of specific administrative, regulatory or judicial proceedings; or 
+
+(iii) where necessary in order to protect the vital interests of the data subject or of another natural person. 
+
+8.2 Transparency 
+
+(a) In order to enable data subjects to effectively exercise their rights pursuant to Clause 10, the data importer shall inform them, either directly or through the data exporter: 
+
+(i) of its identity and contact details; 
+
+(ii) of the categories of personal data processed; 
+
+(iii) of the right to obtain a copy of these Clauses; 
+
+(iv) where it intends to onward transfer the personal data to any third party/ies, of the recipient or categories of recipients (as appropriate with a view to providing meaningful information), the purpose of such onward transfer and the ground therefore pursuant to Clause 8.7. 
+
+(b) Paragraph (a) shall not apply where the data subject already has the information, including when such information has already been provided by the data exporter, or providing the information proves impossible or would involve a disproportionate effort for the data importer. In the latter case, the data importer shall, to the extent possible, make the information publicly available. 
+
+(c) On request, the Parties shall make a copy of these Clauses, including the Appendix as completed by them, available to the data subject free of charge. To the extent necessary to protect business secrets or other confidential information, including personal data, the Parties may redact part of the text of the Appendix prior to sharing a copy, but shall provide a meaningful summary where the data subject would otherwise not be able to understand its content or exercise his/her rights. On request, the Parties shall provide the data subject with the reasons for the redactions, to the extent possible without revealing the redacted information. 
+
+(d) Paragraphs (a) to (c) are without prejudice to the obligations of the data exporter under Articles 13 and 14 of Regulation (EU) 2016/679. 
+
+8.3 Accuracy and data minimisation 
+
+(a) Each Party shall ensure that the personal data is accurate and, where necessary, kept up to date. The data importer shall take every reasonable step to ensure that personal data that is inaccurate, having regard to the purpose(s) of processing, is erased or rectified without delay. 
+
+(b) If one of the Parties becomes aware that the personal data it has transferred or received is inaccurate, or has become outdated, it shall inform the other Party without undue delay. 
+
+(c) The data importer shall ensure that the personal data is adequate, relevant and limited to what is necessary in relation to the purpose(s) of processing. 
+
+8.4 Storage limitation 
+
+The data importer shall retain the personal data for no longer than necessary for the purpose(s) for which it is processed. It shall put in place appropriate technical or organisational measures to ensure compliance with this obligation, including erasure or anonymisation of the data and all back-ups at the end of the retention period. 
+
+8.5 Security of processing 
+
+(a) The data importer and, during transmission, also the data exporter shall implement appropriate technical and organisational measures to ensure the security of the personal data, including protection against a breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorised disclosure or access (hereinafter “personal data breach”). In assessing the appropriate level of security, they shall take due account of the state of the art, the costs of implementation, the nature, scope, context and purpose(s) of processing and the risks involved in the processing for the data subject. The Parties shall in particular consider having recourse to encryption or pseudonymisation, including during transmission, where the purpose of processing can be fulfilled in that manner. 
+
+(b) The Parties have agreed on the technical and organisational measures set out in Annex II. The data importer shall carry out regular checks to ensure that these measures continue to provide an appropriate level of security. 
+
+(c) The data importer shall ensure that persons authorised to process the personal data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality. 
+
+(d) In the event of a personal data breach concerning personal data processed by the data importer under these Clauses, the data importer shall take appropriate measures to address the personal data breach, including measures to mitigate its possible adverse effects. 
+
+(e) In case of a personal data breach that is likely to result in a risk to the rights and freedoms of natural persons, the data importer shall without undue delay notify both the data exporter and the competent supervisory authority pursuant to Clause 13. Such notification shall contain i) a description of the nature of the breach (including, where possible, categories and approximate number of data subjects and personal data records concerned), ii) its likely consequences, iii) the measures taken or proposed to address the breach, and iv) the details of a contact point from whom more information can be obtained. To the extent it is not possible for the data importer to provide all the information at the same time, it may do so in phases without undue further delay. 
+
+(f) In case of a personal data breach that is likely to result in a high risk to the rights and freedoms of natural persons, the data importer shall also notify without undue delay the data subjects concerned of the personal data breach and its nature, if necessary in cooperation with the data exporter, together with the information referred to in paragraph (e), points ii) to iv), unless the data importer has implemented measures to significantly reduce the risk to the rights or freedoms of natural persons, or notification would involve disproportionate efforts. In the latter case, the data importer shall instead issue a public communication or take a similar measure to inform the public of the personal data breach. 
+
+(g) The data importer shall document all relevant facts relating to the personal data breach, including its effects and any remedial action taken, and keep a record thereof. 
+
+8.6 Sensitive data 
+
+Where the transfer involves personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data, or biometric data for the purpose of uniquely identifying a natural person, data concerning health or a person’s sex life or sexual orientation, or data relating to criminal convictions or offences (hereinafter “sensitive data”), the data importer shall apply specific restrictions and/or additional safeguards adapted to the specific nature of the data and the risks involved. This may include restricting the personnel permitted to access the personal data, additional security measures (such as pseudonymisation) and/or additional restrictions with respect to further disclosure. 
+
+8.7 Onward transfers 
+
+The data importer shall not disclose the personal data to a third party located outside the European Union (in the same country as the data importer or in another third country, hereinafter “onward transfer”) unless the third party is or agrees to be bound by these Clauses, under the appropriate Module. Otherwise, an onward transfer by the data importer may only take place if: 
+
+(i) it is to a country benefitting from an adequacy decision pursuant to Article 45 of Regulation (EU) 2016/679 that covers the onward transfer; 
+
+(ii) the third party otherwise ensures appropriate safeguards pursuant to Articles 46 or 47 of Regulation (EU) 2016/679 with respect to the processing in question; 
+
+(iii) the third party enters into a binding instrument with the data importer ensuring the same level of data protection as under these Clauses, and the data importer provides a copy of these safeguards to the data exporter; 
+
+(iv) it is necessary for the establishment, exercise or defence of legal claims in the context of specific administrative, regulatory or judicial proceedings; 
+
+(v) it is necessary in order to protect the vital interests of the data subject or of another natural person; or 
+
+(vi) where none of the other conditions apply, the data importer has obtained the explicit consent of the data subject for an onward transfer in a specific situation, after having informed him/her of its purpose(s), the identity of the recipient and the possible risks of such transfer to him/her due to the lack of appropriate data protection safeguards. In this case, the data importer shall inform the data exporter and, at the request of the latter, shall transmit to it a copy of the information provided to the data subject. 
+
+Any onward transfer is subject to compliance by the data importer with all the other safeguards under these Clauses, in particular purpose limitation. 
+
+8.8 Processing under the authority of the data importer 
+
+The data importer shall ensure that any person acting under its authority, including a processor, processes the data only on its instructions. 
+
+8.9 Documentation and compliance 
+
+(a) Each Party shall be able to demonstrate compliance with its obligations under these Clauses. In particular, the data importer shall keep appropriate documentation of the processing activities carried out under its responsibility. 
+
+(b) The data importer shall make such documentation available to the competent supervisory authority on request. 
+
+_Clause 9_
+
+Use of sub-processors
+
+Not Applicable
+
+_Clause 10_
+
+Data subject rights
+
+(a) The data importer, where relevant with the assistance of the data exporter, shall deal with any enquiries and requests it receives from a data subject relating to the processing of his/her personal data and the exercise of his/her rights under these Clauses without undue delay and at the latest within one month of the receipt of the enquiry or request. The data importer shall take appropriate measures to facilitate such enquiries, requests and the exercise of data subject rights. Any information provided to the data subject shall be in an intelligible and easily accessible form, using clear and plain language. 
+
+(b) In particular, upon request by the data subject the data importer shall, free of charge: 
+
+(i) provide confirmation to the data subject as to whether personal data concerning him/her is being processed and, where this is the case, a copy of the data relating to him/her and the information in Annex I; if personal data has been or will be onward transferred, provide information on recipients or categories of recipients (as appropriate with a view to providing meaningful information) to which the personal data has been or will be onward transferred, the purpose of such onward transfers and their ground pursuant to Clause 8.7; and provide information on the right to lodge a complaint with a supervisory authority in accordance with Clause 12(c)(i); 
+
+(ii) rectify inaccurate or incomplete data concerning the data subject; 
+
+(iii) erase personal data concerning the data subject if such data is being or has been processed in violation of any of these Clauses ensuring third-party beneficiary rights, or if the data subject withdraws the consent on which the processing is based. 
+
+(c) Where the data importer processes the personal data for direct marketing purposes, it shall cease processing for such purposes if the data subject objects to it. 
+
+(d) The data importer shall not make a decision based solely on the automated processing of the personal data transferred (hereinafter “automated decision”), which would produce legal effects concerning the data subject or similarly significantly affect him / her, unless with the explicit consent of the data subject or if authorised to do so under the laws of the country of destination, provided that such laws lays down suitable measures to safeguard the data subject’s rights and legitimate interests. In this case, the data importer shall, where necessary in cooperation with the data exporter: 
+
+(i) inform the data subject about the envisaged automated decision, the envisaged consequences and the logic involved; and 
+
+(ii) implement suitable safeguards, at least by enabling the data subject to contest the decision, express his/her point of view and obtain review by a human being. 
+
+(e) Where requests from a data subject are excessive, in particular because of their repetitive character, the data importer may either charge a reasonable fee taking into account the administrative costs of granting the request or refuse to act on the request. 
+
+(f) The data importer may refuse a data subject’s request if such refusal is allowed under the laws of the country of destination and is necessary and proportionate in a democratic society to protect one of the objectives listed in Article 23(1) of Regulation (EU) 2016/679. 
+
+(g) If the data importer intends to refuse a data subject’s request, it shall inform the data subject of the reasons for the refusal and the possibility of lodging a complaint with the competent supervisory authority and/or seeking judicial redress. 
+
+_Clause 11_
+
+Redress
+
+(a) The data importer shall inform data subjects in a transparent and easily accessible format, through individual notice or on its website, of a contact point authorised to handle complaints. It shall deal promptly with any complaints it receives from a data subject. 
+
+(b) In case of a dispute between a data subject and one of the Parties as regards compliance with these Clauses, that Party shall use its best efforts to resolve the issue amicably in a timely fashion. The Parties shall keep each other informed about such disputes and, where appropriate, cooperate in resolving them. 
+
+(c) Where the data subject invokes a third-party beneficiary right pursuant to Clause 3, the data importer shall accept the decision of the data subject to: 
+
+(i) lodge a complaint with the supervisory authority in the Member State of his/her habitual residence or place of work, or the competent supervisory authority pursuant to Clause 13; 
+
+(ii) refer the dispute to the competent courts within the meaning of Clause 18. 
+
+(d) The Parties accept that the data subject may be represented by a not-for-profit body, organisation or association under the conditions set out in Article 80(1) of Regulation (EU) 2016/679. 
+
+(e) The data importer shall abide by a decision that is binding under the applicable EU or Member State law. 
+
+(f) The data importer agrees that the choice made by the data subject will not prejudice his/her substantive and procedural rights to seek remedies in accordance with applicable laws. 
+
+_Clause 12_
+
+Liability
+
+(a) Each Party shall be liable to the other Party/ies for any damages it causes the other Party/ies by any breach of these Clauses. 
+
+(b) Each Party shall be liable to the data subject, and the data subject shall be entitled to receive compensation, for any material or non-material damages that the Party causes the data subject by breaching the third-party beneficiary rights under these Clauses. This is without prejudice to the liability of the data exporter under Regulation (EU) 2016/679. 
+
+(c) Where more than one Party is responsible for any damage caused to the data subject as a result of a breach of these Clauses, all responsible Parties shall be jointly and severally liable and the data subject is entitled to bring an action in court against any of these Parties. 
+
+(d) The Parties agree that if one Party is held liable under paragraph (c), it shall be entitled to claim back from the other Party/ies that part of the compensation corresponding to its / their responsibility for the damage. 
+
+(e) The data importer may not invoke the conduct of a processor or sub-processor to avoid its own liability. 
+
+_Clause 13_
+
+Supervision
+
+(a) The parties agree that the supervisory authority with responsibility for ensuring compliance by the data exporter with Regulation (EU) 2016/679 as regards the data transfer shall be the Dutch Data Protection Authority (Autoriteit Persoonsgegevens), which shall act as competent supervisory authority.
+
+(b) The data importer agrees to submit itself to the jurisdiction of and cooperate with the competent supervisory authority in any procedures aimed at ensuring compliance with these Clauses. In particular, the data importer agrees to respond to enquiries, submit to audits and comply with the measures adopted by the supervisory authority, including remedial and compensatory measures. It shall provide the supervisory authority with written confirmation that the necessary actions have been taken.
+
+SECTION III – LOCAL LAWS AND OBLIGATIONS IN CASE OF ACCESS BY PUBLIC AUTHORITIES
+
+_Clause 14_
+
+Local laws and practices affecting compliance with the Clauses
+
+(a) The Parties warrant that they have no reason to believe that the laws and practices in the third country of destination applicable to the processing of the personal data by the data importer, including any requirements to disclose personal data or measures authorising access by public authorities, prevent the data importer from fulfilling its obligations under these Clauses. This is based on the understanding that laws and practices that respect the essence of the fundamental rights and freedoms and do not exceed what is necessary and proportionate in a democratic society to safeguard one of the objectives listed in Article 23(1) of Regulation (EU) 2016/679, are not in contradiction with these Clauses. 
+
+(b) The Parties declare that in providing the warranty in paragraph (a), they have taken due account in particular of the following elements: 
+
+(i) the specific circumstances of the transfer, including the length of the processing chain, the number of actors involved and the transmission channels used; intended onward transfers; the type of recipient; the purpose of processing; the categories and format of the transferred personal data; the economic sector in which the transfer occurs; the storage location of the data transferred; 
+
+(ii) the laws and practices of the third country of destination– including those requiring the disclosure of data to public authorities or authorising access by such authorities – relevant in light of the specific circumstances of the transfer, and the applicable limitations and safeguards; 
+
+(iii) any relevant contractual, technical or organisational safeguards put in place to supplement the safeguards under these Clauses, including measures applied during transmission and to the processing of the personal data in the country of destination. 
+
+(c) The data importer warrants that, in carrying out the assessment under paragraph (b), it has made its best efforts to provide the data exporter with relevant information and agrees that it will continue to cooperate with the data exporter in ensuring compliance with these Clauses. 
+
+(d) The Parties agree to document the assessment under paragraph (b) and make it available to the competent supervisory authority on request. 
+
+(e) The data importer agrees to notify the data exporter promptly if, after having agreed to these Clauses and for the duration of the contract, it has reason to believe that it is or has become subject to laws or practices not in line with the requirements under paragraph (a), including following a change in the laws of the third country or a measure (such as a disclosure request) indicating an application of such laws in practice that is not in line with the requirements in paragraph (a). 
+
+(f) Following a notification pursuant to paragraph (e), or if the data exporter otherwise has reason to believe that the data importer can no longer fulfil its obligations under these Clauses, the data exporter shall promptly identify appropriate measures (e.g. technical or organisational measures to ensure security and confidentiality) to be adopted by the data exporter and/or data importer to address the situation. The data exporter shall suspend the data transfer if it considers that no appropriate safeguards for such transfer can be ensured, or if instructed by the competent supervisory authority to do so. In this case, the data exporter shall be entitled to terminate the contract, insofar as it concerns the processing of personal data under these Clauses. If the contract involves more than two Parties, the data exporter may exercise this right to termination only with respect to the relevant Party, unless the Parties have agreed otherwise. Where the contract is terminated pursuant to this Clause, Clause 16(d) and (e) shall apply. 
+
+_Clause 15_
+
+Obligations of the data importer in case of access by public authorities
+
+15.1 Notification 
+
+(a) The data importer agrees to notify the data exporter and, where possible, the data subject promptly (if necessary with the help of the data exporter) if it: 
+
+(i) receives a legally binding request from a public authority, including judicial authorities, under the laws of the country of destination for the disclosure of personal data transferred pursuant to these Clauses; such notification shall include information about the personal data requested, the requesting authority, the legal basis for the request and the response provided; or 
+
+(ii) becomes aware of any direct access by public authorities to personal data transferred pursuant to these Clauses in accordance with the laws of the country of destination; such notification shall include all information available to the importer. 
+
+(b) If the data importer is prohibited from notifying the data exporter and/or the data subject under the laws of the country of destination, the data importer agrees to use its best efforts to obtain a waiver of the prohibition, with a view to communicating as much information as possible, as soon as possible. The data importer agrees to document its best efforts in order to be able to demonstrate them on request of the data exporter. 
+
+(c) Where permissible under the laws of the country of destination, the data importer agrees to provide the data exporter, at regular intervals for the duration of the contract, with as much relevant information as possible on the requests received (in particular, number of requests, type of data requested, requesting authority/ies, whether requests have been challenged and the outcome of such challenges, etc.). 
+
+(d) The data importer agrees to preserve the information pursuant to paragraphs (a) to (c) for the duration of the contract and make it available to the competent supervisory authority on request. 
+
+(e) Paragraphs (a) to (c) are without prejudice to the obligation of the data importer pursuant to Clause 14(e) and Clause 16 to inform the data exporter promptly where it is unable to comply with these Clauses. 
+
+15.2 Review of legality and data minimisation 
+
+(a) The data importer agrees to review the legality of the request for disclosure, in particular whether it remains within the powers granted to the requesting public authority, and to challenge the request if, after careful assessment, it concludes that there are reasonable grounds to consider that the request is unlawful under the laws of the country of destination, applicable obligations under international law and principles of international comity. The data importer shall, under the same conditions, pursue possibilities of appeal. When challenging a request, the data importer shall seek interim measures with a view to suspending the effects of the request until the competent judicial authority has decided on its merits. It shall not disclose the personal data requested until required to do so under the applicable procedural rules. These requirements are without prejudice to the obligations of the data importer under Clause 14(e). 
+
+(b) The data importer agrees to document its legal assessment and any challenge to the request for disclosure and, to the extent permissible under the laws of the country of destination, make the documentation available to the data exporter. It shall also make it available to the competent supervisory authority on request. 
+
+(c) The data importer agrees to provide the minimum amount of information permissible when responding to a request for disclosure, based on a reasonable interpretation of the request.
+
+SECTION IV – FINAL PROVISIONS
+
+_Clause 16_
+
+Non-compliance with the Clauses and termination
+
+(a) The data importer shall promptly inform the data exporter if it is unable to comply with these Clauses, for whatever reason. 
+
+(b) In the event that the data importer is in breach of these Clauses or unable to comply with these Clauses, the data exporter shall suspend the transfer of personal data to the data importer until compliance is again ensured or the contract is terminated. This is without prejudice to Clause 14(f). 
+
+(c) The data exporter shall be entitled to terminate the contract, insofar as it concerns the processing of personal data under these Clauses, where: 
+
+(i) the data exporter has suspended the transfer of personal data to the data importer pursuant to paragraph (b) and compliance with these Clauses is not restored within a reasonable time and in any event within one month of suspension; 
+
+(ii) the data importer is in substantial or persistent breach of these Clauses; or 
+
+(iii) the data importer fails to comply with a binding decision of a competent court or supervisory authority regarding its obligations under these Clauses. 
+
+In these cases, it shall inform the competent supervisory authority of such non-compliance. Where the contract involves more than two Parties, the data exporter may exercise this right to termination only with respect to the relevant Party, unless the Parties have agreed otherwise. 
+
+(d) Personal data that has been transferred prior to the termination of the contract pursuant to paragraph (c) shall at the choice of the data exporter immediately be returned to the data exporter or deleted in its entirety. The same shall apply to any copies of the data. The data importer shall certify the deletion of the data to the data exporter. Until the data is deleted or returned, the data importer shall continue to ensure compliance with these Clauses. In case of local laws applicable to the data importer that prohibit the return or deletion of the transferred personal data, the data importer warrants that it will continue to ensure compliance with these Clauses and will only process the data to the extent and for as long as required under that local law. 
+
+(e) Either Party may revoke its agreement to be bound by these Clauses where (i) the European Commission adopts a decision pursuant to Article 45(3) of Regulation (EU) 2016/679 that covers the transfer of personal data to which these Clauses apply; or (ii) Regulation (EU) 2016/679 becomes part of the legal framework of the country to which the personal data is transferred. This is without prejudice to other obligations applying to the processing in question under Regulation (EU) 2016/679. 
+
+_Clause 17_
+
+Governing law
+
+These Clauses shall be governed by the law of one of the EU Member States, provided such law allows for third-party beneficiary rights. The Parties agree that this shall be the law of the Netherlands. 
+
+_Clause 18_
+
+Choice of forum and jurisdiction
+
+(a) Any dispute arising from these Clauses shall be resolved by the courts of an EU Member State. 
+
+(b) The Parties agree that those shall be the courts of the Netherlands. 
+
+(c) A data subject may also bring legal proceedings against the data exporter and/or data importer before the courts of the Member State in which he/she has his/her habitual residence. 
+
+(d) The Parties agree to submit themselves to the jurisdiction of such courts. 
+
+**APPENDIX**
+
+For information in Annexes I and II, refer to Schedules 1 and 2 of the [Data Sharing Agreement](https://www.snap.com/terms/data-sharing-agreement).
