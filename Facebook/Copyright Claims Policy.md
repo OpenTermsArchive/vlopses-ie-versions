@@ -593,16 +593,6 @@ What's the difference between copyright and trademark?
 
 Copy link
 
-What is copyright?
-
-What is trademark?
-
-How does copyright protect content?
-
-How does trademark protect brands?
-
-I have a different question
-
 The law in most countries recognises copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
 [Copyright](https://www.facebook.com/help/116772962146447?helpref=faq_content) is meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works such as photos, videos, films and music. It's also important to note that, in the US, the Digital Millennium Copyright Act (DMCA) applies only to copyrights and doesn't apply to trademarks.
@@ -2257,16 +2247,6 @@ A video that I posted on Facebook was removed immediately. What happened, and wh
 
 Copy link
 
-What happens if my video is removed?
-
-What is Facebook copyright content?
-
-How do I check my email settings?
-
-How do I check my notification settings?
-
-I have a different question
-
 If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else's copyrighted content. This could include video, audio or both.
 
 If your video was removed for copyright reasons, you'll receive an email and a notification about the removal. Please use the information that you receive to learn more about your options, such as confirming that you have the right to use the copyrighted work and you still wish to post the content.
@@ -2305,13 +2285,6 @@ Related articles
 * * *](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
 [Ask to edit or remove a video that you were in as a minor (Utah only)](https://www.facebook.com/help/1030666849167835/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
