@@ -900,15 +900,14 @@ How do we process Biometric Data?
 How long do we retain your Biometric Data?
 ------------------------------------------
 
-*   Roblox does not receive a copy of, or have access to, your Biometric Data.
-*   Our service provider, Persona, will respectively delete your Biometric Data within 30 days after collection, unless required by law (such as a warrant or subpoena) to keep your Biometric Data for a longer period.  
+*   Your Biometric Data will be deleted within 30 days after collection, unless required by law (such as a warrant or subpoena) to keep your Biometric Data for a longer period.  
       
      
 
 What happens to your Biometric Data at the end of the retention period?
 -----------------------------------------------------------------------
 
-*   Our service provider, Persona, permanently erases your Biometric Data at the end of the retention period described above such that it cannot be recovered or reconstructed.  
+*   Your Biometric Data is destroyed at the end of the retention period described above such that it cannot be recovered or reconstructed.  
      
 
 Other Facial Media Processing
@@ -940,7 +939,7 @@ Additional Privacy Disclosures and Your Rights
 
 For more information about how we process your personal information, as well as your rights and choices concerning our data practices, please review our Privacy Policy available at [https://www.roblox.com/info/privacy.](https://www.roblox.com/info/privacy) For more information about Persona’s data practices, please review Persona’s Privacy Policy available at [https://withpersona.com/legal/privacy-policy-roblox](https://withpersona.com/legal/privacy-policy-roblox).
 
-Effective Date: September 15 2026
+Effective Date: November 6, 2026
 
 - - -
 
@@ -964,18 +963,16 @@ How do we process Biometric Data?
 
 *   We use a service provider, Persona, to assist with our identity verification process.
 *   For identity verification, Persona captures a photo of your ID and a selfie. Persona then reviews the face geometry extracted from your ID and selfie, and analyzes the age of your face to compare it to the date of birth from your ID. This is done to securely verify your identity, including your age, as well as to detect fraud.
-*   Roblox may access the photo of your ID and selfie stored by Persona for training, product improvement, and compliance purposes. Roblox will not have access to the face geometry processed by Persona.
 
 How long do we retain your Biometric Data?
 ------------------------------------------
 
-*   Roblox does not receive a copy of, or have access to, your Biometric Data.
-*   Our service provider, Persona, will respectively delete your Biometric Data within 30 days after collection, unless required by law (such as a warrant or subpoena) to keep your Biometric Data for a longer period.
+*   Your Biometric Data will be deleted within 30 days after collection, unless required by law (such as a warrant or subpoena) to keep your Biometric Data for a longer period.
 
 What happens to your Biometric Data at the end of the retention period?
 -----------------------------------------------------------------------
 
-*   Our service provider, Persona, permanently erases your Biometric Data at the end of the retention period described above such that it cannot be recovered or reconstructed.
+*   Your Biometric Data is destroyed at the end of the retention period described above such that it cannot be recovered or reconstructed.
 
 Other Facial Media Processing
 =============================
@@ -1005,7 +1002,7 @@ Additional Privacy Disclosures and Your Rights
 
 For more information about how we process your personal information, as well as your rights and choices concerning our data practices, please review our Privacy and Cookie Policy available at [https://www.roblox.com/info/privacy](https://www.roblox.com/info/privacy). For more information about Persona’s data practices, please review Persona’s Privacy Policy available at [https://withpersona.com/legal/privacy-policy](https://withpersona.com/legal/privacy-policy).
 
-Effective Date: October 13, 2025
+Effective Date: November 6, 2025
 
 - - -
 
