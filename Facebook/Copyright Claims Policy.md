@@ -593,6 +593,16 @@ What's the difference between copyright and trademark?
 
 Copy link
 
+What is copyright?
+
+What is trademark?
+
+How does copyright protect content?
+
+How does trademark protect brands?
+
+I have a different question
+
 The law in most countries recognises copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
 [Copyright](https://www.facebook.com/help/116772962146447?helpref=faq_content) is meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works such as photos, videos, films and music. It's also important to note that, in the US, the Digital Millennium Copyright Act (DMCA) applies only to copyrights and doesn't apply to trademarks.
@@ -1567,14 +1577,6 @@ What tools does Facebook provide to help me enforce my intellectual property rig
 
 Copy link
 
-How do I report intellectual property?
-
-What is Brand Rights Protection?
-
-How do I apply for Brand Rights Protection?
-
-I have a different question
-
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across many of our platforms. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
 Related articles
@@ -1615,13 +1617,6 @@ Related articles
 * * *](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
 [Using your Facebook information with other products](https://www.facebook.com/help/366763385900883/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1992,16 +1987,6 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-What is Facebook copyright law?
-
-How do I avoid Facebook copyright?
-
-What is Facebook fair use?
-
-What is Facebook public domain?
-
-I have a different question
-
 Under Facebook's [Terms of Service](https://www.facebook.com/terms.php) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook that doesn't violate someone else's intellectual property rights. The best way to help make sure that what you post to Facebook doesn't violate copyright law is to only post content that you've created yourself. It's possible to infringe someone else's copyright when you post their content on Facebook, even if you:
 
 *   Bought or downloaded the content (for example, a song from iTunes)
@@ -2058,13 +2043,6 @@ Related articles
 * * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
 [Facebook removed content as a result of my copyright report. What information is sent to the person who posted that content?](https://www.facebook.com/help/297270237338088/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2247,6 +2225,16 @@ A video that I posted on Facebook was removed immediately. What happened, and wh
 
 Copy link
 
+What happens if my video is removed?
+
+What is Facebook copyright content?
+
+How do I check my email settings?
+
+How do I check my notification settings?
+
+I have a different question
+
 If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else's copyrighted content. This could include video, audio or both.
 
 If your video was removed for copyright reasons, you'll receive an email and a notification about the removal. Please use the information that you receive to learn more about your options, such as confirming that you have the right to use the copyrighted work and you still wish to post the content.
@@ -2285,6 +2273,13 @@ Related articles
 * * *](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
 [Ask to edit or remove a video that you were in as a minor (Utah only)](https://www.facebook.com/help/1030666849167835/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2826,16 +2821,6 @@ Tools Facebook provides to protect your intellectual property
 =============================================================
 
 Copy link
-
-Apply for Rights Manager
-
-Report copyright infringement
-
-Claim earnings from video
-
-How does content protection work?
-
-I have a different question
 
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we provide rights holders with tools to identify and take action on content posted to Facebook that may contain their copyrighted work. We provide tailored tooling specific to a content owner's demonstrated needs.
 
