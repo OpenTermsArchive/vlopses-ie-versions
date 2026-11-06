@@ -391,7 +391,7 @@ If you are a user connecting your account to a service using SIWC, you agree to 
 
 - - -
 
-Updated: 23 July 2026
+Updated: 6 November 2026
 
 ChatGPT Sites Terms
 ===================
@@ -460,8 +460,6 @@ These ChatGPT Sites Terms supplement and apply in addition to the [Terms of Use]
 *   5.1 Modifications. We may update these ChatGPT Sites Terms from time to time. We will give you notice of the changes by posting an updated version of these terms online or by emailing you at an email address you have provided. Your continued use of your ChatGPT Site will constitute acceptance of the updated terms.
     
 *   5.2 Removal. You may choose to remove or unpublish your ChatGPT Site at any time. We reserve the right to delete, remove, unpublish, or otherwise disable your ChatGPT Site, at any time for any reason, including if we determine it violates this Agreement or exposes us or others to harm.
-    
-*   5.3 Beta Service. ChatGPT Sites is a Beta Service as described in the Service Terms.
 
 - - -
 
