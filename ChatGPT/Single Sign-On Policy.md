@@ -5,7 +5,7 @@ Sign in with ChatGPT Terms
 
 These Sign in with ChatGPT Terms (“Terms”) govern your use of Sign in with ChatGPT (“SIWC”) in an application you develop or maintain (“your application” or “your app”). SIWC lets users connect their ChatGPT accounts and, where enabled and otherwise eligible, use that connection to power features or perform actions in your app.
 
-These Terms incorporate the [Terms of Use⁠](https://openai.com/policies/row-terms-of-use/) and our [Service Terms⁠](https://openai.com/policies/service-terms/) (except when Section 3.2 applies) . Other capitalized terms have the meanings given in the relevant terms or agreement.
+These Terms incorporate the [Terms of Use⁠](https://openai.com/policies/row-terms-of-use/) and our [Service Terms⁠](https://openai.com/policies/service-terms/) (except when Section 3.2 applies). Other capitalized terms have the meanings given in the relevant terms or agreement.
 
 By integrating or using SIWC in your application, you agree to these Terms. If acting for an organization, you represent that you have the authority to accept these Terms on its behalf.
 
