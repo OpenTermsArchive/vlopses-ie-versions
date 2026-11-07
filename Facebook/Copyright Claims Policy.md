@@ -1041,7 +1041,7 @@ Related articles
 
 [What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[Create a username for your Facebook Page](https://www.facebook.com/help/121237621291199/?helpref=related_articles)
+[How to create a username for your Facebook Page](https://www.facebook.com/help/121237621291199/?helpref=related_articles)
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
@@ -1057,7 +1057,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[Create a username for your Facebook Page
+[How to create a username for your Facebook Page
 
 * * *](https://www.facebook.com/help/121237621291199/?helpref=related_articles)
 
@@ -2635,6 +2635,16 @@ What information you need to include in a copyright report to Meta
 ==================================================================
 
 Copy link
+
+What information do I need?
+
+How do I submit a copyright report?
+
+What happens after I report?
+
+What is copyright infringement?
+
+I have a different question
 
 The fastest and easiest way to submit a claim of copyright infringement on Facebook to us is to [report it](https://www.facebook.com/help/325058084212425?helpref=faq_content). Whether you submit your report through our online form or another method, Facebook needs the following information to be able to process your report:
 
