@@ -1,3 +1,5 @@
+_We recently shared a preview of updated Commercial Terms. These updates are on hold. The existing Commercial Terms remain in effect until further notice._
+
   
 
 **Meta Commercial Terms ("Commercial Terms")**
