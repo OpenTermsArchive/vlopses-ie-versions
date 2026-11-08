@@ -128,7 +128,7 @@ What are some things that may violate this policy?
 
 Note: Content that depicts violence but doesn't violate this policy (as described above) should be labeled Not Safe for Work (“NSFW”). Additionally, we may allow appropriately labelled graphic content that has public interest value, such as legitimate news reporting, historical documentation, or citizen journalism, provided it is not used to mock victims, celebrate violence, or promote a perpetrator’s message or ideology.
 
-Some examples of policy violations
+**Some examples of policy violations**
 
 *   A post including violent imagery that encourages others to take action against an individual or a group.
 *   Creating a community that praises a mass shooter as a hero.
@@ -140,7 +140,7 @@ Some examples of policy violations
 *   A post sharing a meme or image meant to celebrate a known killer. 
 *   A community dedicated to so-called consensual non-consent ("CNC") sexual interactions.
 
-Some examples that do NOT violate this policy
+**Some examples that do NOT violate this policy**
 
 *   A post discussing a war, with graphic images from the event correctly labeled as NSFW.
 *   A user expressing thoughts of self-harm in the context of seeking help in a support community.
