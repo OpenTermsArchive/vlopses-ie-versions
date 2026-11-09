@@ -996,47 +996,6 @@ United Kingdom (in addition to those set out under “United Kingdom, European U
 
 Nothing in this section or these Snap Paid Features Terms affects your legal rights in relation to any Paid Features that do not meet the requirements of the contract or breach UK consumer laws such as the Consumer Rights Act 2015. This would be the case, for example, where they are defective or misdescribed. We are under a legal duty to provide Paid Features that conform with the contract. If you believe there is something wrong with any Paid Features you have purchased, please contact us using the contact details in Section 13. For detailed information about your consumer rights, please visit the Citizens Advice website at www.adviceguide.org.uk or call 0808 223 1133.
 
-الشركة
-
-*   [شركة سناب](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [الوظائف](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [الأخبار](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [الخصوصية والسلامة](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-
-المجتمع
-
-*   [دعم سناب شات](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [دعم Spectacles](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [تعليمات التواصل الاجتماعي](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-
-الإعلانات
-
-*   [إعلانات سناب شات](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [سياسات الإعلان](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [مكتبة الإعلانات السياسية](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [إرشادات العلامة التجارية](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [قواعد الترويج](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-
-الركن القانوني
-
-*   [شروط وسياسات أخرى](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [إنفاذ القانون](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [(سياسة ملفات تعريف الارتباط (كوكيز](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [إعدادات ملفات تعريف الارتباط](https://www.snap.com/cookie-settings)
-*   [إبلاغ عن انتهاك حقوق](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-
-*   [](https://www.snap.com/)
-*   [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [سياسة الخصوصية](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [شروط الخدمة](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-
-*   اللغة
-    
-    العربية
-
-- - -
-
 Company
 
 *   [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
@@ -1075,6 +1034,133 @@ Legal
 *   Language
     
     English (US)
+
+- - -
+
+My Selfie Terms
+
+
+-------------------
+
+Effective: April 29, 2024
+
+ARBITRATION NOTICE: IF YOU LIVE IN THE UNITED STATES OR IF YOUR PRINCIPAL PLACE OF BUSINESS IS IN THE UNITED STATES YOU ARE BOUND BY THE [ARBITRATION](https://www.snap.com/terms#arbitration) PROVISION SET FORTH IN THE [SNAP INC. TERMS OF SERVICE](https://www.snap.com/terms#inc-terms): EXCEPT FOR CERTAIN TYPES OF DISPUTES MENTIONED IN THAT ARBITRATION CLAUSE, YOU AND SNAP INC. AGREE THAT DISPUTES BETWEEN US WILL BE RESOLVED BY MANDATORY BINDING ARBITRATION AS SET FORTH IN THE [SNAP INC. TERMS OF SERVICE](https://www.snap.com/terms#inc-terms), AND YOU AND SNAP INC. WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
+
+**1\. Introduction**
+
+Please read these My Selfie terms ("My Selfie Terms") carefully. These My Selfie Terms form a legally binding contract between you and Snap and govern your use of My Selfie and related features on Snapchat, such as AI Snaps, Dreams, Cameos features, and other generative AI features using your image or likeness (collectively, “My Selfie Features”). These My Selfie Terms incorporate by reference the [Snap Terms of Service](https://www.snap.com/terms), [Privacy Policy](https://values.snap.com/privacy/privacy-policy?lang=en-US), and any other applicable terms, guidelines, and policies. To the extent these My Selfie Terms conflict with any of the other terms, these My Selfie Terms will govern. My Selfie is part of Snap's "Services" as defined in the [Snap Terms of Service](https://www.snap.com/terms).
+
+_In summary: These My Selfie Terms, along with other terms and policies referenced in these My Selfie Terms, form a legally binding contract and govern any use of My Selfie and My Selfie Features._
+
+**2\. The Basics**
+
+a. My Selfie is the one-stop shop for photos of yourself that you submit on Snapchat to power generative AI features, including the My Selfie Features. My Selfie is processed and used together with other information we know about you to provide generative AI features, including My Selfie Features that generate stylized portraits that feature you (or your likeness). My Selfie will also be used to develop and improve machine learning models for use throughout the Services and for research purposes. You, Snap, and your Snapchat friends may also independently create and share images generated from My Selfie, in which case you (or your likeness) may appear in images generated by your Snapchat friends or Snap without any notice to you. You also acknowledge and agree that by using My Selfie, you (or your likeness) may also appear in personalized sponsored content and ads that will be visible only to you and that includes branding or other advertising content of Snap or its business partners without compensation to you. 
+
+b. By using My Selfie, you grant Snap, our affiliates, other users of the Services, and our business partners an unrestricted, worldwide, royalty-free, irrevocable and perpetual right and license to use, create derivative works from, promote, exhibit, broadcast, syndicate, reproduce, distribute, synchronize, overlay graphics on, overlay auditory effects on, publicly perform, and publicly display all or any portion of generated images of you and your likeness derived from your My Selfie, in any form and in any and all media or distribution methods, now known or later developed, for commercial and non-commercial purposes.
+
+c. You cannot create My Selfie for anyone else's Snapchat account, but you can share your AI Snaps, Dreams, Cameos, and other My Selfie Features using your My Selfie on Snapchat and off Snapchat. If you decide to share off Snapchat, you cannot remove Snap watermarks, metadata, or any other features or logos, and doing so is a violation of these My Selfie Terms.
+
+d. You are not permitted to submit photos of anyone other than yourself to My Selfie, or to generate any deepfakes, and doing so is a violation of these My Selfie Terms.
+
+e. If you violate these My Selfie Terms, Snap may, in its sole discretion and in addition to any remedy that we may have at law or in equity, immediately terminate permission for you to use My Selfie and revoke any My Selfie Features in your Snapchat account, without any liability to you.
+
+_In summary: My Selfie can only be used on Snapchat. If you submit images to My Selfie, you allow Snap and others to use the image and your likeness in order to make and distribute generated images with you, such as for AI Snaps, Dreams, Cameos, and other My Selfie Features, which can be used by your friends, in personalized ads delivered to you on Snapchat, and in other ways. Images generated by My Selfie Features can be shared on and off Snapchat. If you violate these My Selfie Terms, we may revoke your right to use My Selfie and My Selfie Features_.
+
+**3\. Purchase and Payment**
+
+Without limiting these My Selfie Terms, if any My Selfie Features are made available for Snapchat+ subscribers, or offered as a paid feature on Snapchat, the [Snap Paid Features Terms](https://www.snap.com/terms/paid-features) will govern your purchase, including any refund and cancellation rights you may have (if any). Any purchased digital content or digital services will be considered a “Paid Feature” under the Snap Paid Features Terms.
+
+_In summary: If you purchase or use any paid My Selfie Features, the_ [_Snap Paid Features Terms_](https://www.snap.com/terms/paid-features) _will govern your purchase and use in addition to these My Selfie Terms._
+
+**4\. Disclaimer; Service Description and Availability; Errors**
+
+a. My Selfie Features that generate images that include your image or likeness are generated by AI based on the images and information that you provide (including any text, images, or other inputs). My Selfie Features, and any other generative AI-powered features on Snapchat, can create outputs that cannot be predicted in advance. 
+
+b. My Selfie Features and any other generative AI-powered features on Snapchat might generate content that you consider offensive or objectionable, and by agreeing to these My Selfie Terms and using My Selfie, My Selfie Features, or any other generative AI-powered features, you acknowledge and assume that risk. You also acknowledge and agree that you are responsible for your use of, and any actions you take in relation to, any content generated by AI through the My Selfie Features. In addition to the disclaimers in the [Snap Terms of Service](https://www.snap.com/terms), Snap makes no representations or warranties with respect to the My Selfie Features or other generative AI-powered features or content, and Snap is not responsible for any use of, or actions in relation to, the My Selfie Features or other generative AI-powered features or content.
+
+c. Snap does not guarantee that My Selfie, My Selfie Features, or any other generative AI-powered features will be available at all times or at any given time, or that we will continue to offer them for any particular length of time. Snap reserves the right to immediately modify, cancel, suspend, discontinue, or terminate My Selfie, My Selfie Features, or any generative AI-powered features at any time and for any reason, at our sole discretion, without prior notice or liability to you. Moreover, while we do our best to describe the features as accurately as possible, we do not warrant that the specifications (or any output the features generate) are complete, accurate, reliable, current, or error-free.
+
+_In summary: Snap makes no representations or warranties with respect to the My Selfie Features or other generative AI-powered features or content, and you are responsible for your use of the My Selfie Features. Snap is not responsible for any outputs created by the My Selfie Features or any generative AI-powered features. Snap can modify, discontinue, or terminate My Selfie, My Selfie Features, or any generative AI-powered features at any time, and we provide no assurances regarding feature specifications._
+
+**5\. Changes to These My Selfie Terms**
+
+From time to time, we may revise these My Selfie Terms in accordance with [Section 14 of the Snap Terms of Service](https://www.snap.com/terms). You can determine when these My Selfie Terms were last revised by referring to the "Effective" date at the top. If at any time you don't agree to any portion of these My Selfie Terms, you can delete your images and opt out of My Selfie in your settings in Snapchat.
+
+_In summary: We might update these My Selfie Terms over time. If there are changes which you don’t agree with, you can opt out of My Selfie in your settings in Snapchat._
+
+**6\. Communications from us**
+
+a. We may send you electronic notifications about My Selfie and these My Selfie Terms, including about new features of, and other changes to, My Selfie, at the email or phone number used to sign up for your account, through in-app notifications, Team Snapchat notifications, or by other electronic means. By using My Selfie, you consent to receive from Snap and our affiliates the electronic communications described in these My Selfie Terms.
+
+b. You agree that all agreements, notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
+
+_In summary: Look out for messages about your My Selfie and these My Selfie Terms._
+
+**7\. Final Terms**
+
+a. These My Selfie Terms do not create or confer any third-party beneficiary rights. We reserve all rights not expressly granted to you.
+
+b. These My Selfie Terms were written in English and to the extent the translated version of these My Selfie Terms conflicts with the English version, the English version will control.
+
+c. Sections 2-6 of these My Selfie Terms will survive any expiration or termination of these My Selfie Terms.
+
+_In summary: These My SelfieTerms do not create any third-party rights and some provisions of these My Selfie Terms will survive termination._
+
+**8\. Contact Us**
+
+Snap welcomes comments, questions, concerns or suggestions. You can reach out to us with any complaints or feedback at the following points of contact:
+
+*   If you live in the United States, our mailing address is 3000 31st St., Santa Monica, CA 90405.
+    
+*   If you live in a country within the Asia-Pacific region, then our mailing address is Singapore at Marina One West Tower, 018937, Singapore with a UEN of T20FC0031F.
+    
+*   If you live in any country other than the United States or the Asia-Pacific region, our mailing address is: Snap Group Limited, a company registered in England and located at 50 Cowcross Street, Floor 2, London, EC1M 6AL, United Kingdom, with company number 09763672. Authorized representative: Ronan Harris, Director. VAT ID: GB 237218316.
+    
+
+[My Selfie Support](https://help.snapchat.com/hc/articles/25312335775380/?utm_source=sc&utm_medium=lm&utm_campaign=my_selfie&lang=en-US)
+
+For general questions: [Snapchat Support](https://help.snapchat.com/hc/requests/new?lang=en-US)
+
+We always love to hear from our users. But if you volunteer feedback or suggestions, just know that we can use your ideas without compensating you.
+
+الشركة
+
+*   [شركة سناب](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [الوظائف](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [الأخبار](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [الخصوصية والسلامة](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+
+المجتمع
+
+*   [دعم سناب شات](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [دعم Spectacles](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [تعليمات التواصل الاجتماعي](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+
+الإعلانات
+
+*   [إعلانات سناب شات](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [سياسات الإعلان](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [مكتبة الإعلانات السياسية](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [إرشادات العلامة التجارية](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [قواعد الترويج](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+
+الركن القانوني
+
+*   [شروط وسياسات أخرى](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [إنفاذ القانون](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [(سياسة ملفات تعريف الارتباط (كوكيز](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [إعدادات ملفات تعريف الارتباط](https://www.snap.com/cookie-settings)
+*   [إبلاغ عن انتهاك حقوق](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+
+*   [](https://www.snap.com/)
+*   [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [سياسة الخصوصية](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [شروط الخدمة](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+
+*   اللغة
+    
+    العربية
 
 - - -
 
@@ -1325,44 +1411,44 @@ From time to time, we may revise these Terms. You can determine when these Terms
 
 These Terms do not create or confer any third-party beneficiary rights. If we do not enforce a provision in these Terms, it will not be considered a waiver. We reserve all rights not expressly granted to you. If any provision of these Terms is for any reason deemed invalid, unlawful, void, or unenforceable by a court or arbitrator of competent jurisdiction, that provision will be deemed severable from these Terms, and the invalidity of the provision will not affect the validity or enforceability of the remainder of these Terms (which will remain in full force and effect). To the extent permitted by law, you waive any applicable statutory or common-law right that may permit a contract to be construed against its drafter. Snap Group Limited may assign its rights and obligations under these Terms, in whole or in part, to any party at any time without any notice. These Terms may not be assigned by you, and you may not delegate your duties under them, without the prior written consent of Snap Group Limited.
 
-Société
+Company
 
 *   [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Carrières](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Actualités](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Vie privée et sécurité](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Careers](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [News](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Privacy and Safety](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-Communauté
+Community
 
-*   [Assistance Snapchat](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Assistance Spectacles](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Règles communautaires](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snapchat Support](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Spectacles Support](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-Publicité
+Advertising
 
-*   [Publicités Snapchat](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Politiques relatives à la publicité](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Bibliothèque des publicités politiques](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Charte de la marque](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Règles applicables aux promotions](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Advertising Policies](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Political Ads Library](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-Juridique
+Legal
 
-*   [Autres conditions générales et politiques](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Forces de l'ordre](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Politique relative aux cookies](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Gestion des cookies](https://www.snap.com/cookie-settings)
-*   [Signaler une violation](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Law Enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Cookie Settings](https://www.snap.com/cookie-settings)
+*   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 *   [](https://www.snap.com/)
 *   [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 *   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
-*   [Politique de confidentialité](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [Conditions d'utilisation du service](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
+*   [Privacy Policy](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Terms of Service](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link)
 
-*   Langue
+*   Language
     
-    Français (France)
+    English (US)
 
 - - -
 
