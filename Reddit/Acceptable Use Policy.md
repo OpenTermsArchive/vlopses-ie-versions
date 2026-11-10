@@ -128,7 +128,7 @@ What are some things that may violate this policy?
 
 Note: Content that depicts violence but doesn't violate this policy (as described above) should be labeled Not Safe for Work (“NSFW”). Additionally, we may allow appropriately labelled graphic content that has public interest value, such as legitimate news reporting, historical documentation, or citizen journalism, provided it is not used to mock victims, celebrate violence, or promote a perpetrator’s message or ideology.
 
-**Some examples of policy violations**
+Some examples of policy violations
 
 *   A post including violent imagery that encourages others to take action against an individual or a group.
 *   Creating a community that praises a mass shooter as a hero.
@@ -140,7 +140,7 @@ Note: Content that depicts violence but doesn't violate this policy (as describe
 *   A post sharing a meme or image meant to celebrate a known killer. 
 *   A community dedicated to so-called consensual non-consent ("CNC") sexual interactions.
 
-**Some examples that do NOT violate this policy**
+Some examples that do NOT violate this policy
 
 *   A post discussing a war, with graphic images from the event correctly labeled as NSFW.
 *   A user expressing thoughts of self-harm in the context of seeking help in a support community.
@@ -199,7 +199,7 @@ The following are some examples of violations that apply under this policy when 
 
 Note: Context is critical. When evaluating a report, we assess the activity of a community or an individual user, their pattern of behavior, and the content itself. This allows us to distinguish genuine hateful attacks, bad faith “humor,” or coded language from content shared for purposes like social or political commentary, educational uses, or condemnation of hate.
 
-**Some examples of policy violations**
+Some examples of policy violations
 
 *   A comment alleging that an ethnic group is disgusting and shouldn't exist.
 *   Posting an image of a hateful symbol (e.g., swastika) without context.
@@ -211,7 +211,7 @@ Note: Context is critical. When evaluating a report, we assess the activity of a
 *   A comment stating that a specific individual is too stupid to lead a country because of their gender or racial identity.
 *   Creating an account with a hateful username that targets a protected group (e.g., u/KillAll\[EthnicGroup\]).
 
-**Some examples that do NOT violate this policy**
+Some examples that do NOT violate this policy
 
 *   A comment in a heated debate insulting one's political party.
 *   Reposting (fka crossposting) a news article to a relevant community to discuss a statement made by a public official.
