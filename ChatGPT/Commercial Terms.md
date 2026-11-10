@@ -601,7 +601,7 @@ These OpenAI Advertising Terms (“Advertising Terms”) are entered into betwee
 
 - - -
 
-Published: 21 October 2026
+Published: 10 November 2026
 
 Ad Tools Terms
 ==============
@@ -613,7 +613,7 @@ By enabling, accessing, or using an Ad Tool, or by providing data or materials t
 1\. Conversion Tools
 --------------------
 
-Your access to and use of the Conversion Tools is subject to the Conversion Terms, which are incorporated into these Ad Tools Terms by reference.
+Your access to and use of the Conversion Tools is subject to the [Conversion Terms](https://openai.com/policies/conversion-terms/), which are incorporated into these Ad Tools Terms by reference.
 
 2\. Audience Data
 -----------------
@@ -641,10 +641,10 @@ Your access to and use of the Conversion Tools is subject to the Conversion Term
 *   3.4. Restrictions. You will not: (a) provide any Prohibited Data through the Creative Tools;  (b) use the Creative Tools to generate Ads that violate applicable law or OpenAI Policies; (c) create or use an unauthorized digital replica, voice, likeness, endorsement, or representation of another person; (d) impersonate a person or organization or falsely suggest an affiliation, sponsorship, endorsement, or approval; (e) create or distribute fraudulent, deceptive, or misleading synthetic media; (f) bypass protective measures or other restrictions on the Creative Tools; or (g) configure or use the Creative Tools to reveal, reproduce, infer, or imply access to non-public information about an OpenAI user or the user’s interactions with OpenAI. Generated Creatives may not be used outside the Advertising Services unless expressly permitted by OpenAI.
     
 
-4\. Business Agents
--------------------
+4\. **Businesses in ChatGPT**
+-----------------------------
 
-If OpenAI creates, configures, or makes available a Business Agent on your behalf, the provisions under “For Builders of GPTs” in Section 5 of the Service Terms are incorporated into these Ad Tools Terms and apply to the Business Agent. For the purposes of those provisions, you are deemed the builder of the Business Agent and remain responsible for the Business Agent, its content, configurations, Actions, and Output as if you had created it yourself, and for all Ad Materials used in connection with the Business Agent. For the purposes of the indemnification provisions of the Advertising Terms, any Claim related to a Business Agent, including its content, configurations, Actions, Output, or Ad Materials used in connection with the Business Agent, will be deemed a Claim related to an Ad.
+Your access to and use of Businesses in ChatGPT is subject to the [Businesses in ChatGPT Terms](https://openai.com/policies/businesses-in-chatgpt-terms/), which are incorporated into these Ad Tools Terms by reference.
 
 5\. Definitions
 ---------------
@@ -667,8 +667,6 @@ If OpenAI creates, configures, or makes available a Business Agent on your behal
 
 “Campaign” means a request submitted through Ads Manager, an approved API, or another method designated by OpenAI for OpenAI to deliver one or more Ads based on the budget, schedule, targeting, Destinations, and other information and settings reflected in Ads Manager.
 
-“Conversion Terms” means OpenAI’s Conversion Terms available at [https://openai.com/policies/conversion-terms](https://openai.com/policies/conversion-terms/). 
-
 “Creative Tools” means AI-powered features or tools made available by OpenAI to generate, modify, transform, optimize, localize, translate, select, assemble, or otherwise adapt advertising creatives using Ad Materials for use in connection with the Advertising Services. 
 
 “Generated Creatives” means advertising creatives generated, modified, transformed, optimized, localized, translated, selected, assembled, or otherwise adapted through the Creative Tools for use in connection with the Advertising Services.
@@ -678,8 +676,6 @@ If OpenAI creates, configures, or makes available a Business Agent on your behal
 “Restricted Processing” has the meaning given in the Ad Tools DPA. 
 
 “Reverse Engineer” means reverse assemble, reverse compile, decompile, translate, engage in model extraction or stealing attacks, or otherwise attempt to discover the source code or underlying components of the Ad Tools, algorithms, and systems (except to the extent these restrictions are contrary to applicable law).
-
-“Service Terms” means OpenAI’s terms available at: [https://openai.com/policies/service-terms/](https://openai.com/policies/service-terms/). 
 
 The terms “Data Controller”, “Personal Data”, “Data Processor”, “Process”, and “Processing” have the meanings given under applicable data privacy and data protection law.
 
