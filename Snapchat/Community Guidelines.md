@@ -274,6 +274,92 @@ Community Guidelines Explainer Series
 
 Updated: March 2026
 
+### 
+
+Overview
+
+Our prohibition against illegal and regulated activities reflects our stalwart commitment to safety on Snapchat. Upholding. By enforcing these rules, we help prevent misuse of our platform for unlawful purposes and protect Snapchatters from risks of serious harm. We also partner with safety stakeholders, NGOs, and law enforcement organisations to provide our community with educational resources and to promote safety more broadly.
+
+While laws and regulations differ in jurisdictions throughout the world––and Snapchat is a global community––our policies generally prohibit any activity that undermines public safety.
+
+### 
+
+Prohibited Conduct
+
+We prohibit using Snapchat for illegal activity, including the following: 
+
+*   Human trafficking - Snap prohibits content that promotes or facilitates human trafficking, including labour trafficking, sex trafficking, and other types of trafficking of adults or minors. Snap also prohibits human smuggling. 
+    
+*   Organised crime or criminal behaviour - Snap prohibits the promotion of gangs, cartels, or other organised crime, as well as content that encourages or recruits persons for engagement in criminal behaviour. 
+    
+*   Weapons - Snap prohibits promoting the attempted purchase, sale, or manufacturing of weapons, ammunition or explosives, including fireworks. We also prohibit the depiction of reckless or irresponsible use of weapons. 
+    
+*   Drugs and pharmaceuticals – Snap prohibits buying, selling, exchanging or facilitating sales of illegal or regulated drugs. This includes regulated drugs such as marijuana, psilocybin, prescription drugs, non-FDA-approved substances like injectable peptides, substances used outside a permissible medical context and drug paraphernalia. It also includes illegal drugs, such as heroin, cocaine, methamphetamine or fentanyl, or prescription drugs that are commonly abused (such as opioids, barbiturates and amphetamines). For illegal or commonly abused prescription drugs, Snap also prohibits depiction or depicted use of such drugs. 
+    
+
+Snap also prohibits the promotion of certain goods or activities that are often regulated, including the following: 
+
+*   Offering financial loans or other financial products or services. 
+    
+*   Facilitating online gambling activities. This includes sharing apps, sites or services that directly facilitate or provide direct access to gambling or gambling-adjacent apps, sites or services that collect financial information or facilitate and/or monetise access to real-money sportsbooks or betting data.  
+    
+*   Selling alcoholic beverages, tobacco, or vape products.   
+    
+*   Promoting CBD businesses.
+    
+*   Promoting or selling supplements that guarantee a medical outcome (such as a cure or treatment for illness or injury).
+    
+*   Promoting or selling regulated substances used for cosmetic procedures, such as botulinum toxin ('botox'), dermal fillers or similar injectables.
+    
+*   Selling or promoting weight loss products, including non-prescribed medicine containing GLP1s or semaglutide.
+    
+*   Soliciting or offering drivers for hire. 
+    
+*   The sale or acquisition of endangered animal species, as defined by [CITES](https://checklist.cites.org/#/en).
+    
+*   Using Snapchat to circumvent prison regulations, including filming inside prisons or documenting illicit activity (for example, drug use) inside prisons. This prohibition does not include documenting human rights abuses.
+    
+
+When it comes to minors, Snap prohibits depicted use of all drugs and tobacco products (including vapes) by minors.
+
+Businesses that wish to advertise regulated goods or activities must be approved as a business account and comply with our [advertising policies](https://www.snap.com/ad-policies?lang=en-GB#introduction). Please consult [this resource](https://forbusiness.snapchat.com/?lang=en-US) for guidance regarding appropriate commerce and advertising activities on Snapchat.
+
+  
+Note: Users must generally comply with their local laws while using Snapchat. However, we recognise that some laws may be specific to the user's jurisdiction and not broadly or globally applicable. In addition, some laws may be inconsistent with Snap's [commitment to respecting human rights](https://values.snap.com/privacy/transparency/community-guidelines/human-rights). When we receive requests to enforce against content or accounts that we determine do not violate our Community Guidelines, but allegedly violate local laws, we review those reports with that commitment to respecting human rights in mind. In some cases, we may reduce visibility of the account or content in question in a particular jurisdiction where content is locally prohibited, even if we do not remove the content. Please review our [Moderation explainer](https://values.snap.com/privacy/transparency/community-guidelines/moderation) for more information about review and enforcement of such reports.
+
+### 
+
+Our efforts to protect users
+
+  
+
+We aim to balance safety and privacy in our approach to protecting users. We use a combination of automated tools and human review to prevent users from being exposed to illegal or regulated activity, such as the attempted sale of illicit drugs or weapons, criminal activity, or the promotion of broadly regulated goods or activities on public surfaces (such as Spotlight, Public Stories and Maps).
+
+For serious violations such as attempted human trafficking or smuggling, as well as the attempted sale of illicit drugs or weapons, we use proactive, automated tools to detect and remove violating content. We also work closely with law enforcement, as appropriate, where we believe there may be an imminent threat to human life. Snap's approach is to maintain established protocols for assisting law-enforcement authorities globally, including dedicated channels for responding to potential imminent harm situations, subject to strict legal safeguards. More information for law enforcement can be found [here](https://values.snap.com/safety/safety-enforcement).
+
+We are committed to ensuring that Snapchatters have as much information as possible regarding the types of online behaviour and activities that may violate the law and present serious risk to their safety. Through partnerships with non-profit organisations and collaboration with diverse safety stakeholders, we aim to raise awareness about high-risk activities and ways that Snapchatters can stay safe. This includes in-app resources, like [Here For You](https://help.snapchat.com/hc/en-us/articles/7012398974612-Wellbeing-Features-on-Snapchat?lang=en-GB) and [Heads Up](https://www.snapchat.com/p/ca9ab24c-2d84-46a7-b4b6-f0935bc78f70/3298943307761664?lang=en-GB), as well as collaborations with safety stakeholders. We also cooperate with law enforcement agencies in response to valid legal processes concerning activities on Snapchat that may provide evidence of a crime.
+
+  
+
+### 
+
+Takeaway
+
+Doing our part to promote public safety and protect Snapchatters from potentially harmful or illegal activities is a responsibility we take very seriously.
+
+As we continue these efforts, we are committed to providing transparent insights into the effectiveness of our approach. Through our Transparency Reports, we provide country-level information related to our enforcements against illegal or regulated activities. To provide additional detail, we've broken out our reporting and enforcement data for illicit drug and weapons related violations in our [Transparency Report](https://values.snap.com/privacy/transparency).
+
+We encourage users to report instances of illegal activity to help keep Snapchat safe and healthy. We are always looking for opportunities to improve our ability to address potentially harmful content or behaviour, and we are committed to working with diverse leaders from across the safety community to help ensure we are advancing these objectives responsibly. For more information about our efforts, please visit our [Privacy, Safety & Policy Hub](https://values.snap.com/).
+
+Up Next:
+
+Harmful False or Deceptive Practices
+
+
+----------------------------------------
+
+[Read Next](https://values.snap.com/policy/policy-community-guidelines/harmful-false-deceptive-practices)
+
 - - -
 
 Community Guidelines
@@ -366,79 +452,6 @@ Community Guidelines Explainer Series
 
 Updated: March 2026
 
-### 
-
-Overview
-
-Bullying and harassment are counter to Snapchat’s values. These harms can take many forms, so we use a multifaceted approach to help combat them. Along with our policy and enforcement, we use product safety mitigations and provide resources to users.
-
-As a baseline, our policies prohibit content and conduct that mocks, shames, or demeans a person based on their physical appearance, personality, intelligence, or personal characteristics, as well as repeated mistreatment or unwanted contact. We also prohibit sharing private information or imagery of people without their knowledge or consent-- especially of members of vulnerable populations including minors, unhoused people, or those in medical or assisted-living facilities or nursing homes.
-
-In addition to enforcing these policies consistently, we use our product design to help limit harmful behaviour that may violate these rules. For example, we use default settings that require both friends to accept a connection before they can chat with each other.
-
-  
-
-### 
-
-Prohibited Conduct
-
-Violations of our harassment and bullying policies include any unwanted behaviour that could cause an ordinary person to experience emotional distress. We prohibit the following: 
-
-*   Posting content that mocks, shames, degrades, stigmatises, or demeans a person based on their physical appearance, personality, intelligence, or personal characteristics, including aggressive or profane name-calling.
-    
-*   Rumour-spreading, including accounts dedicated to anonymously bullying or shaming individuals. 
-    
-*   Mocking victims of violence, death, or tragedy or wishing violence, death, or tragedy upon another party. 
-    
-*   Inviting harassment of another person by sharing personal or identifiable information together with encouraging harassment of that person (e.g., “doxxing”). 
-    
-*   Sharing manipulated imagery of another person (including AI-generated, digitally-created, manipulated, illustrated imagery (such as cartoons or edited stickers) for the purpose of humiliation. 
-    
-*   Repeated, unwanted contact, including using a new account to contact someone after previously being blocked or asked not to contact them. 
-    
-
-Snap does allow for commentary and criticism of public figures who are 18 years or older, provided that such content does not include discrimination, harassment, or calls for violence or harm. 
-
-We expect users to respect others’ personal privacy. Snap prohibits the following:
-
-*   Sharing another person’s private or personally identifiable information (PII). 
-    
-*   Sharing private content, including screenshots or recordings of private imagery or conversations. 
-    
-*   Sharing content featuring vulnerable people who may not be able to consent to their content being captured or shared, including minors, unhoused people, people with diminished mental capacity, and those in a medical facility, nursing home, or assisted living facility.  
-    
-
-### 
-
-Our efforts to protect users
-
-  
-
-We aim to balance safety and privacy in our approach to protecting users. We use a combination of automated tools and human review to prevent users from being exposed to harassment or bullying on public surfaces (such as Spotlight, Public Stories and Maps). 
-
-We built Snapchat to connect real friends and limit unwanted exposure. By default, users can receive messages only from people they’ve added as friends. Users can also make their profiles private and block users from seeing or contacting them. For users under the age of 18, profiles are private by default, and for users under the age of 16, profiles can only be set to private. 
-
-We encourage users to report when they experience or observe violations of these rules. We take a victim-centric approach when evaluating harassment and bullying by considering whether a user perceives a situation as bullying or harassment when they are the target of such conduct. Our moderation teams aim to ensure that each user feels safe and comfortable using Snapchat.
-
-### 
-
-Takeaway
-
-We prohibit harassment and bullying. We want our users to feel safe while using Snapchat. If you ever feel uncomfortable, please do not hesitate to send us a report and block the other user—these features are provided for your safety. Through our [Here For You](https://help.snapchat.com/hc/en-us/articles/7012398974612-Wellbeing-Features-on-Snapchat?lang=en-GB#:~:text=Here%20For%20You%20provides%20proactive,are%20at%20risk%20for%20self%2Dharm.) portal, we help ensure users have access to in-app resources and information to help recognise and address bullying and harassment. We also provide tools to facilitate easy reporting of any violating behaviour on Snapchat.
-
-Please be considerate of people’s dignity and privacy—if they express discomfort, respect their boundaries. If they ask you to remove content about them, please do, and generally refrain from sharing images of people or information about them without their permission.
-
-  
-
-Up Next:
-
-Illegal or Regulated Activities
-
-
------------------------------------
-
-[Read Next](https://values.snap.com/policy/policy-community-guidelines/illegal-regulated-activities)
-
 - - -
 
 Community Guidelines
@@ -451,77 +464,6 @@ Sexual Content and Conduct
 Community Guidelines Explainer Series
 
 Updated: March 2026
-
-### 
-
-Overview
-
-We strive to protect Snapchatters from unsolicited sexual content or abuse. Our policies prohibit sexual exploitation of any kind – including the sexual exploitation of children. We also prohibit sexual harassment and sharing, promoting or distributing sexually explicit content and conduct, including pornography, sexual nudity or offers of sexual services.
-
-### 
-
-Prohibited Conduct
-
-We prohibit the following sexual harms: 
-
-*   Any activity that involves sexual exploitation or abuse of a minor, including sharing child sexual exploitation or abuse imagery; grooming for sexual purposes; sexual extortion (sextortion); or attempts to persuade, trick or coerce a minor with the intent of sexual abuse or exploiting the sexualisation of children. We report any child sexual exploitation that we’ve identified, including attempts to engage in such conduct, to the appropriate authorities, including the US National Centre for Missing and Exploited Children (NCMEC), in line with legal requirements. 
-    
-*   The sexualisation of minors or sharing of minor nudity, whether involving real individuals or fictional, synthetic or digitally created representations, regardless of whether it rises to the level of child sexual exploitation.
-    
-*   Adult sexual exploitation, including non-consensual sexual content, sextortion and deceptive sexual practices, such as efforts to coerce or entice users to provide nude imagery.
-    
-*   Producing, sharing or threatening to create or share non-consensual intimate imagery (NCII) – including sexual or intimate photos or videos taken or shared without permission, depictions of private acts (such as bathing or using the bathroom), as well as "revenge porn" or behaviour that threatens to share, exploit or expose individuals' intimate images or videos without their consent.
-    
-*   Sharing or creating AI-generated sexual content, including offering or promoting "nudify" services or applications.
-    
-*   Sexual harassment, which may include making unwanted advances, sharing graphic and unsolicited content, or sending obscene requests or sexual invitations to other users.
-    
-*   Promoting, distributing or sharing pornographic content, including photos, videos or highly realistic animation, drawings, or other renderings of explicit sex acts, or nudity where the primary intention is sexual arousal.
-    
-*   Offers or solicitation of sexual services (whether paid or unpaid), including both offline services (such as, for example, erotic massage) and online experiences (such as, for example, offering sexual subscription services, or sexual chat or video services).
-    
-
-  
-We do allow for non-sexual nudity in certain contexts, such as breastfeeding, medical procedures and other similar depictions provided the subject has provided their consent.
-
-### 
-
-Our efforts to protect users
-
-  
-
-We aim to consider both safety and privacy in our approach to protecting users. We use a combination of automated tools and human review intended to prevent users from being exposed to pornographic content or other sexual harms or exploitation on public surfaces (such as Spotlight, Public Stories, and Maps). 
-
-We use automated tools to help identify and remove certain known illegal child sexual exploitation photos and videos, including: 
-
-*   Microsoft’s PhotoDNA (to detect duplicates of known illegal images) 
-    
-*   Google’s CSAI Match (to detect duplicates of known illegal videos)
-    
-*   Google’s Content Safety API (to aid in detecting novel, “never-before-hashed” imagery)
-    
-
-We use similar technology to help identify and remove certain non-consensual intimate imagery. We participate in the Take It Down program run by the National Centre for Missing and Exploited Children (NCMEC), receiving and leveraging hashes of nude or partially nude imagery supplied by minors that they want to prevent from spreading online. We also participate in StopNCII, a similar programme for people who are 18 or older, run by South West Grid for Learning (SWGfL) based in the UK. In addition, in some cases, we use behavioral “signals” to identify potentially illegal or harmful activity so that we can proactively remove bad actors and report them to authorities as appropriate. 
-
-When we become aware of sexually explicit or exploitative content, we act swiftly to remove the offending content, enforce against the violating account, and where appropriate, escalate to NCMEC and/or law enforcement. We work closely with NCMEC and law enforcement to maintain a feedback loop on the effectiveness of our policies.
-
-### 
-
-Takeaway
-
-We prohibit sexual exploitation and sexually explicit content of any kind, including the sexual exploitation of children, sharing non-consensual intimate imagery (NCII), sextortion, sexual harassment, pornography and offers of sexual services. Never post, save, send, forward, distribute or ask for nude or sexually explicit content involving anyone under the age of 18 (this includes sending or saving such images of yourself). When we discover severe harm involving sexual content, we lock the offending account and report it to authorities where appropriate. 
-
-  
-We want users to feel safe and comfortable using Snap. If you ever feel unsafe or believe you may be in immediate danger, consider contacting your local law enforcement, where appropriate, and block offending users. We also encourage you to [report](https://help.snapchat.com/hc/en-us/articles/7012399221652-How-do-I-report-abuse-or-illegal-content-on-Snapchat?lang=en-US) violating content or accounts to Snapchat so we can take appropriate action.
-
-Up Next:
-
-Up Next: Threats, Violence, & Harm
-
-
---------------------------------------
-
-[Read Next](https://values.snap.com/policy/policy-community-guidelines/threats-violence-harm)
 
 - - -
 
