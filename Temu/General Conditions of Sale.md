@@ -181,7 +181,7 @@ In most cases, your order will be delivered within the time of delivery. However
 Minimum Order Value
 -------------------
 
-Minimum order value: €10 for first order and €25 for subsequent orders.
+Minimum order value: €10 for first order and €25 for subsequent orders, after applicable coupons and discounts.
 
 Issues regarding delivery
 -------------------------
