@@ -106,7 +106,9 @@ When you buy a product from our service, we ask you to complete a review. This i
 
 You should be aware that your reviews will be accessible to all users of the site. If you post a photograph with the review, you should be aware that you or your surroundings may be recognisable from the photo.
 
-If you post an image of a third party, including your children, you should first obtain their consent to do so. You should be aware that they may have the right to have the photo removed under applicable law, including Data Protection law. If a third party asks you to remove a photo of them that you have posted, we recommend that you do so. **Use of Customer Service Chats for Quality Assessment and Training of AI Models**
+If you post an image of a third party, including your children, you should first obtain their consent to do so. You should be aware that they may have the right to have the photo removed under applicable law, including Data Protection law. If a third party asks you to remove a photo of them that you have posted, we recommend that you do so.
+
+### **Use of Customer Service Chats for Quality Assessment and Training of AI Models**
 
 ### 1.4 Customer Service Chat Quality Assessment:
 
