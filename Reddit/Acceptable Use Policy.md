@@ -452,7 +452,7 @@ What are some things that may violate this policy?
 
 Note: We enforce this policy against a range of harmful content and behaviors. Some of our prohibitions go above and beyond legally-defined requirements. However, in some cases, we do rely on contextual information or signals from the community to determine the inappropriate nature of the content or behaviors. We also recognize that child sexual exploitation and related topics may be discussed in the context of preventative education, news stories, or societal concern, and we may allow this discourse to happen as long as it does not violate the letter or spirit of the prohibitions listed above.
 
-Some examples of policy violations
+**Some examples of policy violations**
 
 *   An animation depicting a child in a sexual act.
 *   A comment rating the attractiveness or sexual maturity of a child in a school photo or dance video.
@@ -463,7 +463,7 @@ Some examples of policy violations
 *   “Grooming” of a minor by an adult, such as through chat messages that may include a combination of flattery, requests for personal information, or to meet in person.
 *   A profile or username advertising access to “young” content, or a megathread of links described as under-18 material.
 
-Some examples that do NOT violate this policy
+**Some examples that do NOT violate this policy**
 
 *   News reporting, court records, or documentary discussion of a child exploitation case, shared without exploitative imagery or sexualizing commentary.
 *   A survivor describing their own experience, or an adult recounting something that happened to them when they were underage.
