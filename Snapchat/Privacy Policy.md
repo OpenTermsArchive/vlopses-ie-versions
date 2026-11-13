@@ -614,67 +614,43 @@ How we use your information
 
 Our services are made to be simple and easy to use, but a lot of work goes into keeping them up and running! One of the key elements that powers our products is information that’s either shared or intuited – so here’s a quick walkthrough of the information we use and how we use it!
 
-### 
-
-Develop new features & improve existing ones
-
-First stop: development. Our teams work closely together to develop fun, imaginative new features. You actually help out our development team every day, just by using our products!
-
-For example, we look at the Filters and Lenses that Snapchatters use the most to decide which ones we should create next. We develop a lot of our features with the same approach, so we can stay on top of our game and build new things you love!
-
-We’re always looking for ways to improve our services, too. Sometimes, we’ll change how a feature works or how the app looks. Your information can help us decide what kind of improvements we should make. For example, Snapchat can guess who your best friends are, based on who you talk with the most – so the app can place them right at the top of your Send To screen to make Snapping with them that much easier. Studying data from a lot of Snapchatters can help us see trends in the ways that people use the app. This helps inspire us to improve Snapchat in big ways, on a larger scale!
-
-### 
-
-Keep things up & running
-
-Next up: operations. Our products work by sharing some information you ask us to — like a Snap you want to send to a friend or add to Spotlight. Specific features, like Snap Map, can use your location data to help you explore the Map and share your location with friends. You can also use Snapcodes to share websites, Lenses and friends with other Snapchatters.
-
-To keep things running, we also monitor the way our products and features are used, analyse trends and listen to your feedback to help improve them every day! For example, we might analyse how long you're in the app, what Filters or Lenses you use the most, and the Spotlight content you like to watch. This helps us better understand what’s resonating with our community — and lets publishers know what content people are enjoying the most!
-
-We also use some of your information to help keep our products up to date. As a technology company, it's important to make sure that our camera can record in high quality, across as many different devices as possible. So, if you got a new phone on launch day, we might assess the performance of your device to make sure that we’re optimizing Snapchat for it!
-
-Similarly, when we release new versions of the app, we need to make sure it works well on different operating systems and devices. Over a billion Snaps are created and shared every single day, so we also analyse the volume of Snaps to make sure we can deliver them all quickly and securely.
-
-### 
-
-Personalise your experience & give things context
-
-No two people are the same, so we use some of your information to tailor your Snapchat experience especially for you! For example, we personalize the Spotlight content you see - so if you show interest in sports, you might see more sports-related content. Or, if you regularly post Snaps of your puppy to [My Story](https://www.snap.com/privacy/privacy-by-product/?lang=en-GB#my-story), we might be able to guess that you like dogs and try to show you content that's relevant to your interests!
-
-We can also personalize the Search screen to highlight content you might be interested in and present you with a personalized overview of your Memories. If we know it’s your birthday, we can give you and your friends a special Lens to help celebrate! We can also personalise ads, Search, Filters, Snap Map, and Lenses to really make your Snapchat experience unique.
-
-We also use information to help give your Snaps some context, based on where you are and what’s going on around you! This includes stickers that can show the time, location, the weather, or special Lenses and Filters made for an event you’re at. Also, we use this information to sort your Memories, so they’re organised for you based on when and where they were captured.
-
-For more information on how we personalize your experience, please read [here](https://help.snapchat.com/hc/en-us/articles/17338132910484?utm_campaign=personalization_opt_out&utm_medium=tos&utm_source=web&lang=en-GB).
-
-### 
-
-Keep our services safe & secure
-
-It’s important to us that you’re as safe and secure as possible when you’re using our services, so we use some of your information to enhance these aspects of our products too! For example, we provide two-factor authentication to secure your account and can send you an email or text message if we notice any suspicious activity. We also scan URLs sent on Snapchat to see if that webpage is potentially harmful and can give you a warning about it.
-
-### 
-
-Provide relevant adverts
-
-We think adverts are best when they're relevant — advertisers prefer them and we think you'll like them more too. So, we use some of the information we learn about you to try to select the right adverts at the right time. For example, if you’ve clicked on a bunch of adverts for video games, we might keep those adverts coming! But we also use your information to avoid showing you adverts you probably won’t like. For example, if a ticketing site tells us you’ve already bought tickets for a movie — or if you bought them through Snapchat — we can stop showing you ads for it. [Learn more](https://help.snapchat.com/hc/articles/7012345515796?lang=en-GB).
-
-### 
-
-Reach out to you
-
-Sometimes we’ll get in touch with you to give you a sneak peek of new features we’re releasing, promotions and other things like that. For example, we sent out a Chat to many Snapchatters to let them know that Group Video Chat was released. We mainly do this in the app, but sometimes we'll send you an email, text message or communicate with you through other messaging platforms. We also use your information to get back to you when you've reached out to our Support team or to remind you about messages or requests that are waiting for you. We definitely don't like spam ourselves, so we try to limit the emails and messages we send.
-
-### 
-
-Enforce our Terms & Policies
-
-The last category is legal. This usually is the most boring category, but it’s an important one! In some cases, we use your information for legal purposes. For example, when unlawful content is posted on Snapchat or another one of our services, we may need to enforce our Terms of Service and other policies. In some cases, we may also use or share your information to cooperate with law enforcement requests or comply with our legal obligations. Check out our [Transparency Report](https://values.snap.com/privacy/transparency) to learn more.
-
 - - -
 
 **PLEASE NOTE: WE'VE UPDATED THESE PERSONAL DATA TERMS, EFFECTIVE JUNE 30, 2025. YOU CAN VIEW THE PRIOR PERSONAL DATA TERMS, WHICH APPLY TO ALL USERS UNTIL JUNE 30, 2025,** [**HERE**](https://www.snap.com/terms/personal-data/prior-12-09-2024?lang=en-GB)**.**
+
+Personal Data Terms
+
+
+-----------------------
+
+Effective: June 30, 2025
+
+ARBITRATION NOTICE: YOU ARE BOUND BY THE [ARBITRATION](https://www.snap.com/terms/business-services#governing-law-and-disputes) PROVISION SET FORTH IN THE [BUSINESS SERVICES TERMS](https://www.snap.com/terms/business-services). IF YOU ARE CONTRACTING WITH SNAP INC., THEN YOU AND SNAP INC. WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
+
+**Introduction**
+
+These Personal Data Terms form a legally binding contract between you and Snap, govern the provision or receipt (as applicable) of personal data via the Business Services, and are incorporated into the [Business Services Terms](https://www.snap.com/terms/business-services). Some terms used in these Personal Data Terms are defined in the [Business Services Terms](https://www.snap.com/terms/business-services).
+
+**1\. Representations and Warranties**
+
+If you provide or make available any personal data to Snap or its affiliates, including by enabling Snap to receive personal data through Snap tools like pixels, JavaScript SDKs, APIs or cookies, within content you approve or make available via the Business Services, or by providing personal data to a third party for the purposes of using the Business Services, then in addition to the representations and warranties in the [Business Services Terms](https://www.snap.com/terms/business-services), you represent and warrant that: (a) you will comply with Applicable Law, applicable self-regulatory standards and guidelines and any applicable mobile developer or app store terms, guidelines or policies (collectively, "Rules") when using the Business Services; (b) the personal data will not contain any information collected from an online service directed to children or about individuals that are under the age of 13 (or, if greater than the age of 13, the minimum age at which the processing of personal data of a data subject is lawful under Applicable Law) or any sensitive information or special category data, as defined in the Rules, including any information that is based on, or includes: (i) an alleged or actual commission of a crime; (ii) health information, including any health information further detailed in our [Business Help Center](https://businesshelp.snapchat.com/?language=en_US); or (iii) information about user's financial status, racial or ethnic origin, religious beliefs or preferences, sex life or sexual preferences or trade union membership; (c) the personal data will not contain, include, be based on, or otherwise reveal (directly or indirectly) any “protected health information” or “consumer health data” (as defined in the Rules); (d) you have secured, and will maintain, all necessary rights, licences and consents required to provide or make available the personal data and for the personal data to be used in accordance with the [Business Services Terms](https://www.snap.com/terms/business-services), including from all data subjects whose data is included in personal data; (d) you will provide sufficient notice to each data subject in compliance with the Rules that the data subject's information collected by you or your agents may be shared with and used by third parties for the purposes specified under the [Business Services Terms](https://www.snap.com/terms/business-services), including, at a minimum a clear and prominent notice about how and where users can opt out of the use of personal data for ad targeting and, where applicable: (i) for websites, a clear and prominent notice on each webpage where you utilise the Business Services stating that third parties, including Snap and its affiliates, may use cookies, web beacons and other technologies to collect or receive information from your websites, apps and elsewhere on the internet, and may use that information to provide measurement services, advertising targeting and other advertising services; and (ii) for apps, a clear and prominent link inside your apps' settings or your privacy policy, and from within any store or website where your apps are distributed, that explains that third parties, including Snap and its affiliates, may collect or receive information from your apps and other apps, and may use that information to provide measurement services, ad targeting, and other advertising services; (e) in jurisdictions that require informed consent for storing and accessing cookies or other information of a data subject (including the European Union), you must ensure, in a verifiable manner, that each data subject provides you with the necessary consent before you use the Business Services to send personal data in connection with that data subject; and (f) you will promptly notify Snap of any actual or threatened complaint relating to personal data, and you will reasonably cooperate with Snap, at your expense, in responding or defending against any such complaint. Snap may request further information in connection with your compliance with this Section.
+
+**2\. Supplemental Terms and Policies**
+
+*   If Snap processes personal data on your behalf then you agree to the [Data Processing Agreement](https://www.snap.com/terms/data-processing-agreement), [Data Transfer Agreement](https://www.snap.com/terms/data-transfer-agreement), and [EEA controller-processor Standard Contractual Clauses](https://www.snap.com/terms/standard-contractual-clauses).
+    
+*   If you provide personal data via the Business Services of consumers which are subject to the US state privacy laws further described in the [U.S. Privacy Terms](https://www.snap.com/terms/us-privacy), then you agree to the [U.S. Privacy Terms](https://www.snap.com/terms/us-privacy).
+    
+*   If you provide personal data via the Business Services of Turkish data subjects and you are using the Business Services either in your personal capacity and you live in Turkey, or on behalf of an entity which has its principal place of business in Turkey, then the [Turkish Privacy Terms](https://www.snap.com/terms/turkish-privacy) apply.
+    
+*   If you provide personal data via the Business Services of Saudi Arabian data subjects and you are using the Business Services either in your personal capacity and you live in the Kingdom of Saudi Arabia, or on behalf of an entity which has its principal place of business in the Kingdom of Saudi Arabia, then the [Saudi Privacy Terms](https://www.snap.com/terms/saudi-privacy) apply.
+    
+*   If Event Data you provide under the [Snap Conversion Terms](https://www.snap.com/terms/snap-conversion) includes a limited data use signal that Snap honors, then the [Limited Data Use Terms](https://www.snap.com/terms/ldu) apply.
+    
+*   If you and Snap are independent controllers of personal data provided via the Business Services then you agree to the [Data Sharing Agreement](https://www.snap.com/terms/data-sharing-agreement), [Data Transfer Agreement](https://www.snap.com/terms/data-transfer-agreement), and [EEA controller-controller Standard Contractual Clauses](https://www.snap.com/terms/eea-c-c-scc).
+    
+
+_In summary: you provide a number of assurances about the data you transfer to Snap, including that you have complied with all applicable laws in relation to the data; the data wasn't collected from an online service aimed at anyone under 13; the data will not include sensitive information; you obtained any necessary rights, licenses and consents to cover Snap's use of the data; you will include appropriate notices to data subjects; you will obtain and record data subject consent where required; and you will notify Snap of any complaints and assist Snap with dealing with such complaints at your cost. Please note that other supplemental terms and policies may apply, as set out above._
 
 - - -
 
