@@ -42,7 +42,7 @@ The ability to post a review is linked to SHEIN's ability to match a user's acco
 
 If you do not confirm payment of the order, you will not be allowed to post a review about the product you have purchased within that order, because the “Post a comment” or “Comment” option will not appear available to you if we have not been able to verify that you have completed such purchase.
 
-You can post a review on any product you have purchased and received within 6 months of placing the order. You will not be able to post a review on a product on after this period expires. You cannot update or change your comment once you have submitted it.
+You can post a review on any product you have purchased and received within 180 days of placing the order. You will not be able to post a review on a product on after this period expires. You cannot update or change your comment once you have submitted it.
 
 A product with the same SKU (or product reference) in an order can only be reviewed once.
 
