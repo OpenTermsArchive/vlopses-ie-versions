@@ -36,7 +36,7 @@ See the following requirements for an individual creator or group:
 
 | Creator or group is able to: | Requirements |
 | --- | --- |
-| Upload content from Studio or Creator Dashboard | *   ID verification or linked parental account<br>    <br>*   80 Robux upload fee |
+| Upload content from Studio or Creator Dashboard | *   ID verification or linked parental account<br>    <br>*   80-500 Robux upload fee |
 | Publish content to the Marketplace | *   ID verification or linked parental account<br>    <br>*   2-step verification<br>    <br>*   10-2500 Robux publishing advance<br>    <br>*   Individual creator or group owner needs Roblox Plus or Premium 1000/2200 |
 | Keep existing content on-sale | Individual creator or group owner needs Roblox Plus or Premium 1000/2200 |
 
