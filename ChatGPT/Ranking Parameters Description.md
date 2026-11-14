@@ -53,9 +53,9 @@ Shop from images, try on clothing and accessories virtually, save products for l
 Overview
 --------
 
-When your question suggests shopping intent (for example, “Help me find costumes for my dog”), ChatGPT can show product options with imagery, product details, and links to sites where you can learn more or purchase.
+When your question suggests shopping intent (for example, “Help me find costumes for my dog”), ChatGPT can show product options with imagery and product details, and show available ways to purchase.
 
-Product results are selected independently by ChatGPT and are not ads, nor influenced by any OpenAI partnerships. Ads are separate from product results, and you can learn more [about ads in ChatGPT](https://help.openai.com/articles/20001047).
+Product results are not ads; how products and merchants are selected is described below. Ads are separate from product results, and you can learn more [about ads in ChatGPT](https://help.openai.com/articles/20001047).
 
 Compare products and refine your options
 ----------------------------------------
@@ -120,7 +120,7 @@ Available in ChatGPT on mobile and web. 
 How product results are selected
 ================================
 
-A product appears in the carousel when ChatGPT perceives it to be relevant to your intent. It considers your query and context (such as Memory or Custom instructions).  
+ChatGPT may select or surface one or more products for you to buy when it perceives the product(s) to be relevant to your intent. It considers your query and context (such as Memory or Custom instructions).  
   
   
 _For more information, see:_ [_Memory_](https://help.openai.com/articles/8590148) _and_ [_Custom instructions_](https://help.openai.com/articles/8096356).  
