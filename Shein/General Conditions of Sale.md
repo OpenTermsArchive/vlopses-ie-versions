@@ -18,7 +18,7 @@ We hope you like what you’ve ordered! However, should you wish to return an it
 
 **\- [SHEIN’s Return Policy](javascript:;):**this is a commercial policy we have voluntarily put in place to offer you additional terms **beyond the fourteen (14) days**, because your satisfaction is our priority. This policy allows Customers, subject to certain conditions and in accordance with the terms set out below, to return items that are no longer eligible for the statutory right of withdrawal, to obtain a refund. This policy therefore supplements the statutory right of withdrawal.
 
-We have simplified the returns process as much as possible. Please note that Infinite Styles Services Co. Ltd ("SHEIN") will process any returns on behalf of the relevant seller (please see our [information on the allocation of obligations](javascript:;)).ONLY FOR Customers in the Ireland: Your return is also subject to the Fair Use Policy.(See our [SHEIN Fair Use Returns Policy](javascript:;).)
+We have simplified the returns process as much as possible. Please note that Infinite Styles Services Co. Ltd ("SHEIN") will process any returns on behalf of the relevant seller (please see our [information on the allocation of obligations](https://eur.shein.com/information-and-obligations-of-the-seller-a-3174.html)).ONLY FOR Customers in the Ireland: Your return is also subject to the Fair Use Policy.(See our [SHEIN Fair Use Returns Policy](https://eur.shein.com/shein-fair-use-policy-for-returns-a-3642.html).)
 
 1\. Right of withdrawal
 
@@ -160,7 +160,7 @@ NOTE:
 
 ● If you need to return an oversized or overweight item, or if you are returning items from a remote area, you may be required to arrange the return shipment yourself. In such cases, you will need to cover the shipping cost upfront and save the proof of mailing. Once you have returned the items and they have successfully passed our quality inspection, you can contact us for reimbursement of the shipping costs.
 
-[**START RETURN**](javascript:;)
+[**START RETURN**](https://eur.shein.com/user/orders/list)
 
 4\. What Are the Return Methods and Return Fees?
 
@@ -170,7 +170,7 @@ NOTE:
 
 | Return Method | Return Documentation | Printer Required | Return Fees |
 | --- | --- | --- | --- |
-| Anpost  <br>Store drop-off | Return Label | Yes | Returns are free for your first return of one or more eligible items from any order within the voluntary return period, but are subject to our Fair Use Policy (see our [SHEIN Fair Use Returns Policy](javascript:;)).<br><br>  <br><br>For the second and any subsequent returns from the same order, a shipping fee of **4,5 EUR** will be deducted from your refund. |
+| Anpost  <br>Store drop-off | Return Label | Yes | Returns are free for your first return of one or more eligible items from any order within the voluntary return period, but are subject to our Fair Use Policy (see our [SHEIN Fair Use Returns Policy](https://eur.shein.com/shein-fair-use-policy-for-returns-a-3642.html)).<br><br>  <br><br>For the second and any subsequent returns from the same order, a shipping fee of **4,5 EUR** will be deducted from your refund. |
 | Self-Return | Depends on your logistics provider |     | You need to pay the return fee directly to your logistics provider, and we Do Not reimburse the costs. |
 
   
@@ -227,7 +227,7 @@ Go to "My Orders" → Click "Returns" → Click "Return & Refund Record" → Cli
 
 | Return Shipment | Return Receipt | Warehouse QC | SHEIN Refund | Financial Institution Process Time |
 | --- | --- | --- | --- | --- |
-| 5-7 days |     | 5-7 days | 1 day | It usually takes 1-10 business days, depending on your financial institution.<br><br>[Click here for details](javascript:;) |
+| 5-7 days |     | 5-7 days | 1 day | It usually takes 1-10 business days, depending on your financial institution.<br><br>[Click here for details](https://eur.shein.com/refund-a-1614.html) |
 
 When a returned item arrives at our warehouse, we will inspect and/or test it. If the returned item is used or damaged, has missing parts or accessories, or is damaged due to improper use (and not due to SHEIN or the seller), the refund will be reduced to reflect the loss in value. If the returned item is entirely in a non-resalable condition, no refund will be issued. We will dispose of the item unless you instruct us otherwise and agree to pay the cost of its return.
 
@@ -239,4 +239,4 @@ When a returned item arrives at our warehouse, we will inspect and/or test it. I
 
 ● If you receive a faulty or damaged item, please contact Customer Service within 90 days from the order date. We will investigate the issue and provide a suitable solution, including a refund if applicable.
 
-**You can click [here](javascript:;) to learn more about the Refund Policy.**
+**You can click [here](https://eur.shein.com/refund-a-1614.html) to learn more about the Refund Policy.**
