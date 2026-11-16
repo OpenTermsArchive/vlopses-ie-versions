@@ -14,16 +14,6 @@ Intellectual property
 
 Copy link
 
-What is Facebook copyright?
-
-What is Facebook trademark?
-
-How do I report copyright violations?
-
-How do I report trademark violations?
-
-I have a different question
-
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
 Copyright
@@ -193,6 +183,16 @@ What is trademark infringement?
 ===============================
 
 Copy link
+
+What is trademark infringement?
+
+What is trademark dilution?
+
+What is a protected trademark?
+
+How does trademark law work?
+
+I have a different question
 
 Generally, trademark infringement occurs when all three of the following requirements are met:
 
@@ -1390,11 +1390,11 @@ Related articles
 
 [Report an app or game on Facebook](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
 
+[What to do if someone is harassing you in an app on Facebook](https://www.facebook.com/help/219438578084704/?helpref=related_articles)
+
 [Report content on Facebook](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
 
 [Tools Facebook provides to protect your intellectual property](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
-
-[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 Related articles
 
@@ -1406,15 +1406,15 @@ Related articles
 
 * * *](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
 
+[What to do if someone is harassing you in an app on Facebook
+
+* * *](https://www.facebook.com/help/219438578084704/?helpref=related_articles)
+
 [Report content on Facebook
 
 * * *](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
 
-[Tools Facebook provides to protect your intellectual property
-
-* * *](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
-
-[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
+[Tools Facebook provides to protect your intellectual property](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1631,16 +1631,6 @@ Resolve issues, make changes and get support in real time
 Copyright
 =========
 
-How do I report copyright infringement?
-
-How do I protect my copyrighted work?
-
-What is Facebook copyright policy?
-
-What are intellectual property tools?
-
-I have a different question
-
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
 Laws in different countries may vary. For more information on copyright law, you can visit the website of the [US. Copyright Office](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.copyright.gov%2F) or the [World Intellectual Property Organisation (WIPO)](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.wipo.int%2Fportal%2Fen%2Findex.html). Facebook can't provide you with legal advice, so you may want to speak with a lawyer if you have more questions about copyright.
@@ -1704,13 +1694,6 @@ Rights Manager and other intellectual property tools
 Tools Facebook provides to protect your intellectual property
 
 What tools does Facebook provide to help me enforce my intellectual property rights in advertisements and sale posts?
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1821,9 +1804,9 @@ Related articles
 
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
-
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 Related articles
 
@@ -1839,11 +1822,11 @@ Related articles
 
 * * *](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[How long does copyright protection last?
+[Where can I learn more about copyright?
 
-* * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+* * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
-[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1883,23 +1866,19 @@ Related articles
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
-
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 [What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
+[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+
 Related articles
 
 [How do you know if you own the copyright in a work
 
 * * *](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
-
-[How long does copyright protection last?
-
-* * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 [What is copyright and what does it protect?
 
@@ -1909,7 +1888,11 @@ Related articles
 
 * * *](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
-[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+[Where can I learn more about copyright?
+
+* * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+
+[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
