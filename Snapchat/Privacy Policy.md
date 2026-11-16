@@ -371,68 +371,6 @@ As a privacy-centric visual communication platform for free expression, Snap is 
 
 We provide you control over your information, see the [Control of Your Information](https://values.snap.com/privacy/privacy-policy#control-over-your-information) Section of our Privacy Policy to learn more.
 
-### 
-
-CHD We Collect
-
-_Some of the information that we collect could be considered CHD, like photographs and location. However, we don’t use that information to make inferences about your specific health status._
-
-As described in the [Information We Collect](https://values.snap.com/privacy/privacy-policy) section of the Privacy Policy, we collect personal information directly from you, from your interactions with our Services, and from third parties. The data we collect depends on how you interact with us, the Services you use, and the choices you make. Because CHD is defined in these laws very broadly, many of the categories of data we collect are or could be considered CHD. For example:
-
-*   Photographs, videos, and audio may be considered CHD;
-    
-*   Precise location information, including where it could reveal your attempt to acquire health services or supplies — like if your location on Snap Map shows that you’re at a hospital; and
-    
-*   Information that could identify your attempt to seek health care services or information, like your search history, interaction with our Services and other webpages, certain conversations with My AI, or how you configure your Bitmoji.
-    
-
-### 
-
-How We Use CHD
-
-_We use the information we collect to provide you with Services, and where required, we’ll collect your consent to use information for other purposes._
-
-Since CHD is defined so broadly, we do collect and use CHD for the purposes described in the [How We Use Information](https://values.snap.com/privacy/privacy-policy#how-we-use-information) section of the Privacy Policy. Primarily, we collect and use CHD to operate, deliver, and maintain our Services. This may include personalization, ensuring the secure and reliable operation of the Services, troubleshooting, and other essential business operations that support the provision of the Services (such as analyzing our performance and meeting our legal obligations).
-
-We may use CHD for other purposes for which we give you choices and/or obtain your consent as required by law. See the How to Exercise Your Rights section below for more details on the controls and choices you may have.
-
-### 
-
-How We Share CHD
-
-_We generally share information when you ask us to do so or as necessary to provide the Services. We also, in rare cases, share information for other reasons. This section provides details about who we share information with and the reasons why._
-
-We may share each of the categories of CHD described above for the purposes described in the [How We Share Information](https://values.snap.com/privacy/privacy-policy#how-we-share-information) section of our Privacy Policy. For example, we share your content with third parties when you tell us to do so, such as when you post a Snap to your Story or Spotlight. And we may disclose data when we believe that doing so is necessary to comply with applicable law or respond to valid legal process.
-
-**Recipients and Reasons for Sharing**
-
-As necessary for the purposes described above, we share CHD with the following categories of third parties:
-
-*   **Service providers.** Vendors or agents (“processors”) working on our behalf may access CHD for the purposes described above. We maintain a list of categories of service providers [here](https://help.snapchat.com/hc/articles/7012351145364?lang=en-GB) (although not all of those service providers necessarily process data that could be considered CHD).
-    
-*   **Parties to a corporate transaction.** If we were to sell or negotiate to sell our business to a buyer or possible buyer, we may transfer your personal information, which may include CHD, to a successor or affiliate as part of that transaction.
-    
-*   **With our affiliates.** We may share personal information, which may include CHD, with entities within the [Snap Inc. family of companies](https://help.snapchat.com/hc/articles/7047492876308?lang=en-GB) where necessary to provide our Services.
-    
-*   **Third-Party Apps.** Sometimes we provide features that allow you to connect with third-party apps. If you decide to connect your Snapchat account with a third-party app, we will share any additional information you direct us to.
-    
-*   **Other third parties, like legal, safety, and security partners.** In certain circumstances, it may be necessary to provide CHD to other third parties, for example, to secure our Service, comply with the law or to protect our rights or those of other users. We will also disclose CHD to law enforcement or other government agencies only when we believe doing so is necessary to comply with applicable law or respond to valid legal process.
-    
-*   **Snapchat.** You may use our Services to share certain information with any Snapchat user (whether to all users of the app or selected recipients), such as your pictures, content, or geolocation data, which may be considered CHD.
-    
-
-### 
-
-Your Rights
-
-_Depending on where you live, you may have additional rights._
-
-Depending on the state in which you reside, you may have certain rights with respect to CHD. You can request to exercise such rights using the various tools and mechanisms described in the [Your Rights](https://values.snap.com/privacy/privacy-policy/us-state-privacy-notice#rights) section of the [U.S. State Privacy Notice](https://values.snap.com/privacy/privacy-policy/us-state-privacy-notice). For example, depending on the specific Services you use, you can access and make choices about your data through the self-service tools we offer. You can also obtain a copy of your data, including any CHD, by using [Download My Data](https://help.snapchat.com/hc/articles/7012305371156?lang=en-GB).
-
-If we obtain your consent for a particular processing purpose, you may withdraw your consent at any time. You may also opt out of location sharing at any time though the settings on your mobile device. 
-
-If your request to exercise a right is denied, you may appeal that decision by [contacting us](https://help.snapchat.com/hc/requests/new?lang=en-GB). If your appeal is unsuccessful and you are a Washington State resident, you can raise a concern or lodge a complaint with the [Washington Attorney General](https://www.atg.wa.gov/file-complaint).
-
 - - -
 
 ### 
@@ -953,6 +891,40 @@ The last category is legal. This usually is the most boring category, but it’s
 - - -
 
 **PLEASE NOTE: WE'VE UPDATED THESE PERSONAL DATA TERMS, EFFECTIVE JUNE 30, 2025. YOU CAN VIEW THE PRIOR PERSONAL DATA TERMS, WHICH APPLY TO ALL USERS UNTIL JUNE 30, 2025,** [**HERE**](https://www.snap.com/terms/personal-data/prior-12-09-2024?lang=en-GB)**.**
+
+Personal Data Terms
+
+
+-----------------------
+
+Effective: June 30, 2025
+
+ARBITRATION NOTICE: YOU ARE BOUND BY THE [ARBITRATION](https://www.snap.com/terms/business-services#governing-law-and-disputes) PROVISION SET FORTH IN THE [BUSINESS SERVICES TERMS](https://www.snap.com/terms/business-services). IF YOU ARE CONTRACTING WITH SNAP INC., THEN YOU AND SNAP INC. WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
+
+**Introduction**
+
+These Personal Data Terms form a legally binding contract between you and Snap, govern the provision or receipt (as applicable) of personal data via the Business Services, and are incorporated into the [Business Services Terms](https://www.snap.com/terms/business-services). Some terms used in these Personal Data Terms are defined in the [Business Services Terms](https://www.snap.com/terms/business-services).
+
+**1\. Representations and Warranties**
+
+If you provide or make available any personal data to Snap or its affiliates, including by enabling Snap to receive personal data through Snap tools like pixels, JavaScript SDKs, APIs or cookies, within content you approve or make available via the Business Services, or by providing personal data to a third party for the purposes of using the Business Services, then in addition to the representations and warranties in the [Business Services Terms](https://www.snap.com/terms/business-services), you represent and warrant that: (a) you will comply with Applicable Law, applicable self-regulatory standards and guidelines and any applicable mobile developer or app store terms, guidelines or policies (collectively, "Rules") when using the Business Services; (b) the personal data will not contain any information collected from an online service directed to children or about individuals that are under the age of 13 (or, if greater than the age of 13, the minimum age at which the processing of personal data of a data subject is lawful under Applicable Law) or any sensitive information or special category data, as defined in the Rules, including any information that is based on, or includes: (i) an alleged or actual commission of a crime; (ii) health information, including any health information further detailed in our [Business Help Center](https://businesshelp.snapchat.com/?language=en_US); or (iii) information about user's financial status, racial or ethnic origin, religious beliefs or preferences, sex life or sexual preferences or trade union membership; (c) the personal data will not contain, include, be based on, or otherwise reveal (directly or indirectly) any “protected health information” or “consumer health data” (as defined in the Rules); (d) you have secured, and will maintain, all necessary rights, licences and consents required to provide or make available the personal data and for the personal data to be used in accordance with the [Business Services Terms](https://www.snap.com/terms/business-services), including from all data subjects whose data is included in personal data; (d) you will provide sufficient notice to each data subject in compliance with the Rules that the data subject's information collected by you or your agents may be shared with and used by third parties for the purposes specified under the [Business Services Terms](https://www.snap.com/terms/business-services), including, at a minimum a clear and prominent notice about how and where users can opt out of the use of personal data for ad targeting and, where applicable: (i) for websites, a clear and prominent notice on each webpage where you utilise the Business Services stating that third parties, including Snap and its affiliates, may use cookies, web beacons and other technologies to collect or receive information from your websites, apps and elsewhere on the internet, and may use that information to provide measurement services, advertising targeting and other advertising services; and (ii) for apps, a clear and prominent link inside your apps' settings or your privacy policy, and from within any store or website where your apps are distributed, that explains that third parties, including Snap and its affiliates, may collect or receive information from your apps and other apps, and may use that information to provide measurement services, ad targeting, and other advertising services; (e) in jurisdictions that require informed consent for storing and accessing cookies or other information of a data subject (including the European Union), you must ensure, in a verifiable manner, that each data subject provides you with the necessary consent before you use the Business Services to send personal data in connection with that data subject; and (f) you will promptly notify Snap of any actual or threatened complaint relating to personal data, and you will reasonably cooperate with Snap, at your expense, in responding or defending against any such complaint. Snap may request further information in connection with your compliance with this Section.
+
+**2\. Supplemental Terms and Policies**
+
+*   If Snap processes personal data on your behalf then you agree to the [Data Processing Agreement](https://www.snap.com/terms/data-processing-agreement), [Data Transfer Agreement](https://www.snap.com/terms/data-transfer-agreement), and [EEA controller-processor Standard Contractual Clauses](https://www.snap.com/terms/standard-contractual-clauses).
+    
+*   If you provide personal data via the Business Services of consumers which are subject to the US state privacy laws further described in the [U.S. Privacy Terms](https://www.snap.com/terms/us-privacy), then you agree to the [U.S. Privacy Terms](https://www.snap.com/terms/us-privacy).
+    
+*   If you provide personal data via the Business Services of Turkish data subjects and you are using the Business Services either in your personal capacity and you live in Turkey, or on behalf of an entity which has its principal place of business in Turkey, then the [Turkish Privacy Terms](https://www.snap.com/terms/turkish-privacy) apply.
+    
+*   If you provide personal data via the Business Services of Saudi Arabian data subjects and you are using the Business Services either in your personal capacity and you live in the Kingdom of Saudi Arabia, or on behalf of an entity which has its principal place of business in the Kingdom of Saudi Arabia, then the [Saudi Privacy Terms](https://www.snap.com/terms/saudi-privacy) apply.
+    
+*   If Event Data you provide under the [Snap Conversion Terms](https://www.snap.com/terms/snap-conversion) includes a limited data use signal that Snap honors, then the [Limited Data Use Terms](https://www.snap.com/terms/ldu) apply.
+    
+*   If you and Snap are independent controllers of personal data provided via the Business Services then you agree to the [Data Sharing Agreement](https://www.snap.com/terms/data-sharing-agreement), [Data Transfer Agreement](https://www.snap.com/terms/data-transfer-agreement), and [EEA controller-controller Standard Contractual Clauses](https://www.snap.com/terms/eea-c-c-scc).
+    
+
+_In summary: you provide a number of assurances about the data you transfer to Snap, including that you have complied with all applicable laws in relation to the data; the data wasn't collected from an online service aimed at anyone under 13; the data will not include sensitive information; you obtained any necessary rights, licenses and consents to cover Snap's use of the data; you will include appropriate notices to data subjects; you will obtain and record data subject consent where required; and you will notify Snap of any complaints and assist Snap with dealing with such complaints at your cost. Please note that other supplemental terms and policies may apply, as set out above._
 
 - - -
 
