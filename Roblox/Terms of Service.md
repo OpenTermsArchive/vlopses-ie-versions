@@ -1206,7 +1206,7 @@ _Content descriptors are determined by the experience creator and descriptors ma
 | #### **Minimal** | May contain occasional mild violence, light unrealistic blood, and/or occasional mild fear. |
 | #### **Mild** | May contain repeated mild violence, heavy unrealistic blood, mild crude humor, and/or repeated mild fear. |
 | #### **Moderate** | May contain moderate violence, light realistic blood, moderate crude humor, unplayable gambling content, social hangouts without private spaces, free-form user creation such as in-game drawing tools, and/or moderate fear. <br><br>_Games with social hangouts or free-form user creation are only available to age-checked users 16 and older._ |
-| #### **Content May Vary** | May contain Minimal, Mild, or Moderate content. The creator hasn't completed the full Maturity & Compliance questionnaire, so this game doesn't have a more precise rating.<br><br>_These games are only available to age-checked users 16 and older in most regions. They must follow the_ [_Community Standards_](https://en.help.roblox.com/hc/en-us/articles/203313410) _like every other game on Roblox._ |
+| #### **Content May Vary** | May contain Minimal, Mild, or Moderate content. The creator hasn't completed the full Content Ratings Questionnaire, so this game doesn't have a more precise rating.<br><br>_These games are only available to age-checked users 16 and older in most regions. They must follow the_ [_Community Standards_](https://en.help.roblox.com/hc/en-us/articles/203313410) _like every other game on Roblox._ |
 | #### **16+ Content** | May contain themes centered on sensitive social, political, or religious issues. Can also contain social hangouts without private spaces, free-form user creation, and other content listed under Moderate. <br><br>_These games are only available to age-checked users 16 and older. Parents can allow games about sensitive issues for children of any age. For more information, see_ [_Age-Restricted Content on Roblox_](https://en.help.roblox.com/hc/en-us/articles/15869919570708)_._ |
 | #### **Restricted and 18+ Content** | May contain strong violence, heavy realistic blood, moderate crude humor, romantic themes, unplayable gambling content, the presence of alcohol, strong language, social hangouts with private spaces, extended AI interactions, and/or moderate fear. <br><br>_These games are only available to 18+ users who are age checked. For more information, see our_ [_Age-Restricted Content Policy_](https://en.help.roblox.com/hc/en-us/articles/15869919570708) _and_ [_Understanding Age Checks on Roblox_](https://en.help.roblox.com/hc/en-us/articles/39143693116052)_._ |
 
@@ -1222,9 +1222,9 @@ Parents should also note that some games may not be available by default for chi
 
 #### **What does Content May Vary mean?**
 
-**Content May Vary** is a content rating for games published to players 16 and older without the full Maturity & Compliance questionnaire. The game may have **Minimal**, **Mild**, or **Moderate** content.
+**Content May Vary** is a content rating for games published to players 16 and older without the full [Content Ratings Questionnair](https://create.roblox.com/docs/production/promotion/content-maturity). The game may have **Minimal**, **Mild**, or **Moderate** content.
 
-Before they publish, creators answer a question about whether their game includes age-restricted content. If it does, they must complete the full [Maturity & Compliance questionnaire](https://create.roblox.com/docs/production/promotion/content-maturity) to get a more precise rating. If it doesn't, they can publish to players 16 and older, and the game is receives a **Content May Vary** rating.
+Before they publish, creators answer a question about whether their game includes age-restricted content. If it does, they must complete the full Content Ratings Questionnaire to get a more precise rating. If it doesn't, they can publish to players 16 and older, and the game is receives a **Content May Vary** rating.
 
 All games must follow the [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410), including games with a **Content May Vary** rating.
 
@@ -1232,268 +1232,535 @@ Games with a **Content May Vary** rating aren't available in all regions.
 
 - - -
 
-Content maturity and compliance
-===============================
+Content ratings
+===============
 
-[Edit](https://github.com/Roblox/creator-docs/blob/main/content/en-us/production/promotion/content-maturity.md)
+[Edit](https://github.com/Roblox/creator-docs/blob/main/content/en-us/production/promotion/content-ratings.md)
 
-Content maturity provides information on the game's main details page about what kinds of content the game contains so that players can make informed decisions about what they interact with. Roblox uses this information to recommend games on the [Home](https://www.roblox.com/home) and [Charts](https://www.roblox.com/charts#/) pages according to each user's age group and regional content policies. When applicable, this information is also used to generate country or locale-specific game labels, which may include different age and maturity recommendations from Roblox's.
+Roblox is transitioning to a new content rating system that requires many creators to take action in order to [release](https://create.roblox.com/docs/en-us/production/publishing/publish-games-and-places#release-games) a new game or update an existing game. For more information, reference the following table.
 
-Content maturity consists of two components:
+Your game's release status and what you need to do
 
-*   Content maturity label - Indicates the level of maturity suitable for the game according to child development research and industry standards.
+| **Release status** | **Required action** |
+| --- | --- |
+| **Existing games released in Kids & Select** | Review your assigned [IARC](#international-age-rating-coalition) ratings on the Creator Hub that were pre-filled from Roblox reviewers, provide any necessary edits, then press accept. When your IARC ratings are ready for review, you will receive a notification via email. |
+| **New games released that are eligible for Kids & Select** | Answer the age-restricted content question of the questionnaire to receive your initial Roblox Rating to reach players 16+.  <br>  <br>Once your game meets the Roblox Kids and Select [publishing requirements](https://create.roblox.com/docs/en-us/production/publishing/kids-and-select#publishing-requirements), Roblox reviewers will review your game and assign IARC ratings for you to review. |
+| **New or existing games released outside Kids & Select** | Answer the age-restricted content question of the questionnaire to receive your initial Roblox Rating.  <br><br>*   If your game doesn't have restricted content, you're done, and it's available to users 16+.<br>    <br>*   If it does, fill out the entire questionnaire. |
+| **Everyone else** | No action at this time. |
+
+Content ratings provide information about what types of content players can encounter within a game, as well as how often that content can occur. This allows players and their families to make informed decisions about the games they access on Roblox.
+
+Content ratings display on a game's main details page, and they contain up to two components:
+
+*   [International Age Rating Coalition](https://www.globalratings.com/) rating - An official, third-party age content rating with descriptors that are localized according to each player's region and cultural standards. This rating only displays in certain regions.
     
-*   Content descriptors - Indicates what type of content is within a game, such as realistic depictions of blood or paid item trading.
-    
-
-If a game does not have content maturity information, Roblox automatically restricts the playability of the game on the platform for all players. For this reason, Roblox strongly recommends that you fill out the questionnaire for each of your games so that they're available to the largest appropriate audience as possible. If your game contains inaccurate content maturity information, your game and account are subject to moderation.
-
-Additional rules apply for assets you upload for your game, such as images, meshes, and audio. Realistic or excessive depictions of violence, blood, crude humor, or romantic themes may be moderated regardless of your game's content maturity label. For more information, see the [Age-Restricted Content Policy](https://en.help.roblox.com/hc/en-us/articles/15869919570708-Restricted-Content-Policy).
-
-Content maturity information does not apply to user-generated content that players bring with them into your game, such as avatar clothing and accessories.
-
-Content labels
---------------
-
-Content maturity labels determine which Roblox account types can access your game by default:
-
-*   Games with a Minimal or Mild label are eligible for Roblox Kids (ages 5–8) and Roblox Select (ages 9–15).
-    
-*   Games with a Moderate label are eligible for Roblox Select (ages 9–15) and standard Roblox (ages 16+).
-    
-*   Games with a Content May Vary label are only accessible to [age-checked](https://about.roblox.com/age-estimation) Roblox users ages 16+.
-    
-*   Games with a Restricted label are only accessible to [age-verified](https://create.roblox.com/docs/en-us/production/publishing/account-verification) Roblox users ages 18+.
+*   Content maturity rating - An official Roblox-specific content rating with content descriptors. This rating displays in every region.
     
 
-To reach Roblox Kids and Select audiences, creators must also meet additional publishing requirements aside from their content maturity label. For more information, see [Roblox Kids and Select](https://create.roblox.com/docs/en-us/production/publishing/kids-and-select).
+Roblox uses this information to ensure games are only available to the appropriate audience according to each player's age group and regional content policies. This includes how players can play and discover games, such as visible search results, recommended games on the [Home](https://www.roblox.com/home) and [Charts](https://www.roblox.com/charts) pages, and direct links to any game's main details page.
 
-Content descriptors that generate content maturity labels are separate from [genres](https://create.roblox.com/docs/en-us/production/publishing/experience-genres) that classify games according to their core gameplay. In cases where there is overlap between genres and in-game content or behavior, answer the Maturity & Compliance questionnaire as accurately as you can regardless of your genre selection or assignment from Roblox.
+![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/IARC-Map.png)
 
-Generate labels
----------------
+You can generate content ratings by filling out the Content Ratings Questionnaire. If a game does not have content ratings, Roblox restricts the playability of the game on the platform for all players. For this reason, Roblox strongly recommends that you fill out the questionnaire for each of your games so that they're available to the largest appropriate audience as soon as possible. If your game contains inaccurate content ratings, your game and account are subject to moderation.
 
-You can generate content maturity information by filling out the Maturity & Compliance Questionnaire, which contains a set of questions about the type of content players can possibly encounter within your game, as well as how frequently it occurs. Your answers give Roblox an understanding of the content in your game and ensure that the game is available to the appropriate audience.
+Additional rules apply for assets you upload for your game, such as images, meshes, and audio. Realistic or excessive depictions of violence, blood, crude humor, or romantic themes may be moderated regardless of your game's content ratings. For more information, see the [Age-Restricted Content Policy](https://en.help.roblox.com/hc/en-us/articles/15869919570708-Restricted-Content-Policy).
 
-If you only want to publish your game to age-checked Roblox users ages 16+ in most regions, you only need to complete the first question of the questionnaire. However, if you want to publish your game to [Roblox Kids and Select](https://create.roblox.com/docs/en-us/production/publishing/kids-and-select) audiences or regions with specific content policies, you must complete the entirety of the questionnaire.
+Content ratings only apply to the content you create for your game. It does not apply to user-generated content that players bring with them into your game, such as avatar clothing and accessories.
 
-If your game is going to have [age-restricted content](https://en.help.roblox.com/hc/articles/15869919570708), you must also fill out the entirety of the questionnaire and receive a Moderate or Restricted maturity label so that its content is restricted to the appropriate [age-checked](https://about.roblox.com/age-estimation) 16+ or [age-verified](https://create.roblox.com/docs/en-us/production/publishing/account-verification) 18+ audience. You must not add any age-restricted content to your game before receiving this label.
+International Age Rating Coalition
+----------------------------------
 
-As you are completing the questionnaire, base your answers on the most mature or extreme content players can encounter within your game. You can retake the questionnaire and generate a new maturity label at any time to accurately reflect the content in your game. For restricted games, you can't change the maturity, but you can update its content descriptors.
+The [International Age Rating Coalition](https://www.globalratings.com/) (IARC), the global standard for content ratings for digital games and apps, partners with Roblox to provide localized age ratings for games across the platform. These ratings are widely used within the gaming industry, reflect local cultural and legal norms, and help families identify age-appropriate content.
 
-To generate content maturity information:
+As a global platform, Roblox is committed to respecting the local requirements of the regions in which it operates. Because what is considered age-appropriate varies by region, the industry-standard IARC questionnaire:
+
+*   Handles the heavy lifting of global age ratings compliance by centralizing local rating requirements.
+    
+*   Offers a widely accepted global ratings system that automatically evaluates your content according to the regional standards of over a dozen territories.
+    
+*   Assigns recognized, regional ratings that help players understand what to expect in your game.
+    
+
+For example, if your responses to the IARC questionnaire indicate that your game contains scary elements, pixelated blood, and fantastical violence against humans that occurs frequently, your game is only available to the appropriate audience according to their region's age rating criteria, and players can see content descriptors that match your responses.
+
+The regional rating authorities around the world that participate in IARC upkeep their respective criteria for each age rating. If there are any changes to these criteria, your age ratings update automatically to protect your audience. Roblox pays the IARC licensing fee so that all of these benefits are available to you for free when you generate content ratings on the platform.
+
+The following table displays most regional rating authorities that participate in IARC. For a full list of each regional rating authority's IARC ratings and their criteria, see IARC's [official documentation](https://globalratings.com/ratings-definitions/).
+
+| **Regional Rating Authority** | **Regions where ratings display** | **Example IARC Ratings** |
+| --- | --- | --- |
+| [Australian Classification Board](https://www.classification.gov.au/) (ACB) | Australia | ![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/ACB-PG.png)![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/ACB-MA15.png) |
+| [Classificação Indicativa](https://www.gov.br/mj/pt-br/assuntos/seus-direitos/classificacao-1) (ClassInd) | Brazil | ![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/ClassInd-L.png)![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/ClassInd-10.png) |
+| [Digital Game Self-regulation Committee](https://www.gamerating.org.tw/) (DGSC) | Taiwan | ![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/DGSC-6.png)![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/DGSC-15.png) |
+| [Entertainment Software Rating Board](https://www.esrb.org/ratings-guide/) (ESRB) | Expand for full list<br><br>Antigua and Barbuda, Argentina, Bahamas, Barbados, Belize, Bolivia, Canada, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Greenland, Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Nicaragua, Panama, Paraguay, Peru, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Suriname, Trinidad and Tobago, United States of America, Uruguay, and Venezuela | ![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/ESRB-E.png)![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/ESRB-A.png) |
+| [General Authority of Media Regulation](https://gmedia.gov.sa/ar) (Gmedia) | Saudi Arabia | ![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/Gmedia-3.png)![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/Gmedia-18.png) |
+| [Game Rating and Administration Committee](https://www.grac.or.kr/) (GRAC) | South Korea | ![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/GRAC-12.png)![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/GRAC-15.png) |
+| [Indonesia Game Rating System](https://www.igrs.id/) (IGRS) | Indonesia | ![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/IGRS-7.png)![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/IGRS-13.png) |
+| [Pan-European Game Information](https://pegi.info/) (PEGI) | Expand for full list<br><br>Albania, Andorra, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Greece, Hungary, Iceland, Ireland, Israel, Italy, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Moldova, Monaco, Montenegro, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Turkiye, United Kingdom, and Vatican City | ![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/PEGI-12.png)![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/PEGI-Exclamation.png) |
+| [Unterhaltungssoftware Selbstkontrolle](https://usk.de/) (USK) | Germany | ![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/USK-0.png)![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/USK-6.png) |
+| Generic [International Age Rating Coalition](https://globalratings.com/ratings-definitions/) ratings for other regions | Expand for full list<br><br>Afghanistan, Algeria, Angola, Armenia, Azerbaijan, Bahrain, Bangladesh, Belarus, Benin, Bhutan, Botswana, Brunei, Burkina Faso, Burundi, Cambodia, Cameroon, Cape Verde, Central African Republic, Chad, Comoros, Democratic Republic of the Congo, Republic of the Congo, Cote d'Ivoire, Djibouti, East Timor, Egypt, Equatorial Guinea, Eritrea, Ethiopia, Federated States of Micronesia, Fiji, Gabon, The Gambia, Georgia, Ghana, Guinea, Guinea-Bissau, Hong Kong, India, Iran, Iraq, Japan, Jordan, Kazakhstan, Kenya, Kiribati, Kuwait, Kyrgyzstan, Laos, Lebanon, Lesotho, Liberia, Libya, Madagascar, Malawi, Malaysia, Maldives, Mali, Marshall Islands, Mauritania, Mauritius, Mongolia, Morocco, Mozambique, Myanmar, Namibia, Nauru, Nepal, New Zealand, Niger, Nigeria, North Korea, Oman, Pakistan, Palau, Papua New Guinea, Philippines, Qatar, Rwanda, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Singapore, Solomon Islands, Somalia, Samoa, South Africa, South Sudan, Sri Lanka, Sudan, Swaziland, Syria, Tajikistan, Tanzania, Thailand, Togo, Tonga, Tunisia, Turkmenistan, Tuvalu, Uganda, Ukraine, United Arab Emirates, Uzbekistan, Vanuatu, Vietnam, Yemen, Zambia, and Zimbabwe | ![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/IARC-7.png)![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Example-Ratings/IARC-18.png) |
+
+Roblox doesn't allow content that violates the [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410) and [Age-Restricted Content Policy](https://en.help.roblox.com/hc/en-us/articles/15869919570708-Restricted-Content-Policy). If you disclose that your game contains violative content, you will need to update your game to only include compliant content before you can continue and submit the questionnaire.
+
+Content maturity ratings
+------------------------
+
+Roblox-specific content maturity ratings determine which Roblox account types can access your game by default:
+
+*   Games with a Minimal or Mild rating are eligible for Roblox Kids (ages 5–8) and Roblox Select (ages 9–15).
+    
+*   Games with a Moderate rating are eligible for Roblox Select (ages 9–15) and standard Roblox (ages 16+).
+    
+*   Games with a Content May Vary rating are only accessible to [age-checked](https://about.roblox.com/age-estimation) Roblox users ages 16+.
+    
+*   Games with a Restricted rating are only accessible to [age-verified](https://create.roblox.com/docs/en-us/production/publishing/account-verification) Roblox users ages 18+.
+    
+
+To reach Roblox Kids and Select audiences, creators must also meet additional publishing requirements aside from their content maturity rating. For more information, see [Roblox Kids and Select](https://create.roblox.com/docs/en-us/production/publishing/kids-and-select).
+
+Content descriptors that generate Roblox-specific content maturity ratings are separate from [genres](https://create.roblox.com/docs/en-us/production/publishing/experience-genres) that classify games according to their core gameplay. In cases where there is overlap between genres and in-game content or behavior, answer the Content Ratings Questionnaire as accurately as you can regardless of your genre selection or assignment from Roblox.
+
+Generate ratings
+----------------
+
+If your game is in Kids and Select, Roblox reviewers pre-fill the questionnaire and assign IARC ratings for you to review and accept.
+
+*   If you accept your IARC ratings but later change your mind, you can edit your answers to the questionnaire to update them.
+    
+*   If you don't agree with your assigned IARC ratings, you can edit your answers or answer a new questionnaire to generate new ratings.
+    
+
+To review your assigned IARC ratings:
+
+1.  Navigate to the [Creator Dashboard](https://create.roblox.com/dashboard/creations) and click on the thumbnail of your game.
+    
+2.  In the left-hand navigation, navigate to Publish settings > Content ratings.
+    
+3.  Review your assigned IARC ratings. If something looks wrong, edit your answers, or click Take the questionnaire myself to start a new questionnaire.
+    
+4.  Click Accept ratings. In the pop-up, confirm that the ratings can be assigned to your game. Your ratings display as Assigned on the Content ratings page.
+    
+
+You can generate both IARC ratings and Roblox-specific content maturity ratings by filling out the Content Ratings Questionnaire, which contains a variety of questions about the types of content players can possibly encounter within your game, as well as how frequently it occurs. The questionnaire has two versions depending on if you are age-verified as at least 18 years old, and it separates the questions into four parts:
+
+1.  App type - Disclosure about what type of app your game is.
+    
+2.  IARC questions - Ratings questions from IARC.
+    
+3.  Roblox questions - Ratings questions from Roblox.
+    
+4.  Preview - A high-level overview of your game's pending content maturity ratings and content descriptors, IARC ratings according to regional rating systems, and any regions where your game will become unavailable according to your answers.
+    
+
+As you answer each question, you can view guidance and examples of how different types of content and how often they occur meet different ratings criteria. If you are [age-verified](https://create.roblox.com/docs/en-us/production/publishing/account-verification) as at least 18 years old, you can also compare your game's content with IARC-specific images and videos. When applicable, IARC examples are accessible within each question, and Roblox-specific guidance is accessible within the collapsible sidebar panel.
+
+![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Guidance-Panels.png)
+
+If you close the sidebar panel, you can open it again by clicking the book icon button on the right-side of the questionnaire.
+
+Your answers give Roblox an understanding of the content in your game and ensure that the game is available to the appropriate audience. As you are completing the questionnaire, base your answers on the most mature or extreme content players can encounter within your game. Depending on your game, the Content Ratings Questionnaire can take between 15 minutes to 1 hour.
+
+After you finish the questionnaire, you will receive IARC ratings that display according to each player's regional rating authority. In addition, you will receive a Roblox-specific content maturity rating according to your responses to the [Roblox questions](#roblox-questions) section.
+
+To generate content ratings:
 
 1.  OPTIONAL
     
-    If you want your game to include restricted content, confirm you are at least 18 years old by [verifying your account](https://create.roblox.com/docs/en-us/production/publishing/account-verification) so the questionnaire can ask questions to generate the Restricted maturity label.
+    If you want your game to include restricted content, confirm you are at least 18 years old by [verifying your account](https://create.roblox.com/docs/en-us/production/publishing/account-verification) so the questionnaire can ask questions to generate the Restricted content label.
     
-2.  Navigate to the [Creator Dashboard](https://create.roblox.com/dashboard/creations) and click on the thumbnail of the game you want to generate content maturity information for. The game's Overview page displays.
+2.  Navigate to the [Creator Dashboard](https://create.roblox.com/dashboard/creations) and click on the thumbnail of the game you want to generate content ratings for. The game's Overview page displays.
     
-3.  In the left-hand navigation, navigate to Publish settings > Content rating.
+3.  Ensure that your game has a name, description, and genre. If it is missing any of this information:
     
-4.  If you've never taken the questionnaire before, read the notes and details, then click Start to proceed. If you've previously completed the questionnaire, the Questionnaire Completed page displays, but you can click the Restart button to start over.
+    1.  In the left-hand navigation, navigate to Publish settings > Game details.
+        
+    2.  Fill in the following fields:
+        
+        *   Name / Description: The game's title and a description that describes what a potential player should expect
+            
+        *   Genre: What type of gameplay a potential player should expect.
+            
+        
+    3.  At the bottom of the page, click the Save Changes button.
+        
     
-5.  Answer each page of questions based on the content within your game, then click the Save and Continue button. After you have answered every question, the Questionnaire Preview page displays all of your answers, the maturity label, applicable content descriptors, and any regions where your game is non-compliant according to your answers.
+4.  In the left-hand navigation, navigate to Publish settings > Content ratings.
     
-    Please review your game and confirm that your answers accurately reflect its content. If you intentionally misrepresent your game, you may be subject to [moderation consequences](#content-maturity-moderation).
+5.  If you've never taken the Content Ratings Questionnaire before, click the Get a rating button to proceed. If you've previously completed the questionnaire, the Content Ratings page displays, but you can click the Get a new rating button to start over.
     
-6.  If you need to modify a previous answer, click the Edit button, otherwise click the Submit button to immediately publish the content maturity information to the game's main details page. If your game receives a Restricted maturity label, servers running the game restart to remove all players except those age-verified as 18+, and Studio removes all creators from any active [collaboration](https://create.roblox.com/docs/en-us/projects/collaboration) session except those age-verified as 18+.
+6.  Answer each page of questions based on the content within your game, then click the Continue button. After you have answered every question, the Preview page displays.
+    
+    Please review your game and confirm that your answers accurately reflect the content of your game. If you misrepresent your game, you may be subject to moderation consequences.
+    
+7.  If you need to modify a previous answer, click the Back button, otherwise click the Send button. You will receive content ratings on your game details page according to your responses.
+    
+    *   If you are not age-verified as at least 18 years old, it may take a few days to generate your content ratings.
+        
+    *   If your game includes content that is only suitable for audiences 18+ according to Roblox's [Age-Restricted Content Policy](https://en.help.roblox.com/hc/en-us/articles/15869919570708-Restricted-Content-Policy), servers running the game restart to remove all players except those age-verified as 18+, and Studio removes all creators from any active collaboration session except those age-verified as 18+.
+        
     
 
-As long as your game doesn't have a Restricted maturity label, if you believe that your content maturity information doesn't match your intended audience, you can update the content in your game so that your game is appropriate for your target audience, then resubmit the questionnaire. To learn how you can dynamically adjust the content of your game for different audiences, see the [PolicyService](https://create.roblox.com/docs/en-us/reference/engine/classes/PolicyService) API reference.
+If you believe that your IARC ratings and Roblox-specific content maturity ratings don't match your intended audience, you can update the content in your game so that your game is appropriate for your target audience, then resubmit the questionnaire. To learn how you can dynamically adjust the content of your game for different audiences, see the [PolicyService](https://create.roblox.com/docs/en-us/reference/engine/classes/PolicyService) API reference.
 
 If you publish an update that changes any of the answers from the questionnaire, you must update your answers and resubmit the questionnaire to remain compliant with Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards) and [Terms of Use](https://en.help.roblox.com/hc/articles/115004647846).
 
 Questionnaire categories
 ------------------------
 
-The following sections provide guidance on answering the questions within each category of the Maturity & Compliance questionnaire. Content maturity information only applies to content that you create for your game, not user-generated content that players bring with them, such as avatar clothing or accessories.
+Prioritize IARC guidance as you answer each question.
 
-After you submit the questionnaire, your game receives a maturity label with content descriptors according to the following table, as well as a regional compliance result.
+The following sections provide guidance on answering the questions within each category of the Content Ratings Questionnaire. Because the questionnaire has two versions depending on if you are under or at least 18 years old, you may not see every category within your version of the questionnaire.
 
-| Maturity label | Description |
-| --- | --- |
-| Minimal | May contain occasional mild violence and/or light unrealistic blood. |
-| Mild | May contain repeated mild violence, heavy unrealistic blood, mild fear-based content, and/or mild crude humor. |
-| Moderate | May contain moderate violence, light realistic blood, moderate fear-based content, moderate crude humor, and/or unplayable gambling content. |
-| Restricted | May contain strong violence, heavy realistic blood, moderate crude humor, romantic themes, unplayable gambling content, the presence of alcohol, and/or strong language. |
+As you review the following guidance and complete the questionnaire, it's important to keep the following in mind:
 
-To remain compliant with local laws and regulations, games with a Restricted maturity label are unplayable for players who created their accounts or are located in certain countries or regions, such as Korea, Saudi Arabia, and Türkiye (Turkey).
-
-While parents can use parental controls to bypass most content restrictions according to what they believe is appropriate for their child, Roblox restricts [free-form user creation](#free-form-user-creation) and [social hangouts](#social-hangout) to players over 16.
-
-### Violence
-
-Question 1: Does this game depict violence and/or violent content?
-
-Violence is the intentional use of physical or psychological force against players or non-playable characters (NPCs). If your game includes violence, including within any [asset type](https://create.roblox.com/docs/en-us/projects/assets#asset-types), you must disclose it in the Maturity & Compliance Questionnaire.
-
-Question 2: How intense is the violence?
-
-If your game contains violence, you must specify the violence's maximum level of intensity according to the following table:
-
-| Violence intensity | Description |
-| --- | --- |
-| Mild | Implied or unrealistic depictions of violence, such as bodies disappearing the moment their health reaches zero. |
-| Moderate | Non-graphic, realistic-looking depictions of violence and/or death that don't violate Roblox Community Standards, such as realistic depictions of real-life injuries. |
-| Restricted | Graphic and realistic-looking depictions of violence and/or death that do not violate the [Age-Restricted Content Policy](https://en.help.roblox.com/hc/en-us/articles/15869919570708-Roblox-17-Policy-Standards), such as non-real world beheadings/decapitation, impalement, hangings, dismemberment, mutilation, severed/severing body parts, presence of organs, maiming, disfiguration, and electrocution.  <br>  <br>Games with strong violence are only available to age-verified players that are at least 18 years old. |
-
-If you imply violence anywhere within your game, such as violence that occurs off-screen that players can hear but can't see, your game automatically meets the mild criteria.
-
-If you visually show violence, the criteria for meeting mild, moderate, or strong violence depends on the consequence of the violence. For example, if the consequence of violence is unrealistic, your game meets the mild criteria, but if there is any moment that the consequence of violence is realistic, your game meets either the moderate or strong criteria, even if the realistic violence only occurs once.
-
-Roblox doesn't allow content that contains extreme violence or serious physical or psychological abuse. This includes animal abuse and torture, realistic depictions of extreme gore, or the depiction, support, or glorification of war crimes or human rights violations, including torture. For more information, see Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410) and [Age-Restricted Content Policy](https://en.help.roblox.com/hc/articles/15869919570708).
-
-Question 3: How frequent is the violence?
-
-After you specify its intensity, you must also specify how often the violence occurs within your game according to the following table. Note that even if a small part of your game contains repeated violence, it meets the Repeated criteria.
-
-| Violence frequency | Description |
-| --- | --- |
-| Occasional | Violence occurs either rarely or occasionally, such as at a couple key moments of the game. |
-| Repeated | Violence either occurs often, or it occurs rarely, but when it does occur, many violent events happen in quick succession. |
-
-### Blood
-
-Question 1: Does this game depict any blood?
-
-Blood is one of the primary liquids that flows through human and animal bodies that's essential to life. If your game includes blood, including within any [asset type](https://create.roblox.com/docs/en-us/projects/assets#asset-types), you must disclose it within the Maturity & Compliance Questionnaire.
-
-Question 2: How realistic is the blood?
-
-If your game contains blood, you must specify the blood's realism according to the following table:
-
-| Blood realism | Description |
-| --- | --- |
-| Unrealistic | Blood appears unrealistic, such as being pixelated or having a different color or shape. |
-| Realistic | Blood appears realistic, such as having the same color, shape, and splatter properties as blood in the real world. |
-
-Question 3 for unrealistic blood: Are the depictions of blood infrequent and/or fleeting?
-
-If you answer unrealistic for question 2, you must also specify how often the unrealistic blood occurs within your game according to the following table:
-
-| Unrealistic blood frequency | Description |
-| --- | --- |
-| Yes | Unrealistic blood only occurs sometimes, such as yellow blood splattering for a few seconds. |
-| No  | Unrealistic blood only occurs often, such as repeated bloodshed or with lasting imagery. |
-
-Question 3 for realistic blood: What level of blood and/or gore is depicted?
-
-If you answer realistic for question 2, you must also specify the blood's maximum level of intensity according to the following table. Note that if you depict realistic blood anywhere within your game, such as blood splatter from a distance, your game automatically meets the Light criteria.
-
-| Blood intensity | Description |
-| --- | --- |
-| Light | The bloodshed is minimal, such as blood spatter from a distance. |
-| Heavy | The bloodshed is significant, such as pools of blood, gushing blood, and up-close blood spatter.  <br>  <br>Games with heavy, realistic blood are only available to age-verified players that are at least 18 years old. |
-
-### Fear
-
-Question 1: Does this game include scary elements that may trigger fear?
-
-Fear-based content contains scary or horrifying elements that trigger fear in players. If your game includes scary elements, including within any [asset type](https://create.roblox.com/docs/en-us/projects/assets#asset-types), you must disclose it in the Maturity & Compliance Questionnaire.
-
-Question 2: What level of scary elements are there?
-
-If your game contains scary elements, you must specify the intensity of the elements according to the following table:
-
-| Scary elements intensity | Description |
-| --- | --- |
-| Mild | Loud/heavy breathing, pounding heart, shrieking or screaming, creepy-looking NPCs, jump scares, ominous music, and/or gameplay that builds suspense. |
-| Moderate | Characters with disfigured mouths with realistic blood, lack of flesh with realistic-looking connective tissues, organs, and/or blood vessels visible, realistic open wounds and/or leaking/bleeding eyes with realistic blood. |
-
-Moderate Examples (Not Suitable for Young Readers)
-
-The following images meet the moderate criteria for fear-based content.
-
-![](https://prod.docsiteassets.roblox.com/assets/promotion/misc/ModerateFear-Blocky.png)
-
-Includes visible organs, blood vessels, and leaking/bleeding eyes.
-
-![](https://prod.docsiteassets.roblox.com/assets/promotion/misc/ModerateFear-NoFlesh.png)
-
-Includes realistic blood and a lack of flesh.
-
-![](https://prod.docsiteassets.roblox.com/assets/promotion/misc/ModerateFear-BloodyEyes.png)
-
-Includes realistic open wounds and leaking/bleeding eyes.
-
-  
-
-Question 3: How frequently do the scary elements occur?
-
-After you specify its intensity, you must also specify how often the scary elements occur within your game according to the following table. Note that even a small part of your game contains repeated scary elements, it meets the Repeated criteria.
-
-| Scary elements frequency | Description |
-| --- | --- |
-| Occasional | Scary elements occur either rarely or occasionally, such as at a couple key moments of the game. |
-| Repeated | Scary elements either occur often, or they occur rarely, but when they do occur, many scary events happen in quick succession. |
-
-### Crude humor
-
-Question 1: Does this game depict, reference, or encourage crude humor?
-
-Crude humor is a type of humor that depicts or references crude bodily functions, such as burping, farting, vomit, pee, and/or poop for comical purposes. If your game includes crude humor, including within any [asset type](https://create.roblox.com/docs/en-us/projects/assets#asset-types), you must disclose it in the Maturity & Compliance Questionnaire.
-
-Question 2: What is the level of crude humor?
-
-If your game contains crude humor, you must specify the intensity of the elements according to the following table:
-
-| Level of crude humor | Description |
-| --- | --- |
-| Mild | Depicts and/or references burping, farting (e.g. fart cloud), and/or unrealistic looking vomit or poop (e.g. poop coils, poop emoji). |
-| Moderate | Depicts and/or references pee. |
-
-### Unplayable gambling content
-
-Question 1: Does this game contain unplayable gambling content?
-
-Gambling is the practice of exchanging real-world money, Robux, or in-game items of value for a game of chance. While games cannot contain playable gambling content, including simulated gambling, you can depict unplayable gambling content, such as showing a casino or people playing cards that players cannot bet on or play.
-
-You do not need to report depictions of, and/or references to, items or activities that are typically associated with gambling, but are not games of chance/luck, such as horse racing, car racing, and poker chips.
-
-### Strong language
-
-Question 1: Do you depict and/or want to allow strong language in your game?
-
-Strong language is vulgar and obscene language that is not used to harass, discriminate, incite violence, or threaten others, or used in a sexual context. For example, strong language content could be depictions of a non-playable character (NPC) using obscenity like the "f-word" that is not directed towards another character or group of people (e.g. "f\* off").
-
-If your game includes strong language, you must disclose it within the Maturity & Compliance Questionnaire. Games that include strong language are only available to age-verified players that are at least 18 years old.
-
-If you want to enable strong language in player communication aside from content for your games with Restricted content maturity labels, see [here](https://create.roblox.com/docs/en-us/projects/configure-games#allow-strong-language).
-
-### Romantic themes
-
-Question 1: Does this game depict or reference (including in the title) romantic themes and/or primarily take place in private spaces (e.g. shower stalls, hotel rooms) or settings intended for adults (e.g. clubs, bars)?
-
-To understand this question, it's important to understand three different definitions:
-
-*   Romantic themes are non-sexual expressions of love or affection, such as a quick kiss on the mouth.
+*   Base your answers on the most mature or extreme content players can encounter within your game.
     
-*   Private spaces are enclosed spaces that meet the following two criteria:
-    
-    *   They are designed for activities that are personal and secluded, such as sleeping, changing clothes, or bathing.
-        
-    *   They are designed for one person or for a very small number of people to engage in private activities, such as a bathroom stall, bedroom, or small tent.
-        
-    
-*   Settings intended for adults are settings that are designed to cater to adult clientele. These settings are often legally restricted to individuals who have reached the age of majority and are otherwise deemed inappropriate or unsuitable for minors, such as clubs or bars.
+*   Ensure your answers only apply to content that you create for your game, not user-generated content that players bring with them, such as avatar clothing or accessories.
     
 
-If your game includes (including in the title) romantic themes and/or primarily takes place in private spaces or settings intended for adults, you must disclose it within the Maturity & Compliance Questionnaire, and it will only be available to age-verified players that are at least 18 years old.
+If at any point you need to return to a previous question or restart the questionnaire, you can click the Back or Cancel button at the bottom of the page, respectively.
 
-### Alcohol
+### App type
 
-Question 1: Does this game depict, reference, or include use of alcohol?
+The first section of the questionnaire asks you to disclose the type of app you're building: a game, a social or communication app, or neither. Select Game to progress to the next section of the questionnaire and answer questions about the content within your game.
 
-Alcohol is an intoxicating adult beverage. If your game includes, depicts, or references alcohol, or depicts adult business and locations that provide or sell alcohol, such as characters drinking alcohol at a bar, you must disclose it within the Maturity & Compliance Questionnaire. Games that depict alcohol are only available to age-verified players that are at least 18 years old.
+Social or communication apps and/or other types of apps are not supported on Roblox.
 
-### Social hangout
+### Content questions
+
+According to your response in part one of the Content Ratings Questionnaire, part two displays categories of questions about the content in your app type. As you answer each question, the questionnaire updates dynamically with additional questions to gather more details about your game's content.
+
+The following subsections provide high-level guidance for each potential category you can see while filling out the questionnaire, including text and video Roblox-specific examples for your reference.
+
+If your game violates Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards), you are required to update your game to only include compliant content before you can continue the questionnaire.
+
+#### Violence, blood, or gory images
+
+To understand how to answer questions within this category, it's important to understand three different definitions:
+
+*   Violence - The intentional use of physical or psychological force against players or non-playable characters (NPCs).
+    
+*   Blood - The visible bleeding liquid from a human or animal.
+    
+*   Gore - A graphic or disturbing depiction of injury.
+    
+
+When you include violence, blood, or gore in your game, you must disclose details like each element's level of intensity, how often it occurs, whether it's realistic or unrealistic, and how non-player characters respond to it.
+
+For additional guidance on the criteria for each of these elements, click one of the following tabs.
+
+ViolenceBloodGore
+
+The Content Ratings Questionnaire requires you to disclose various characteristics of violence within your game, such as who the violence is against and how that violence appears to players. For further details on these characteristics, reference the following accordions.
+
+Who the violence is against?
+
+If your game includes violence, you must specify if the violence includes any aggressive act against humans or non-humans, such as animals, monsters, robots, or inanimate objects.
+
+| **Category** | **Examples** | **Roblox-specific examples** |
+| --- | --- | --- |
+| **Humans** | *   Characters that look like humans, even if you can't see the human because they are wearing armor or are hidden inside a vehicle | ![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Violence-Humans.png) |
+| **Non-humans** | *   Animals, monsters, fantastical creatures, or aliens that don't look like humans<br>    <br>*   Robots, vehicles, walls, or machines | ![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Violence-Nonhumans.png) |
+
+This question only applies to the content you create for your game. It does not apply to user-generated content that players bring with them into your game, such as non-human avatars.
+
+Where does the violence happen?
+
+If your game includes violence, you must specify how realistic or fantastical the game's setting and characters are according to the following criteria:
+
+*   Fantastical world - A place that clearly doesn't exist where the characters, weapons, and physics may be exaggerated, stylized, cartoonish, or magical in nature.
+    
+*   Realistic world - A place that mimics the real world and uses real-world logic, locations, and weaponry.
+    
+
+If your game has both fantastical and realistic worlds, choose the type of world where most of your game takes place. For example, let's say your game takes place in a world that's similar to the real world, but it includes a faerie with superpowers. The majority of the game still takes place in a realistic world, so you should choose Realistic.
+
+| **Category** | **Examples** | **Roblox-specific examples** |
+| --- | --- | --- |
+| **Fantastical world** | *   Magical or enchanted lands<br>    <br>*   Science-fiction technology<br>    <br>*   Imaginary environments, such as flying islands, alien spacecraft, or magical kingdoms | ![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Violence-Fantastical.png) |
+| **Realistic world** | *   Settings based on real life locations, such as contemporary cities, schools, historic battlefields, or public shopping centers | ![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Violence-Realistic.png) |
+
+What is the style of the violence?
+
+If your game includes violence, you must specify the style of the violence according to the following criteria:
+
+*   Animated - Cartoonish, 3D art.
+    
+*   Old Arcade - 2D pixel art.
+    
+*   Realistic - Art that mimics the real world.
+    
+
+Realistic violence often requires higher content ratings because it can be more serious, relatable, and impactful to younger audiences.
+
+| **Category** | **Roblox-specific examples** |
+| --- | --- |
+| **Animated** |     |
+| **Old Arcade** | ![](https://prod.docsiteassets.roblox.com/assets/promotion/content-ratings/Violence-OldArcade.png) |
+| **Realistic** |     |
+
+How do characters react to the violence?
+
+If your game includes violence, you must specify how characters physically respond to the violence according to the following criteria:
+
+*   Unrealistic - Characters react in cartoonish ways that don't reflect the real world.
+    
+*   Realistic - Characters react in ways that reflect the real world.
+    
+
+Games that contain violence may result in higher content ratings according to their realism, frequency, and/or impact on young audiences.
+
+| **Category** | **Examples** | **Roblox-specific examples** |
+| --- | --- | --- |
+| **Unrealistic** | *   Characters disappearing or poofing into smoke when their health reaches zero<br>    <br>*   Characters falling apart before respawning |     |
+| **Realistic** | *   Characters react to pain<br>    <br>*   Character bodies behave like realistic bodies with blood and wounds |     |
+
+How is the violence shown?
+
+If your game includes violence, you must specify both the frequency of the violence and the camera perspective from which players view it according to the following possible criteria:
+
+*   Rarely and from far away - Sporadic violence from a distant perspective.
+    
+*   Rarely and close up - Sporadic violence from a nearby perspective.
+    
+*   Often and far away - Frequent violence from a distant perspective.
+    
+*   Often and close up - Frequent violence from a nearby perspective.
+    
+*   Implied but not seen - Violence that players cannot see, but understand is happening.
+    
+
+If you use Roblox's default camera, select both 'Often and far away' and 'Rarely and close up'. If you [lock the camera to the first-person perspective](https://create.roblox.com/docs/en-us/tutorials/use-case-tutorials/input-and-camera/control-the-users-camera#create-a-first-person-camera), select 'Often and close up'.
+
+| **Category** | **Examples** |
+| --- | --- |
+| **Far away** |     |
+| **Up close** |     |
+| **Implied but not seen** | *   Off-screen events, such as audio of combat without visuals<br>    <br>*   Dialogue or narrative references, such as characters talking about violent conflict or death<br>    <br>*   Aftermath of a battle where players see the result of violence, such as a battlefield after a fight |
+
+How do players know there's violence?
+
+If your game includes violence, you must specify how players see or know that there's violence according to the following criteria:
+
+*   Direct violence - Physical conflict where a character is hit, shot, or blown up.
+    
+*   Inferences to violence - Suggestions that violence happened without showing it.
+    
+*   References to violence - Text or dialogue describing violent acts.
+    
+
+On-screen violence often requires higher content ratings because it can be more impactful to younger audiences.
+
+| **Category** | **Examples** |
+| --- | --- |
+| **Direct violence** | *   Sword fighting<br>    <br>*   Paintball<br>    <br>*   Slapping mechanics |
+| **Inferences to violence** | *   Finding a crime scene with chalk outlines<br>    <br>*   Hearing a struggle behind a door |
+| **References to violence** | *   A quest log that says: "Go eliminate the bandits who raided the village!"<br>    <br>*   A character talking about violence from another land |
+
+Roblox doesn't allow content that contains extreme violence or serious physical or psychological abuse. This includes animal abuse and torture, realistic depictions of extreme gore, or the depiction, support, or glorification of war crimes or human rights violations, including torture. For more information, see Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410) and [Age-Restricted Content Policy](https://en.help.roblox.com/hc/en-us/articles/15869919570708-Restricted-Content-Policy).
+
+#### Fear
+
+Fear-based content contains scary or horrifying elements that trigger fear in players. To understand how to answer questions within this category, it's important to understand the differences between these types of elements:
+
+*   Scary elements - Frightening, but not disturbing content.
+    
+*   Horrifying elements - Unsettling and/or disturbing content.
+    
+
+It can be subjective to differentiate what is a scary vs. a horrifying element, but a helpful point of comparison is that scary elements are meant to be unsettling to young children, while horrifying elements are meant to be unsettling to anyone.
+
+If your game includes scary and/or unsettling elements, you must disclose if these elements occur not often, often, or very often. Games that include scary and/or horrifying elements that occur often or very often tend to require higher content ratings because these repeated elements can be disturbing to younger audiences.
+
+| **Category** | **Examples** | **Roblox-specific examples** |
+| --- | --- | --- |
+| **Scary elements** | *   Non-realistic monsters<br>    <br>*   Mild tension<br>    <br>*   Ominous music |     |
+| **Horrifying elements** | *   Jumpscares<br>    <br>*   Sustained tension<br>    <br>*   Psychological horror<br>    <br>*   Characters with disfigured mouths, lack of flesh, or realistic open wounds<br>    <br>*   Eerie audio | Horrifying Element Examples (Not Suitable for Young Readers)<br><br>![](https://prod.docsiteassets.roblox.com/assets/promotion/misc/ModerateFear-Blocky.png)<br><br>Includes visible organs, blood vessels, and leaking/bleeding eyes.<br><br>![](https://prod.docsiteassets.roblox.com/assets/promotion/misc/ModerateFear-NoFlesh.png)<br><br>Includes realistic blood and a lack of flesh.<br><br>![](https://prod.docsiteassets.roblox.com/assets/promotion/misc/ModerateFear-BloodyEyes.png)<br><br>Includes realistic open wounds and leaking/bleeding eyes. |
+
+#### Sexuality, suggestiveness, or dating games
+
+Roblox doesn't allow content that contains sexual content, real-world dating games, nudity, and sexual violence. For more information, see Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards) and [Age-Restricted Content Policy](https://en.help.roblox.com/hc/en-us/articles/15869919570708-Restricted-Content-Policy).
+
+To understand how to answer questions within this category, it's important to understand three different definitions:
+
+*   Sexuality - The range of ways that people express themselves sexually.
+    
+*   Suggestiveness - Implications or hints about something sexual in nature without stating it explicitly.
+    
+*   Dating games - Games with romantic relationship mechanics.
+    
+
+IARC requires questions related to these areas, but Roblox prohibits sexual content, real-world dating games, nudity, and sexual violence. If you answer yes to any questions about these topics, you will need to update your game to only include compliant content before you can continue and submit the questionnaire.
+
+#### Gambling themes, simulated gambling, or real gambling
+
+Gambling is the practice of exchanging real world money, Robux, or in-game items of value for a game of chance. Roblox's Community Standards prohibit playable gambling content, including simulated gambling, but you can depict unplayable gambling content, such as showing a casino or people playing cards that players cannot bet on or play.
+
+If your game includes gambling themes, you must answer yes to the first question in this category. Games with unplayable gambling content are only available to players that are at least 13 years old.
+
+| **Category** | **Examples** |
+| --- | --- |
+| **Playable gambling content** | *   Games with betting, wagering, or casino-style mechanics<br>    <br>*   Interactive slot machines |
+| **Unplayable gambling content** | *   Gambling 3D assets like betting chips, slot machines, and roulette wheels<br>    <br>*   Games with casinos or gambling settings |
+
+This category does not apply to paid random items.
+
+#### Language
+
+Roblox doesn't allow vulgar and obscene language that is used to harass, discriminate, incite violence, or threaten others, or used in a sexual context regardless of content rating. For more information, see Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards).
+
+Language refers to what kinds of words are present in your game, how potentially offensive those words can be, and how often players can encounter those potentially offensive words, regardless of whether those words are text-based in scripts or UI, or spoken aloud in dialogue, music, or cutscenes.
+
+If your game includes strong language, you must specify the severity of language players can encounter according to the following criteria:
+
+*   Mild language - Light profanity, such as "Damn" or "Heck".
+    
+*   Strong language - Anything more extreme than mild language.
+    
+
+Roblox permits strong language in games with the strictest age restrictions, such as an NPC using obscenity like the "f-word" that is not directed towards another character or group of people.
+
+In addition to allowing strong language in content for your games with a Restricted content maturity rating, you can also enable strong language in text chat. For more information on this process, see [Configure games - Allow strong language](https://create.roblox.com/docs/en-us/projects/configure-games#allow-strong-language).
+
+#### Controlled substance
+
+Controlled substances refer to alcohol, tobacco, and illegal or recreational drugs. IARC requires questions related to controlled substances, but Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410) prohibit references or depictions of tobacco and drugs, including fantasy drugs that mimic lifelike drugs in appearance or behavior. If you answer yes to those criteria, you will need to update your game to only include compliant content before you can continue and submit the questionnaire.
+
+Fantasy items that don't mimic lifelike drugs in appearance or behavior, such as health or super strength potions, do not qualify as fantasy drugs.
+
+Of the controlled substance criteria, Roblox does permit alcohol and references to alcohol in games with the strictest age restrictions. If your game includes, depicts, or references alcohol, or depicts settings in which alcohol is common, you must disclose it within the Content Ratings Questionnaire.
+
+| **Category** | **Examples** |
+| --- | --- |
+| Acceptable alcohol and alcohol references | *   Beer or wine bottles<br>    <br>*   Adult businesses and locations that provide or sell alcohol, such as bars or liquor stores |
+
+#### Crude humor
+
+Crude humor is a type of humor that depicts or references crude bodily functions, such as burping, farting, vomit, pee, and/or poop for comical purposes. If your game includes crude humor, you must specify what types of bodily functions are used for humorous purposes according to the following criteria:
+
+*   Mucus - Slimy secretion from the nose, i.e., boogers.
+    
+*   Belching - Gas from inside the body that leaves through the mouth, i.e., burps.
+    
+*   Flatulence - Gas from inside the body that leaves through the butt, i.e., farts.
+    
+*   Vomiting - Matter from the stomach that leaves through the mouth, i.e., puke.
+    
+*   Urination - The act of peeing.
+    
+*   Defecation - The act of pooping.
+    
+
+This category only applies to the content that you create for your games, such as sound effects, crude animations, and 3D assets.
+
+| **Category** | **Examples** |
+| --- | --- |
+| Mucus, belching, flatulence sounds | *   Characters sneezing out piles of green boogers<br>    <br>*   Players pressing a button for burp sounds |
+| Flatulence, whimsical depictions of feces, vomiting | *   3D assets like fart clouds and poop coils<br>    <br>*   Characters getting sick and puking onto the road |
+| Urination, urine, realistically depicted feces | *   Piles of life-like poop<br>    <br>*   Pools of pee |
+| Act of human defecation visually depicted | *   Characters pooping into a toilet where you can see the poop actively coming out of their butt |
+
+This category does not apply to player behavior, chat, or user-generated content that players bring with them into your game, such as crude avatar accessories.
+
+#### Digital purchases, cash convertible rewards, or NFTs
+
+While Roblox enables digital purchases of in-game content with Robux, those items and transactions must comply with Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410), including special requirements for Paid Random Items and Paid Item Trading. Roblox systems don't support or facilitate cash convertible rewards or NFTs, regardless of content rating.
+
+| **Category** | **Examples** |
+| --- | --- |
+| Digital purchases | *   [Developer products](https://create.roblox.com/docs/en-us/production/monetization/developer-products), such as in-game currency, temporary power-ups, or resources<br>    <br>*   [Passes](https://create.roblox.com/docs/en-us/production/monetization/passes) to access special privileges, such as entry to a restricted level, an in-game avatar item, or a permanent power-up<br>    <br>*   Randomized rewards that meet Roblox's [Randomized Virtual Items Policy](https://create.roblox.com/docs/en-us/production/monetization/paid-random-items), such as loot boxes |
+
+#### Miscellaneous
+
+The Content Ratings Questionnaire requires you to disclose additional miscellaneous details about your game, such as if your game allows player-to-player communication. For further information on these questions, reference the following accordions.
+
+Does the game natively allow users to interact or exchange content with other users through voice communication, text, or sharing images or audio?
+
+If your game allows any player-to-player communication, such as Roblox's built-in text chat system, voice chat, emotes, or other custom-built shared content systems, answer yes. Most games meet the criteria for this question.
+
+Does the game include the ability to block users or user-generated content?
+
+Answer yes because Roblox provides built-in features to block users or user-generated content.
+
+Does the game include the ability to report users or user-generated content?
+
+Answer yes because Roblox provides built-in features for reporting users.
+
+Does the game include chat moderation?
+
+Answer yes because Roblox provides built-in chat moderation.
+
+Can interactions in the game be limited to invited friends only?
+
+If your game includes [private servers](https://create.roblox.com/docs/en-us/production/monetization/private-servers), answer yes.
+
+Does the game share the user's current and precise physical location with other users?
+
+Roblox doesn't allow creators access to players' current and precise physical location.
+
+Does the game contain any swastikas, other Nazi symbols or propaganda deemed unconstitutional in Germany?
+
+IARC requires this question, but Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410) prohibit the iconography of terrorist or extremist organizations, as well as content that recreates or imitates real-world sensitive events. If you answer yes to this question, you will need to update your game to only include compliant content before you can continue and submit the questionnaire.
+
+Does the game contain any content that can substantially erode the national identity of the Republic of Korea by describing anti-national acts or distorting historical facts?
+
+IARC requires this question, but Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410) prohibit any content that can substantially erode the national identity of the Republic of Korea by describing anti-national acts or distorting historical facts. If you answer yes to this question, you will need to update your game to only include compliant content before you can continue and submit the questionnaire.
+
+Does the game advocate committing acts of terrorism?
+
+IARC requires this question, but Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410) prohibit content or behavior that incites, condones, supports, glorifies, or promotes any terrorist or extremist organization or individual, their ideology, iconography, or actions.
+
+Games with acts of terrorism are not allowed, and will face moderation actions. If your game includes this content, you must remove it before you can continue and submit the questionnaire.
+
+Does the game contain realistic descriptions of crimes (e.g., robbery, kidnapping) or techniques that can be used in criminal offenses?
+
+IARC requires this question, but Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410) prohibit the depiction or promotion of some illegal activities, including realistic techniques that can be used in criminal offenses. If you answer yes to this question, you will need to update your game to only include compliant content before you can continue and submit the questionnaire.
+
+Are there detailed descriptions of techniques that could be used in criminal offenses?
+
+IARC requires this question, but Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410) prohibit the depiction or promotion of some illegal activities, including realistic, detailed descriptions of techniques that can be used in criminal offenses.
+
+Games with detailed descriptions of techniques that could be used in criminal offenses are not allowed, and will face moderation actions. If your game includes this content, you must remove it before you can continue and submit the questionnaire.
+
+#### Social or communication
+
+If your response in part one of the Content Ratings Questionnaire was Social or Communication, part two displays a different set of questions. Most of these potential questions have overlap with the Miscellaneous category, but for guidance on non-miscellaneous questions, you can reference the following accordions.
+
+Is a significant portion of the app used to connect people for the purposes of dating or sexual relationships or endeavors?
+
+IARC requires this question, but Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410) prohibit real-world dating games and sexual content on the platform. If you answer yes to this question, you will need to update your game to only include compliant content before you can continue and submit the questionnaire.
+
+Does the app permit the public sharing of nudity?
+
+IARC requires this question, but Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410) prohibit nudity on the platform. If you answer yes to this question, you will need to update your game to only include compliant content before you can continue and submit the questionnaire.
+
+Does the app permit the public sharing of real-world, graphic violence outside of a newsworthy context?
+
+IARC requires this question, but Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410) prohibit real-world, graphic violence. If you answer yes to this question, you will need to update your game to only include compliant content before you can continue and submit the questionnaire.
+
+Does the app allow users to purchase digital goods?
+
+If your game sells [developer products](https://create.roblox.com/docs/en-us/production/monetization/developer-products), [passes](https://create.roblox.com/docs/en-us/production/monetization/passes), or randomized rewards that meet Roblox's [Randomized Virtual Items Policy](https://create.roblox.com/docs/en-us/production/monetization/paid-random-items) (e.g., paid random items), answer yes.
+
+Can these purchases include random items where the purchaser doesn't know what specific items or features they will receive (e.g., paid random items), the purchase of items that will be used to create or unlock an unknown item or feature (e.g., a key to unlock a loot box, material used to craft a random item), items that can improve the rate of earning random items (e.g., random drop boosts), or any other chance-based purchases?
+
+If your game sells randomized rewards that meet Roblox's [Randomized Virtual Items Policy](https://create.roblox.com/docs/en-us/production/monetization/paid-random-items), answer yes.
+
+### Roblox questions
+
+After you finish part two of the Content Ratings Questionnaire, part three displays different categories of Roblox-specific content maturity ratings questions. If you answer no to a category's first question, you will skip to the next category, but if you answer yes, the questionnaire will ask more questions for additional context.
+
+The following subsections provide high-level guidance for each potential category you can see while filling out the questionnaire.
+
+#### Social hangout
 
 Question 1: Is the primary theme or activity of this game a social hangout?
 
-Social hangouts are games where the primary theme or activity is to talk to or interact with other players using voice or text chat. This includes hangouts, vibe games, socializing spaces, and supportive places like sad rooms. It does not apply to games where the primary theme or activity is roleplay. To be considered a roleplay game, the roleplay components, such as adopting a new role and using in-game items to play your role with, must be central to the game. Note that if your title or description includes content referencing social hangouts, your game will be classified as a social hangout. If this is inaccurate, please update your title or description and re-take the questionnaire.
+Social hangouts are games where the primary theme or activity is to talk to or interact with other players using voice or text chat. This includes hangouts, vibe games, socializing spaces, and supportive places like sad rooms. If your game is a social hangout, you must disclose it within the Content Ratings Questionnaire.
 
-If your game is a social hangout, you must disclose it within the Maturity & Compliance Questionnaire.
+This question does not apply to games where the primary theme or activity is roleplay. To be considered a roleplay game, roleplay components must be central to the game, such as adopting a new role and using in-game items to play your role with.
+
+If your title or description includes content referencing social hangouts, your game will be classified as a social hangout. If this is inaccurate, please update your title or description, then retake the questionnaire.
 
 Question 2: Does your game include private spaces?
 
@@ -1504,11 +1771,11 @@ If your game is a social hangout, you must specify if it includes private spaces
 *   They are designed for one person or for a very small number of people, such as a bathroom stall, bedroom, or small tent.
     
 
-If your game is a social hangout that includes private spaces, you must disclose it within the Maturity & Compliance Questionnaire. Social hangouts without private spaces are only available to players that are at least 16 years old, and social hangouts with private spaces are only available to age-verified players that are at least 18 years old.
+If your game is a social hangout that includes private spaces, you must disclose it within the Content Ratings Questionnaire. Social hangouts without private spaces are only available to players that are at least 16 years old, and social hangouts with private spaces are only available to age-verified players that are at least 18 years old.
 
-### Free-form user creation
+#### Free-form user creation
 
-Question 1: Does this game include free-form user creation?
+Sole question: Does this game include free-form user creation?
 
 Free-form user creation refers to features that allow players to create the following within a game for other users to see:
 
@@ -1521,11 +1788,11 @@ Free-form user creation refers to features that allow players to create the foll
 
 Free-form user creation does not apply to in-game creations that players assemble with 3D assets, such as building a house or creating an outfit, or anything that goes through Roblox moderation before it's published or replicated.
 
-If your game includes free-form user creation features, you must disclose it within the Maturity & Compliance Questionnaire. Free-form user creation is only available to players that are at least 16 years old.
+If your game includes free-form user creation features, you must disclose it within the Content Ratings Questionnaire. Free-form user creation is only available to players that are at least 16 years old.
 
-### Sensitive issues
+#### Sensitive issues
 
-Question 1: Is the primary theme of this game a sensitive issue?
+Sole question: Is the primary theme of this game a sensitive issue?
 
 Sensitive issues are any current social, political, and religious issue that meets the following criteria:
 
@@ -1536,89 +1803,79 @@ Sensitive issues are any current social, political, and religious issue that mee
 
 Sensitive issues are frequently in the news and inspire strong opinions and debate. For example: immigration, capital punishment, gun control, marriage equality, pay equity in sports, prayer in schools, racial profiling, affirmative action, vaccination policies, and reproductive rights. What meets the criteria can differ significantly depending on your location and cultural context, so answer from your local perspective.
 
-If your game includes content related to a sensitive issue or people implicated by them, but it isn't primarily themed on that issue, such as a religious building in a city, guns in a first-person shooter game, or a national holiday parade in a hangout game, you do not need to disclose it within the Maturity & Compliance Questionnaire.
+If your game includes content related to a sensitive issue or people implicated by them, but it isn't primarily themed on that issue, such as a religious building in a city, guns in a first-person shooter game, or a national holiday parade in a hangout game, you do not need to disclose it within the Content Ratings Questionnaire.
 
-However, if the majority of the content or gameplay of your game refers to a sensitive issue, you must disclose it within the Maturity & Compliance Questionnaire. Games with a primary theme of a sensitive issue are only available to players who are at least 16 years old, but they aren't recommended and discoverable unless the players have age-verified themselves. Parents can [manually allow access](https://en.help.roblox.com/hc/en-us/articles/30428310121620-Parental-Controls-Overview) to these games, regardless of their child's age.
+However, if the majority of the content or gameplay of your game refers to a sensitive issue, you must disclose it within the Content Ratings Questionnaire. Games with a primary theme of a sensitive issue are only available to players who are at least 16 years old, but they aren't recommended and discoverable unless the players have age-verified themselves. Parents can [manually allow access](https://en.help.roblox.com/hc/en-us/articles/30428310121620-Parental-Controls-Overview) to these games, regardless of their child's age.
 
-Individual assets, as well as text and voice chat, do not qualify for this descriptor.
+Individual assets, text chat, and voice chat do not qualify for this descriptor.
 
-### Paid random items
+#### Cross-experience content
 
-Question 1: Does this game contain paid random items?
+Sole question: Does your game allow users to view content that was captured from other games on Roblox?
 
-Paid random items are virtual items players can purchase with Robux or other currency. If your game includes paid random items, such as a coin players can purchase with Robux to later redeem for a random virtual item, you must disclose it within the Maturity & Compliance Questionnaire.
+If your game allows players to view content that was captured from other games, such as screenshots, screen recordings, or game recommendations through the [CaptureService](https://create.roblox.com/docs/en-us/reference/engine/classes/CaptureService) and [RecommendationService](https://create.roblox.com/docs/en-us/reference/engine/classes/RecommendationService), you must disclose it within the Content Ratings Questionnaire.
 
-You do not need to report virtual items that you provide in exchange for players completing an action that doesn't involve the payment of Robux or any other currency.
+Games that allow players to view content from other games are only available to players that are at least 13 years old. For more information, see the [Roblox Moments DevForum announcement](https://devforum.roblox.com/t/roblox-moments-a-new-era-of-user-generated-discovery-for-experiences-and-gameplay-is-here/3919813).
 
-Question 2: Does this game respect the ArePaidRandomItemsRestricted policy API?
-
-If your game contains paid random items, it's recommended to take the mandatory precautions to protect players in certain regions that don't allow paid random items so that they can still access your game. To check when these precautions are necessary, use [PolicyService.GetPolicyInfoForPlayerAsync](https://create.roblox.com/docs/en-us/reference/engine/classes/PolicyService#GetPolicyInfoForPlayerAsync) to return a dictionary of values that determine whether certain aspects of the game need to change for that unique player.
-
-One entry within the policy information is ArePaidRandomItemsRestricted, a boolean that represents whether a player is eligible to pay for random items. Random items can remain purchasable if ArePaidRandomItemsRestricted returns false, but if ArePaidRandomItemsRestricted returns true, include additional logic to hide, replace, or block the purchase of random items for those players so that your game is available to the largest audience as possible.
-
-### Paid item trading
-
-Question 1: Does this game contain the ability for users to trade items that they paid for?
-
-Paid item trading is the ability for players to purchase virtual items that they can then trade with other players. If your game includes paid item trading, such as a marketplace for exchanging Limited items, you must disclose it within the Maturity & Compliance Questionnaire.
-
-Question 2: Does this game respect the IsPaidItemTradingAllowed policy API?
-
-If your game contains paid item trading, it's recommended to take the mandatory precautions to protect players in certain regions that don't allow paid item trading so that they can still access your game. To check when these precautions are necessary, use [PolicyService.GetPolicyInfoForPlayerAsync](https://create.roblox.com/docs/en-us/reference/engine/classes/PolicyService#GetPolicyInfoForPlayerAsync) to return a dictionary of values that determine whether certain aspects of the game need to change for that unique player.
-
-One entry within the policy information is IsPaidItemTradingAllowed, a boolean that represents whether a player is eligible to trade paid items. Paid items can remain tradeable if IsPaidItemTradingAllowed returns true, but if IsPaidItemTradingAllowed returns false, include additional logic to hide, replace, or block the trading of paid items for those players so that your game is available to the largest audience as possible.
-
-### Media
-
-Question 1: Does your game allow users to share media content (videos, images, text, audio, 3D models) from their gameplay that other users can see?
-
-This question only applies if your game lets users share gameplay content using tools built into the game itself.
-
-Question 2: Does your game contain content feeds with continuous loading or audio/video that plays automatically?
-
-Continuous loading means that content loads automatically as the user scrolls, without requiring any specific user interaction (such as a manual "load more" button or pagination).
-
-Question 3: Does your game allow users to view content that was captured from other games on Roblox?
-
-This question applies to any in-game viewing functionality, such as a [SurfaceGui](https://create.roblox.com/docs/en-us/reference/engine/classes/SurfaceGui) for static images, a [VideoFrame](https://create.roblox.com/docs/en-us/reference/engine/classes/VideoFrame), or an asset viewer.
-
-### AI interaction
+#### AI interaction
 
 Question 1: Does your game allow users to interact with generative AI components?
 
-This question includes games in which a user can interact with a generative AI model in any way that triggers a response from the model. These interactions can include text chat, voice chat, images, 3D generations, avatar movement, etc.
+If your game allows players to interact with a generative AI model in any way that triggers a response from the model, such as interactions that include text chat, voice chat, images, 3D generations, and avatar movement, you must disclose it within the Content Ratings Questionnaire.
 
-Your answer to this question should not consider whether you used generative AI to help develop the game, only whether users can interact with it in the game.
+Your answer to this question does not include any generative AI tools you used to develop the game, such as the [Material Generator](https://create.roblox.com/docs/en-us/studio/material-generator) or [Texture Generator](https://create.roblox.com/docs/en-us/studio/texture-generator).
 
 Question 2: What type of interactions does your game allow between users and a generative AI model?
 
-Extended interactions meet at least one of the following criteria:
+If your game allows players to interact with generative AI components, you must specify the type of interactions players can have with the generative AI model according to the following table:
 
-*   Cross-session memory is enabled. The game saves the context of a user's prior interactions with AI and loads it on subsequent sessions.
-    
-*   The game's main purpose is to interact with a generative AI bot or character. Users can interact with the AI continuously with no time limit.
-    
+| **Interaction type** | **Description** |
+| --- | --- |
+| **Extended Interactions** | Your game meets at least one of the following criteria:  <br>  <br><br>*   Cross-session memory is enabled so that the context of a player's prior interaction with AI is saved and loaded into subsequent sessions.<br>    <br>*   The game's main theme or purpose is for players to continuously interact with a generative AI bot or character without a time limit. |
+| **Limited Interactions** | Your game does not meet any of the previous criteria for the Extended Interactions type. |
 
-Games that do not meet at least one of these criteria are considered limited interactions.
+Games that allow extended interactions between users and a generative AI model are only available to age-verified players that are at least 18 years old.
 
-Content maturity moderation
----------------------------
+#### Media sharing
 
-Roblox relies on the information you provide in the Maturity & Compliance Questionnaire to generate accurate content maturity information, so the Moderation team may review your content maturity to ensure its validity based on the content of your game. Whenever Roblox discovers a discrepancy between your submission and the content in your game, the following actions occur:
+Question 1: Does your game allow users to share media content (videos, images, text, audio, 3D models) from their gameplay that other users can see?
+
+If your game lets players share gameplay content using tools built into the game itself, you must disclose it within the Content Ratings Questionnaire. Games that allow media sharing are only available to players that are at least 16 years old.
+
+This descriptor only accounts for tools built into the game itself to share media content, not players taking screenshots of your game.
+
+Question 2: Does this game respect the IsContentSharingAllowed policy API?
+
+The [PolicyService.GetPolicyInfoForPlayersAsync](https://create.roblox.com/docs/en-us/reference/engine/classes/PolicyService#GetPolicyInfoForPlayersAsync) API returns a dictionary of values that determine whether certain aspects of the game need to change for players that join a game. This dictionary includes an IsContentSharingAllowed entry that checks to see if players can use features related to sharing user-generated content within a game, such as uploading a screen capture, sharing a video, or posting an image to a content feed that other users can see.
+
+If players should not be able to share media content from their gameplay that other players can see, you must use IsContentSharingAllowed boolean to programmatically verify player eligibility to see this specific content, then change the context accordingly to align with each player's requirements.
+
+#### Continuous media feed and autoplay
+
+Sole question: Does your game contain content feeds with continuous loading or audio/video that plays automatically?
+
+Continuous loading is when content loads automatically as the player scrolls, without requiring any specific player interaction, such as clicking a manual "load more" button or a button to the next page. If your game contains continuous loading, you must disclose it within the Content Ratings Questionnaire.
+
+Content ratings moderation
+--------------------------
+
+IARC and Roblox rely on the information you provide in the Content Ratings Questionnaire to generate accurate content ratings. The Moderation team will continue to review your games to ensure the validity of your questionnaire responses.
+
+Whenever Roblox discovers a discrepancy between your submission and the content in your game, the following actions occur:
 
 *   You receive a moderation notification through a private message on Roblox.
     
-*   The Maturity & Compliance Questionnaire page on the [Creator Dashboard](https://create.roblox.com/dashboard/creations) updates to provide moderator feedback and guidance on how to generate accurate content maturity information.
+*   The Content Ratings page on the [Creator Dashboard](https://create.roblox.com/dashboard/creations) updates to provide moderator feedback and guidance on how to generate accurate content ratings.
     
 *   Roblox provides a moderation action.
     
-    *   If your game contains restricted content without a Restricted maturity label, your game is subject to moderation consequences.
+    *   If your game contains restricted content without an age-appropriate IARC rating and Restricted content maturity rating, your game is subject to moderation consequences.
         
-    *   If your game contains content that is prohibited by Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410), [Terms of Use](https://en.help.roblox.com/hc/articles/115004647846), or [Age-Restricted Content Policy](https://en.help.roblox.com/hc/articles/15869919570708), your game is subject to moderation consequences.
+    *   If your game contains content that is prohibited by Roblox's [Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410), [Terms of Use](https://en.help.roblox.com/hc/articles/115004647846), or [Age-Restricted Content Policy](https://en.help.roblox.com/hc/en-us/articles/15869919570708-Restricted-Content-Policy), your game is subject to moderation consequences.
         
-    *   If your game otherwise has inaccurate content maturity information according to its content, Roblox may replace the maturity label or remove the maturity label (or only some or all descriptors if the maturity label is Restricted) from your game. If a game does not have content maturity information, Roblox restricts the playability of the game on the platform for all players.
+    *   If your game otherwise has inaccurate content ratings according to its content, Roblox and/or IARC ratings agencies may replace or remove the IARC rating and/or Roblox-specific content maturity rating (or only some or all descriptors if the content maturity rating is Restricted) from your game. If a game does not have an IARC rating or Roblox-specific content maturity rating when it's required, Roblox restricts the playability of the game on the platform for all players. If a Kids and Select game doesn't have assigned IARC ratings by January 26, 2027, it may be removed from the Kids and Select catalog in Australia until it's rated.
         
-    *   If you repeatedly include inaccurate content maturity information, your game and/or account is subject to moderation consequences.
+    *   If you repeatedly include inaccurate content ratings, your game and/or account is subject to moderation consequences.
         
     
 
@@ -1637,32 +1894,34 @@ Submitting an appeal doesn't guarantee that Roblox will overturn the moderation 
 
 Alternatively, you can appeal the decision from the Violations & Appeals page:
 
-1.  If you are the owner of a user-owned game or the group owner of a group-owned game, navigate to [roblox.com/report-appeals](https://www.roblox.com/report-appeals#/).
+1.  If you are the owner of a user-owned game or the group owner of a group-owned game, navigate to [roblox.com/report-appeals](http://roblox.com/report-appeals).
     
 2.  Select the violation you want to appeal.
     
 3.  Click the Request Appeal button.
     
-4.  (Recommended) In the text field, describe why the moderation action was a mistake.
+4.  RECOMMENDED
+    
+    In the text field, describe why the moderation action was a mistake.
     
 5.  Click Send to submit your appeal.
     
 
 Even if the violation does not appear on the Violations & Appeals page, you can appeal the decision:
 
-1.  Click Support (appeal something not shown).
+1.  Navigate to [roblox.com/report-appeals](http://roblox.com/report-appeals), then click Support.
     
-2.  Confirm your contact information and device type,
+2.  Confirm your contact information and device type.
     
 3.  Set Type of help category to Appeal a Decision.
     
-4.  Set Help Subcategory Type to I was wrongly moderated for other content I created.
+4.  Set Help Subcategory Type to Content Maturity.
     
-5.  Input your game ID into the Asset ID field.
+5.  In the Asset ID field, input your game ID.
     
 6.  In the Please describe your issue field, describe why the moderation action was a mistake.
     
 7.  Click Continue to submit your appeal.
     
 
-If your appeal is accepted, Appeal accepted is shown under your violation when you click on it.
+If your appeal is accepted, Appeal accepted displays under your violation when you click on it.
