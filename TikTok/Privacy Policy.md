@@ -2,6 +2,8 @@ EEA, UK and Switzerland
 
 Privacy Policy
 
+  
+
 Last updated: _30 November 2025_
 
 **Introduction**
