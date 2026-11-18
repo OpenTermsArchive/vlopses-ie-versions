@@ -288,75 +288,6 @@ EEA and UK Privacy Notice
 
 This notice provides additional information for users in the European Economic Area (EEA) and the United Kingdom (UK). Users in the EEA and UK have certain privacy rights as specified under EU and UK law, including the General Data Protection Regulations (GDPR) and UK Data Protection Act 2018. [Our Privacy Principles](https://values.snap.com/privacy/privacy-principles) and the privacy controls we offer to all users are in line with these laws – this notice makes sure we cover the EEA and UK-specific requirements. For example, all users can request a copy of their data, request deletion and control their privacy settings in the app. For the full picture, check out our [Privacy Policy](https://values.snap.com/privacy/privacy-policy).
 
-### 
-
-Data Controller
-
-If you’re a user in the EEA or UK, you should know that Snap Inc. is the controller of your personal information.
-
-### 
-
-Rights of Access, Deletion, Correction, and Portability
-
-You can exercise your rights of access, deletion, correction, and portability as described in the [Control Over Your Information](https://values.snap.com/privacy/privacy-policy#control-over-your-information) section of the Privacy Policy. You also have the right to request restriction of processing of your personal information and the right to lodge a complaint with a supervisory authority, as set out below. You may also have the right to request human review, express your view, and contest decisions made solely by automated processing that significantly affect you.
-
-### 
-
-Bases for Using Your Information
-
-Your country only allows us to use your personal information when certain conditions apply. These conditions are called “legal bases” and, at Snap, we typically rely on one of four:
-
-*   **Contract**. One reason we might use your information is because you’ve entered into an agreement with us. For instance, when you buy an On-Demand Geofilter and accept our Custom Creative Tools Terms, we need to use some of your information to collect payment and make sure we show your Geofilter to the right people at the right place and time.
-    
-*   **Legitimate interest.** Another reason we might use your information is because we have – or a third party has – a legitimate interest in doing so. For instance, we need to use your information to provide and improve our services, including protecting your account, delivering your Snaps, providing customer support and helping you find friends and content we think you’ll like. Because most of our services are free, we also use some information about you to try and show you ads you’ll find interesting. An important point to understand about legitimate interest is that our interests don’t outweigh your right to privacy, so we only rely on legitimate interest when we think the way we are using your data doesn’t significantly impact your privacy or would be expected by you, or there is a compelling reason to do so. We explain our legitimate business reasons for using your information in more detail [here](https://values.snap.com/privacy/your-information).
-    
-*   **Consent**. In some cases we’ll ask for consent to use your information for specific purposes. If we do, we’ll make sure you can revoke your consent in our services or through your device permissions. You have the right to withdraw your consent at any time. This will not affect the lawfulness of processing based on consent before its withdrawal. Even if we’re not relying on consent to use your information, we may ask you for permission to access data like contacts and location.
-    
-*   **Legal obligation.** We may be required to use your personal information to comply with the law, like when we respond to valid legal process or need to take action to protect our users. Our policy is to notify Snapchatters when we receive legal process seeking their account information, with some exceptions. Learn more [here](https://values.snap.com/privacy/transparency).
-    
-
-### 
-
-Your right to object
-
-You have the right to object to our use of your information. You have the right to object to processing of your personal information based on legitimate interests, including profiling related to such processing, and to object at any time to processing for direct marketing purposes. With many types of data, we’ve provided you with the ability to simply delete it if you don’t want us processing it anymore. For other types of data, we’ve given you the ability to stop the use of your data by disabling the feature altogether. You can do these things in the app. If there are other types of information you don’t agree with us processing, you can [contact us](https://help.snapchat.com/?lang=en-GB). [Learn more](https://help.snapchat.com/hc/articles/22534988598676-Learn-About-Snap-s-Data-Processing-and-How-to-Object?lang=en-GB) about how Snap processes personal data and how to object.
-
-### 
-
-International Data Transfers
-
-We may collect your personal information from, transfer it to and store and process it in the United States and other countries outside of where you live. You can find more information on the categories of third parties we share information with [here](https://help.snapchat.com/hc/articles/7012351145364?lang=en-GB).
-
-Whenever we share information with a third party outside of where you live we make sure an adequate transfer mechanism is in place (such as [Standard Contractual Clauses](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) or the [EU-U.S. /UK/Swiss Data Privacy Framework)](https://www.dataprivacyframework.gov/s/). You can request a copy of the relevant safeguards by contacting us.
-
-### 
-
-EU-U.S. /UK/Swiss Data Privacy Framework
-
-Snap Inc. complies with the EU-U.S. Data Privacy Framework, Swiss-U.S. Data Privacy Frameworks, and the UK Extension to the EU-U.S. DPF as set forth by the U.S. Department of Commerce (collectively, the “DPF”) when handling your personal information as described in our [Privacy Policy](https://values.snap.com/privacy/privacy-policy) received from third parties in the EEA, Switzerland, and the UK, respectively. Please visit the [DPF website](https://www.dataprivacyframework.gov/s/) to learn more about the DPF program and to view our certification in the [DPF list.](https://www.dataprivacyframework.gov/s/participant-search)
-
-In accordance with the DPF principles, Snap remains liable for failures to comply with the DPF when we share your personal information with third parties working on our behalf under the Onward Transfer Principle (except for failures that are not our responsibility).
-
-[If you have complaints or questions about how we are complying with the DPF’s principles when handling your personal information, please submit your inquiries as explained below.](https://values.snap.com/privacy/privacy-policy) Our compliance with the DPF’s principles is also subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain circumstances, you have the right to invoke binding arbitration to resolve complaints that are not resolved by other means, as described in [Annex I](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2) of the [DPF Framework](https://www.dataprivacyframework.gov/s/framework-text).
-
-  
-
-### 
-
-Complaints or Questions?
-
-We want you to know that you can submit any inquiries to our [privacy support team](https://help.snapchat.com/?lang=en-GB) or Data Protection Officer at dpo \[at\] snap \[dot\] com. You also have the right to file a complaint with your [supervisory authority](https://edpb.europa.eu/about-edpb/board/members_en) in the EEA, the [Federal Data Protection and Information Commissioner](https://www.edoeb.admin.ch/) in Switzerland, and in the UK you can file a complaint with the [Information Commissioner’s Office](https://ico.org.uk/) (or the [Gibraltar Regulatory Authority](https://www.gra.gi/data-protection) where applicable).
-
-### 
-
-Representative
-
-Snap Inc. has appointed Snap B.V. as its EEA representative. You can contact the representative [here](https://help.snapchat.com/hc/requests/new?start=5749439348080640&lang=en-GB) or at:
-
-Snap B.V.  
-Keizersgracht 165, 1016 DP  
-Amsterdam, The Netherlands
-
 - - -
 
 ### 
@@ -603,6 +534,186 @@ Ads may appear in your Chat feed. These “Sponsored Snaps” will be labelled a
 
 ### 
 
+Snaps & Chats
+
+Just like talking to someone in person or on the phone, having a conversation through Snaps and Chats lets you express whatever’s on your mind at the time — without automatically keeping a permanent record of everything you’ve ever said.
+
+Of course, you can also choose to save a Snap before you send it, and recipients can always take a screenshot. You can also save a message in Chat. Just tap it. Snapchat makes it easy to save what’s important, without being bogged down by the rest.
+
+Saving Snaps was designed with privacy in mind. You control whether your Snaps can be saved within Snapchat. Set the Snap time to no time limit in order to allow a Snap to be saved. You can always delete any message you’ve sent, including Snaps that have been saved in Chat. Just press and hold to unsafe. When you save a Snap, either before or after sending, it can become part of your Memories. When your friend saves a Snap you send them, it can become part of their Memories. Check out the Memories section below for more detailed information about Memories.
+
+Voice and video chat allow you to check in with your friends. If you just want to leave a voice message, we’ve got you covered, just press and hold the microphone to record a voice note. Snapchatters can also use our Voice Note Transcription feature that allows us to create and make available transcripts of Voice Chats so they can be read.
+
+Snaps and Chats are private and delete by default, including Voice and Video Chats between you and your friends – meaning we don’t scan their content to personalise your experience, make recommendations or show you ads. This means we don’t know what you’re Chatting or Snapping except in limited, safety-related circumstances (for example, if we receive a report of content that is flagged for violating our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines), or to help keep spammers from sending you malware or other harmful content) or unless you ask us to (for example, if you use our Voice Chat Transcription feature).
+
+*   [How to Create and Send Snaps](https://help.snapchat.com/hc/articles/7012334940948?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+*   [When Does Snapchat Delete Snaps and Chats?](https://help.snapchat.com/hc/articles/7012334940948?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+*   [Snap and Chat Metadata](https://help.snapchat.com/hc/articles/7012318664852?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+*   [Saving and Deleting Snaps](https://help.snapchat.com/hc/articles/7012377741332?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+*   [Voice and Video Chat](https://help.snapchat.com/hc/articles/7012304163988?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+
+### 
+
+Snapchat for Web
+
+Snapchat for Web lets you experience the Snapchat app from the convenience of your computer. To get started, just sign in with your Snapchat credentials. After signing in, we may send a push notification to your Snapchat app, just to make sure it’s really you.
+
+Once you're up and running, you'll notice Snapchat for Web is very similar to the Snapchat app experience, but there are a few differences we want you to be aware of. For example, if you’re calling someone on Snapchat for Web, you’ll only have access to a selected set of Lenses, and not all creative tools may be available to you. You can expect more changes to follow, and check out the resources below to learn more!
+
+*   [Learn About Snapchat for Web](https://help.snapchat.com/hc/sections/5686944624788?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+*   [How to Call, Snap and Chat from Snapchat for Web](https://help.snapchat.com/hc/articles/7121575005332?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+
+### 
+
+Gen AI ✨
+
+Generative AI is a type of technology that learns from large amounts of data and is designed to create new content – like text, images or visuals, and videos. Generative AI is part of the Snapchat experience and we are [committed](https://values.snap.com/news/eu-ai-pact?lang=en-US) to its responsible development. We are constantly working on new ways to enhance our features with the use of generative AI to make Snapchat more interactive and personalized to you. For instance, by offering generative AI Lenses that take you back to the 90s or help you imagine your next summer job. Many features are powered with generative AI, including [My Selfies](https://help.snapchat.com/hc/en-us/articles/25312335775380-What-is-My-Selfie?lang=en-GB), [AI Lenses](https://help.snapchat.com/hc/articles/13965361050388?lang=en-GB), [My AI](https://help.snapchat.com/hc/sections/13532188353428?lang=en-GB) (discussed in more detail below), [Dreams](https://help.snapchat.com/hc/articles/18494402767252?lang=en-GB), [AI Snaps,](https://help.snapchat.com/hc/articles/21153430785812?lang=en-GB) and more.
+
+We may indicate that a feature or a piece of content is powered by generative AI by including a sparkle icon ✨, adding specific disclaimers, or tool tips. When you export or save your visual content, we add a Snap Ghost with sparkles ✨ to indicate that the visual was generated by AI.
+
+We are constantly improving our technology. In order to do that, we may use the content and feedback you submit, as well as the generated content, to improve the quality and safety of our products and features. This includes improving the underlying machine learning models and algorithms that make our generative AI features work, and may include both automated and manual (i.e., human) review or labelling of the content and any feedback you submit. 
+
+To make Snapchat’s generative AI features safe and meaningful for all users, please adhere to our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US) and our [dos and don’ts of generative AI on Snapchat.](https://help.snapchat.com/hc/en-us/articles/25494876770580-Generative-AI-on-Snapchat?lang=en-GB#Dos-and-donts) 
+
+*   [Generative AI on Snapchat](https://help.snapchat.com/hc/en-us/articles/25494876770580-Generative-AI-on-Snapchat?lang=en-GB) 
+    
+
+### 
+
+My AI 🤖 ✨
+
+My AI is a chatbot 🤖 built on generative AI ✨ technology designed with safety in mind. You can chat with My AI directly or @ mention My AI in conversations. Generative AI is a developing technology that may provide responses that are biased, incorrect, harmful or misleading. So, you should not rely on its advice. You should also not share any confidential or sensitive information — if you do, it will be used by My AI.
+
+Your conversations with My AI work differently than Chats and Snaps with your Friends – My AI retains the content you have sent to and received from My AI (like Snaps and Chats), but only uses content from the previous 24 hours to power its responses. When you interact with My AI, we also use the content you share and your [location](https://help.snapchat.com/hc/articles/18937463577620?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB) (if you have enabled location sharing with Snapchat) to improve Snap’s products, including enhancing My AI’s safety and security, and to personalise your experience, including ads.
+
+My AI may also mention your general location, like what city you’re in, or the bio you set for My AI in its responses (including in conversations where you @ mention My AI).
+
+If you are under 18, a trusted adult – like your parent or guardian – may use Family Centre to see if you have chatted with My AI, and to turn your access to My AI on or off. Trusted adults cannot see the content of your chats with My AI.
+
+To provide My AI, we may share your information with our [service providers and advertising partners](https://help.snapchat.com/hc/articles/7012351145364?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB).
+
+We are constantly working to improve My AI. If you would like to report an issue with My AI, you may do so in the app by pressing and holding on the Chat response and tapping 'Report.'
+
+Check out the resources below to learn more!
+
+*   [What is My AI on Snapchat, and how do I use it?](https://help.snapchat.com/hc/articles/13266788358932?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+*   [Staying Safe with My AI](https://help.snapchat.com/hc/articles/13889139811860?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+*   [How My AI Uses Location Data](https://help.snapchat.com/hc/articles/15051407058068?%3Futm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+*   [How can I manage how my location data is shared with My AI?](https://help.snapchat.com/hc/articles/18937463577620?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+*   [Does My AI remember things about me?](https://help.snapchat.com/hc/articles/15586639780116?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+*   [How do I clear my data with My AI?](https://help.snapchat.com/hc/articles/18937378754324?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+*   [How do I limit my teen’s access to My AI?](https://help.snapchat.com/hc/articles/22628526282772?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+
+### 
+
+Stories
+
+There are a number of different Story types on Snapchat to allow you to share your moments with your preferred audience. Currently, we offer the following Story types:
+
+*   [**Private Story**](https://help.snapchat.com/hc/articles/7012308988820?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)**.** If you just want to share a Story with a select number of Friends, you can select the Private Story option.
+    
+*   **BFF Story.** If you just want to share your Story with your Best Friends, you can select the BFF Story format.
+    
+*   [**My Story - Friends**](https://help.snapchat.com/hc/articles/7012293224084?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)**.** My Story Friends allows you to share a Story with all your Friends. Note, if you set your My Story Friends to be viewable by ‘Everyone’ in Settings, your My Story is considered public and may be visible to anyone.
+    
+*   [**Shared Stories**](https://help.snapchat.com/hc/articles/7012312875412?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)**.** Shared Stories are stories between you and a group of other Snapchatters.
+    
+*   [**Community Stories**](https://help.snapchat.com/hc/articles/7121615525524?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)**.** If you’re part of a Community on Snapchat, you can submit to the Community Story. This content is also considered public, and is viewable by community members.
+    
+*   [**My Story - Public**](https://help.snapchat.com/hc/articles/7012338216468?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)**.** If you want your story to be public and reach a wider audience, you can submit your Story to My Story Public, and it may be featured in other parts of the app, like Discover.
+    
+*   [**Snap Map**](https://help.snapchat.com/hc/articles/7012271195796?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)**.** Stories submitted to Snap Map are public, and are eligible to be displayed on the Snap Map, and off of Snapchat.
+    
+
+Most Stories are set to delete after 24 hours unless you change the settings, save the Story to your Public Profile, or you or a Friend saves it in Chat. Once you’ve posted a Story, your Friends and others can interact with them. For example, they may use the same Lens you used, remix the Snap, or share with friends and others.
+
+Remember: anyone can take a screenshot or record a Story!
+
+*   [How to Use Stories](https://help.snapchat.com/hc/articles/7012293224084?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+*   [How to Save a Private or Shared Story on Snapchat](https://help.snapchat.com/hc/articles/7012356336020?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+*   [What's the difference between posting to My Public Story and My Story?](https://help.snapchat.com/hc/articles/7012338216468?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+
+### 
+
+Profiles
+
+Profiles make it easy to find the info and Snapchat features that you care about the most. There are different types of Profiles on Snapchat, including [My Profile](https://help.snapchat.com/hc/articles/7012292808596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB#MyProfile), [Friendship Profiles](https://help.snapchat.com/hc/articles/7012292808596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB#FriendProfile), [Group Profiles](https://help.snapchat.com/hc/articles/7012292808596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB#GroupProfiles), and [Public Profiles](https://help.snapchat.com/hc/articles/7012292808596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB#GroupProfiles).
+
+My Profile features your Snapchat info, like your Bitmoji, location on the Map, friend info and more. Friendship Profile is unique to each friendship, this is where you can find Snaps and Chats you’ve saved, your friend’s Snapchat info like their Bitmoji and location on the Map (if they’re sharing that with you), and this is also where you can manage your friendship, and report, block or remove the friend. Group Profiles showcase your saved Snaps and chats within a group chat and your friends’ Snapchat info.
+
+Public Profiles enable Snapchatters to be discovered in Snapchat. In most regions, if you’re over 18, you’re eligible for a Public Profile. When using your Public Profile, you can showcase your favourite public Stories, Spotlights, Lenses and other information. Other Snapchatters will be able to follow your Public Profile. Your follower count is turned off by default, but if you want you can turn it on in Settings.
+
+*   [About Profiles](https://help.snapchat.com/hc/articles/7012292808596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+
+### 
+
+Spotlight
+
+Spotlight allows you to discover the world of Snapchat in one place and shines a light on the most entertaining Snaps, no matter who created them!
+
+Snaps and Comments submitted to Spotlight are public and other Snapchatters may be able to share them both on and off Snapchat or even ‘Remix’ Spotlight Snaps. For example, they may take your funny dance Snap and layer a reaction over it. Your Profile is where you will be able to control and see an overview of Spotlight Snaps you’ve submitted. You can also choose a favourite Spotlight content, and when you do, we will add it to your favourites list and use it to personalise your Spotlight experience.
+
+As you explore and engage with content on Spotlight, we will tailor your Spotlight experience and show you more content we think you will like. For example, if you can’t stop watching dance challenges, we will show you more dance-related content. We may also let your friends know that you shared, recommended or commented on a Spotlight Snap.
+
+When you submit Snaps to Spotlight we ask you to comply with our [Community Guidelines](https://www.snap.com/community-guidelines?lang=en-GB), [Spotlight Terms](https://www.snap.com/terms/spotlight-terms?lang=en-GB) and [Spotlight Guidelines](https://help.snapchat.com/hc/articles/7012287256596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB). Your Spotlight submissions are stored on our servers until you delete them and may be visible on Snapchat for long periods of time. If you’d like to remove a Snap you’ve submitted to Spotlight, you can do so by going to your Profile.
+
+*   [About Spotlight](https://help.snapchat.com/hc/articles/7012271311892?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+*   [Spotlight Guidelines](https://help.snapchat.com/hc/articles/7012287256596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+
+### 
+
+Memories
+
+Memories makes it easy to look back on Snaps you’ve saved and even edit and resend them! We add Snapchat’s magic to the content saved to Memories (as well as the content in your device’s camera roll, if you’ve granted us access to it) in order to personalise your experience. We do this by adding labels based on the content, so that you can easily search for it, and to inform us of what type of content you’re interested in so that we can surface similar content in Memories or other parts of our Services, such as Spotlight. For example, if you save lots of Snaps of your dog in Memories we can recognise that there is a dog and personalise your experience by showing you Spotlight Snaps or ads about the cutest dog toys!
+
+We may also suggest ways to share your Memories and camera roll content with friends with a new twist – like a fun Lens! – but you get to decide when and where to share. We’ll also help you navigate through all your Memories, for example by grouping them around a certain time or place so you can more easily create Stories or Spotlight Snaps featuring your favourite Memories.
+
+Keeping Memories backed up online helps keep them from being lost, but that shouldn’t mean you have to sacrifice your privacy or security. That’s why we've made “My Eyes Only”, which lets you keep your Snaps safe and encrypted and protected behind a password you choose. That way, even if someone steals your device and logs in to Snapchat somehow, those private Snaps are still safe. Without the password, no one can view these things after they are saved in My Eyes Only – not even us! Be careful though, because if you forget your password, there’s no way to recover those encrypted Snaps.
+
+Additionally, in Memories, you can view AI generated portraits with you and your friends. The selfies you upload to create these portraits are used with the help of generative AI to create novel pictures of you and your friends.
+
+*   [Learn About Memories](https://help.snapchat.com/hc/sections/5689720960788?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+*   [What are Dreams and how do they work?](https://help.snapchat.com/hc/articles/18494402767252?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+
+### 
+
+Lenses
+
+Ever wonder how Lenses give you puppy dog ears or change the colour of your hair?
+
+Some magic behind Lenses is due to “object detection”. Object detection is an algorithm designed to help a computer generally understand what objects are in an image. In this case, it lets us know that a nose is a nose or an eye is an eye.
+
+But, object detection isn’t the same as identifying your face. While Lenses can tell what is or isn’t a face, they don’t identify specific faces!
+
+Many of our Lenses rely on generative AI to create fun experiences and transform your image and experience into something special.
+
+*   [How to Use Lenses](https://help.snapchat.com/hc/articles/7012348332052?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB)
+    
+
+### 
+
 Snap Kit
 
 Snap Kit is a set of developer tools that let you easily share Snaps, Stories and Bitmojis with your favourite apps or from apps and websites to your Snapchat account! When you choose to connect to an app or website, you can review the information that is shared through Snap Kit. You can also remove an app or website’s access at any time right in Snapchat settings.
@@ -767,357 +878,3 @@ EEA Standard Contractual Clauses
 ------------------------------------
 
 Effective: September 27, 2021
-
-**PLEASE NOTE: WE'VE PUBLISHED THE TERMS BELOW IN CONNECTION WITH THE NEW EUROPEAN COMMISSION-APPROVED STANDARD CONTRACTUAL CLAUSES, EFFECTIVE SEPTEMBER 27, 2021**
-
-SECTION I
-
-_Clause 1_
-
-Purpose and scope
-
-(a) The purpose of these standard contractual clauses is to ensure compliance with the requirements of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation) for the transfer of personal data to a third country. 
-
-(b) The Parties: 
-
-(i) the natural or legal person(s), public authority/ies, agency/ies or other body/ies (hereinafter “entity/ies”) transferring the personal data, as listed in Annex I.A. (hereinafter each “data exporter”), and 
-
-(ii) the entity/ies in a third country receiving the personal data from the data exporter, directly or indirectly via another entity also Party to these Clauses, as listed in Annex I.A. (hereinafter each “data importer”) 
-
-have agreed to these standard contractual clauses (hereinafter: “Clauses”). 
-
-(c) These Clauses apply with respect to the transfer of personal data as specified in Annex I.B. 
-
-(d) The Appendix to these Clauses containing the Annexes referred to therein forms an integral part of these Clauses. 
-
-_Clause 2_
-
-Effect and invariability of the Clauses
-
-(a) These Clauses set out appropriate safeguards, including enforceable data subject rights and effective legal remedies, pursuant to Article 46(1) and Article 46 (2)(c) of Regulation (EU) 2016/679 and, with respect to data transfers from controllers to processors and/or processors to processors, standard contractual clauses pursuant to Article 28(7) of Regulation (EU) 2016/679, provided they are not modified, except to select the appropriate Module(s) or to add or update information in the Appendix. This does not prevent the Parties from including the standard contractual clauses laid down in these Clauses in a wider contract and/or to add other clauses or additional safeguards, provided that they do not contradict, directly or indirectly, these Clauses or prejudice the fundamental rights or freedoms of data subjects. 
-
-(b) These Clauses are without prejudice to obligations to which the data exporter is subject by virtue of Regulation (EU) 2016/679. 
-
-_Clause 3_
-
-Third-party beneficiaries
-
-(a) Data subjects may invoke and enforce these Clauses, as third-party beneficiaries, against the data exporter and/or data importer, with the following exceptions: 
-
-(i) Clause 1, Clause 2, Clause 3, Clause 6, Clause 7; 
-
-(ii) Clause 8: Clause 8.5 (e) and Clause 8.9(b); 
-
-(iv) Clause 12: Clause 12(a) and (d); 
-
-(v) Clause 13; 
-
-(vi) Clause 15.1(c), (d) and (e); 
-
-(vii) Clause 16(e); 
-
-(viii) Clause 18: Clause 18(a) and (b); 
-
-(b) Paragraph (a) is without prejudice to rights of data subjects under Regulation (EU) 2016/679. 
-
-_Clause 4_
-
-Interpretation
-
-(a) Where these Clauses use terms that are defined in Regulation (EU) 2016/679, those terms shall have the same meaning as in that Regulation. 
-
-(b) These Clauses shall be read and interpreted in the light of the provisions of Regulation (EU) 2016/679. 
-
-(c) These Clauses shall not be interpreted in a way that conflicts with rights and obligations provided for in Regulation (EU) 2016/679. 
-
-_Clause 5_
-
-Hierarchy
-
-In the event of a contradiction between these Clauses and the provisions of related agreements between the Parties, existing at the time these Clauses are agreed or entered into thereafter, these Clauses shall prevail. 
-
-_Clause 6_
-
-Description of the transfer(s)
-
-The details of the transfer(s), and in particular the categories of personal data that are transferred and the purpose(s) for which they are transferred, are specified in Annex I.B. 
-
-_Clause 7_
-
-Docking clause
-
-(a) An entity that is not a Party to these Clauses may, with the agreement of the Parties, accede to these Clauses at any time, either as a data exporter or as a data importer, by completing the Appendix and signing Annex I.A. 
-
-(b) Once it has completed the Appendix and signed Annex I.A, the acceding entity shall become a Party to these Clauses and have the rights and obligations of a data exporter or data importer in accordance with its designation in Annex I.A. 
-
-(c) The acceding entity shall have no rights or obligations arising under these Clauses from the period prior to becoming a Party.
-
-SECTION II – OBLIGATIONS OF THE PARTIES
-
-_Clause 8_
-
-Data protection safeguards
-
-The data exporter warrants that it has used reasonable efforts to determine that the data importer is able, through the implementation of appropriate technical and organisational measures, to satisfy its obligations under these Clauses. 
-
-8.1 Purpose limitation 
-
-The data importer shall process the personal data only for the specific purpose(s) of the transfer, as set out in Annex I.B. It may only process the personal data for another purpose: 
-
-(i) where it has obtained the data subject’s prior consent; 
-
-(ii) where necessary for the establishment, exercise or defence of legal claims in the context of specific administrative, regulatory or judicial proceedings; or 
-
-(iii) where necessary in order to protect the vital interests of the data subject or of another natural person. 
-
-8.2 Transparency 
-
-(a) In order to enable data subjects to effectively exercise their rights pursuant to Clause 10, the data importer shall inform them, either directly or through the data exporter: 
-
-(i) of its identity and contact details; 
-
-(ii) of the categories of personal data processed; 
-
-(iii) of the right to obtain a copy of these Clauses; 
-
-(iv) where it intends to onward transfer the personal data to any third party/ies, of the recipient or categories of recipients (as appropriate with a view to providing meaningful information), the purpose of such onward transfer and the ground therefore pursuant to Clause 8.7. 
-
-(b) Paragraph (a) shall not apply where the data subject already has the information, including when such information has already been provided by the data exporter, or providing the information proves impossible or would involve a disproportionate effort for the data importer. In the latter case, the data importer shall, to the extent possible, make the information publicly available. 
-
-(c) On request, the Parties shall make a copy of these Clauses, including the Appendix as completed by them, available to the data subject free of charge. To the extent necessary to protect business secrets or other confidential information, including personal data, the Parties may redact part of the text of the Appendix prior to sharing a copy, but shall provide a meaningful summary where the data subject would otherwise not be able to understand its content or exercise his/her rights. On request, the Parties shall provide the data subject with the reasons for the redactions, to the extent possible without revealing the redacted information. 
-
-(d) Paragraphs (a) to (c) are without prejudice to the obligations of the data exporter under Articles 13 and 14 of Regulation (EU) 2016/679. 
-
-8.3 Accuracy and data minimisation 
-
-(a) Each Party shall ensure that the personal data is accurate and, where necessary, kept up to date. The data importer shall take every reasonable step to ensure that personal data that is inaccurate, having regard to the purpose(s) of processing, is erased or rectified without delay. 
-
-(b) If one of the Parties becomes aware that the personal data it has transferred or received is inaccurate, or has become outdated, it shall inform the other Party without undue delay. 
-
-(c) The data importer shall ensure that the personal data is adequate, relevant and limited to what is necessary in relation to the purpose(s) of processing. 
-
-8.4 Storage limitation 
-
-The data importer shall retain the personal data for no longer than necessary for the purpose(s) for which it is processed. It shall put in place appropriate technical or organisational measures to ensure compliance with this obligation, including erasure or anonymisation of the data and all back-ups at the end of the retention period. 
-
-8.5 Security of processing 
-
-(a) The data importer and, during transmission, also the data exporter shall implement appropriate technical and organisational measures to ensure the security of the personal data, including protection against a breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorised disclosure or access (hereinafter “personal data breach”). In assessing the appropriate level of security, they shall take due account of the state of the art, the costs of implementation, the nature, scope, context and purpose(s) of processing and the risks involved in the processing for the data subject. The Parties shall in particular consider having recourse to encryption or pseudonymisation, including during transmission, where the purpose of processing can be fulfilled in that manner. 
-
-(b) The Parties have agreed on the technical and organisational measures set out in Annex II. The data importer shall carry out regular checks to ensure that these measures continue to provide an appropriate level of security. 
-
-(c) The data importer shall ensure that persons authorised to process the personal data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality. 
-
-(d) In the event of a personal data breach concerning personal data processed by the data importer under these Clauses, the data importer shall take appropriate measures to address the personal data breach, including measures to mitigate its possible adverse effects. 
-
-(e) In case of a personal data breach that is likely to result in a risk to the rights and freedoms of natural persons, the data importer shall without undue delay notify both the data exporter and the competent supervisory authority pursuant to Clause 13. Such notification shall contain i) a description of the nature of the breach (including, where possible, categories and approximate number of data subjects and personal data records concerned), ii) its likely consequences, iii) the measures taken or proposed to address the breach, and iv) the details of a contact point from whom more information can be obtained. To the extent it is not possible for the data importer to provide all the information at the same time, it may do so in phases without undue further delay. 
-
-(f) In case of a personal data breach that is likely to result in a high risk to the rights and freedoms of natural persons, the data importer shall also notify without undue delay the data subjects concerned of the personal data breach and its nature, if necessary in cooperation with the data exporter, together with the information referred to in paragraph (e), points ii) to iv), unless the data importer has implemented measures to significantly reduce the risk to the rights or freedoms of natural persons, or notification would involve disproportionate efforts. In the latter case, the data importer shall instead issue a public communication or take a similar measure to inform the public of the personal data breach. 
-
-(g) The data importer shall document all relevant facts relating to the personal data breach, including its effects and any remedial action taken, and keep a record thereof. 
-
-8.6 Sensitive data 
-
-Where the transfer involves personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data, or biometric data for the purpose of uniquely identifying a natural person, data concerning health or a person’s sex life or sexual orientation, or data relating to criminal convictions or offences (hereinafter “sensitive data”), the data importer shall apply specific restrictions and/or additional safeguards adapted to the specific nature of the data and the risks involved. This may include restricting the personnel permitted to access the personal data, additional security measures (such as pseudonymisation) and/or additional restrictions with respect to further disclosure. 
-
-8.7 Onward transfers 
-
-The data importer shall not disclose the personal data to a third party located outside the European Union (in the same country as the data importer or in another third country, hereinafter “onward transfer”) unless the third party is or agrees to be bound by these Clauses, under the appropriate Module. Otherwise, an onward transfer by the data importer may only take place if: 
-
-(i) it is to a country benefitting from an adequacy decision pursuant to Article 45 of Regulation (EU) 2016/679 that covers the onward transfer; 
-
-(ii) the third party otherwise ensures appropriate safeguards pursuant to Articles 46 or 47 of Regulation (EU) 2016/679 with respect to the processing in question; 
-
-(iii) the third party enters into a binding instrument with the data importer ensuring the same level of data protection as under these Clauses, and the data importer provides a copy of these safeguards to the data exporter; 
-
-(iv) it is necessary for the establishment, exercise or defence of legal claims in the context of specific administrative, regulatory or judicial proceedings; 
-
-(v) it is necessary in order to protect the vital interests of the data subject or of another natural person; or 
-
-(vi) where none of the other conditions apply, the data importer has obtained the explicit consent of the data subject for an onward transfer in a specific situation, after having informed him/her of its purpose(s), the identity of the recipient and the possible risks of such transfer to him/her due to the lack of appropriate data protection safeguards. In this case, the data importer shall inform the data exporter and, at the request of the latter, shall transmit to it a copy of the information provided to the data subject. 
-
-Any onward transfer is subject to compliance by the data importer with all the other safeguards under these Clauses, in particular purpose limitation. 
-
-8.8 Processing under the authority of the data importer 
-
-The data importer shall ensure that any person acting under its authority, including a processor, processes the data only on its instructions. 
-
-8.9 Documentation and compliance 
-
-(a) Each Party shall be able to demonstrate compliance with its obligations under these Clauses. In particular, the data importer shall keep appropriate documentation of the processing activities carried out under its responsibility. 
-
-(b) The data importer shall make such documentation available to the competent supervisory authority on request. 
-
-_Clause 9_
-
-Use of sub-processors
-
-Not Applicable
-
-_Clause 10_
-
-Data subject rights
-
-(a) The data importer, where relevant with the assistance of the data exporter, shall deal with any enquiries and requests it receives from a data subject relating to the processing of his/her personal data and the exercise of his/her rights under these Clauses without undue delay and at the latest within one month of the receipt of the enquiry or request. The data importer shall take appropriate measures to facilitate such enquiries, requests and the exercise of data subject rights. Any information provided to the data subject shall be in an intelligible and easily accessible form, using clear and plain language. 
-
-(b) In particular, upon request by the data subject the data importer shall, free of charge: 
-
-(i) provide confirmation to the data subject as to whether personal data concerning him/her is being processed and, where this is the case, a copy of the data relating to him/her and the information in Annex I; if personal data has been or will be onward transferred, provide information on recipients or categories of recipients (as appropriate with a view to providing meaningful information) to which the personal data has been or will be onward transferred, the purpose of such onward transfers and their ground pursuant to Clause 8.7; and provide information on the right to lodge a complaint with a supervisory authority in accordance with Clause 12(c)(i); 
-
-(ii) rectify inaccurate or incomplete data concerning the data subject; 
-
-(iii) erase personal data concerning the data subject if such data is being or has been processed in violation of any of these Clauses ensuring third-party beneficiary rights, or if the data subject withdraws the consent on which the processing is based. 
-
-(c) Where the data importer processes the personal data for direct marketing purposes, it shall cease processing for such purposes if the data subject objects to it. 
-
-(d) The data importer shall not make a decision based solely on the automated processing of the personal data transferred (hereinafter “automated decision”), which would produce legal effects concerning the data subject or similarly significantly affect him / her, unless with the explicit consent of the data subject or if authorised to do so under the laws of the country of destination, provided that such laws lays down suitable measures to safeguard the data subject’s rights and legitimate interests. In this case, the data importer shall, where necessary in cooperation with the data exporter: 
-
-(i) inform the data subject about the envisaged automated decision, the envisaged consequences and the logic involved; and 
-
-(ii) implement suitable safeguards, at least by enabling the data subject to contest the decision, express his/her point of view and obtain review by a human being. 
-
-(e) Where requests from a data subject are excessive, in particular because of their repetitive character, the data importer may either charge a reasonable fee taking into account the administrative costs of granting the request or refuse to act on the request. 
-
-(f) The data importer may refuse a data subject’s request if such refusal is allowed under the laws of the country of destination and is necessary and proportionate in a democratic society to protect one of the objectives listed in Article 23(1) of Regulation (EU) 2016/679. 
-
-(g) If the data importer intends to refuse a data subject’s request, it shall inform the data subject of the reasons for the refusal and the possibility of lodging a complaint with the competent supervisory authority and/or seeking judicial redress. 
-
-_Clause 11_
-
-Redress
-
-(a) The data importer shall inform data subjects in a transparent and easily accessible format, through individual notice or on its website, of a contact point authorised to handle complaints. It shall deal promptly with any complaints it receives from a data subject. 
-
-(b) In case of a dispute between a data subject and one of the Parties as regards compliance with these Clauses, that Party shall use its best efforts to resolve the issue amicably in a timely fashion. The Parties shall keep each other informed about such disputes and, where appropriate, cooperate in resolving them. 
-
-(c) Where the data subject invokes a third-party beneficiary right pursuant to Clause 3, the data importer shall accept the decision of the data subject to: 
-
-(i) lodge a complaint with the supervisory authority in the Member State of his/her habitual residence or place of work, or the competent supervisory authority pursuant to Clause 13; 
-
-(ii) refer the dispute to the competent courts within the meaning of Clause 18. 
-
-(d) The Parties accept that the data subject may be represented by a not-for-profit body, organisation or association under the conditions set out in Article 80(1) of Regulation (EU) 2016/679. 
-
-(e) The data importer shall abide by a decision that is binding under the applicable EU or Member State law. 
-
-(f) The data importer agrees that the choice made by the data subject will not prejudice his/her substantive and procedural rights to seek remedies in accordance with applicable laws. 
-
-_Clause 12_
-
-Liability
-
-(a) Each Party shall be liable to the other Party/ies for any damages it causes the other Party/ies by any breach of these Clauses. 
-
-(b) Each Party shall be liable to the data subject, and the data subject shall be entitled to receive compensation, for any material or non-material damages that the Party causes the data subject by breaching the third-party beneficiary rights under these Clauses. This is without prejudice to the liability of the data exporter under Regulation (EU) 2016/679. 
-
-(c) Where more than one Party is responsible for any damage caused to the data subject as a result of a breach of these Clauses, all responsible Parties shall be jointly and severally liable and the data subject is entitled to bring an action in court against any of these Parties. 
-
-(d) The Parties agree that if one Party is held liable under paragraph (c), it shall be entitled to claim back from the other Party/ies that part of the compensation corresponding to its / their responsibility for the damage. 
-
-(e) The data importer may not invoke the conduct of a processor or sub-processor to avoid its own liability. 
-
-_Clause 13_
-
-Supervision
-
-(a) The parties agree that the supervisory authority with responsibility for ensuring compliance by the data exporter with Regulation (EU) 2016/679 as regards the data transfer shall be the Dutch Data Protection Authority (Autoriteit Persoonsgegevens), which shall act as competent supervisory authority.
-
-(b) The data importer agrees to submit itself to the jurisdiction of and cooperate with the competent supervisory authority in any procedures aimed at ensuring compliance with these Clauses. In particular, the data importer agrees to respond to enquiries, submit to audits and comply with the measures adopted by the supervisory authority, including remedial and compensatory measures. It shall provide the supervisory authority with written confirmation that the necessary actions have been taken.
-
-SECTION III – LOCAL LAWS AND OBLIGATIONS IN CASE OF ACCESS BY PUBLIC AUTHORITIES
-
-_Clause 14_
-
-Local laws and practices affecting compliance with the Clauses
-
-(a) The Parties warrant that they have no reason to believe that the laws and practices in the third country of destination applicable to the processing of the personal data by the data importer, including any requirements to disclose personal data or measures authorising access by public authorities, prevent the data importer from fulfilling its obligations under these Clauses. This is based on the understanding that laws and practices that respect the essence of the fundamental rights and freedoms and do not exceed what is necessary and proportionate in a democratic society to safeguard one of the objectives listed in Article 23(1) of Regulation (EU) 2016/679, are not in contradiction with these Clauses. 
-
-(b) The Parties declare that in providing the warranty in paragraph (a), they have taken due account in particular of the following elements: 
-
-(i) the specific circumstances of the transfer, including the length of the processing chain, the number of actors involved and the transmission channels used; intended onward transfers; the type of recipient; the purpose of processing; the categories and format of the transferred personal data; the economic sector in which the transfer occurs; the storage location of the data transferred; 
-
-(ii) the laws and practices of the third country of destination– including those requiring the disclosure of data to public authorities or authorising access by such authorities – relevant in light of the specific circumstances of the transfer, and the applicable limitations and safeguards; 
-
-(iii) any relevant contractual, technical or organisational safeguards put in place to supplement the safeguards under these Clauses, including measures applied during transmission and to the processing of the personal data in the country of destination. 
-
-(c) The data importer warrants that, in carrying out the assessment under paragraph (b), it has made its best efforts to provide the data exporter with relevant information and agrees that it will continue to cooperate with the data exporter in ensuring compliance with these Clauses. 
-
-(d) The Parties agree to document the assessment under paragraph (b) and make it available to the competent supervisory authority on request. 
-
-(e) The data importer agrees to notify the data exporter promptly if, after having agreed to these Clauses and for the duration of the contract, it has reason to believe that it is or has become subject to laws or practices not in line with the requirements under paragraph (a), including following a change in the laws of the third country or a measure (such as a disclosure request) indicating an application of such laws in practice that is not in line with the requirements in paragraph (a). 
-
-(f) Following a notification pursuant to paragraph (e), or if the data exporter otherwise has reason to believe that the data importer can no longer fulfil its obligations under these Clauses, the data exporter shall promptly identify appropriate measures (e.g. technical or organisational measures to ensure security and confidentiality) to be adopted by the data exporter and/or data importer to address the situation. The data exporter shall suspend the data transfer if it considers that no appropriate safeguards for such transfer can be ensured, or if instructed by the competent supervisory authority to do so. In this case, the data exporter shall be entitled to terminate the contract, insofar as it concerns the processing of personal data under these Clauses. If the contract involves more than two Parties, the data exporter may exercise this right to termination only with respect to the relevant Party, unless the Parties have agreed otherwise. Where the contract is terminated pursuant to this Clause, Clause 16(d) and (e) shall apply. 
-
-_Clause 15_
-
-Obligations of the data importer in case of access by public authorities
-
-15.1 Notification 
-
-(a) The data importer agrees to notify the data exporter and, where possible, the data subject promptly (if necessary with the help of the data exporter) if it: 
-
-(i) receives a legally binding request from a public authority, including judicial authorities, under the laws of the country of destination for the disclosure of personal data transferred pursuant to these Clauses; such notification shall include information about the personal data requested, the requesting authority, the legal basis for the request and the response provided; or 
-
-(ii) becomes aware of any direct access by public authorities to personal data transferred pursuant to these Clauses in accordance with the laws of the country of destination; such notification shall include all information available to the importer. 
-
-(b) If the data importer is prohibited from notifying the data exporter and/or the data subject under the laws of the country of destination, the data importer agrees to use its best efforts to obtain a waiver of the prohibition, with a view to communicating as much information as possible, as soon as possible. The data importer agrees to document its best efforts in order to be able to demonstrate them on request of the data exporter. 
-
-(c) Where permissible under the laws of the country of destination, the data importer agrees to provide the data exporter, at regular intervals for the duration of the contract, with as much relevant information as possible on the requests received (in particular, number of requests, type of data requested, requesting authority/ies, whether requests have been challenged and the outcome of such challenges, etc.). 
-
-(d) The data importer agrees to preserve the information pursuant to paragraphs (a) to (c) for the duration of the contract and make it available to the competent supervisory authority on request. 
-
-(e) Paragraphs (a) to (c) are without prejudice to the obligation of the data importer pursuant to Clause 14(e) and Clause 16 to inform the data exporter promptly where it is unable to comply with these Clauses. 
-
-15.2 Review of legality and data minimisation 
-
-(a) The data importer agrees to review the legality of the request for disclosure, in particular whether it remains within the powers granted to the requesting public authority, and to challenge the request if, after careful assessment, it concludes that there are reasonable grounds to consider that the request is unlawful under the laws of the country of destination, applicable obligations under international law and principles of international comity. The data importer shall, under the same conditions, pursue possibilities of appeal. When challenging a request, the data importer shall seek interim measures with a view to suspending the effects of the request until the competent judicial authority has decided on its merits. It shall not disclose the personal data requested until required to do so under the applicable procedural rules. These requirements are without prejudice to the obligations of the data importer under Clause 14(e). 
-
-(b) The data importer agrees to document its legal assessment and any challenge to the request for disclosure and, to the extent permissible under the laws of the country of destination, make the documentation available to the data exporter. It shall also make it available to the competent supervisory authority on request. 
-
-(c) The data importer agrees to provide the minimum amount of information permissible when responding to a request for disclosure, based on a reasonable interpretation of the request.
-
-SECTION IV – FINAL PROVISIONS
-
-_Clause 16_
-
-Non-compliance with the Clauses and termination
-
-(a) The data importer shall promptly inform the data exporter if it is unable to comply with these Clauses, for whatever reason. 
-
-(b) In the event that the data importer is in breach of these Clauses or unable to comply with these Clauses, the data exporter shall suspend the transfer of personal data to the data importer until compliance is again ensured or the contract is terminated. This is without prejudice to Clause 14(f). 
-
-(c) The data exporter shall be entitled to terminate the contract, insofar as it concerns the processing of personal data under these Clauses, where: 
-
-(i) the data exporter has suspended the transfer of personal data to the data importer pursuant to paragraph (b) and compliance with these Clauses is not restored within a reasonable time and in any event within one month of suspension; 
-
-(ii) the data importer is in substantial or persistent breach of these Clauses; or 
-
-(iii) the data importer fails to comply with a binding decision of a competent court or supervisory authority regarding its obligations under these Clauses. 
-
-In these cases, it shall inform the competent supervisory authority of such non-compliance. Where the contract involves more than two Parties, the data exporter may exercise this right to termination only with respect to the relevant Party, unless the Parties have agreed otherwise. 
-
-(d) Personal data that has been transferred prior to the termination of the contract pursuant to paragraph (c) shall at the choice of the data exporter immediately be returned to the data exporter or deleted in its entirety. The same shall apply to any copies of the data. The data importer shall certify the deletion of the data to the data exporter. Until the data is deleted or returned, the data importer shall continue to ensure compliance with these Clauses. In case of local laws applicable to the data importer that prohibit the return or deletion of the transferred personal data, the data importer warrants that it will continue to ensure compliance with these Clauses and will only process the data to the extent and for as long as required under that local law. 
-
-(e) Either Party may revoke its agreement to be bound by these Clauses where (i) the European Commission adopts a decision pursuant to Article 45(3) of Regulation (EU) 2016/679 that covers the transfer of personal data to which these Clauses apply; or (ii) Regulation (EU) 2016/679 becomes part of the legal framework of the country to which the personal data is transferred. This is without prejudice to other obligations applying to the processing in question under Regulation (EU) 2016/679. 
-
-_Clause 17_
-
-Governing law
-
-These Clauses shall be governed by the law of one of the EU Member States, provided such law allows for third-party beneficiary rights. The Parties agree that this shall be the law of the Netherlands. 
-
-_Clause 18_
-
-Choice of forum and jurisdiction
-
-(a) Any dispute arising from these Clauses shall be resolved by the courts of an EU Member State. 
-
-(b) The Parties agree that those shall be the courts of the Netherlands. 
-
-(c) A data subject may also bring legal proceedings against the data exporter and/or data importer before the courts of the Member State in which he/she has his/her habitual residence. 
-
-(d) The Parties agree to submit themselves to the jurisdiction of such courts. 
-
-**APPENDIX**
-
-For information in Annexes I and II, refer to Schedules 1 and 2 of the [Data Sharing Agreement](https://www.snap.com/terms/data-sharing-agreement).
