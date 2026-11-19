@@ -1127,44 +1127,44 @@ For general questions: [Snapchat Support](https://help.snapchat.com/hc/requests/
 
 We always love to hear from our users. But if you volunteer feedback or suggestions, just know that we can use your ideas without compensating you.
 
-الشركة
+Company
 
-*   [شركة سناب](https://www.snap.com/)
-*   [الوظائف](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [الأخبار](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [الخصوصية والسلامة](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snap Inc.](https://www.snap.com/)
+*   [Careers](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [News](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Privacy and Safety](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-المجتمع
+Community
 
-*   [دعم سناب شات](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [دعم Spectacles](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [تعليمات التواصل الاجتماعي](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snapchat Support](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Spectacles Support](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-الإعلانات
+Advertising
 
-*   [إعلانات سناب شات](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [سياسات الإعلان](https://www.snap.com/ad-policies)
-*   [مكتبة الإعلانات السياسية](https://www.snap.com/political-ads)
-*   [إرشادات العلامة التجارية](https://www.snap.com/brand-guidelines)
-*   [قواعد الترويج](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Advertising Policies](https://www.snap.com/ad-policies)
+*   [Political Ads Library](https://www.snap.com/political-ads)
+*   [Brand Guidelines](https://www.snap.com/brand-guidelines)
+*   [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-الركن القانوني
+Legal
 
-*   [شروط وسياسات أخرى](https://www.snap.com/policies)
-*   [إنفاذ القانون](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [(سياسة ملفات تعريف الارتباط (كوكيز](https://www.snap.com/cookie-policy)
-*   [إعدادات ملفات تعريف الارتباط](https://www.snap.com/cookie-settings)
-*   [إبلاغ عن انتهاك حقوق](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Other Terms & Policies](https://www.snap.com/policies)
+*   [Law Enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Cookie Policy](https://www.snap.com/cookie-policy)
+*   [Cookie Settings](https://www.snap.com/cookie-settings)
+*   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 *   [](https://www.snap.com/)
 *   [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 *   [Other Terms & Policies](https://www.snap.com/policies)
-*   [سياسة الخصوصية](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-*   [شروط الخدمة](https://www.snap.com/terms)
+*   [Privacy Policy](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Terms of Service](https://www.snap.com/terms)
 
-*   اللغة
+*   Language
     
-    العربية
+    English (US)
 
 - - -
 
