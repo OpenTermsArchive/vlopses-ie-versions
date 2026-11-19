@@ -14,6 +14,16 @@ Intellectual property
 
 Copy link
 
+What is Facebook copyright?
+
+What is Facebook trademark?
+
+How do I report copyright violations?
+
+How do I report trademark violations?
+
+I have a different question
+
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
 Copyright
@@ -1074,16 +1084,6 @@ What you should consider before submitting a report of intellectual property inf
 
 Copy link
 
-What is intellectual property?
-
-What is copyright infringement?
-
-What is trademark infringement?
-
-What is fair use?
-
-I have a different question
-
 Before you submit a report, please consider whether the content you want to report may be a permissible use of your [copyright](https://www.facebook.com/help/337995452911154?helpref=faq_content) or [trademark](https://www.facebook.com/help/719682678205946?helpref=faq_content). If you're not sure whether the content you're reporting infringes your intellectual property rights (e.g. because it may be a fair use), you may want to seek legal guidance.
 
 Please note that submitting a report of intellectual property infringement is a serious matter with potential legal consequences. Intentionally submitting misleading or otherwise fraudulent reports of copyright or trademark infringement may lead to Facebook taking action, including termination of your account.
@@ -1122,13 +1122,6 @@ Related articles
 * * *](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
 [How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1370,6 +1363,14 @@ Report a third-party app on Facebook that you think infringes your intellectual 
 ========================================================================================
 
 Copy link
+
+How do I report a third-party app?
+
+What is intellectual property infringement?
+
+How do I contact an app developer?
+
+I have a different question
 
 Some apps you may find on Facebook are created and operated by third-party developers. Meta doesn't control the content made available through these apps.
 
@@ -1623,6 +1624,16 @@ Resolve issues, make changes and get support in real time
 Copyright
 =========
 
+How do I report copyright infringement?
+
+How do I protect my copyrighted work?
+
+What is Facebook copyright policy?
+
+What are intellectual property tools?
+
+I have a different question
+
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
 Laws in different countries may vary. For more information on copyright law, you can visit the website of the [US. Copyright Office](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.copyright.gov%2F) or the [World Intellectual Property Organisation (WIPO)](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.wipo.int%2Fportal%2Fen%2Findex.html). Facebook can't provide you with legal advice, so you may want to speak with a lawyer if you have more questions about copyright.
@@ -1636,7 +1647,7 @@ How do you know if you own the copyright in a work
 
 What rights do I have as a copyright owner?
 
-How long does copyright protection last?
+About how long copyright protection lasts
 
 What's the difference between copyright and trademark?
 
@@ -1687,6 +1698,13 @@ Tools Facebook provides to protect your intellectual property
 
 What tools does Facebook provide to help me enforce my intellectual property rights in advertisements and sale posts?
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1726,7 +1744,7 @@ Related articles
 
 [What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
-[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+[About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
@@ -1742,7 +1760,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
-[How long does copyright protection last?
+[About how long copyright protection lasts
 
 * * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
@@ -1837,6 +1855,16 @@ What rights do I have as a copyright owner?
 
 Copy link
 
+What rights do I have?
+
+What is copyright infringement?
+
+How do I grant permission?
+
+How do I prevent others from using my work?
+
+I have a different question
+
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner's permission.
 
 For example, when someone uploads your photo or video, they make a copy of that photo or video. The same is true if someone uses a song in the soundtrack to a video, even if they paid for a copy of that song on another service.
@@ -1888,8 +1916,8 @@ Resolve issues, make changes and get support in real time
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
 *   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-How long does copyright protection last?
-========================================
+About how long copyright protection lasts
+=========================================
 
 Copy link
 
@@ -1901,11 +1929,11 @@ How long does copyright last?
 
 I have a different question
 
-Copyright protection doesn't last forever. Eventually, a work loses copyright protection and becomes part of the "public domain". Once a work is in the public domain, it's freely available for anyone to use.
+Copyright protection doesn't last forever. Eventually, a work loses copyright protection and becomes part of the "public domain". Once a work is in the public domain, it is freely available for anyone to use.
 
-A central purpose of copyright law is to encourage people to make creative works. For this reason, the public domain ensures that copyright owners obtain certain rights only for a limited amount of time. This balance between copyright law and the public domain gives the author an incentive to create, but also gives other people the ability to use the work without permission after the copyright has expired.
+A central purpose of copyright law is to encourage people to make creative works. For this reason, the public domain ensures that copyright owners obtain certain rights only for a limited amount of time. The balance between copyright law and the public domain gives the author an incentive to create, but also gives other people the ability to use the work without permission after the copyright expires.
 
-There are many factors that determine when a work becomes part of the public domain. Some of these factors include when and where the work was first published, the type of work and the publisher. For example, the Berne Convention – an international treaty about copyright – states that the copyright for most types of works must last at least 50 years after the author's death. Countries, however, are free to set longer copyright terms within their own laws.
+There are many factors that determine when a work becomes part of the public domain. Some of these factors include when and where the work was first published, the type of work and the publisher. For example, the Berne Convention, an international treaty about copyright, states that the copyright for most types of works must last at least 50 years after the author's death. Countries, however, are free to set longer copyright terms within their own laws.
 
 Related articles
 ----------------
@@ -1916,9 +1944,9 @@ Related articles
 
 [What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
-[Reporting Copyright Infringements](https://www.facebook.com/help/400287850027717/?helpref=related_articles)
-
 [What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+
+[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
 Related articles
 
@@ -1934,11 +1962,11 @@ Related articles
 
 * * *](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
-[Reporting Copyright Infringements
+[What are fair use and other exceptions to copyright?
 
-* * *](https://www.facebook.com/help/400287850027717/?helpref=related_articles)
+* * *](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
-[What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1956,16 +1984,6 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 ======================================================================================
 
 Copy link
-
-What is Facebook copyright law?
-
-How do I avoid Facebook copyright?
-
-What is Facebook fair use?
-
-What is Facebook public domain?
-
-I have a different question
 
 Under Facebook's [Terms of Service](https://www.facebook.com/terms.php) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook that doesn't violate someone else's intellectual property rights. The best way to help make sure that what you post to Facebook doesn't violate copyright law is to only post content that you've created yourself. It's possible to infringe someone else's copyright when you post their content on Facebook, even if you:
 
@@ -2096,7 +2114,7 @@ Related articles
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+[About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 Related articles
 
@@ -2116,7 +2134,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+[About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
