@@ -164,6 +164,7 @@ This information is published pursuant to Article 18(2) of the [European Media F
 | Pavlovin Rotat | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Poikelus – YleX | Finnish Transport and Communications Agency (Traficom) and Council for Mass Media in Finland (CMM) |
 | Puissance Télévision | ARCOM |
+| PÚBLICO | Entidade Reguladora para a Comunicação Social (ERC) |
 | RTBF Archives | Conseil Supérieur de l'Audiovisuel |
 | RTBF Info | Conseil Supérieur de l'Audiovisuel |
 | RTBF iXPé | Conseil Supérieur de l'Audiovisuel |
