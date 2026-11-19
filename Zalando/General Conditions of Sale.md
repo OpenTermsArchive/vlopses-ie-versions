@@ -318,7 +318,7 @@ Local WEEE & BATT-Reg.- PRL Nr: 3349WB
 
 Robert Gentz
 
-### **Legal Contact:**  
+### **Contact:**  
 
 Phone number: 012469596 (free to call from a fixed network)  
 Telefax: +49 (0)30 / 2759 46 93  
