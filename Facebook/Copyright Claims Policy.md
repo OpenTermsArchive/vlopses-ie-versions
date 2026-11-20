@@ -461,6 +461,14 @@ What is a counterfeit?
 
 Copy link
 
+What is a counterfeit good?
+
+How do I report counterfeit goods?
+
+What is trademark infringement?
+
+I have a different question
+
 A counterfeit good is a knock-off or replica version of another company's product. It usually copies the trademark (name or logo) and/or distinctive features of that other company's product to imitate a genuine product. The manufacture, promotion or sale of counterfeit goods is a type of trademark infringement that is illegal in most countries, and is recognised as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
 If you believe that content on Facebook is selling or promoting counterfeit goods, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/counterfeit).
@@ -476,7 +484,7 @@ Related articles
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
-[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
+[About support for substance abuse](https://www.facebook.com/help/352610594806128/?helpref=related_articles)
 
 Related articles
 
@@ -496,7 +504,14 @@ Related articles
 
 * * *](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
-[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
+[About support for substance abuse](https://www.facebook.com/help/352610594806128/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -535,9 +550,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -551,13 +566,13 @@ Related articles
 
 * * *](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?
-
-* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [What are trademarks and what they protect
 
 * * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
+
+[Does a trademark need to be registered to be protected?
+
+* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
@@ -741,7 +756,7 @@ Related articles
 
 [What to do if Facebook didn't remove content you reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[What you should consider before submitting a report of intellectual property infringement to Facebook](https://www.facebook.com/help/1703586166530507/?helpref=related_articles)
+[How to request a review of removed Facebook content](https://www.facebook.com/help/2090856331203011/?helpref=related_articles)
 
 Related articles
 
@@ -761,7 +776,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[What you should consider before submitting a report of intellectual property infringement to Facebook](https://www.facebook.com/help/1703586166530507/?helpref=related_articles)
+[How to request a review of removed Facebook content](https://www.facebook.com/help/2090856331203011/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1177,7 +1192,7 @@ Related articles
 
 [Reporting Trademark Infringements](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
 
-[Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
+[What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
 Related articles
 
@@ -1197,7 +1212,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
 
-[Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
+[What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1381,9 +1396,9 @@ If you believe that an app developer isn't following the Facebook [Terms of Serv
 Related articles
 ----------------
 
-[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
-
 [How to report an app or game on Facebook](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
+
+[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
 [What to do if someone is harassing you in an app on Facebook](https://www.facebook.com/help/219438578084704/?helpref=related_articles)
 
@@ -1393,13 +1408,13 @@ Related articles
 
 Related articles
 
-[Repeated intellectual property infringement on Facebook
-
-* * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
-
 [How to report an app or game on Facebook
 
 * * *](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
+
+[Repeated intellectual property infringement on Facebook
+
+* * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
 [What to do if someone is harassing you in an app on Facebook
 
@@ -1744,9 +1759,9 @@ Related articles
 
 [What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
-[What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
-
 [About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+
+[What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
@@ -1758,13 +1773,13 @@ Related articles
 
 * * *](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
-[What rights do I have as a copyright owner?
-
-* * *](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
-
 [About how long copyright protection lasts
 
 * * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+
+[What rights do I have as a copyright owner?
+
+* * *](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
 [Where can I learn more about copyright?
 
@@ -1814,9 +1829,9 @@ Related articles
 
 [What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
-[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
+[About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
-[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
@@ -1830,13 +1845,13 @@ Related articles
 
 * * *](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
+[About how long copyright protection lasts
+
+* * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+
 [Copyright
 
 * * *](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
-
-[Where can I learn more about copyright?
-
-* * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
@@ -1882,9 +1897,9 @@ Related articles
 
 [What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
-[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+[About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
-[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
 Related articles
 
@@ -1900,11 +1915,11 @@ Related articles
 
 * * *](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
-[Where can I learn more about copyright?
+[About how long copyright protection lasts
 
-* * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+* * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
-[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2370,7 +2385,7 @@ Related articles
 
 [What to do if Facebook didn't remove content you reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[What you should consider before submitting a report of intellectual property infringement to Facebook](https://www.facebook.com/help/1703586166530507/?helpref=related_articles)
+[How to request a review of removed Facebook content](https://www.facebook.com/help/2090856331203011/?helpref=related_articles)
 
 Related articles
 
@@ -2390,7 +2405,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[What you should consider before submitting a report of intellectual property infringement to Facebook](https://www.facebook.com/help/1703586166530507/?helpref=related_articles)
+[How to request a review of removed Facebook content](https://www.facebook.com/help/2090856331203011/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
