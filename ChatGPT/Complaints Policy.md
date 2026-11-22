@@ -286,7 +286,7 @@ To report an ad in ChatGPT:
 5.  Click **Submit**. You can submit without entering any additional details.
     
 
-![Ad options menu with Report this ad action visible](https://images.ctfassets.net/j22is2dtoxu1/4bKIXCkV26zGtn4tKzkrjY/98275c1911a442fe0f00e72ca9889694/Screenshot_2026-02-04_at_12.17.02_PM.png?q=80&fm=webp&w=832)
+![Ad options menu with Report this ad action visible](https://images.ctfassets.net/j22is2dtoxu1/4bKIXCkV26zGtn4tKzkrjY/324b0582d35ce90359ce4a1c17a2385f/Screenshot_2026-02-04_at_12.17.02_PM.png?q=80&fm=webp&w=390)
 
 ChatGPT Sites
 =============
