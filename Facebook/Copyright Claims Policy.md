@@ -14,16 +14,6 @@ Intellectual property
 
 Copy link
 
-What is Facebook copyright?
-
-What is Facebook trademark?
-
-How do I report copyright violations?
-
-How do I report trademark violations?
-
-I have a different question
-
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
 Copyright
@@ -149,11 +139,11 @@ Related articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
-
 [Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -163,17 +153,17 @@ Related articles
 
 * * *](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Trademark
-
-* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
-
 [Are there any limits to trademark rights?
 
 * * *](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[What's the difference between copyright and trademark?
+[Does a trademark need to be registered to be protected?
 
-* * *](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[Trademark
+
+* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -592,6 +582,16 @@ What's the difference between copyright and trademark?
 ======================================================
 
 Copy link
+
+What is copyright?
+
+What is trademark?
+
+How does copyright protect content?
+
+How does trademark protect brands?
+
+I have a different question
 
 The law in most countries recognises copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
@@ -1722,6 +1722,14 @@ What is copyright and what does it protect?
 
 Copy link
 
+What does copyright protect?
+
+What is an original work?
+
+What is not protected by copyright?
+
+I have a different question
+
 In most countries, copyright is a legal right that protects original works of authorship. Typically, if you create an original work, you have a copyright from the moment that you create it.
 
 Copyright covers a wide variety of types of works, including:
@@ -2476,6 +2484,14 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
+How do I report copyright?
+
+What is copyright infringement?
+
+How do I contact Facebook agent?
+
+I have a different question
+
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
 *   You can report copyright infringement to us by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
@@ -2519,6 +2535,13 @@ Related articles
 * * *](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
 [What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2678,6 +2701,14 @@ Facebook removed content as a result of my copyright report. What information is
 ============================================================================================================================
 
 Copy link
+
+What information is shared?
+
+What is a copyright report?
+
+How do I appeal content removal?
+
+I have a different question
 
 When we receive a [copyright report](https://www.facebook.com/help/325058084212425?helpref=faq_content) through our online form and remove the reported content, we regularly provide the person who posted the content with the following information:
 
