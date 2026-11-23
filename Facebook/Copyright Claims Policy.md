@@ -14,6 +14,16 @@ Intellectual property
 
 Copy link
 
+What is Facebook copyright?
+
+What is Facebook trademark?
+
+How do I report copyright violations?
+
+How do I report trademark violations?
+
+I have a different question
+
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
 Copyright
@@ -1992,16 +2002,6 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-What is Facebook copyright law?
-
-How do I avoid Facebook copyright?
-
-What is Facebook fair use?
-
-What is Facebook public domain?
-
-I have a different question
-
 Under Facebook's [Terms of Service](https://www.facebook.com/terms.php) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook that doesn't violate someone else's intellectual property rights. The best way to help make sure that what you post to Facebook doesn't violate copyright law is to only post content that you've created yourself. It's possible to infringe someone else's copyright when you post their content on Facebook, even if you:
 
 *   Bought or downloaded the content (for example, a song from iTunes)
@@ -2058,13 +2058,6 @@ Related articles
 * * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
 [Facebook removed content as a result of my copyright report. What information is sent to the person who posted that content?](https://www.facebook.com/help/297270237338088/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
