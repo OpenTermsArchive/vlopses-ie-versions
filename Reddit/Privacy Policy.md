@@ -309,3 +309,9 @@ EC4A 3TW
 [ukrepresentative@reddit.com](mailto:ukrepresentative@reddit.com)
 
 Users in Brazil may contact us at:
+
+Reddit Rede de Comunidades do Brasil Ltda  
+Rua Barão de Itapetininga, 37  
+Edifício Barão III – Sala 104  
+República 01042-916 São Paulo  
+[dpo@reddit.com](mailto:dpo@reddit.com)
