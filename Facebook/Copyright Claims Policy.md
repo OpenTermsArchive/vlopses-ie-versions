@@ -14,16 +14,6 @@ Intellectual property
 
 Copy link
 
-What is Facebook copyright?
-
-What is Facebook trademark?
-
-How do I report copyright violations?
-
-How do I report trademark violations?
-
-I have a different question
-
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
 Copyright
@@ -679,7 +669,7 @@ If you have questions about trademark law or whether your content infringes anot
 Related articles
 ----------------
 
-[How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+[How to avoid copyright infringement when you post on Facebook](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
@@ -691,7 +681,7 @@ Related articles
 
 Related articles
 
-[How can I make sure that the content I post to Facebook doesn't violate copyright law?
+[How to avoid copyright infringement when you post on Facebook
 
 * * *](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
@@ -1598,7 +1588,7 @@ Related articles
 
 [How can I make sure that the content I post to Facebook doesn't violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
-[How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+[How to avoid copyright infringement when you post on Facebook](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
 [Using your Facebook information with other products](https://www.facebook.com/help/366763385900883/?helpref=related_articles)
 
@@ -1620,7 +1610,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
-[How can I make sure that the content I post to Facebook doesn't violate copyright law?
+[How to avoid copyright infringement when you post on Facebook
 
 * * *](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
@@ -1671,7 +1661,7 @@ What's the difference between copyright and trademark?
 Copyright and posting content on Facebook
 -----------------------------------------
 
-How can I make sure that the content I post to Facebook doesn't violate copyright law?
+How to avoid copyright infringement when you post on Facebook
 
 What are fair use and other exceptions to copyright?
 
@@ -1997,10 +1987,20 @@ Resolve issues, make changes and get support in real time
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
 *   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-How can I make sure that the content I post to Facebook doesn't violate copyright law?
-======================================================================================
+How to avoid copyright infringement when you post on Facebook
+=============================================================
 
 Copy link
+
+What is Facebook copyright law?
+
+How do I avoid Facebook copyright?
+
+What is Facebook fair use?
+
+What is Facebook public domain?
+
+I have a different question
 
 Under Facebook's [Terms of Service](https://www.facebook.com/terms.php) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook that doesn't violate someone else's intellectual property rights. The best way to help make sure that what you post to Facebook doesn't violate copyright law is to only post content that you've created yourself. It's possible to infringe someone else's copyright when you post their content on Facebook, even if you:
 
@@ -2012,15 +2012,18 @@ Under Facebook's [Terms of Service](https://www.facebook.com/terms.php) and [Com
 *   Modified the work or added your own original material to it
 *   Found the content available on the Internet
 *   Saw that others posted the same content as well
-*   Think the use is a [fair use](https://www.facebook.com/help/337995452911154?helpref=search&query=fair+us&sr=1&ref=contextual)
+*   Think the use is a [fair use](https://www.facebook.com/help/337995452911154?helpref=faq_content)
 
-Questions to ask before posting content
----------------------------------------
+Copyright questions to ask before you post content on Facebook
+--------------------------------------------------------------
 
-*   Have I created all of the content myself?
+*   Did I create all of the content myself?
 *   Do I have permission to use all of the content included in my post?
 *   Does my use of the content fall within an [exception to copyright infringement](https://www.facebook.com/help/337995452911154?helpref=faq_content)?
 *   Is the content protected by copyright (for example, is it a short phrase, idea or public domain work?)
+
+Permission and copyright exceptions for content that you post on Facebook
+-------------------------------------------------------------------------
 
 It's generally a good idea to get written permission from the author of the work before posting content on Facebook. You might be able to use someone else's content on Facebook if you've received permission from them, for example by obtaining a licence. You may also be able to use someone else's content if it's in the public domain, is covered by fair use or there is another exception to copyright.
 
@@ -2029,35 +2032,42 @@ Learn more about [copyright and what copyright laws protect](https://www.faceboo
 Related articles
 ----------------
 
-[How can I make sure that the content I post to Facebook doesn't violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
-
 [Unintentional actions can still violate copyright on Facebook](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
 
-[How do I appeal the removal of content on Facebook for copyright reasons?](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
+[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
-[Facebook removed content as a result of my copyright report. What information is sent to the person who posted that content?](https://www.facebook.com/help/297270237338088/?helpref=related_articles)
+[How do I appeal the removal of content on Facebook for copyright reasons?](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
+
+[What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
 
 Related articles
-
-[How can I make sure that the content I post to Facebook doesn't violate trademark law?
-
-* * *](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
 [Unintentional actions can still violate copyright on Facebook
 
 * * *](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
 
-[How do I appeal the removal of content on Facebook for copyright reasons?
+[Repeated intellectual property infringement on Facebook
 
-* * *](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
+* * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
 [How do I report copyright infringement on Facebook?
 
 * * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
-[Facebook removed content as a result of my copyright report. What information is sent to the person who posted that content?](https://www.facebook.com/help/297270237338088/?helpref=related_articles)
+[How do I appeal the removal of content on Facebook for copyright reasons?
+
+* * *](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
+
+[What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2195,7 +2205,7 @@ Related articles
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
-[How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+[How to avoid copyright infringement when you post on Facebook](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
@@ -2209,7 +2219,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
-[How can I make sure that the content I post to Facebook doesn't violate copyright law?
+[How to avoid copyright infringement when you post on Facebook
 
 * * *](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
@@ -2883,7 +2893,7 @@ Related articles
 
 [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=related_articles)
 
-[How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+[How to avoid copyright infringement when you post on Facebook](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
 [Data scraping and what can you do to protect your information on Facebook](https://www.facebook.com/help/463983701520800/?helpref=related_articles)
 
@@ -2899,7 +2909,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/399224883474207/?helpref=related_articles)
 
-[How can I make sure that the content I post to Facebook doesn't violate copyright law?
+[How to avoid copyright infringement when you post on Facebook
 
 * * *](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
