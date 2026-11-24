@@ -14,6 +14,16 @@ Intellectual property
 
 Copy link
 
+What is Facebook copyright?
+
+What is Facebook trademark?
+
+How do I report copyright violations?
+
+How do I report trademark violations?
+
+I have a different question
+
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
 Copyright
@@ -2487,14 +2497,6 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report copyright?
-
-What is copyright infringement?
-
-How do I contact Facebook agent?
-
-I have a different question
-
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
 *   You can report copyright infringement to us by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
@@ -2538,13 +2540,6 @@ Related articles
 * * *](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
 [What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
